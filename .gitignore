@@ -1,0 +1,11 @@
+.env
+__pycache__/
+
+backend/venv/
+backend/.env
+frontend/.env
+backend/*.csv
+backend/*.json
+.vscode
+
+venv/

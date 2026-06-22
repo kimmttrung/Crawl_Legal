@@ -1,0 +1,417 @@
+{
+    "ten_luat": "Thông tư 132/2018/TT-BTC hướng dẫn Chế độ kế toán cho doanh nghiệp siêu nhỏ",
+    "so_hieu": "132/2018/TT-BTC",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Thông tư này hướng dẫn việc ghi sổ kế toán, lập và trình bày Báo cáo tài chính của doanh nghiệp siêu nhỏ. Việc xác định nghĩa vụ thuế của doanh nghiệp đối với ngân sách Nhà nước được thực hiện theo quy định của pháp luật về thuế.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối tượng áp dụng Thông tư này là các doanh nghiệp siêu nhỏ, bao gồm các doanh nghiệp siêu nhỏ nộp thuế thu nhập doanh nghiệp (thuế TNDN) theo phương pháp tính trên thu nhập tính thuế và phương pháp theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tiêu chí xác định doanh nghiệp siêu nhỏ thực hiện chế độ kế toán theo Thông tư này được thực hiện theo quy định của pháp luật về thuế.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Áp dụng chế độ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế áp dụng chế độ kế toán theo quy định tại Chương II Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ áp dụng chế độ kế toán theo quy định tại Chương III Thông tư này hoặc có thể lựa chọn áp dụng chế độ kế toán theo quy định tại Chương II Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ có thể lựa chọn áp dụng Chế độ kế toán doanh nghiệp nhỏ và vừa ban hành theo Thông tư số 133/2016/TT-BTC ngày 26/8/2016 của Bộ Tài chính cho phù hợp với đặc điểm hoạt động sản xuất kinh doanh và yêu cầu quản lý của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ phải áp dụng chế độ kế toán nhất quán trong một năm tài chính. Việc thay đổi chế độ kế toán áp dụng chỉ được thực hiện tại thời điểm đầu năm tài chính kế tiếp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Chứng từ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nội dung chứng từ kế toán, việc lập và ký chứng từ kế toán của doanh nghiệp siêu nhỏ thực hiện theo quy định tại Điều 16, Điều 17, Điều 18, Điều 19 Luật kế toán và hướng dẫn cụ thể tại Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung, hình thức hóa đơn, trình tự lập, quản lý và sử dụng hoá đơn (kể cả hóa đơn điện tử) thực hiện theo quy định của pháp luật về thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ được tự xây dựng biểu mẫu chứng từ kế toán phù hợp với đặc điểm hoạt động kinh doanh của mình, đảm bảo rõ ràng, minh bạch, dễ kiểm tra, kiểm soát (trừ hóa đơn bán hàng hóa, dịch vụ). Trường hợp doanh nghiệp siêu nhỏ không tự xây dựng được biểu mẫu chứng từ kế toán cho riêng đơn vị thì có thể áp dụng biểu mẫu và phương pháp lập chứng từ kế toán hướng dẫn tại Phụ lục 1 Thông tư này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Sổ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nội dung sổ kế toán, hệ thống sổ kế toán, việc mở sổ, ghi sổ, khóa sổ, lưu trữ sổ kế toán và sửa chữa sổ kế toán tại doanh nghiệp siêu nhỏ được thực hiện theo quy định tại Điều 24, Điều 25, Điều 26, 27 Luật kế toán và hướng dẫn cụ thể tại Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ được tự xây dựng biểu mẫu sổ kế toán phù hợp với đặc điểm hoạt động kinh doanh của mình, đảm bảo rõ ràng, minh bạch, dễ kiểm tra, kiểm soát. Trường hợp doanh nghiệp siêu nhỏ không tự xây dựng được biểu mẫu sổ kế toán cho riêng đơn vị mình thì được áp dụng biểu mẫu và phương pháp ghi chép sổ kế toán hướng dẫn tại Thông tư này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Đơn vị tiền tệ sử dụng trong kế toán",
+                    "noi_dung_chung": "Doanh nghiệp siêu nhỏ áp dụng quy định về đơn vị tính sử dụng trong kế toán theo quy định tại Điều 10 Luật kế toán và Điều 4 Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán .",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Quy định về lưu trữ, bảo quản tài liệu kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chứng từ kế toán, sổ kế toán và các tài liệu kế toán khác phải lưu giữ tại doanh nghiệp để phục vụ cho ghi chép hàng ngày; xác định nghĩa vụ thuế của doanh nghiệp siêu nhỏ với ngân sách nhà nước và công tác kiểm tra, kiểm soát của chủ sở hữu doanh nghiệp, của cơ quan thuế hoặc các cơ quan nhà nước có thẩm quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc bảo quản, lưu trữ tài liệu kế toán của doanh nghiệp siêu nhỏ thực hiện theo quy định tại Luật kế toán và Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ được lưu trữ chứng từ kế toán, sổ kế toán và các tài liệu kế toán khác trên phương tiện điện tử theo quy định của Luật kế toán .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Tổ chức bộ máy kế toán và người làm kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các doanh nghiệp siêu nhỏ được bố trí phụ trách kế toán mà không bắt buộc phải bố trí kế toán trưởng. Các doanh nghiệp siêu nhỏ nộp thuế TNDN theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ có thể tự tổ chức thực hiện công tác kế toán theo quy định tại Chương III Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc bố trí người làm kế toán của doanh nghiệp siêu nhỏ phải đảm bảo không vi phạm quy định tại Điều 19 Nghị định số 174/2016/NĐ-CP ngày 30/12/2016 của Chính phủ quy định chi tiết một số điều của Luật kế toán .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các doanh nghiệp siêu nhỏ được ký hợp đồng với đơn vị kinh doanh dịch vụ kế toán để thuê dịch vụ làm kế toán hoặc dịch vụ làm kế toán trưởng theo quy định của pháp luật. Danh sách đơn vị đủ điều kiện kinh doanh dịch vụ kế toán được công bố và cập nhật định kỳ trên Cổng thông tin điện tử của Bộ Tài chính.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "KẾ TOÁN TẠI DOANH NGHIỆP SIÊU NHỎ NỘP THUẾ TNDN THEO PHƯƠNG PHÁP TÍNH TRÊN THU NHẬP TÍNH THUẾ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Chứng từ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế áp dụng các chứng từ kế toán theo danh mục sau đây: STT Tên chứng từ Ký hiệu Các chứng từ quy định tại Thông tư này Phiếu thu tiền mặt Mẫu số 01-TT Phiếu chi tiền mặt Mẫu số 02-TT Phiếu nhập kho Mẫu số 01-VT Phiếu xuất kho Mẫu số 02-VT Biên bản giao nhận tài sản cố định Mẫu số 01-TSCĐ Bảng thanh toán tiền lương và các khoản thu nhập của người lao động Mẫu số 01-LĐTL Các chứng từ quy định theo pháp luật khác Hóa đơn GTGT hoặc hóa đơn bán hàng Giấy nộp thuế vào NSNN Giấy báo Nợ của ngân hàng",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Biểu mẫu chứng từ kế toán, nội dung và phương pháp lập các chứng từ kế toán tại khoản 1 Điều này được hướng dẫn tại Phụ lục 1 \"Biểu mẫu và phương pháp lập chứng từ kế toán\" ban hành kèm theo Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngoài các chứng từ kế toán hướng dẫn tại khoản 1 Điều này, doanh nghiệp siêu nhỏ có thể lựa chọn áp dụng chứng từ kế toán tại Thông tư số 133/2016/TT-BTC của Bộ Tài chính ngày 26/8/2016 hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa để đáp ứng yêu cầu quản lý hoạt động sản xuất kinh doanh của doanh nghiệp. MỤC 2. TÀI KHOẢN KẾ TOÁN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Tài khoản kế toán",
+                    "noi_dung_chung": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế áp dụng danh mục tài khoản kế toán, nội dung, kết cấu, nguyên tắc kế toán, phương pháp hạch toán kế toán một số nghiệp vụ kinh tế chủ yếu hướng dẫn tại Phụ lục 2 “Hệ thống tài khoản kế toán” ban hành kèm theo Thông tư này để ghi chép, phản ánh các nghiệp vụ kinh tế phát sinh theo từng nội dung kinh tế. MỤC 3. SỔ KẾ TOÁN",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Sổ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế áp dụng các sổ kế toán theo danh mục sau đây: STT Tên sổ kế toán Ký hiệu Sổ kế toán tổng hợp Sổ Nhật ký sổ cái Mẫu số S01- DNSN Sổ kế toán chi tiết Sổ chi tiết vật liệu, dụng cụ, sản phẩm, hàng hóa Mẫu số S02-DNSN Sổ tài sản cố định Mẫu số S03-DNSN Sổ chi tiết thanh toán với người mua, người bán Mẫu số S04-DNSN Sổ chi tiết thanh toán các khoản nợ phải trả Mẫu số S05-DNSN Sổ chi tiết doanh thu bán hàng và cung cấp dịch vụ (áp dụng cho doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp khấu trừ thuế) Mẫu số S06a-DNSN Sổ chi tiết doanh thu bán hàng và cung cấp dịch vụ (áp dụng cho doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp trực tiếp) Mẫu số S06b-DNSN Sổ chi phí sản xuất, kinh doanh Mẫu số S07-DNSN Sổ theo dõi thuế GTGT được khấu trừ Mẫu số S08-DNSN Sổ chi tiết thuế GTGT đầu ra Mẫu số S09-DNSN Sổ tiền gửi ngân hàng Mẫu số S10-DNSN",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Biểu mẫu sổ kế toán, nội dung và phương pháp ghi sổ kế toán tại khoản 1 Điều này được hướng dẫn tại Phụ lục 3 \"Biểu mẫu sổ kế toán và phương pháp ghi sổ kế toán\" ban hành kèm theo Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngoài các sổ kế toán hướng dẫn tại khoản 1 Điều này, doanh nghiệp siêu nhỏ có thể lựa chọn áp dụng thêm các sổ kế toán chi tiết hoặc các hình thức sổ kế toán tổng hợp khác tại Thông tư số 133/2016/TT-BTC của Bộ Tài chính ngày 26/8/2016 hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa cho phù hợp với yêu cầu quản lý hoạt động sản xuất kinh doanh của doanh nghiệp cũng như nghĩa vụ thuế với NSNN. MỤC 4. BÁO CÁO TÀI CHÍNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Mục đích của báo cáo tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo tài chính dùng để cung cấp thông tin về tình hình tài chính, tình hình kinh doanh của doanh nghiệp siêu nhỏ, đáp ứng yêu cầu quản lý của chủ doanh nghiệp, cơ quan Nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tài chính cung cấp những thông tin của doanh nghiệp siêu nhỏ về các nội dung sau: - Tình hình Tài sản; - Nợ phải trả; - Vốn chủ sở hữu; - Các khoản doanh thu và thu nhập; - Các khoản chi phí; - Lãi, lỗ và phân chia kết quả kinh doanh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Hệ thống báo cáo tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hàng năm, các doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp theo thu nhập tính thuế phải lập các báo cáo tài chính và phụ biểu báo cáo tài chính theo danh mục sau đây: STT Tên báo cáo tài chính Ký hiệu Báo cáo tài chính Báo cáo tình hình tài chính Mẫu số B01 - DNSN Báo cáo kết quả hoạt động kinh doanh Mẫu số B02 - DNSN Phụ biểu báo cáo tài chính Bảng cân đối tài khoản Mẫu số F01- DNSN Báo cáo tình hình thực hiện nghĩa vụ với NSNN Mẫu số F02- DNSN",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Biểu mẫu, nội dung và phương pháp lập báo cáo tài chính và các phụ biểu báo cáo tài chính tại khoản 1 Điều này được hướng dẫn tại Phụ lục 5 “Biểu mẫu báo cáo tài chính và phương pháp lập báo cáo tài chính” ban hành kèm theo Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngoài các báo cáo tài chính quy định tại khoản 1 Điều này, doanh nghiệp siêu nhỏ có thể lựa chọn áp dụng báo cáo tài chính quy định tại Thông tư số 133/2016/TT-BTC của Bộ Tài chính ngày 26/8/2016 để phục vụ công tác quản lý hoạt động sản xuất kinh doanh của doanh nghiệp cũng như xác định nghĩa vụ thuế với ngân sách nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Trách nhiệm, thời hạn lập và gửi báo cáo tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hàng năm, các doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế phải lập báo cáo tài chính và các phụ biểu báo cáo tài chính theo quy định tại khoản 1 Điều 13 Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tài chính và các phụ biểu báo cáo tài chính của doanh nghiệp siêu nhỏ phải được gửi cho cơ quan thuế quản lý trực tiếp doanh nghiệp và cơ quan đăng ký kinh doanh chậm nhất là 90 ngày kể từ ngày kết thúc năm tài chính đồng thời phải được bảo quản, lưu trữ tại doanh nghiệp theo quy định của pháp luật kế toán để phục vụ cho việc kiểm tra, thanh tra theo yêu cầu của các cơ quan có thẩm quyền.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "KẾ TOÁN TẠI DOANH NGHIỆP SIÊU NHỎ NỘP THUẾ TNDN THEO TỶ LỆ % TRÊN DOANH THU BÁN HÀNG HÓA, DỊCH VỤ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Chứng từ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ áp dụng chứng từ kế toán theo danh mục sau: STT Tên chứng từ Ký hiệu Các chứng từ quy định tại Thông tư này Phiếu thu tiền mặt Mẫu số 01-TT Phiếu chi tiền mặt Mẫu số 02-TT Phiếu nhập kho Mẫu số 01-VT Phiếu xuất kho Mẫu số 02-VT Bảng thanh toán tiền lương và các khoản thu nhập của người lao động Mẫu số 01-LĐTL Các chứng từ quy định theo pháp luật thuế Hóa đơn GTGT hoặc hóa đơn bán hàng Giấy nộp thuế vào NSNN Giấy báo Nợ của ngân hàng",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Biểu mẫu, nội dung và phương pháp lập các chứng từ kế toán tại khoản 1 Điều này được hướng dẫn tại Phụ lục 1 \"Biểu mẫu và phương pháp lập chứng từ kế toán\" ban hành kèm theo Thông tư này. Ngoài các chứng từ kế toán tại khoản 1 Điều này, doanh nghiệp siêu nhỏ có thể lựa chọn áp dụng chứng từ kế toán tại khoản 1 Điều 9 Thông tư này hoặc Thông tư số 133/2016/TT-BTC của Bộ Tài chính ngày 26/8/2016 để phục vụ yêu cầu quản lý hoạt động sản xuất kinh doanh của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hóa đơn bán hàng hóa, dịch vụ - Hóa đơn bán hàng hóa, dịch vụ là chứng từ kế toán phản ánh nghiệp vụ bán hàng hóa, dịch vụ đã hoàn thành. Hóa đơn bán hàng hóa, dịch vụ có thể là hóa đơn GTGT hoặc hóa đơn bán hàng tùy theo quy định của pháp luật thuế đối với từng phương pháp nộp thuế GTGT của doanh nghiệp siêu nhỏ, trong đó: + Trường hợp doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp khấu trừ thì hóa đơn bán hàng hóa, dịch vụ phát hành cho khách hàng là hóa đơn GTGT. + Trường hợp doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp trực tiếp thì hóa đơn bán hàng hóa, dịch vụ phát hành cho khách hàng là hóa đơn bán hàng. - Hóa đơn bán hàng hóa, dịch vụ mà doanh nghiệp siêu nhỏ phát hành cho khách hàng khi bán hàng hóa, dịch vụ làm cơ sở để xác định nghĩa vụ thuế TNDN của doanh nghiệp siêu nhỏ với ngân sách nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chứng từ thanh toán tiền lương và các khoản thu nhập cho người lao động là cơ sở để xác định nghĩa vụ thuế thu nhập cá nhân của người lao động trong doanh nghiệp siêu nhỏ với ngân sách nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chứng từ nộp thuế vào NSNN làm căn cứ để đánh giá tình hình thực hiện nghĩa vụ nộp thuế của doanh nghiệp siêu nhỏ với ngân sách nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Phương pháp kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ nếu không có nhu cầu thì không bắt buộc phải mở các tài khoản kế toán mà chỉ ghi đơn trên sổ kế toán (chỉ ghi chép nghiệp vụ kinh tế phát sinh vào khoản mục cần theo dõi mà không cần phản ánh các tài khoản đối ứng) để theo dõi các khoản doanh thu và thu nhập, các khoản thuế phải nộp nhà nước, các khoản tiền lương và các khoản trích theo lương,... phục vụ cho việc xác định nghĩa vụ thuế của doanh nghiệp với ngân sách nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ có nhu cầu áp dụng các tài khoản kế toán như các doanh nghiệp nộp thuế TNDN theo phương pháp tính trên thu nhập tính thuế để phục vụ yêu cầu quản lý hoạt động sản xuất kinh doanh của đơn vị thì được vận dụng các quy định tại chương II Thông tư này để thực hiện.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Sổ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ phải mở các sổ kế toán để theo dõi các khoản doanh thu và các khoản thu nhập, các khoản thuế phải nộp nhà nước, các khoản tiền lương và các khoản trích theo lương,... phục vụ cho việc xác định nghĩa vụ thuế của doanh nghiệp với ngân sách nhà nước theo danh mục sau đây: STT Tên sổ kế toán Ký hiệu Sổ chi tiết doanh thu bán hàng hóa, dịch vụ Mẫu số S1-DNSN Sổ theo dõi tình hình thanh toán tiền lương và các khoản nộp theo lương của người lao động Mẫu số S2-DNSN Sổ chi tiết vật liệu, dụng cụ, sản phẩm, hàng hóa Mẫu số S3-DNSN Sổ theo dõi tình hình thực hiện nghĩa vụ thuế với NSNN Mẫu số S4-DNSN",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Biểu mẫu sổ kế toán, nội dung và phương pháp ghi sổ kế toán tại khoản 1 Điều này được hướng dẫn tại Phụ lục 4 \"Biểu mẫu sổ kế toán và phương pháp ghi sổ kế toán\" ban hành kèm theo Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngoài các sổ kế toán hướng dẫn tại khoản 1 Điều này, doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ có thể lựa chọn áp dụng thêm các sổ kế toán chi tiết hoặc các hình thức sổ kế toán tổng hợp khác tại Thông tư số 133/2016/TT-BTC của Bộ Tài chính ngày 26/8/2016 hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa cho phù hợp với yêu cầu quản lý hoạt động sản xuất kinh doanh của doanh nghiệp cũng như nghĩa vụ thuế với NSNN.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Báo cáo tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ không bắt buộc phải lập báo cáo tài chính để nộp cho cơ quan thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ thực hiện các báo cáo theo quy định của pháp luật thuế. Thời gian lập và nộp báo cáo thực hiện theo quy định của pháp luật thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngoài báo cáo theo quy định của pháp luật về thuế, căn cứ vào các thông tin về doanh thu bán hàng và cung cấp dịch vụ, tiền lương và các khoản nộp theo lương,... các doanh nghiệp siêu nhỏ có thể lập các báo cáo kế toán phục vụ cho quản trị, điều hành doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp siêu nhỏ nộp thuế TNDN tính theo tỷ lệ % trên doanh thu bán hàng hóa, dịch vụ nếu lựa chọn áp dụng chế độ kế toán quy định tại Chương II Thông tư này để phục vụ cho nhu cầu quản lý hoạt động sản xuất kinh doanh của doanh nghiệp thì vẫn lập báo cáo tài chính theo quy định. Báo cáo tài chính được lập không phải nộp cho cơ quan thuế mà được bảo quản, lưu trữ theo quy định và sử dụng tại doanh nghiệp để phục vụ cho việc thanh tra, kiểm tra khi có yêu cầu của cơ quan nhà nước có thẩm quyền.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "TỔ CHỨC THỰC HIỆN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Chuyển số dư trên sổ kế toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với các doanh nghiệp siêu nhỏ đang áp dụng Thông tư số 133/2016/TT-BTC nếu chuyển sang áp dụng chế độ kế toán theo quy định tại Chương II Thông tư này thực hiện chuyển số dư các tài khoản kế toán như sau: - Số dư TK 112 - Tiền gửi ngân hàng và số dư TK 1281 - Tiền gửi có kỳ hạn được chuyển sang TK 111 - Tiền. - Số dư các TK 1331 - Thuế GTGT được khấu trừ của hàng hóa, dịch vụ, TK 1332 - Thuế GTGT được khấu trừ của TSCĐ được chuyển sang TK 1313- Thuế GTGT được khấu trừ; - Số dư các TK 136 - Phải thu nội bộ, TK 138- Phải thu khác, TK 141- Tạm ứng được chuyển sang TK 1318- Các khoản nợ phải thu khác; - Số dư các TK 152 - Nguyên vật liệu, TK 153 - Công cụ, dụng cụ được chuyển sang TK 1521- Nguyên vật liệu, dụng cụ; - Số dư TK 154 - Chi phí sản xuất, kinh doanh dở dang được chuyển sang TK 1524- Chi phí sản xuất kinh doanh dở dang; - Số dư các TK 155 - Thành phẩm, TK 156 - Hàng hóa và TK 157- Hàng gửi đi bán được chuyển sang TK 1526- Thành phẩm, hàng hóa trong đó có chi tiết theo yêu cầu quản lý; - Số dư Nợ TK 211 - Tài sản cố định sau khi trừ số dư Có TK 214 - Hao mòn tài sản cố định được chuyển sang dư Nợ TK 211 - Tài sản cố định; - Số dư TK 334 - Phải trả người lao động được chuyển sang TK 3311- Phải trả người lao động - Số dư các TK 3382 – Kinh phí công đoàn, TK 3383 - Bảo hiểm xã hội, TK 3384 - Bảo hiểm y tế, TK 3385 - Bảo hiểm thất nghiệp được chuyển sang TK 3312- Các khoản trích theo lương; - Số dư các TK 331 - Phải trả người bán, TK 335 - Chi phí phải trả, TK 336 - Phải trả nội bộ, TK 3381 - Phải trả, phải nộp khác, TK 3386 - Nhận ký quỹ, ký cược, TK 3387- Doanh thu chưa thực hiện, TK 3388 - Phải trả, phải nộp khác, TK 3411 - Các khoản đi vay và TK 3412 - Nợ thuê tài chính được chuyển sang TK 3318 - Các khoản nợ phải trả khác; - Số dư các TK 33311 - Thuế GTGT đầu ra, TK 33312 - Thuế GTGT hàng nhập khẩu được chuyển sang TK 33131- Thuế GTGT phải nộp; - Số dư các TK 3332- Thuế tiêu thụ đặc biệt, TK 3333- Thuế xuất, nhập khẩu, TK 3335- Thuế thu nhập cá nhân, TK 3336- Thuế tài nguyên, TK 3337- Thuế nhà đất, tiền thuê đất, TK 33381- Thuế bảo vệ môi trường, TK 33382- Các loại thuế khác, TK 3339- Phí, lệ phí và các khoản phải nộp khác được chuyển sang TK 33138- Thuế khác, phí, lệ phí và các khoản khác phải nộp nhà nước; - Số dư TK 4211- Lợi nhuận sau thuế chưa phân phối năm trước, TK 4212- Lợi nhuận sau thuế chưa phân phối năm nay được chuyển sang TK 4118- Lợi nhuận sau thuế chưa phân phối.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các nội dung khác đang phản ánh chi tiết trên các tài khoản có liên quan nếu trái so với Thông tư này thì phải điều chỉnh lại theo quy định của Thông tư này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thông tư này có hiệu lực thi hành kể từ ngày 15/02/2019, áp dụng cho năm tài chính bắt đầu hoặc sau ngày 01/4/2019.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp các văn bản quy phạm pháp luật dẫn chiếu tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản quy phạm pháp luật đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các Bộ, ngành, Uỷ ban Nhân dân, Sở Tài chính, Cục Thuế các Tỉnh, Thành phố trực thuộc Trung ương có trách nhiệm triển khai hướng dẫn các doanh nghiệp siêu nhỏ thực hiện Thông tư này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh về Bộ Tài chính để nghiên cứu giải quyết./. Nơi nhận: - Văn phòng Chính phủ; - Văn phòng TW và các ban của Đảng; - Văn phòng Tổng bí thư; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Viện Kiểm sát Nhân dân tối cao; - Toà án Nhân dân tối cao; - Kiểm toán Nhà nước; - Phòng Thương mại và Công nghiệp Việt Nam; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND các tỉnh, thành phố trực thuộc TW; - Sở Tài chính, Cục Thuế các tỉnh, thành phố trực thuộc TW; - Hiệp hội doanh nghiệp nhỏ và vừa Việt Nam; - Liên Minh Hợp tác xã Việt Nam; - Các đơn vị thuộc Bộ Tài chính; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Vụ Pháp chế (Bộ Tài chính); - Website Bộ Tài chính; - Công báo; - Lưu: VT, Cục QLKT. KT. BỘ TRƯỞNG THỨ TRƯỞNG Đỗ Hoàng Anh Tuấn FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Mẫu sổ chi tiết thanh toán với người mua người bán của doanh nghiệp siêu nhỏ Mẫu phiếu chi tiền mặt của doanh nghiệp siêu nhỏ Chính sách mới có hiệu lực từ giữa tháng 02/2019 Mẫu bảng thanh toán tiền lương và các khoản thu nhập của người lao động của doanh nghiệp siêu nhỏ Mẫu sổ chi phí sản xuất kinh doanh của doanh nghiệp siêu nhỏ Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Thông tư 132/2018/TT-BTC hướng dẫn Chế độ kế toán cho doanh nghiệp siêu nhỏ do Bộ trưởng Bộ Tài chính ban hành Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Mẫu sổ chi tiết thanh toán với người mua người bán của doanh nghiệp siêu nhỏ Mẫu phiếu chi tiền mặt của doanh nghiệp siêu nhỏ Chính sách mới có hiệu lực từ giữa tháng 02/2019 Mẫu bảng thanh toán tiền lương và các khoản thu nhập của người lao động của doanh nghiệp siêu nhỏ Mẫu sổ chi phí sản xuất kinh doanh của doanh nghiệp siêu nhỏ Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Mẫu sổ chi tiết thanh toán với người mua người bán của doanh nghiệp siêu nhỏ Mẫu phiếu chi tiền mặt của doanh nghiệp siêu nhỏ Chính sách mới có hiệu lực từ giữa tháng 02/2019 Mẫu bảng thanh toán tiền lương và các khoản thu nhập của người lao động của doanh nghiệp siêu nhỏ Mẫu sổ chi phí sản xuất kinh doanh của doanh nghiệp siêu nhỏ Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Thông tư 132/2018/TT-BTC hướng dẫn Chế độ kế toán cho doanh nghiệp siêu nhỏ do Bộ trưởng Bộ Tài chính ban hành MỤC LỤC VĂN BẢN In mục lục In mục lục MINISTRY OF FINANCE -------- SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness --------------- No. 132/2018/TT-BTC Hanoi, December 28, 2018 CIRCULAR PROVIDING GUIDANCE ON ACCOUNTING REGIMES OF EXTRA-SMALL ENTERPRISES",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

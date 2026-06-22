@@ -1,0 +1,2567 @@
+{
+    "ten_luat": "Nghị định 39/2019/NĐ-CP tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa",
+    "so_hieu": "39/2019/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này hướng dẫn chi tiết thi hành Điều 20 Luật Hỗ trợ doanh nghiệp nhỏ và vừa về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa (sau đây gọi tắt là Quỹ).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghị định này áp dụng đối với Quỹ Phát triển doanh nghiệp nhỏ và vừa, các doanh nghiệp nhỏ và vừa và các tổ chức, cá nhân có liên quan đến hoạt động hỗ trợ doanh nghiệp nhỏ và vừa.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Địa vị pháp lý, tư cách pháp nhân của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ Phát triển doanh nghiệp nhỏ và vừa là quỹ tài chính nhà nước ngoài ngân sách, hoạt động không vì mục tiêu lợi nhuận, do Thủ tướng Chính phủ thành lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ hoạt động theo mô hình Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ có tư cách pháp nhân, có vốn điều lệ, có báo cáo tài chính riêng, có con dấu, được mở tài khoản tại Kho bạc Nhà nước và các ngân hàng thương mại hoạt động hợp pháp tại Việt Nam theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Kế hoạch và Đầu tư là cơ quan đại diện chủ sở hữu Nhà nước, thực hiện quyền và nghĩa vụ của đại diện chủ sở hữu Nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trụ sở chính của Quỹ đặt tại thành phố Hà Nội.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Nguyên tắc, mục tiêu hoạt động của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nguyên tắc hoạt động",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ hoạt động theo nguyên tắc tự chủ về tài chính, bảo đảm an toàn vốn;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quỹ chịu trách nhiệm hữu hạn trong phạm vi vốn chủ sở hữu của mình;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quỹ hỗ trợ đúng đối tượng và đủ điều kiện theo quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Mục tiêu hoạt động",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nâng cao khả năng cạnh tranh của doanh nghiệp nhỏ và vừa, góp phần làm tăng thu nhập, tạo việc làm cho người lao động;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tạo nguồn vốn hỗ trợ, phát triển doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nâng cao hiệu quả quản lý vốn nhà nước hỗ trợ doanh nghiệp nhỏ và vừa."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "“Người quản lý của Quỹ” là người giữ chức danh, chức vụ Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên, Kiểm soát viên, Giám đốc, Phó Giám đốc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "“Người lao động của Quỹ” là người lao động được tuyển dụng để làm việc tại Quỹ theo quy định pháp luật về lao động nhưng không giữ các chức danh, chức vụ quy định tại khoản 1 Điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "“Cho vay trực tiếp” là việc Quỹ trực tiếp thực hiện cho vay đối với doanh nghiệp nhỏ và vừa.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "“Cho vay gián tiếp” là việc Quỹ thực hiện cho vay đối với doanh nghiệp nhỏ và vừa thông qua giao vốn cho ngân hàng thương mại được thành lập và hoạt động theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "“Tài trợ” là việc Quỹ tài trợ vốn và thực hiện các hoạt động hỗ trợ tăng cường năng lực cho doanh nghiệp nhỏ và vừa.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "“Tỷ lệ chấp nhận rủi ro” là tỷ lệ rủi ro cao nhất trong năm tài chính mà Quỹ được chấp nhận khi tổn thất xảy ra. Tỷ lệ chấp nhận rủi ro được đo bằng giá trị tổn thất làm giảm vốn điều lệ chia cho vốn điều lệ thực có của Quỹ tại thời điểm xác định tỷ lệ chấp nhận rủi ro.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhiệm vụ của Quỹ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hỗ trợ doanh nghiệp nhỏ và vừa theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiếp nhận, quản lý và sử dụng vốn đúng quy định;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thực hiện chế độ báo cáo, kế toán theo quy định tại Nghị định này và quy định pháp luật có liên quan;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chịu sự thanh tra, kiểm tra, kiểm toán của các cơ quan quản lý nhà nước có thẩm quyền theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Mua bảo hiểm tài sản và các loại bảo hiểm khác theo quy định của pháp luật để bảo đảm an toàn cho Quỹ;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Cung cấp số liệu, công bố công khai về quy chế hoạt động, cơ chế tài chính, kết quả hoạt động của Quỹ và báo cáo tài chính hàng năm đã được kiểm toán theo quy định tại Nghị định này và quy định của pháp luật có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quyền hạn của Quỹ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức và hoạt động theo đúng nguyên tắc và mục tiêu hoạt động của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Được tuyển chọn, bố trí, sử dụng, đào tạo lao động và sử dụng lao động theo quy định tại Nghị định này và các quy định của pháp luật có liên quan;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kiểm tra, giám sát định kỳ và đột xuất việc sử dụng nguồn vốn của Quỹ; thu hồi vốn hỗ trợ đối với tổ chức vi phạm các điều kiện, cam kết đã ký với Quỹ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Được thuê các tổ chức, chuyên gia, nhà khoa học để hỗ trợ hoạt động của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Được thực hiện hoặc sử dụng dịch vụ tư vấn, đánh giá năng lực quản trị, tài chính, công nghệ, xếp hạng tín nhiệm đối với doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Được yêu cầu doanh nghiệp trả chi phí khi tham gia các hoạt động hỗ trợ của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Được tổ chức hội thảo, truyền thông, đào tạo, tư vấn, xúc tiến đầu tư, thương mại, cung cấp thông tin, cơ sở dữ liệu, hỗ trợ nghiên cứu và phát triển, đầu tư, thành lập cơ sở ươm tạo, cơ sở kỹ thuật, khu làm việc chung và các hoạt động hỗ trợ khác theo quy định tại Nghị định này phù hợp quy định của Luật Hỗ trợ doanh nghiệp nhỏ và vừa ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Cơ cấu tổ chức quản lý của Quỹ",
+                    "noi_dung_chung": "Cơ cấu tổ chức quản lý của của Quỹ gồm có:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng thành viên;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kiểm soát viên;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Giám đốc và bộ máy giúp việc.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Hội đồng thành viên",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng thành viên nhân danh Quỹ thực hiện các quyền và nghĩa vụ của Quỹ theo quy định tại Nghị định này và quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng thành viên bao gồm Chủ tịch và 02 thành viên. Chủ tịch và các thành viên làm việc theo chế độ chuyên trách, do Bộ trưởng Bộ Kế hoạch và Đầu tư bổ nhiệm, miễn nhiệm, cách chức, khen thưởng, kỷ luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ tịch và các thành viên Hội đồng thành viên có nhiệm kỳ làm việc 05 năm và có thể được bổ nhiệm lại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng thành viên có các quyền và nghĩa vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quyết định chiến lược, kế hoạch hoạt động 05 năm, hằng năm của Quỹ sau khi có ý kiến chấp thuận của Bộ Kế hoạch và Đầu tư;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ban hành quy chế hoạt động của Quỹ phù hợp với quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quyết định phương án quản lý vốn đầu tư, xây dựng; mua, bán, quản lý, sử dụng tài sản thuộc thẩm quyền theo quy định pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Quyết định phê duyệt Báo cáo tài chính, phân phối lợi nhuận, trích lập các quỹ hàng năm và định mức sử dụng các quỹ sau khi có ý kiến thẩm định của Kiểm soát viên và ý kiến chấp thuận của Bộ Kế hoạch và Đầu tư;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Quyết định quy hoạch, bổ nhiệm, miễn nhiệm, tuyển dụng, đánh giá, khen thưởng, kỷ luật, trả lương, thưởng và các chế độ, chính sách đối với các chức danh thuộc thẩm quyền quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Quyết định thành lập, tổ chức lại, giải thể chi nhánh, văn phòng đại diện và các đơn vị hạch toán phụ thuộc sau khi có ý kiến chấp thuận của Bộ Kế hoạch và Đầu tư;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Quyết định thành lập, tổ chức lại, giải thể các đơn vị chuyên môn, nghiệp vụ;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Quyết định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị chuyên môn, nghiệp vụ, chi nhánh, văn phòng đại diện và các đơn vị hạch toán phụ thuộc."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện bổ nhiệm Chủ tịch, các thành viên Hội đồng thành viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ tịch Hội đồng thành viên phải có trình độ đại học trở lên, có kinh nghiệm ít nhất 05 năm là người quản lý, điều hành trong các lĩnh vực về kinh tế, tài chính, ngân hàng, quản trị kinh doanh, luật, kế toán, kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các thành viên Hội đồng thành viên phải có trình độ đại học trở lên, có kinh nghiệm là người quản lý, điều hành trong các lĩnh vực về kinh tế, tài chính, ngân hàng, quản trị kinh doanh, luật, kế toán, kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh chị em ruột, anh rể, em rể, chị dâu, em dâu của người quản lý Quỹ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Không đồng thời là cán bộ, công chức trong cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội hoặc không phải là người quản lý, điều hành tại doanh nghiệp khác;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Chưa từng bị cách chức Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên hoặc Chủ tịch công ty, Giám đốc, Phó Giám đốc hoặc Tổng giám đốc, Phó Tổng giám đốc của doanh nghiệp nhà nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quyền và nghĩa vụ của các thành viên Hội đồng thành viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tham dự họp thảo luận, kiến nghị, biểu quyết các vấn đề thuộc thẩm quyền của Hội đồng thành viên;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện các nhiệm vụ, công việc do Chủ tịch Hội đồng thành viên phân công theo thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kiểm tra, xem xét tình hình hoạt động của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện các quyền và nghĩa vụ khác theo quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Trách nhiệm của Chủ tịch và các thành viên Hội đồng thành viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tuân thủ pháp luật, quy định tại Nghị định này, quyết định của Bộ Kế hoạch và Đầu tư;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chấp hành các nghị quyết của Hội đồng thành viên;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chịu trách nhiệm cá nhân khi lợi dụng danh nghĩa Quỹ thực hiện hành vi vi phạm pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trường hợp phát hiện thành viên Hội đồng thành viên có hành vi vi phạm nghĩa vụ trong thực hiện quyền và nghĩa vụ được giao thì thành viên khác của Hội đồng thành viên có nghĩa vụ báo cáo bằng văn bản với Bộ Kế hoạch và Đầu tư."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Chi phí hoạt động của Hội đồng thành viên Chi phí hoạt động của Hội đồng thành viên được tính vào chi phí quản lý của Quỹ. Giám đốc bảo đảm các điều kiện và phương tiện cần thiết cho hoạt động của Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Chế độ làm việc, điều kiện và thể thức tiến hành họp Hội đồng thành viên theo quy định của pháp luật đối với Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Chủ tịch Hội đồng thành viên",
+                    "noi_dung_chung": "Chủ tịch Hội đồng thành viên là người đại diện theo pháp luật của Quỹ. Chủ tịch Hội đồng thành viên có quyền và nghĩa vụ sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thay mặt Hội đồng thành viên ký nhận vốn, các nguồn lực khác do Nhà nước và các tổ chức có liên quan giao cho Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thay mặt Hội đồng thành viên ký các văn bản thuộc thẩm quyền của Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Triệu tập và chủ trì cuộc họp Hội đồng thành viên hoặc lấy ý kiến các thành viên Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phê duyệt kế hoạch hoạt động hằng quý và hằng năm của Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Phân công nhiệm vụ cho các thành viên Hội đồng thành viên để thực hiện nhiệm vụ, quyền hạn của Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tổ chức thực hiện các nhiệm vụ của Hội đồng thành viên, theo dõi và giám sát việc thực hiện các nghị quyết, quyết định của Bộ Kế hoạch và Đầu tư và của Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Tổ chức giám sát, trực tiếp giám sát và đánh giá kết quả thực hiện mục tiêu chiến lược, kế hoạch hoạt động, kết quả hoạt động của Quỹ, kết quả quản lý điều hành của Giám đốc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Trường hợp cần thiết, Chủ tịch Hội đồng thành viên ủy quyền bằng văn bản cho một trong số các thành viên Hội đồng thành viên hoặc ủy quyền cho Giám đốc thực hiện chức năng, nhiệm vụ của mình. Người được ủy quyền chịu trách nhiệm trước Chủ tịch Hội đồng thành viên về các công việc được ủy quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện quyền và nghĩa vụ khác theo yêu cầu của Bộ Kế hoạch và Đầu tư.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Kiểm soát viên",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ có 01 Kiểm soát viên do Bộ trưởng Bộ Kế hoạch và Đầu tư bổ nhiệm. Kiểm soát viên hoạt động theo nhiệm kỳ 05 năm và có thể được bổ nhiệm lại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện bổ nhiệm Kiểm soát viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có trình độ đại học trở lên, có kinh nghiệm ít nhất 03 năm là người quản lý, điều hành trong các lĩnh vực về kinh tế, tài chính, ngân hàng, quản trị kinh doanh, luật, kế toán, kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không phải là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh chị em ruột, anh rể, em rể, chị dâu, em dâu của người quản lý Quỹ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không được kiêm Giám đốc hoặc Tổng Giám đốc của doanh nghiệp khác;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Không đồng thời là cán bộ, công chức trong cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội hoặc không phải là người quản lý, điều hành tại doanh nghiệp khác;"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quyền và nghĩa vụ của Kiểm soát viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giám sát việc tổ chức thực hiện chiến lược, kế hoạch hoạt động 05 năm, hàng năm của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Giám sát việc thực hiện các quyền, nghĩa vụ của Hội đồng thành viên, Giám đốc Quỹ theo yêu cầu của Bộ Kế hoạch và Đầu tư;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xem xét, đánh giá thực trạng tài chính, hoạt động của Quỹ, thực trạng vận hành và hiệu lực các quy chế quản trị nội bộ của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Giám sát thực hiện các dự án đầu tư lớn, giao dịch mua, bán và giao dịch kinh tế khác có quy mô lớn của Quỹ theo yêu cầu của Bộ Kế hoạch và Đầu tư;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Lập và gửi báo cáo đánh giá, kiến nghị về các nội dung quy định tại điểm a, điểm b, điểm c và điểm d khoản này cho Bộ Kế hoạch và Đầu tư và Hội đồng thành viên."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trách nhiệm của Kiểm soát viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tuân thủ pháp luật, quyết định của Bộ Kế hoạch và Đầu tư và đạo đức nghề nghiệp trong thực hiện các quyền và nghĩa vụ quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện các quyền và nghĩa vụ được giao một cách trung thực, cẩn trọng, tốt nhất để bảo vệ lợi ích của Nhà nước và lợi ích hợp pháp của các bên tại Quỹ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chịu trách nhiệm cá nhân khi lợi dụng danh nghĩa Quỹ thực hiện hành vi vi phạm pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chế độ làm việc của Kiểm soát viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm soát viên làm việc chuyên trách tại Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kiểm soát viên độc lập và chủ động thực hiện các công việc theo kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kiểm soát viên có trách nhiệm xây dựng kế hoạch công tác và báo cáo kết quả thực hiện nhiệm vụ với Bộ Kế hoạch và Đầu tư."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tiền lương, thù lao của Kiểm soát viên",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm soát viên được hưởng tiền lương, thù lao theo kết quả hoạt động kiểm soát, kết quả và hiệu quả hoạt động của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bộ Kế hoạch và Đầu tư quyết định mức và chi trả tiền lương, thù lao của Kiểm soát viên căn cứ vào mức độ hoàn thành nhiệm vụ và quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chi phí hoạt động của Kiểm soát viên được tính vào chi phí quản lý của Quỹ theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Giám đốc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giám đốc do Hội đồng thành viên quyết định bổ nhiệm hoặc thuê theo phương án nhân sự sau khi có ý kiến chấp thuận của Bộ trưởng Bộ Kế hoạch và Đầu tư. Giám đốc được bổ nhiệm làm việc theo nhiệm kì 05 năm và có thể được bổ nhiệm lại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện bổ nhiệm Giám đốc theo quy định tại điểm b, điểm c, điểm d, điểm đ khoản 5 Điều 7 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quyền và nghĩa vụ của Giám đốc",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức điều hành hoạt động của Quỹ; thực hiện và đánh giá kết quả thực hiện các nghị quyết, quyết định của Hội đồng thành viên; chịu trách nhiệm trước Hội đồng thành viên về kết quả hoạt động của Quỹ theo thẩm quyền quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ban hành các văn bản quản lý nội bộ theo yêu cầu quản lý của Quỹ và phù hợp quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trình Hội đồng thành viên quyết định về kế hoạch hoạt động 05 năm, hằng năm, báo cáo tài chính năm của Quỹ và tổ chức thực hiện sau khi được phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trình Hội đồng thành viên quyết định phân phối lợi nhuận, trích lập các quỹ hằng năm và định mức sử dụng các quỹ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Quản lý tài sản và nguồn vốn của Quỹ theo quy định pháp luật;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Kiến nghị phương án tổ chức lại bộ máy giúp việc;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Trình Hội đồng thành viên quyết định việc quy hoạch, bổ nhiệm, miễn nhiệm, đánh giá, khen thưởng, kỷ luật đối với người quản lý Quỹ thuộc thẩm quyền quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Quyết định việc tuyển dụng lao động theo kế hoạch; đánh giá, khen thưởng, kỷ luật và các chế độ, chính sách đối với người lao động của Quỹ theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Thực hiện các nhiệm vụ khác theo phân công hoặc ủy quyền của Hội đồng thành viên quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trách nhiệm của Giám đốc",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tuân thủ pháp luật, thực hiện các quyền và nghĩa vụ được giao theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chấp hành các nghị quyết, quyết định của Hội đồng thành viên;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chịu trách nhiệm cá nhân khi lợi dụng danh nghĩa Quỹ thực hiện hành vi vi phạm pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Quan hệ giữa Hội đồng thành viên, Kiểm soát viên và Giám đốc trong quản lý, điều hành Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trong quá trình tổ chức thực hiện các nghị quyết, quyết định của Hội đồng thành viên, nếu thấy có vấn đề không có lợi cho Quỹ thì Giám đốc báo cáo với Hội đồng thành viên để xem xét điều chỉnh lại nghị quyết, quyết định. Trường hợp Hội đồng thành viên không điều chỉnh lại nghị quyết, quyết định thì Giám đốc vẫn phải thực hiện nhưng phải có trách nhiệm báo cáo Bộ Kế hoạch và Đầu tư để xem xét, giải quyết theo thẩm quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Giám đốc có trách nhiệm báo cáo định kỳ với Hội đồng thành viên về tình hình hoạt động của Quỹ. Trường hợp cần thiết, Chủ tịch Hội đồng thành viên yêu cầu Giám đốc trực tiếp báo cáo với Hội đồng thành viên hoặc cử đại diện của Hội đồng thành viên tham dự các cuộc họp của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hội đồng thành viên phân cấp cho Giám đốc thực hiện nhiệm vụ của Quỹ và chịu trách nhiệm về việc phân cấp. Giám đốc chịu trách nhiệm trước Hội đồng thành viên và trước pháp luật về công việc được phân cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Mối quan hệ giữa Kiểm soát viên với Bộ Kế hoạch và Đầu tư, Hội đồng thành viên và Giám đốc theo quy định của pháp luật đối với Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ và quy chế hoạt động của Kiểm soát viên, quy chế hoạt động của Hội đồng thành viên.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Bộ máy giúp việc",
+                    "noi_dung_chung": "Bộ máy giúp việc của Quỹ bao gồm các Phó Giám đốc và các đơn vị chuyên môn, nghiệp vụ, các chi nhánh, văn phòng đại diện (sau đây gọi tắt là các đơn vị nghiệp vụ).",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phó Giám đốc",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phó Giám đốc giúp Giám đốc thực hiện các nhiệm vụ theo phân công và chịu trách nhiệm trước Giám đốc, trước pháp luật về nhiệm vụ được phân công, ủy quyền. Phó Giám đốc do Hội đồng thành viên quyết định bổ nhiệm hoặc thuê theo phương án nhân sự, miễn nhiệm, cách chức, khen thưởng, kỷ luật trên cơ sở đề nghị của Giám đốc. Phó Giám đốc được bổ nhiệm làm việc theo nhiệm kì 05 năm và có thể được bổ nhiệm lại;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Số lượng Phó Giám đốc không quá 03 người;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện bổ nhiệm Phó Giám đốc theo quy định tại điểm b, điểm c, điểm d, điểm đ khoản 5 Điều 7 Nghị định này ;"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các đơn vị nghiệp vụ có chức năng tham mưu, giúp việc cho Hội đồng thành viên, Giám đốc quản lý, điều hành Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Quản lý nhân sự của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ thực hiện chế độ tự chủ về nhân sự, được quyết định vị trí việc làm và số lượng người làm việc phù hợp với chức năng, nhiệm vụ được giao và phù hợp với quy định của Bộ Kế hoạch và Đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người lao động có quyền tham gia thảo luận, góp ý kiến và đề xuất với các cấp có thẩm quyền theo quy định của pháp luật lao động và pháp luật khác có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tập thể người lao động trong Quỹ có quyền tham gia giám sát việc thực hiện nghị quyết Hội nghị người lao động; thực hiện các nội quy, quy định, quy chế của Quỹ; thực hiện thỏa ước lao động tập thể; thực hiện hợp đồng lao động; thực hiện các chế độ, chính sách đối với người lao động; việc thu và sử dụng các loại quỹ do người lao động đóng góp; kết quả giải quyết khiếu nại, tố cáo, tranh chấp lao động; kết quả thi đua, khen thưởng hàng năm của người lao động.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hàng năm Quỹ có trách nhiệm chủ trì, phối hợp với Ban Chấp hành Công đoàn tổ chức Hội nghị người lao động để bàn giải pháp thực hiện các chỉ tiêu kế hoạch hoạt động mà Hội đồng thành viên đã thông qua; đánh giá việc thực hiện thỏa ước lao động tập thể, các nội quy, quy chế của Quỹ và những vấn đề khác liên quan tới quyền và lợi ích hợp pháp của người lao động.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quan hệ giữa Quỹ và người lao động",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quan hệ giữa Quỹ và người lao động thực hiện theo các quy định pháp luật về lao động;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Giám đốc lập kế hoạch trình Hội đồng thành viên thông qua các vấn đề liên quan đến việc tuyển dụng lao động, buộc thôi việc, tiền lương, các chế độ bảo hiểm theo quy định pháp luật, phúc lợi, khen thưởng và kỷ luật đối với người lao động cũng như mối quan hệ giữa Quỹ với các tổ chức Công đoàn của người lao động."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Hoạt động của các tổ chức chính trị, chính trị - xã hội",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức Đảng Cộng sản Việt Nam tại Quỹ hoạt động theo Hiến pháp , pháp luật và các quy định của Đảng Cộng sản Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức Công đoàn, Đoàn Thanh niên Cộng sản Hồ Chí Minh và các tổ chức chính trị - xã hội khác của Quỹ hoạt động theo Hiến pháp , pháp luật và quy định của các tổ chức đó.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "HOẠT ĐỘNG CHO VAY, TÀI TRỢ, HỖ TRỢ TĂNG CƯỜNG NĂNG LỰC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Nguyên tắc cho vay trực tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hoạt động cho vay của Quỹ được thực hiện theo thỏa thuận giữa Quỹ và doanh nghiệp nhỏ và vừa, phù hợp với quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa vay vốn của Quỹ phải đảm bảo sử dụng vốn vay đúng mục đích, hoàn trả nợ gốc và lãi tiền vay đầy đủ, đúng thời hạn đã thỏa thuận với Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đồng tiền cho vay, trả nợ là đồng Việt Nam.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Điều kiện vay vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo được vay vốn của Quỹ khi đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đáp ứng quy định tại Điều 4 Luật Hỗ trợ doanh nghiệp nhỏ và vừa ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có dự án, phương án sản xuất, kinh doanh khả thi, khai thác các loại tài sản trí tuệ quy định tại Luật Sở hữu trí tuệ hoặc công nghệ mới quy định tại Luật Chuyển giao công nghệ hoặc mô hình kinh doanh mới theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đảm bảo nguồn vốn chủ sở hữu tham gia dự án, phương án sản xuất, kinh doanh tối thiểu 20% tổng vốn đầu tư để thực hiện dự án, phương án sản xuất, kinh doanh và phải đảm bảo đủ nguồn vốn để thực hiện dự án, phương án sản xuất, kinh doanh;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đáp ứng các quy định về bảo đảm tiền vay theo quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa tham gia cụm liên kết ngành được vay vốn của Quỹ khi đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đáp ứng quy định tại điểm a, điểm c, điểm d khoản 1 Điều này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có dự án, phương án sản xuất, kinh doanh khả thi, nằm trong khu vực địa lý của cụm liên kết ngành và có hợp đồng hợp tác, kinh doanh với doanh nghiệp khác trong cụm liên kết ngành hoặc cùng xây dựng, sử dụng thương hiệu vùng. Việc xác định cụm liên kết ngành thực hiện theo quy định tại Luật Hỗ trợ doanh nghiệp nhỏ và vừa và các văn bản hướng dẫn thi hành."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa tham gia chuỗi giá trị được vay vốn của Quỹ khi đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đáp ứng quy định tại điểm a, điểm c, điểm d khoản 1 Điều này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có dự án, phương án sản xuất, kinh doanh khả thi, được triển khai để trực tiếp tạo ra giá trị gia tăng cho sản phẩm của chuỗi giá trị hoặc có hợp đồng hợp tác, kinh doanh với doanh nghiệp trực tiếp tạo ra giá trị gia tăng cho sản phẩm của chuỗi giá trị. Việc xác định chuỗi giá trị thực hiện theo quy định tại Luật Hỗ trợ doanh nghiệp nhỏ và vừa và các văn bản hướng dẫn thi hành."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Lãi suất cho vay trực tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Lãi suất cho vay trực tiếp bằng 80% mức thấp nhất lãi suất cho vay thương mại. Mức thấp nhất lãi suất cho vay thương mại được xác định trên cơ sở so sánh lãi suất cho vay của 04 ngân hàng thương mại có vốn nhà nước và có tổng tài sản lớn nhất tại thời điểm xác định lãi suất cho vay của Quỹ. Trường hợp đặc biệt, Bộ trưởng Bộ Kế hoạch và Đầu tư quyết định mức lãi suất cho vay trên cơ sở đề xuất của Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hằng năm hoặc trong từng thời kỳ, căn cứ nguyên tắc xác định lãi suất quy định tại khoản 1 Điều này, Hội đồng thành viên công bố mức lãi suất cho vay của Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Mức cho vay, thời hạn cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mức cho vay đối với mỗi dự án, phương án sản xuất, kinh doanh tối đa không quá 80% tổng mức vốn đầu tư của từng dự án, phương án. Tổng mức cho vay của Quỹ đối với một doanh nghiệp nhỏ và vừa không được vượt quá 15% vốn điều lệ thực có của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thời hạn cho vay được xác định phù hợp với khả năng thu hồi vốn, khả năng trả nợ của doanh nghiệp và điều kiện cụ thể của từng dự án, phương án sản xuất, kinh doanh nhưng tối đa không quá bảy 07 năm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Hồ sơ, trình tự, thủ tục cho vay trực tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ đề nghị vay vốn gồm có:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy đề nghị vay vốn của doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hồ sơ dự án, phương án sản xuất kinh doanh và các văn bản, tài liệu khác chứng minh doanh nghiệp có đủ điều kiện vay vốn theo quy định tại Điều 16 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa nộp hồ sơ đề nghị vay vốn tại trụ sở của Quỹ hoặc qua bưu điện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm tiếp nhận, thẩm định tính đầy đủ của hồ sơ đề nghị vay vốn; thẩm định tính khả thi của dự án, phương án sản xuất, kinh doanh và các điều kiện cho vay khác theo quy định tại Nghị định này; quyết định cho vay và thông báo cho doanh nghiệp nhỏ và vừa. Trường hợp từ chối cho vay, Quỹ thông báo bằng văn bản và nêu rõ lý do từ chối.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm ban hành quy trình thẩm định, ra quyết định cho vay trực tiếp theo nguyên tắc đảm bảo phân định rõ trách nhiệm, nghĩa vụ của các cá nhân, tổ chức liên quan trong quá trình thẩm định và quyết định cho vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trường hợp cần thiết, Hội đồng thành viên xem xét, quyết định thành lập Hội đồng xét duyệt cho vay để ra quyết định cho vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quỹ có quyền thuê tư vấn độc lập hoặc thành lập Tổ tư vấn cho vay gồm nhà khoa học, nhà quản lý, chuyên gia theo lĩnh vực chuyên môn để tư vấn cho vay.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Thỏa thuận cho vay trực tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thỏa thuận cho vay giữa Quỹ và doanh nghiệp nhỏ và vừa phải được lập thành văn bản, đảm bảo tuân thủ các quy định tại Nghị định này và gồm các nội dung cơ bản sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin về pháp nhân của Quỹ và doanh nghiệp nhỏ và vừa, địa điểm, thời điểm ký thỏa thuận;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các thỏa thuận về số tiền cho vay, mục đích sử dụng vốn vay, thời hạn vay, đồng tiền cho vay, phương thức cho vay, giải ngân vốn vay, lãi suất cho vay, chuyển vốn vay, thu hồi lãi, gốc vốn vay, biện pháp bảo đảm tiền vay và dự phòng, xử lý rủi ro (nếu có), hiệu lực của thỏa thuận cho vay;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quyền hạn, nghĩa vụ và trách nhiệm của từng bên trong quá trình cho vay; cách thức giải quyết tranh chấp, vướng mắc phát sinh trong quá trình thực hiện và các thỏa thuận khác theo yêu cầu quản lý của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngoài các nội dung quy định tại khoản 1 Điều này, các bên có thể thỏa thuận các nội dung khác phù hợp với quy định tại Nghị định này và quy định của pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Bảo đảm tiền vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa khi vay vốn của Quỹ phải tuân thủ các biện pháp bảo đảm tiền vay. Đối với từng dự án, phương án sản xuất, kinh doanh, Quỹ xem xét, quyết định cụ thể các biện pháp bảo đảm tiền vay phù hợp với tình hình thực tế và quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc xác lập, thực hiện giao dịch bảo đảm và xử lý tài sản bảo đảm được thực hiện theo quy định pháp luật về giao dịch bảo đảm và các văn bản quy phạm pháp luật có liên quan. Mục 2. CHO VAY GIÁN TIẾP",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Nguyên tắc cho vay gián tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ lựa chọn ngân hàng thương mại (sau đây gọi tắt là ngân hàng) để ký thỏa thuận cho vay gián tiếp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng áp dụng quy định pháp luật về hoạt động vay vốn của các tổ chức tín dụng, tổ chức tài chính để tiếp nhận vốn từ Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân hàng tự thẩm định, quyết định cho vay đối với doanh nghiệp nhỏ và vừa đủ điều kiện theo quy định tại Điều 23 Nghị định này và chịu trách nhiệm rủi ro về quyết định cho vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Ngân hàng chịu trách nhiệm trả đầy đủ gốc và lãi cho vay gián tiếp cho Quỹ đúng thời hạn đã thỏa thuận với Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đồng tiền cho vay, trả nợ là đồng Việt Nam.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Điều kiện vay vốn từ nguồn vốn của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo được ngân hàng cho vay từ nguồn vốn của Quỹ khi đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đáp ứng quy định tại điểm a, điểm b, điểm c khoản 1 Điều 16 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đáp ứng các quy định về bảo đảm tiền vay theo quy định pháp luật có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa tham gia cụm liên kết ngành được ngân hàng cho vay từ nguồn vốn của Quỹ khi đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đáp ứng quy định tại điểm a, điểm c khoản 1 và điểm b khoản 2 Điều 16 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đáp ứng quy định tại điểm b khoản 1 Điều này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa tham gia chuỗi giá trị được ngân hàng cho vay từ nguồn vốn của Quỹ khi đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đáp ứng quy định tại điểm a, điểm c khoản 1 và điểm b khoản 3 Điều 16 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đáp ứng quy định tại điểm b khoản 1 Điều này."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Thời hạn, mức cho vay gián tiếp",
+                    "noi_dung_chung": "Thời hạn, mức cho vay gián tiếp thực hiện theo quy định tại Điều 18 Nghị định này .",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Lãi suất cho vay gián tiếp, phí cho vay gián tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Lãi suất cho vay gián tiếp là lãi suất ngân hàng cho doanh nghiệp nhỏ và vừa vay, bằng lãi suất cho vay trực tiếp theo quy định tại khoản 1 Điều 17 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phí cho vay gián tiếp là khoản tiền Quỹ phải trả cho ngân hàng để thực hiện việc cho vay, do hai bên thỏa thuận nhưng không vượt quá 50% tiền lãi cho vay gián tiếp thu được đối với mỗi dự án, phương án sản xuất, kinh doanh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Hồ sơ, trình tự, thủ tục cho vay gián tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ doanh nghiệp đề nghị vay vốn gồm có:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy đề nghị vay vốn của doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hồ sơ dự án, phương án sản xuất kinh doanh của doanh nghiệp nhỏ và vừa và các văn bản, tài liệu khác chứng minh doanh nghiệp có đủ điều kiện vay vốn theo quy định tại Điều 23 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ ngân hàng đề nghị nhận vốn cho vay gián tiếp gồm có:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy đề nghị nhận vốn cho vay gián tiếp của ngân hàng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các văn bản, tài liệu quy định tại điểm b khoản 1 Điều này và các tài liệu khác có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa nộp hồ sơ đề nghị vay vốn tại điểm giao dịch của ngân hàng hoặc qua bưu điện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Ngân hàng có trách nhiệm tiếp nhận hồ sơ đề nghị vay vốn, thẩm định, ra quyết định cho vay đối với doanh nghiệp nhỏ và vừa và gửi hồ sơ đề nghị nhận vốn cho vay gián tiếp tại trụ sở của Quỹ hoặc qua đường bưu điện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Ngân hàng có trách nhiệm ban hành quy trình thẩm định, ra quyết định cho vay gián tiếp đảm bảo nguyên tắc công khai, minh bạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm tiếp nhận, đánh giá hồ sơ đề nghị nhận vốn cho vay gián tiếp và quyết định chuyển vốn cho ngân hàng để thực hiện cho vay gián tiếp. Trường hợp từ chối chuyển vốn, Quỹ phải thông báo cho ngân hàng về lý do từ chối.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm ban hành quy trình đánh giá, ra quyết định chuyển vốn cho vay gián tiếp theo nguyên tắc đảm bảo phân định rõ trách nhiệm, nghĩa vụ của các bên liên quan trong quá trình cho vay gián tiếp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Thỏa thuận cho vay gián tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thỏa thuận cho vay gián tiếp giữa Quỹ và ngân hàng phải được lập thành văn bản, đảm bảo tuân thủ các quy định tại Nghị định này và gồm các nội dung cơ bản sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin về pháp nhân của Quỹ và ngân hàng, địa điểm, thời điểm ký thỏa thuận;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các thỏa thuận về số tiền cho vay, mục đích sử dụng vốn vay, thời hạn cho vay, đồng tiền cho vay, lãi suất cho vay, nhận vốn vay, hoàn trả vốn, thu hồi lãi, gốc cho vay, chuyển nợ quá hạn, cơ cấu lại thời hạn trả nợ, hiệu lực của thỏa thuận cho vay gián tiếp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quyền hạn, nghĩa vụ và trách nhiệm của từng bên trong quá trình thực hiện cho vay gián tiếp; cách thức giải quyết tranh chấp, vướng mắc phát sinh trong quá trình thực hiện và các thỏa thuận khác theo yêu cầu quản lý của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngoài các nội dung quy định tại khoản 1 Điều này, các bên có thể thỏa thuận các nội dung khác phù hợp với quy định tại Nghị định này và quy định của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thỏa thuận cho vay giữa ngân hàng và doanh nghiệp nhỏ và vừa phải được lập thành văn bản và phù hợp với thỏa thuận cho vay gián tiếp giữa Quỹ và ngân hàng theo quy định tại khoản 1, khoản 2 Điều này. Mục 3. TÀI TRỢ VỐN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Nguyên tắc tài trợ vốn của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ tài trợ một phần chi phí đối với các hạng mục đầu tư xây dựng nhà xưởng, mua máy móc thiết bị của dự án, phương án sản xuất, kinh doanh của doanh nghiệp nhỏ và vừa đáp ứng các điều kiện quy định tại khoản 1 Điều 29 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đồng tiền tài trợ là đồng Việt Nam.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Điều kiện và mức tài trợ vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa được Quỹ xem xét, quyết định tài trợ vốn khi đáp ứng các điều kiện quy định tại điểm a, điểm b, điểm c khoản 1 hoặc điểm a, điểm b khoản 2 hoặc điểm a, điểm b khoản 3 Điều 16 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Mức tài trợ vốn không quá 01 tỷ đồng cho một dự án, phương án sản xuất, kinh doanh nhưng không quá 50% vốn đầu tư xây dựng nhà xưởng, mua máy móc thiết bị.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Hồ sơ, trình tự, thủ tục đề nghị tài trợ vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ đề nghị tài trợ vốn gồm có:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy đề nghị tài trợ của doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hồ sơ dự án, phương án sản xuất kinh doanh của doanh nghiệp nhỏ và vừa và các văn bản, tài liệu chứng minh doanh nghiệp nhỏ và vừa đáp ứng đủ điều kiện tài trợ quy định tại khoản 1 Điều 29 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp nhỏ và vừa nộp hồ sơ đề nghị tài trợ vốn tại trụ sở của Quỹ hoặc qua bưu điện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ tiếp nhận, thẩm định tính đầy đủ của hồ sơ đề nghị tài trợ vốn; thẩm định tính khả thi của dự án, phương án sản xuất, kinh doanh và các điều kiện tài trợ vốn theo quy định tại Nghị định này; ra quyết định tài trợ và thông báo cho doanh nghiệp nhỏ và vừa. Trường hợp từ chối tài trợ, Quỹ phải có văn bản thông báo cho doanh nghiệp về lý do từ chối.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm ban hành quy trình thẩm định, ra quyết định tài trợ, giải ngân vốn tài trợ theo nguyên tắc đảm bảo phân định rõ trách nhiệm, nghĩa vụ của các cá nhân, tổ chức liên quan trong quá trình thẩm định, quyết định tài trợ và giải ngân vốn tài trợ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quỹ thành lập Hội đồng xét duyệt tài trợ vốn để xem xét, ra quyết định tài trợ vốn. Hội đồng thành viên quyết định thành phần Hội đồng xét duyệt tài trợ vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quỹ có quyền thuê tư vấn độc lập hoặc thành lập Tổ tư vấn tài trợ gồm nhà khoa học, nhà quản lý, chuyên gia theo lĩnh vực chuyên môn để tư vấn tài trợ vốn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Thỏa thuận tài trợ vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thỏa thuận tài trợ vốn giữa Quỹ và doanh nghiệp nhỏ và vừa phải được lập thành văn bản, đảm bảo tuân thủ các quy định tại Nghị định này và gồm các nội dung cơ bản sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin về pháp nhân của Quỹ và doanh nghiệp nhỏ và vừa, địa điểm, thời điểm ký thỏa thuận;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các thỏa thuận về hình thức tài trợ, số tiền tài trợ, mục đích sử dụng khoản tài trợ, đồng tiền tài trợ, giải ngân khoản tài trợ, hiệu lực của hợp đồng tài trợ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quyền hạn, nghĩa vụ và trách nhiệm của từng bên; cách thức giải quyết tranh chấp phát sinh trong quá trình thực hiện và các thỏa thuận khác theo yêu cầu quản lý của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngoài các nội dung quy định tại khoản 1 Điều này, các bên có thể thỏa thuận các nội dung khác phù hợp với quy định tại Nghị định này và quy định pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Nghiệm thu hạng mục tài trợ vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ hồ sơ nghiệm thu tài trợ vốn của doanh nghiệp nhỏ và vừa, Quỹ tiến hành nghiệm thu tài trợ vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ nghiệm thu tài trợ vốn gồm có:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy đề nghị nghiệm thu tài trợ vốn của doanh nghiệp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các văn bản, tài liệu, chứng từ thanh toán liên quan đến việc đầu tư, xây dựng nhà xưởng, mua máy móc, thiết bị của dự án, phương án sản xuất, kinh doanh."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ tiếp nhận, đánh giá đầy đủ hồ sơ nghiệm thu tài trợ vốn; đánh giá và nghiệm thu tài trợ vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm ban hành quy trình đánh giá, nghiệm thu tài trợ vốn bảo đảm nguyên tắc bình đẳng, công khai.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hằng năm, doanh nghiệp nhận tài trợ có trách nhiệm gửi Quỹ báo cáo về tình hình hoạt động của dự án, phương án sản xuất, kinh doanh đã nhận tài trợ hoặc báo cáo tài chính của doanh nghiệp. Mục 4. HỖ TRỢ TĂNG CƯỜNG NĂNG LỰC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Các hoạt động hỗ trợ tăng cường năng lực",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ nguồn vốn hoạt động và kế hoạch hoạt động hàng năm, Quỹ tổ chức hội thảo, truyền thông, đào tạo, tư vấn, xúc tiến đầu tư, thương mại, cung cấp thông tin, cơ sở dữ liệu để hỗ trợ tăng cường năng lực cho doanh nghiệp nhỏ và vừa, đảm bảo hỗ trợ hiệu quả, đúng đối tượng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ nguồn vốn hoạt động và kế hoạch hoạt động hàng năm, Quỹ lập dự án, đề án hỗ trợ nghiên cứu phát triển; dự án, đề án đầu tư, thành lập cơ sở ươm tạo, cơ sở kỹ thuật, khu làm việc chung để hỗ trợ doanh nghiệp nhỏ và vừa, trình Thủ tướng Chính phủ hoặc Bộ Kế hoạch và Đầu tư phê duyệt theo thẩm quyền.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "HOẠT ĐỘNG TIẾP NHẬN, QUẢN LÝ VÀ SỬ DỤNG VỐN VAY, TÀI TRỢ, VIỆN TRỢ, ĐÓNG GÓP, ỦY THÁC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Nguyên tắc tiếp nhận, quản lý và sử dụng vốn vay, tài trợ, viện trợ, đóng góp, ủy thác",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tiếp nhận, quản lý và sử dụng vốn vay, tài trợ, viện trợ, đóng góp, ủy thác của các tổ chức, cá nhân bằng tiền hoặc hiện vật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc tiếp nhận, quản lý và sử dụng đối với vốn vay, tài trợ, viện trợ, đóng góp, ủy thác phải tuân thủ các quy định của pháp luật Việt Nam, điều ước quốc tế mà Việt Nam đã ký kết. Việc nhận vốn ủy thác phải đảm bảo phù hợp với khả năng hoàn trả của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Không tiếp nhận vốn vay, tài trợ, viện trợ, đóng góp, ủy thác gây phương hại đến lợi ích quốc gia, an ninh, quốc phòng, vi phạm pháp luật về phòng, chống tham nhũng, hoạt động rửa tiền, tài trợ khủng bố và các hoạt động trái pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Tiếp nhận và quản lý vốn vay, tài trợ, viện trợ, đóng góp, ủy thác",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ tiếp nhận, quản lý và sử dụng vốn vay, viện trợ theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ trực tiếp nhận tài trợ, đóng góp bằng tiền hoặc hiện vật của các tổ chức, cá nhân.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Việc tiếp nhận tài trợ, đóng góp được thực hiện bằng văn bản giữa Quỹ và nhà tài trợ, bên đóng góp, phù hợp với quy định tại Nghị định này và các quy định pháp luật khác có liên quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hiện vật tài trợ, đóng góp cho Quỹ phải được quy đổi ra tiền. Đối với hiện vật là tài sản có giá trị lớn hoặc chưa có tại Việt Nam, Quỹ phải thuê tổ chức thẩm định giá thành lập hợp pháp định giá tài sản. Thời điểm định giá không quá 06 tháng tính đến thời điểm ký hợp đồng tài trợ, đóng góp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bên tài trợ, đóng góp phải chịu trách nhiệm về tính hợp pháp của khoản tài trợ, đóng góp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ trực tiếp nhận vốn ủy thác của các tổ chức, cá nhân.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ chỉ nhận ủy thác để thực hiện các hoạt động hỗ trợ doanh nghiệp nhỏ và vừa thuộc nhiệm vụ, quyền hạn của Quỹ quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Việc nhận ủy thác được thực hiện bằng văn bản, phù hợp với quy định tại Nghị định này và các quy định pháp luật có liên quan;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quỹ đảm bảo cơ sở vật chất và đội ngũ cán bộ để thực hiện nội dung nhận ủy thác;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Quỹ được hưởng phí ủy thác và phải sử dụng vốn ủy thác đúng với mục đích, nội dung ủy thác đã thỏa thuận;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Bên ủy thác phải giao vốn ủy thác phù hợp với tiến độ đã thỏa thuận, chịu mọi rủi ro và hưởng các lợi ích từ hoạt động ủy thác."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Sử dụng vốn vay, tài trợ, viện trợ, đóng góp, ủy thác",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ quy định của pháp luật Việt Nam, điều ước quốc tế và thỏa thuận đã ký với tổ chức, cá nhân, Quỹ sử dụng vốn vay, tài trợ, viện trợ, đóng góp, ủy thác và lợi nhuận phát sinh từ các nguồn vốn này (nếu có) để thực hiện các hoạt động sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bổ sung vốn hoạt động cho Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cho vay, tài trợ vốn cho doanh nghiệp nhỏ và vừa theo quy định của bên ủy thác, nhà tài trợ. Trường hợp bên ủy thác, nhà tài trợ không có quy định thì Quỹ thực hiện theo quy định tại Mục 1, Mục 2 và Mục 3 Chương III Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thực hiện các hoạt động hỗ trợ tăng cường năng lực cho doanh nghiệp nhỏ và vừa quy định tại Mục 4 Chương III Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ được phối hợp với các tổ chức, cá nhân để thực hiện các hoạt động quy định tại Điều này.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "PHÂN LOẠI NỢ, TRÍCH LẬP DỰ PHÒNG RỦI RO VÀ XỬ LÝ RỦI RO",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Phân loại nợ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ thực hiện phân loại nợ đối với toàn bộ dư nợ cho vay trực tiếp theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ đối với các tổ chức tín dụng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng có trách nhiệm phân loại nợ đối với dư nợ cho vay gián tiếp theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ đối với các tổ chức tín dụng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Trích lập dự phòng rủi ro cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ trích lập dự phòng rủi ro cho vay trực tiếp và được tính vào chi phí hoạt động của Quỹ như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trích lập dự phòng rủi ro chung bằng 0,75%/năm tính trên tổng dư nợ cho vay trực tiếp tại thời điểm trích lập;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trích lập dự phòng rủi ro cụ thể: Căn cứ kết quả phân loại nợ, Quỹ trích lập dự phòng rủi ro cụ thể đối với dư nợ cho vay trực tiếp. Mức trích từng nhóm nợ theo quy định của Ngân hàng Nhà nước Việt Nam đối với các tổ chức tín dụng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng trích lập dự phòng rủi ro đối với dư nợ cho vay gián tiếp theo quy định của Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro của các tổ chức tín dụng. Mục 2. XỬ LÝ RỦI RO",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Nguyên tắc xử lý rủi ro cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc xử lý rủi ro của Quỹ phải đảm bảo thực hiện đúng theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc xem xét xử lý rủi ro phải căn cứ vào nguyên nhân dẫn đến rủi ro, mức độ rủi ro, tình hình sản xuất kinh doanh, tình hình tài chính, khả năng trả nợ của doanh nghiệp, đảm bảo đầy đủ hồ sơ, đúng thời điểm và trình tự được quy định của Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc xử lý rủi ro được thực hiện theo hướng giảm thiệt hại tối đa cho nhà nước và gắn trách nhiệm của Quỹ, bên vay và các tổ chức liên quan trong việc thu hồi khoản trả nợ vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Việc lựa chọn biện pháp xử lý rủi ro được thực hiện theo thứ tự ưu tiên, biện pháp nào không gây mất vốn hoặc ít gây mất vốn nhà nước thì được cân nhắc thực hiện trước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Một khoản nợ có thể áp dụng một hoặc đồng thời nhiều biện pháp xử lý rủi ro được quy định của Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tỷ lệ chấp nhận rủi ro của Quỹ không quá 5% tại thời điểm kết thúc năm tài chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Các biện pháp xử lý rủi ro",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các biện pháp xử lý rủi ro đối với dư nợ cho vay trực tiếp của Quỹ bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Điều chỉnh kỳ hạn trả nợ/số tiền trả nợ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Gia hạn nợ vay;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khoanh nợ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Xóa nợ lãi;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Xóa nợ gốc;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Bán nợ;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Xử lý tài sản bảo đảm tiền vay;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Các biện pháp xử lý rủi ro khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các biện pháp xử lý rủi ro đối với dư nợ cho vay gián tiếp thực hiện theo quy định của Ngân hàng Nhà nước Việt Nam về các biện pháp xử lý rủi ro trong hoạt động tín dụng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Thẩm quyền xử lý rủi ro",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thẩm quyền xử lý rủi ro cho vay trực tiếp",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thủ tướng Chính phủ xem xét, quyết định biện pháp xử lý rủi ro theo quy định tại điểm đ, điểm e, điểm g khoản 1 Điều 40 Nghị định này khi rủi ro làm giảm vốn điều lệ của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bộ trưởng Bộ Kế hoạch và Đầu tư xem xét, quyết định các biện pháp xử lý rủi ro quy định tại điểm c, điểm d, điểm đ khoản 1 Điều 40 Nghị định này khi rủi ro không làm giảm vốn điều lệ của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quỹ xem xét, quyết định các biện pháp xử lý rủi ro theo quy định tại điểm a, điểm b, điểm e, điểm g, điểm h khoản 1 Điều 40 Nghị định này khi rủi ro không làm giảm vốn điều lệ của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trường hợp tỷ lệ chấp nhận rủi ro vượt quá 5% tại thời điểm kết thúc năm tài chính, Bộ Kế hoạch và Đầu tư chủ trì phối hợp với Bộ Tài chính báo cáo Thủ tướng Chính phủ xem xét, quyết định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thẩm quyền xử lý rủi ro cho vay gián tiếp Thẩm quyền quyết định các biện pháp xử lý rủi ro cho vay gián tiếp thực hiện theo quy định của Ngân hàng Nhà nước Việt Nam về thẩm quyền xử lý rủi ro trong hoạt động của tổ chức tín dụng và pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Sử dụng dự phòng rủi ro để xử lý rủi ro cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ sử dụng dự phòng rủi ro để xử lý rủi ro cho vay trực tiếp",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trường hợp số tiền dự phòng không đủ để xử lý toàn bộ rủi ro cho vay của các khoản nợ phải xử lý, Quỹ sẽ lấy từ quỹ dự phòng tài chính theo quy định tại Điều 51 Nghị định này . Sau khi đã sử dụng hết quỹ dự phòng tài chính, nếu còn thiếu thì Quỹ hạch toán trực tiếp phần chênh lệch thiếu của số tiền dự phòng vào chi phí hoạt động;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp số tiền dự phòng đã trích còn lại lớn hơn số tiền dự phòng phải trích, Quỹ hoàn nhập phần chênh lệch thừa."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng sử dụng dự phòng rủi ro để xử lý rủi ro đối với dư nợ cho vay gián tiếp theo quy định của Ngân hàng Nhà nước Việt Nam về việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VI",
+            "tieu_de_chuong": "QUẢN LÝ TÀI CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 43",
+                    "tieu_de": "Vốn hoạt động của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Vốn chủ sở hữu bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Vốn điều lệ tối thiểu của Quỹ là 2.000 tỷ đồng do ngân sách nhà nước cấp từ nguồn chi cho đầu tư phát triển. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính trình Thủ tướng Chính phủ quyết định mức vốn điều lệ của Quỹ trong từng thời kỳ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Vốn bổ sung từ kết quả hoạt động của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Vốn hình thành từ các khoản tài trợ, viện trợ, đóng góp không phải hoàn trả của các tổ chức, cá nhân;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Vốn khác thuộc sở hữu của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Vốn hình thành từ tiếp nhận các khoản vay, đóng góp, ủy thác phải hoàn trả của các tổ chức, cá nhân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Vốn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 44",
+                    "tieu_de": "Nguyên tắc quản lý và sử dụng vốn, tài sản, doanh thu, chi phí và phân phối kết quả hoạt động của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ phải quản lý và sử dụng vốn theo nguyên tắc đúng mục đích, có hiệu quả, bảo đảm an toàn vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ áp dụng quy định pháp luật về đầu tư xây dựng, mua, bán, quản lý, sử dụng tài sản cố định, quản lý doanh thu, thu nhập khác, chi phí và phân phối kết quả tài chính đối với Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh thu và chi phí của Quỹ phải được quản lý chặt chẽ, đảm bảo tính đúng đắn, trung thực và hợp pháp; phải có đầy đủ hồ sơ, chứng từ theo quy định của pháp luật và phản ánh đầy đủ trong sổ kế toán theo chế độ kế toán áp dụng và các quy định của pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 45",
+                    "tieu_de": "Mục đích sử dụng vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sử dụng vốn hoạt động quy định tại Điều 43 Nghị định này để cho vay đối với doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, doanh nghiệp nhỏ và vừa tham gia cụm liên kết ngành, chuỗi giá trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sử dụng vốn quy định tại điểm b, điểm c, điểm d khoản 1 Điều 43 Nghị định này để tài trợ vốn đối với doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, doanh nghiệp nhỏ và vừa tham gia cụm liên kết ngành, chuỗi giá trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sử dụng vốn quy định tại điểm b, điểm c, điểm d khoản 1 và khoản 3 Điều 43 Nghị định này để hỗ trợ tăng cường năng lực cho doanh nghiệp nhỏ và vừa.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Sử dụng vốn quy định tại điểm b khoản 1 Điều 43 Nghị định này để thực hiện các dự án đầu tư phát triển của Quỹ; xử lý rủi ro, bù đắp những tổn thất, thiệt hại về tài sản, công nợ không đòi được xảy ra trong hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Sử dụng vốn hoạt động quy định tại Điều 43 Nghị định này để chi quản lý, điều hành Quỹ; chi đầu tư xây dựng, mua sắm tài sản cố định, công cụ dụng cụ theo quy định tại Điều 48 Nghị định này để phục vụ cho hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Sử dụng vốn nhàn rỗi thuộc vốn hoạt động quy định tại Điều 43 Nghị định này để gửi tiết kiệm tại ngân hàng thương mại nhưng phải đảm bảo an toàn vốn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 46",
+                    "tieu_de": "Quản lý tài sản",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mua sắm tài sản cố định của Quỹ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thẩm quyền quyết định đầu tư, mua sắm tài sản cố định, tiêu chuẩn, định mức, trình tự, thủ tục đầu tư, mua sắm và sửa chữa tài sản cố định áp dụng theo quy định đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, bảo đảm công khai, minh bạch, tiết kiệm, hiệu quả;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Việc mua sắm tài sản cố định phục vụ cho hoạt động của Quỹ thực hiện theo nguyên tắc giá trị còn lại của tổng tài sản cố định không vượt quá 7% vốn điều lệ thực có của Quỹ tại thời điểm mua sắm."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nguyên tắc trích khấu hao, chế độ quản lý, sử dụng và thời gian trích khấu hao tài sản cố định của Quỹ thực hiện theo quy định pháp luật về khấu hao tài sản cố định áp dụng đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thuê tài sản cố định",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ được quyền thuê tài sản cố định theo nguyên tắc có hiệu quả, đúng quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thẩm quyền quyết định thuê tài sản cố định thực hiện theo quy định đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thanh lý, nhượng, bán tài sản cố định",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ được quyền thanh lý, nhượng, bán tài sản cố định đã hư hỏng, lạc hậu kỹ thuật, không có nhu cầu sử dụng, không sử dụng được hoặc sử dụng không hiệu quả để thu hồi vốn theo nguyên tắc công khai, minh bạch, bảo đảm an toàn vốn, đúng quy định;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thẩm quyền quyết định thanh lý, nhượng, bán tài sản cố định; trình tự, thủ tục thanh lý, nhượng bán tài sản cố định thực hiện theo quy định đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Kiểm kê và đánh giá lại tài sản cố định Quỹ phải tổ chức kiểm kê định kỳ hoặc đột xuất để xác định số lượng tài sản cố định trong các trường hợp: khóa sổ kế toán để lập báo cáo tài chính năm; sau khi xảy ra thiên tai, địch họa hoặc vì lý do nào đó gây ra biến động tài sản của Quỹ; theo quy định của các cơ quan nhà nước có thẩm quyền. Đối với tài sản thừa, thiếu, phải xác định rõ nguyên nhân, trách nhiệm của tổ chức, cá nhân có liên quan và xác định mức bồi thường vật chất theo quy định của pháp luật. Quỹ phải thực hiện đánh giá lại tài sản theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ. Các khoản chênh lệch tăng hoặc giảm giá trị do đánh giá lại tài sản thực hiện theo quy định của Quỹ đối với từng trường hợp cụ thể.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm kê tài sản"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đánh giá lại tài sản"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Xử lý tổn thất về tài sản Khi bị tổn thất về tài sản, Quỹ phải xác định giá trị tài sản bị tổn thất, nguyên nhân, trách nhiệm và xử lý như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xác định rõ nguyên nhân khách quan (thiên tai, hỏa hoạn, tai nạn bất ngờ) và nguyên nhân chủ quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu do nguyên nhân chủ quan thì tổ chức, cá nhân gây ra tổn thất phải bồi thường, xử lý theo quy định của pháp luật. Quỹ quy định cụ thể việc bồi thường và quyết định mức bồi thường phù hợp với quy định của pháp luật; chịu trách nhiệm về quyết định của mình;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nếu tài sản đã mua bảo hiểm theo pháp luật thì xử lý theo hợp đồng bảo hiểm;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Giá trị tài sản tổn thất sau khi đã bù đắp bằng tiền bồi thường của tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng, nếu thiếu thì được hạch toán vào chi phí trong kỳ của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trường hợp đặc biệt do thiên tai hoặc nguyên nhân bất khả kháng gây ra thiệt hại nghiêm trọng, Quỹ không thể tự khắc phục được thì Giám đốc báo cáo Hội đồng thành viên phương án xử lý tổn thất để trình Bộ trưởng Bộ Kế hoạch và Đầu tư quyết định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm ban hành quy chế mua sắm và quản lý tài sản cố định theo quy định tại Nghị định này và các quy định pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 47",
+                    "tieu_de": "Doanh thu",
+                    "noi_dung_chung": "Doanh thu của Quỹ là khoản phải thu phát sinh trong kỳ, bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thu từ hoạt động nghiệp vụ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thu từ hoạt động cho vay bao gồm: thu lãi từ cho vay trực tiếp, cho vay gián tiếp và thu khác từ hoạt động cho vay;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thu từ hoạt động quản lý các nguồn vốn vay, tài trợ, viện trợ, đóng góp, ủy thác (nếu có);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thu từ hoạt động hỗ trợ tăng cường năng lực cho doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các khoản thu khác từ hoạt động nghiệp vụ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thu từ lãi tiền gửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thu từ thanh lý, nhượng bán tài sản; thu tiền bảo hiểm được bồi thường (phần còn lại sau khi đã bù đắp tổn thất xảy ra); thu phạt, bồi thường vi phạm hợp đồng kinh tế; thu từ các khoản nợ đã xóa bằng dự phòng rủi ro nay thu hồi được; thu từ chênh lệch tỷ giá (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các khoản thu khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 48",
+                    "tieu_de": "Chi phí của Quỹ",
+                    "noi_dung_chung": "Chi phí của Quỹ là các khoản chi phí phát sinh trong kỳ cần thiết cho hoạt động của Quỹ, bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chi phí hoạt động nghiệp vụ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chi hoạt động cho vay, tài trợ vốn bao gồm: phí cho vay gián tiếp, chi tài trợ vốn; chi thẩm định hồ sơ; phí thẩm định và giám định tài sản bảo đảm; chi kiểm tra, giám sát, chi nghiệm thu các khoản tài trợ vốn và các khoản chi khác liên quan đến hoạt động tài trợ vốn, cho vay;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi thực hiện các hoạt động hỗ trợ tăng cường năng lực cho doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chi phí tiếp nhận và quản lý vốn vay, viện trợ, tài trợ, đóng góp, ủy thác từ các tổ chức, cá nhân;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chi trích lập dự phòng rủi ro và khoản dự phòng khác (nếu có);"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Chi về nghiệp vụ xử lý nợ;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Chi bảo hiểm, chi cho hoạt động gửi vốn nhàn rỗi, chi chênh lệch tỷ giá;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Các khoản chi hoạt động nghiệp vụ khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chi hoạt động bộ máy",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chi cho người lao động, người quản lý bao gồm: Chi tiền lương, tiền công, thù lao, tiền thưởng, phụ cấp và các khoản chi mang tính chất tiền lương; các khoản chi để đóng góp theo lương (Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm lao động, bảo hiểm thất nghiệp, kinh phí công đoàn); chi khen thưởng, chi phúc lợi; chi trang phục giao dịch; chi trợ cấp; chi ăn ca; chi y tế; các chi phí cho lao động nữ theo quy định hiện hành; các khoản chi khác cho người lao động, người quản lý theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi cho hoạt động quản lý bao gồm: công tác phí; chi đào tạo; chi nghiên cứu, ứng dụng khoa học, công nghệ; chi tuyên truyền, quảng cáo, tiếp thị; chi cho công nghệ thông tin; chi về các hoạt động đảng, đoàn thể; chi văn phòng phẩm, tài liệu, sách báo; chi điện, nước, điện thoại, bưu chính viễn thông, vệ sinh cơ quan; chi hội nghị, hội thảo, tập huấn, tuyên truyền, in ấn tài liệu, lễ tân; chi mua hàng hóa, dịch vụ; chi giao dịch, đối ngoại, tham gia diễn đàn, mạng lưới; chi kiểm tra, giám sát, kiểm toán; chi thuê chuyên gia, tư vấn trong và ngoài nước; chi phí vận chuyển và các khoản chi khác cho hoạt động quản lý;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chi đầu tư xây dựng, mua sắm, bảo dưỡng, sửa chữa tài sản; chi khấu hao tài sản cố định; chi thuê tài sản thực hiện theo hợp đồng thuê; chi nhượng bán, thanh lý tài sản; chi bảo hiểm tài sản; chi mua sắm công cụ dụng cụ; chi khác cho quản lý và sử dụng tài sản."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chi nộp thuế, các khoản phí, lệ phí theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chi các khoản đã hạch toán doanh thu nhưng thực tế không thu được và không hạch toán giảm doanh thu; chi các khoản nợ phải trả, đã xác định mất chủ và hạch toán vào thu nhập nhưng sau đó lại xác định được chủ nợ; chi cho việc thu hồi các khoản nợ đã xóa, chi phí thu hồi nợ xấu; chi trả tiền phạt, bồi thường do vi phạm hợp đồng kinh tế thuộc trách nhiệm của Quỹ; chi xử lý khoản tổn thất tài sản theo quy định của pháp luật; chi cho công tác xã hội từ thiện; chi án phí, lệ phí thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Các khoản chi phí khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Định mức chi phí quy định tại khoản 1, khoản 2, khoản 3, khoản 4, khoản 5 Điều này thực hiện theo quy định của pháp luật đối với Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ. Trường hợp pháp luật không có quy định, Quỹ căn cứ vào khả năng tài chính xây dựng định mức, quyết định việc chi tiêu bảo đảm phù hợp, hiệu quả.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 49",
+                    "tieu_de": "Lương, phụ cấp lương",
+                    "noi_dung_chung": "Quỹ thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, người quản lý Quỹ theo quy định đối với Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, phù hợp với tính chất, mô hình, hoạt động của Quỹ theo quy định tại Nghị định này và hướng dẫn của Bộ Lao động - Thương binh và Xã hội.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 50",
+                    "tieu_de": "Phân phối kết quả tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kết quả tài chính hằng năm của Quỹ là số chênh lệch giữa tổng số thu nhập và tổng số chi phí phát sinh trong năm tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sau khi trả tiền phạt do vi phạm các quy định của pháp luật và bù đắp lỗ từ các năm trước, nộp thuế thu nhập doanh nghiệp theo quy định của pháp luật, trường hợp tổng thu nhập lớn hơn tổng chi phí, phần chênh lệch này coi như 100%, được phân phối như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trích tối đa 25% vào quỹ đầu tư phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trích tối đa 20% vào quỹ dự phòng tài chính, mức tối đa của quỹ này không vượt quá 25% mức vốn điều lệ thực có của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trích quỹ khen thưởng, quỹ phúc lợi tối đa bằng 03 tháng lương thực hiện trong năm tài chính của người lao động và quỹ thưởng người quản lý tối đa bằng 1,5 tháng lương thực hiện trong năm tài chính của người quản lý ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Số còn lại sau khi trích các quỹ trên (nếu có) được bổ sung vào quỹ đầu tư phát triển;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trường hợp chênh lệch thu - chi còn lại sau khi trích lập quỹ đầu tư phát triển mà không đủ nguồn để trích các quỹ khen thưởng, quỹ phúc lợi, quỹ thưởng người quản lý theo mức quy định thì Quỹ được giảm trích lập quỹ đầu tư phát triển để bổ sung nguồn trích lập đủ quỹ khen thưởng, phúc lợi, quỹ thưởng người quản lý theo mức quy định nhưng mức giảm tối đa không quá mức trích vào quỹ đầu tư phát triển trong năm tài chính;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Hội đồng thành viên quyết định mức trích quỹ đầu tư phát triển, quỹ dự phòng tài chính, quỹ khen thưởng, phúc lợi, quỹ thưởng người quản lý ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trích lập quỹ khen thưởng, phúc lợi:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ xếp loại A được trích 3 tháng lương thực hiện của người lao động cho hai quỹ khen thưởng, phúc lợi;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quỹ xếp loại B được trích 1,5 tháng lương thực hiện của người lao động cho hai quỹ khen thưởng, phúc lợi;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quỹ xếp loại C được trích 01 tháng lương thực hiện của người lao động cho hai quỹ khen thưởng, phúc lợi."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trích lập quỹ thưởng người quản lý :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ xếp loại A được trích 1,5 tháng lương thực hiện của người quản lý ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quỹ xếp loại B được trích 01 tháng lương thực hiện của người quản lý ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quỹ xếp loại C thì không được trích lập quỹ thưởng của người quản lý ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hội đồng thành viên hoặc người được ủy quyền quyết định việc trích, tạm trích quỹ khen thưởng, phúc lợi, quỹ thưởng người quản lý , quỹ đầu tư phát triển, quỹ dự phòng tài chính theo quy định tại khoản 2 Điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Khi kết quả tài chính trong năm bị lỗ, Quỹ được chuyển lỗ sang năm sau, thời gian được chuyển lỗ tính liên tục không quá 05 năm kể từ năm tiếp sau năm phát sinh lỗ. Trường hợp sau 05 năm, nếu Quỹ không chuyển hết lỗ, Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính báo cáo Thủ tướng Chính phủ xem xét, quyết định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 51",
+                    "tieu_de": "Quản lý và sử dụng các quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc sử dụng các quỹ phải đúng quy định, mục đích, đúng đối tượng.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ xây dựng, ban hành quy chế quản lý, sử dụng các quỹ theo quy định của pháp luật, đảm bảo dân chủ, minh bạch, có sự tham gia của Ban Chấp hành công đoàn Quỹ và công khai trong Quỹ trước khi thực hiện;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong năm tài chính, Quỹ được chủ động tạm trích các quỹ trên cơ sở kết quả hoạt động để có nguồn chi sử dụng các quỹ theo mục đích đã quy định;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Định mức chi khen thưởng người lao động, chi phúc lợi do Hội đồng thành viên ban hành."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển được dùng để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện các dự án đầu tư phát triển của Quỹ bao gồm: đầu tư, mở rộng và phát triển hoạt động hỗ trợ của Quỹ; chương trình, dự án đầu tư xây dựng mới, dự án cải tạo, nâng cấp, mở rộng các dự án đã đầu tư xây dựng, dự án mua sắm tài sản, kể cả thiết bị, máy móc không cần lắp đặt, dự án sửa chữa, nâng cấp tài sản, thiết bị; dự án, đề tài nghiên cứu khoa học, phát triển công nghệ, ứng dụng công nghệ, hỗ trợ kỹ thuật, điều tra cơ bản; đào tạo và nâng cao trình độ chuyên môn, kỹ thuật, nghiệp vụ cho người lao động, người quản lý của Quỹ ; các chương trình, dự án, đề án đầu tư phát triển khác;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tài trợ vốn đối với doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, doanh nghiệp nhỏ và vừa tham gia cụm liên kết ngành, chuỗi giá trị; thực hiện các hoạt động hỗ trợ tăng cường năng lực đối với doanh nghiệp nhỏ và vừa;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bổ sung vốn điều lệ cho Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ dự phòng tài chính được dùng theo thứ tự ưu tiên sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bù đắp những tổn thất, thiệt hại về tài sản, công nợ không đòi được xảy ra trong hoạt động sau khi đã được bù đắp bằng tiền bồi thường của tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng được hạch toán vào chi phí trong kỳ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Xử lý rủi ro cho vay sau khi đã sử dụng hết dự phòng rủi ro cho vay được trích lập từ chi phí theo quyết định của Hội đồng thành viên;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cuối năm, nếu không sử dụng hết quỹ dự phòng tài chính, số dư của quỹ được chuyển sang năm tiếp theo, số tiền thu hồi được từ các khoản đã được xử lý rủi ro được hạch toán vào thu nhập khác của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quỹ khen thưởng được sử dụng để thưởng cuối năm, thưởng thường kỳ, thưởng đột xuất, thường theo quy định của pháp luật về thi đua khen thưởng cho người lao động, tập thể Quỹ; thưởng cho người quản lý đối với những khoản thưởng theo quy định pháp luật về thi đua khen thưởng; thưởng cho cá nhân, đơn vị ngoài Quỹ có đóng góp nhiều cho hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quỹ thưởng người quản lý được sử dụng để thưởng cuối năm, thưởng thường kỳ, thưởng đột xuất, thưởng khi kết thúc nhiệm kỳ của người quản lý . Mức thưởng do Bộ Kế hoạch và Đầu tư quyết định theo mức độ hoàn thành nhiệm vụ được giao và hiệu quả hoạt động của Quỹ trên cơ sở đề nghị của Chủ tịch Hội đồng thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quỹ phúc lợi được sử dụng để chi cho các hoạt động thể thao, văn hóa, phúc lợi cho người lao động, người quản lý ; chi phúc lợi công cộng, từ thiện; chi trợ cấp khó khăn thường xuyên, đột xuất, chi chế độ cho người lao động, người quản lý trong các ngày lễ, Tết; chi đầu tư xây dựng hoặc sửa chữa các công trình phúc lợi của Quỹ và các hoạt động phúc lợi khác.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 52",
+                    "tieu_de": "Chế độ kế toán, kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ tổ chức thực hiện công tác kế toán theo quy định của pháp luật và hướng dẫn của Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Năm tài chính của Quỹ bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hằng năm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ tổ chức bộ máy kế toán theo quy định của pháp luật về kế toán và quy chế nội bộ của Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 53",
+                    "tieu_de": "Báo cáo tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ phải lập báo cáo tài chính quý, năm. Báo cáo tài chính năm của Quỹ phải được kiểm toán bởi tổ chức kiểm toán độc lập được thành lập và hoạt động theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo năm được gửi chậm nhất là sau 90 ngày kể từ ngày kết thúc năm tài chính. Báo cáo kết quả kiểm toán báo cáo tài chính năm của Quỹ do tổ chức kiểm toán độc lập thực hiện được gửi chậm nhất là sau 120 ngày kể từ ngày kết thúc năm tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sau khi có ý kiến thẩm định của Kiểm soát viên, Giám đốc trình Hội đồng thành viên phê duyệt Báo cáo tài chính, gửi Bộ Kế hoạch và Đầu tư và Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quỹ thực hiện công khai tài chính theo quy định của pháp luật đối với Công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VII",
+            "tieu_de_chuong": "GIÁM SÁT VÀ ĐÁNH GIÁ HOẠT ĐỘNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 54",
+                    "tieu_de": "Giám sát hoạt động của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ có trách nhiệm xây dựng và vận hành hệ thống giám sát nội bộ đảm bảo hoạt động có hiệu quả, phù hợp với chức năng, nhiệm vụ và thẩm quyền quy định tại Nghị định này. Hệ thống giám sát nội bộ của Quỹ bao gồm các cơ chế, chính sách, quy chế, quy trình, cơ cấu tổ chức, nhân sự của Quỹ được xây dựng phù hợp với quy định tại Nghị định này và được tổ chức thực hiện nhằm kiểm soát, phòng ngừa, phát hiện, xử lý kịp thời rủi ro trong hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ xây dựng và ban hành kế hoạch hoạt động 05 năm và hàng năm theo mẫu quy định tại Phụ lục I , Phụ lục II ban hành kèm theo Nghị định này gửi Bộ Kế hoạch và Đầu tư giám sát, quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hằng năm, Quỹ phải báo cáo Bộ Kế hoạch và Đầu tư về kết quả hoạt động, bao gồm kết quả hoạt động hỗ trợ, hiệu quả quản lý vốn, tài sản, đánh giá rủi ro, hạn chế trong hoạt động của Quỹ và kiến nghị, đề xuất giải pháp xử lý phù hợp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Kế hoạch và Đầu tư thực hiện giám sát hoạt động của Quỹ.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Việc giám sát được thực hiện thông qua hoạt động của Kiểm soát viên;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nội dung giám sát được thực hiện theo quy định tại điểm a, điểm b, điểm c, điểm d, điểm đ khoản 3 Điều 9 Nghị định này ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 55",
+                    "tieu_de": "Đánh giá kết quả hoạt động và xếp loại Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Kế hoạch và Đầu tư thực hiện đánh giá kết quả hoạt động và xếp loại Quỹ hằng năm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các chỉ tiêu đánh giá kết quả hoạt động hằng năm của Quỹ bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ tiêu 1: Tăng trưởng dư nợ cho vay, doanh số tài trợ vốn;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chỉ tiêu 2: Tỷ lệ nợ xấu;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chỉ tiêu 3: Tổng thu nhập trừ tổng chi phí;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chỉ tiêu 4: Tình hình chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn, tài sản của Quỹ, nghĩa vụ với ngân sách nhà nước, tình hình chấp hành quy định về chế độ báo cáo tài chính hằng năm và báo cáo tình hình hoạt động hằng năm của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Yếu tố khách quan được xem xét, loại trừ khi đánh giá hoạt động của Quỹ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thiên tai, hỏa hoạn, dịch bệnh, biến động kinh tế - chính trị, chiến tranh và các nguyên nhân bất khả kháng khác;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thay đổi về chính sách liên quan làm ảnh hưởng đến hoạt động hỗ trợ doanh nghiệp nhỏ và vừa và kết quả hoạt động của Quỹ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 56",
+                    "tieu_de": "Công bố thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ phải công bố định kỳ những thông tin sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin cơ bản về Quỹ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mục tiêu tổng quát, mục tiêu, chỉ tiêu cụ thể của kế hoạch hoạt động hằng năm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo và tóm tắt Báo cáo tài chính hằng năm đã được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Báo cáo đánh giá về kết quả thực hiện kế hoạch hoạt động hàng năm;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Báo cáo về thực trạng quản trị, cơ cấu tổ chức Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ phải công bố trên trang thông tin điện tử và ấn phẩm (nếu có) và niêm yết công khai tại trụ sở chính của Quỹ về các thông tin bất thường trong thời hạn 36 giờ, kể từ khi xảy ra một trong các sự kiện sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tài khoản của Quỹ tại ngân hàng bị phong tỏa hoặc được phép hoạt động trở lại sau khi bị phong tỏa;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tạm ngừng một phần hoặc toàn bộ hoạt động của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thay đổi người quản lý, gồm thành viên Hội đồng thành viên, Chủ tịch Hội đồng thành viên, Kiểm soát viên, Giám đốc, Phó Giám đốc;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có quyết định kỷ luật, khởi tố, có bản án, quyết định của Tòa án đối với người quản lý Quỹ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Có kết luận của cơ quan thanh tra hoặc của cơ quan quản lý thuế về việc vi phạm pháp luật của Quỹ;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Có quyết định thay đổi tổ chức kiểm toán độc lập, hoặc bị từ chối kiểm toán báo cáo tài chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người đại diện theo pháp luật của Quỹ hoặc người được ủy quyền thực hiện việc công bố thông tin và phải chịu trách nhiệm về tính đầy đủ, chính xác, trung thực và kịp thời của thông tin được công bố.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VIII",
+            "tieu_de_chuong": "TỔ CHỨC THỰC HIỆN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 57",
+                    "tieu_de": "Trách nhiệm của Bộ Kế hoạch và Đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Tài chính báo cáo Thủ tướng Chính phủ cấp vốn điều lệ; quyết định tăng, giảm vốn điều lệ của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn việc quy hoạch, bổ nhiệm, miễn nhiệm, điều động và chế độ chính sách đối với người quản lý Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hướng dẫn việc xử lý rủi ro, đánh giá kết quả hoạt động và xếp loại Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hướng dẫn việc tiếp nhận tài trợ, đóng góp, nhận ủy thác của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Có ý kiến chấp thuận đối với kế hoạch hoạt động 05 năm, hàng năm của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quyết định bổ nhiệm, bổ nhiệm lại, miễn nhiệm, đánh giá, khen thưởng, kỷ luật và chế độ chính sách khác đối với Chủ tịch, các thành viên Hội đồng thành viên, Kiểm soát viên; có ý kiến chấp thuận đối với đề nghị của Hội đồng thành viên về việc bổ nhiệm, bổ nhiệm lại, miễn nhiệm đối với Giám đốc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Quyết định hoặc chủ trì, phối hợp với Bộ Tài chính báo cáo Thủ tướng Chính phủ quyết định biện pháp xử lý rủi ro của Quỹ theo thẩm quyền quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Ban hành quy chế hoạt động của Kiểm soát viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện việc xếp hạng Quỹ theo quy định pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Thực hiện việc đánh giá kết quả hoạt động và xếp loại hằng năm đối với Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Thực hiện các quyền và nghĩa vụ khác của cơ quan đại diện chủ sở hữu Nhà nước theo quy định tại Nghị định này và quy định pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 58",
+                    "tieu_de": "Trách nhiệm của Bộ Tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hướng dẫn chế độ kế toán đối với Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cấp vốn điều lệ đã được Thủ tướng Chính phủ quyết định phê duyệt cho Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 59",
+                    "tieu_de": "Trách nhiệm của Bộ Lao động - Thương binh và Xã hội",
+                    "noi_dung_chung": "Hướng dẫn việc xếp hạng Quỹ và việc quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, người quản lý của Quỹ .",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 60",
+                    "tieu_de": "Trách nhiệm của doanh nghiệp nhỏ và vừa nhận hỗ trợ của Quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sử dụng vốn vay, vốn tài trợ đúng mục đích, theo đúng thỏa thuận đã ký kết giữa Quỹ và các bên có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tuân thủ theo đúng quy định pháp luật và thực hiện đúng, đầy đủ các cam kết, nghĩa vụ theo thỏa thuận đã ký kết giữa Quỹ và các bên có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cung cấp kịp thời, đầy đủ, chính xác, trung thực các thông tin, tài liệu liên quan đến việc vay vốn, sử dụng vốn hỗ trợ của Quỹ, chịu trách nhiệm trước pháp luật về tính chính xác, tính hợp pháp của các thông tin, tài liệu đã cung cấp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 61",
+                    "tieu_de": "Điều khoản chuyển tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các dự án, phương án sản xuất, kinh doanh của doanh nghiệp nhỏ và vừa đã được Quỹ ủy thác cho các ngân hàng thương mại cho vay trước khi Nghị định này có hiệu lực thi hành thì được tiếp tục thực hiện theo các thỏa thuận đã ký kết theo quy định tại Quyết định số 601/QĐ-TTg ngày 17 tháng 4 năm 2013 của Thủ tướng Chính phủ về việc thành lập Quỹ Phát triển doanh nghiệp nhỏ và vừa cho đến hết thời hạn ủy thác cho vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ tiếp tục áp dụng chế độ kế toán theo quy định hiện hành đối với Quỹ Đầu tư phát triển địa phương đến khi có văn bản hướng dẫn của Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ tiếp tục thực hiện chế độ tiền lương, thù lao, tiền thưởng đối với người quản lý và người lao động theo quy định tại Nghị định số 52/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ quy định tiền lương, thù lao, tiền thưởng đối với người quản lý công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, Nghị định số 51/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ quy định quản lý lao động, tiền lương và tiền thưởng đối với người lao động làm việc trong công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ và Thông tư số 38/2016/TT-BLĐTBXH ngày 25 tháng 10 năm 2016 của Bộ Lao động - Thương binh và Xã hội về hướng dẫn quản lý lao động, tiền lương, thù lao đối với Quỹ Phát triển doanh nghiệp nhỏ và vừa đến khi có văn bản hướng dẫn của Bộ Lao động - Thương binh và Xã hội.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 62",
+                    "tieu_de": "Hiệu lực và trách nhiệm thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2019.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ trưởng các Bộ, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, Chủ tịch Hội đồng thành viên, các thành viên Hội đồng thành viên và Giám đốc Quỹ Phát triển doanh nghiệp nhỏ và vừa, các tổ chức và cá nhân chịu trách nhiệm thi hành Nghị định này./ Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Ủy ban Giám sát tài chính Quốc gia; - Kiểm toán nhà nước; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (2b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Xuân Phúc PHỤ LỤC I KẾ HOẠCH HOẠT ĐỘNG 05 NĂM CỦA QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA (Kèm theo Nghị định số 39/2019/NĐ-CP ngày 10 tháng 5 năm 2019 của Chính phủ) BỘ KẾ HOẠCH VÀ ĐẦU TƯ QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số:……./ … … …, ngày… …tháng… …năm….. KẾ HOẠCH HOẠT ĐỘNG 05 NĂM CỦA QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA I. MỤC TIÊU VÀ NHIỆM VỤ KẾ HOẠCH II. CHỈ TIÊU HOẠT ĐỘNG - TÀI CHÍNH:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kết quả hoạt động năm ... Nội dung Đơn vị Thực hiện năm ... Tổng doanh thu Tổng chi phí III Chênh lệch thu chi Chỉ tiêu hoạt động nghiệp vụ Cho vay",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "1 Cho vay trực tiếp Số dư cho vay Số dư nợ xấu Tỷ lệ nợ xấu trên tổng dư nợ Số dự án, phương án sản xuất - kinh doanh được giải ngân",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "2 Cho vay gián tiếp Số dư nợ cho vay doanh nghiệp nhỏ và vừa qua ngân hàng Số dự án, phương án sản xuất - kinh doanh được giải ngân Kết quả phân loại nợ của ngân hàng Số vốn ngân hàng chưa hoàn trả Quỹ Tài trợ Tổng số tiền tài trợ Số dự án, phương án sản xuất - kinh doanh được tài trợ Tiếp nhận và quản lý nguồn vốn của các tổ chức, cá nhân (nếu có) Nguồn vốn vay Nguồn vốn tài trợ Nguồn vốn viện trợ Nguồn vốn đóng góp Nguồn vốn ủy thác Nộp ngân sách (nếu có)",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Mục tiêu hoạt động - tài chính giai đoạn ... III. GIẢI PHÁP THỰC HIỆN KẾ HOẠCH IV. PHÂN CÔNG TỔ CHỨC THỰC HIỆN, GIÁM SÁT, ĐÁNH GIÁ KẾT QUẢ THỰC HIỆN V. CÁC NỘI DUNG KHÁC PHỤ LỤC II KẾ HOẠCH HOẠT ĐỘNG NĂM CỦA QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA (Kèm theo Nghị định số 39/2019/NĐ-CP ngày 10 tháng 5 năm 2019 của Chính phủ) BỘ KẾ HOẠCH VÀ ĐẦU TƯ QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số:…../ … … …, ngày… …tháng… …năm….. KẾ HOẠCH HOẠT ĐỘNG NĂM … CỦA QUỸ PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA I. ĐÁNH GIÁ CHUNG",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng quan về hoạt động của Quỹ trong năm thực hiện",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thuận lợi",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khó khăn tồn tại",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đề xuất, giải pháp II. KẾT QUẢ HOẠT ĐỘNG NĂM THỰC HIỆN",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hoạt động hỗ trợ doanh nghiệp nhỏ và vừa",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "1. Cho vay",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "2. Tài trợ",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hoạt động khác của Quỹ",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kết quả hoạt động - tài chính năm thực hiện Nội dung Đơn vị Thực hiện năm N Ước thực hiện năm N Tổng doanh thu Tổng chi phí III Chênh lệch thu chi Chỉ tiêu hoạt động nghiệp vụ Cho vay",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "1 Cho vay trực tiếp Số dư cho vay Số dư nợ xấu Tỷ lệ nợ xấu trên tổng dư nợ Số dự án, phương án sản xuất - kinh doanh được giải ngân",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "2 Cho vay gián tiếp Số dư nợ cho vay doanh nghiệp nhỏ và vừa qua ngân hàng Số dự án, phương án sản xuất - kinh doanh được giải ngân Kết quả phân loại nợ của ngân hàng Số vốn ngân hàng chưa hoàn trả Quỹ Tài trợ Tổng số tiền tài trợ Số dự án, phương án sản xuất - kinh doanh được tài trợ Tiếp nhận và quản lý nguồn vốn của các tổ chức, cá nhân (nếu có) Nguồn vốn vay Nguồn vốn tài trợ Nguồn vốn viện trợ Nguồn vốn đóng góp Nguồn vốn ủy thác Nộp ngân sách (nếu có) III. KẾ HOẠCH HOẠT ĐỘNG - TÀI CHÍNH NĂM KẾ HOẠCH Nội dung Đơn vị Thực hiện năm N-1 Kế hoạch năm N So sánh Tổng doanh thu Tổng chi phí III Chênh lệch thu chi Chi tiêu hoạt động nghiệp vụ Cho vay",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "1 Cho vay trực tiếp Số dư cho vay Số dư nợ xấu Tỷ lệ nợ xấu trên tổng dư nợ Số dự án, phương án sản xuất - kinh doanh được giải ngân",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "2 Cho vay gián tiếp Số dư nợ cho vay doanh nghiệp nhỏ và vừa qua ngân hàng Số dự án, phương án sản xuất - kinh doanh được giải ngân Kết quả phân loại nợ của ngân hàng Số vốn ngân hàng chưa hoàn trả Quỹ Tài trợ Tổng số tiền tài trợ Số dự án, phương án sản xuất - kinh doanh được tài trợ Tiếp nhận và quản lý nguồn vốn của các tổ chức, cá nhân (nếu có) Nguồn vốn vay Nguồn vốn tài trợ Nguồn vốn viện trợ Nguồn vốn đóng góp Nguồn vốn ủy thác Nộp ngân sách (nếu có) IV. GIẢI PHÁP THỰC HIỆN KẾ HOẠCH V. PHÂN CÔNG TỔ CHỨC THỰC HIỆN, GIÁM SÁT, ĐÁNH GIÁ KẾT QUẢ THỰC HIỆN VI. CÁC NỘI DUNG KHÁC Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Điểm tin văn bản mới nổi bật Tuần 20 Năm 2019 Doanh nghiệp nhỏ và vừa có thể được tài trợ vốn lên đến 01 tỷ đồng 05 điều cần biết về Quỹ phát triển doanh nghiệp nhỏ và vừa Doanh nghiệp nhỏ và vừa khởi nghiệp được hỗ trợ vay vốn Tài trợ là gì? Quy định về tài trợ vốn cho doanh nghiệp nhỏ và vừa Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Điểm tin văn bản mới nổi bật Tuần 20 Năm 2019 Doanh nghiệp nhỏ và vừa có thể được tài trợ vốn lên đến 01 tỷ đồng 05 điều cần biết về Quỹ phát triển doanh nghiệp nhỏ và vừa Doanh nghiệp nhỏ và vừa khởi nghiệp được hỗ trợ vay vốn Tài trợ là gì? Quy định về tài trợ vốn cho doanh nghiệp nhỏ và vừa Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Điểm tin văn bản mới nổi bật Tuần 20 Năm 2019 Doanh nghiệp nhỏ và vừa có thể được tài trợ vốn lên đến 01 tỷ đồng 05 điều cần biết về Quỹ phát triển doanh nghiệp nhỏ và vừa Doanh nghiệp nhỏ và vừa khởi nghiệp được hỗ trợ vay vốn Tài trợ là gì? Quy định về tài trợ vốn cho doanh nghiệp nhỏ và vừa Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 39/2019/NĐ-CP về tổ chức và hoạt động của Quỹ Phát triển doanh nghiệp nhỏ và vừa MỤC LỤC VĂN BẢN In mục lục In mục lục GOVERNMENT ------- SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness --------------- No. 39/2019/ND-CP Hanoi, May 10, 2019 DECREE ORGANIZATION AND OPERATION OF SMALL AND MEDIUM ENTERPRISE DEVELOPMENT FUND",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

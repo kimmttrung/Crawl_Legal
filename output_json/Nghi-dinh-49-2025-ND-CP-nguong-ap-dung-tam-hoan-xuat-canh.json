@@ -1,0 +1,111 @@
+{
+    "ten_luat": "Nghị định 49/2025/NĐ-CP về ngưỡng áp dụng tạm hoãn xuất cảnh",
+    "so_hieu": "49/2025/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định về áp dụng ngưỡng tiền thuế nợ và thời gian nợ trong các trường hợp bị tạm hoãn xuất cảnh; về việc thông báo áp dụng biện pháp tạm hoãn xuất cảnh và hủy bỏ tạm hoãn xuất cảnh.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cá nhân kinh doanh, chủ hộ kinh doanh, cá nhân là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã thuộc trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế; cá nhân kinh doanh, chủ hộ kinh doanh, cá nhân là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã không còn hoạt động tại địa chỉ đã đăng ký; người Việt Nam xuất cảnh để định cư ở nước ngoài, người Việt Nam định cư ở nước ngoài, người nước ngoài trước khi xuất cảnh từ Việt Nam có nợ thuế và các khoản thu khác thuộc ngân sách nhà nước do cơ quan quản lý thuế quản lý thu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan quản lý thuế, cơ quan nhà nước và các tổ chức khác có liên quan đến việc thực hiện Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Áp dụng ngưỡng tiền thuế nợ và thời gian nợ trong các trường hợp bị tạm hoãn xuất cảnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cá nhân kinh doanh, chủ hộ kinh doanh thuộc trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế có số tiền thuế nợ từ 50 triệu đồng trở lên và số tiền thuế nợ đã quá thời hạn nộp theo quy định trên 120 ngày.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cá nhân là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã thuộc trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế có số tiền thuế nợ từ 500 triệu đồng trở lên và số tiền thuế nợ đã quá thời hạn nộp theo quy định trên 120 ngày.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cá nhân kinh doanh, chủ hộ kinh doanh, cá nhân là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã không còn hoạt động tại địa chỉ đã đăng ký có số tiền thuế nợ quá thời hạn nộp theo quy định và sau thời gian 30 ngày kể từ ngày cơ quan quản lý thuế thông báo về việc sẽ áp dụng biện pháp tạm hoãn xuất cảnh mà chưa hoàn thành nghĩa vụ nộp thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Người Việt Nam xuất cảnh để định cư ở nước ngoài, người Việt Nam định cư ở nước ngoài, người nước ngoài trước khi xuất cảnh từ Việt Nam có số tiền thuế nợ quá thời hạn nộp theo quy định mà chưa hoàn thành nghĩa vụ nộp thuế.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Thông báo về việc tạm hoãn xuất cảnh và hủy bỏ tạm hoãn xuất cảnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khi người nộp thuế thuộc trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế theo quy định tại Điều 124 Luật Quản lý thuế , cơ quan quản lý thuế quản lý trực tiếp người nộp thuế thông báo ngay cho cá nhân quy định tại khoản 1 và khoản 2 Điều 3 Nghị định này về việc sẽ áp dụng biện pháp tạm hoãn xuất cảnh bằng phương thức điện tử qua tài khoản giao dịch thuế điện tử của người nộp thuế. Trường hợp không gửi được thông báo bằng phương thức điện tử thì cơ quan quản lý thuế thông báo trên trang thông tin điện tử của cơ quan quản lý thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với người nộp thuế quy định tại khoản 3 Điều 3 Nghị định này, cơ quan quản lý thuế quản lý trực tiếp người nộp thuế thông báo trên trang thông tin điện tử của cơ quan quản lý thuế về việc sẽ áp dụng biện pháp tạm hoãn xuất cảnh ngay sau khi ban hành Thông báo về việc người nộp thuế không hoạt động tại địa chỉ đã đăng ký.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với người nộp thuế quy định tại khoản 4 Điều 3 Nghị định này, cơ quan quản lý thuế quản lý trực tiếp người nộp thuế gửi thông báo về việc tạm hoãn xuất cảnh cho người nộp thuế bằng phương thức điện tử qua tài khoản giao dịch thuế điện tử của người nộp thuế ngay khi có thông tin về việc người Việt Nam chuẩn bị xuất cảnh để định cư ở nước ngoài, người Việt Nam định cư ở nước ngoài, người nước ngoài chuẩn bị xuất cảnh. Trường hợp không gửi được thông báo bằng phương thức điện tử thì cơ quan quản lý thuế thông báo trên trang thông tin điện tử của cơ quan quản lý thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Sau 30 ngày kể từ ngày gửi thông báo cho người nộp thuế quy định tại khoản 1, khoản 2, khoản 3 Điều 3 Nghị định này về việc sẽ áp dụng biện pháp tạm hoãn xuất cảnh bằng phương thức điện tử hoặc thông báo trên trang thông tin điện tử của cơ quan quản lý thuế mà người nộp thuế chưa hoàn thành nghĩa vụ nộp thuế, cơ quan quản lý thuế quản lý trực tiếp người nộp thuế ban hành văn bản về việc tạm hoãn xuất cảnh gửi cơ quan quản lý xuất nhập cảnh để thực hiện tạm hoãn xuất cảnh. Trường hợp người nộp thuế đã hoàn thành nghĩa vụ nộp thuế thì cơ quan quản lý thuế ban hành ngay thông báo hủy bỏ tạm hoãn xuất cảnh gửi cơ quan quản lý xuất nhập cảnh. Cơ quan quản lý xuất nhập cảnh thực hiện việc hủy bỏ tạm hoãn xuất cảnh trong vòng 24 giờ kể từ thời điểm nhận được thông báo của cơ quan quản lý thuế. Thông báo về việc tạm hoãn xuất cảnh, huỷ bỏ tạm hoãn xuất cảnh được gửi đến cơ quan quản lý xuất nhập cảnh bằng việc truyền nhận dữ liệu số giữa hệ thống ứng dụng công nghệ thông tin của cơ quan quản lý thuế và cơ quan quản lý xuất nhập cảnh. Trường hợp không thực hiện được bằng phương thức điện tử thì cơ quan quản lý thuế gửi thông báo tạm hoãn xuất cảnh, huỷ bỏ tạm hoãn xuất cảnh đến cơ quan quản lý xuất nhập cảnh bằng văn bản giấy.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Hiệu lực thi hành và tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ và các doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chỉ đạo các cơ quan, đơn vị trên địa bàn phối hợp để triển khai thực hiện Nghị định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (2b). TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Hồ Đức Phớc Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Mức ngưỡng tiền nợ thuế bị tạm hoãn xuất cảnh từ ngày 28/02/2025 Chính phủ ban hành ngưỡng tiền thuế nợ bị tạm hoãn xuất cảnh Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 49/2025/NĐ-CP quy định về ngưỡng áp dụng tạm hoãn xuất cảnh Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Mức ngưỡng tiền nợ thuế bị tạm hoãn xuất cảnh từ ngày 28/02/2025 Chính phủ ban hành ngưỡng tiền thuế nợ bị tạm hoãn xuất cảnh Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Mức ngưỡng tiền nợ thuế bị tạm hoãn xuất cảnh từ ngày 28/02/2025 Chính phủ ban hành ngưỡng tiền thuế nợ bị tạm hoãn xuất cảnh Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 49/2025/NĐ-CP quy định về ngưỡng áp dụng tạm hoãn xuất cảnh MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT OF VIETNAM --------- SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness --------------- No: 49/2025/ND-CP Hanoi, February 28, 2025 DECREE ON EXIT SUSPENSION THRESHOLDS",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

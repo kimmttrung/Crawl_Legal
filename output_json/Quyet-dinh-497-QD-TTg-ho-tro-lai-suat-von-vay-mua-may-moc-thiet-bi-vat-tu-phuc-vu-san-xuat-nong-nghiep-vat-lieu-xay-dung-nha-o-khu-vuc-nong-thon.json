@@ -1,0 +1,168 @@
+{
+    "ten_luat": "",
+    "so_hieu": "497/QĐ-TTg",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Nhà nước hỗ trợ lãi suất đối với các khoản vay ngắn, trung hạn ngân hàng bằng đồng Việt Nam của các tổ chức, cá nhân vay mua máy móc, thiết bị, phương tiện, vật tư phục vụ sản xuất nông nghiệp và vật liệu xây dựng nhà ở khu vực nông thôn.",
+                    "noi_dung_chung": "",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng và phạm vi áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các ngân hàng thương mại nhà nước, ngân hàng thương mại cổ phần, ngân hàng liên doanh, chi nhánh ngân hàng nước ngoài hoạt động tại Việt Nam, ngân hàng 100% vốn nước ngoài, công ty tài chính và Quỹ tín dụng nhân dân Trung ương (gọi chung là ngân hàng thương mại).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các khoản vay bằng đồng Việt Nam của các tổ chức, cá nhân vay để mua sắm máy móc, thiết bị, phương tiện, vật tư phục vụ sản xuất nông nghiệp và vật liệu xây dựng ở khu vực nông thôn, trừ các khoản vay đã được hỗ trợ lãi suất theo quy định tại Quyết định số 131/QĐ-TTg ngày 23 tháng 01 năm 2009 của Thủ tướng Chính phủ và Quyết định số 443/QĐ-TTg ngày 04 tháng 4 năm 2009 của Thủ tướng Chính phủ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Hàng hóa sản xuất trong nước được hỗ trợ lãi suất:",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sản phẩm máy móc, thiết bị cơ khí, phương tiện phục vụ sản xuất và chế biến nông nghiệp: a. Các loại động cơ đốt trong: động cơ nhỏ dưới 30 CV, động cơ thủy dưới 80 CV. b. Máy gặt đập liên hợp; c. Máy kéo, máy cày, máy xới, máy làm đất; d. Máy gặt, máy tuốt lúa, máy sấy nông sản, máy xát lúa gạo, máy bơm nước, máy phát điện, máy vò chè, máy tẽ ngô, máy gieo hạt; đ. Máy sục khí ô xy nuôi thủy sản, các loại ghe xuồng có gắn động cơ; e. Máy cắt cỏ, băm cỏ, máy nghiền, trộn, đóng viên, đóng bánh thức ăn cho gia súc, gia cầm, máy vắt sữa, máy ấp, nở gia cầm; g. Xe tải nhẹ. h. Máy vi tính để bàn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Vật tư phục vụ sản xuất nông nghiệp: a. Phân bón hóa học các loại; b. Thuốc bảo vệ thực vật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các loại vật liệu xây dựng chủ yếu để làm nhà ở khu vực nông thôn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc cho vay, hỗ trợ lãi suất và điều kiện được vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các ngân hàng thương mại cho vay theo cơ chế tín dụng thông thường; thực hiện hỗ trợ lãi suất theo quy định tại Quyết định này và theo hướng dẫn của Ngân hàng Nhà nước Việt Nam; thực hiện giảm trừ số tiền lãi được hỗ trợ vào số tiền lãi phải trả cho các tổ chức, cá nhân vay khi đến kỳ hạn thu lãi vay; không được từ chối hỗ trợ lãi suất, nếu khoản vay thuộc đối tượng được hỗ trợ lãi suất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện được vay đối với các tổ chức, cá nhân vay: a. Thuộc đối tượng theo quy định tại Điều 1 và hàng hóa tại Điều 3 của Quyết định này. b. Có địa chỉ cư trú hợp pháp và được Ủy ban nhân dân xã, phường, thị trấn xác nhận là người trực tiếp sản xuất (không phải mua về để bán lại). c. Có hợp đồng vay vốn với ngân hàng thương mại theo quy định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Mức tiền cho vay tối đa, mức lãi suất hỗ trợ, thời hạn hỗ trợ lãi suất",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mức tiền vay tối đa và mức lãi suất được hỗ trợ: a. Đối với các sản phẩm máy móc, thiết bị cơ khí, phương tiện phục vụ sản xuất, chế biến nông nghiệp và máy vi tính: mức tiền vay tối đa bằng 100% giá trị hàng hóa (riêng đối với máy vi tính, mức tiền vay tối đa không quá 05 triệu đồng/chiếc) và được hỗ trợ 100% lãi suất vay; b. Đối với các sản phẩm vật tư nông nghiệp: mức tiền vay tối đa bằng 100% giá trị hàng hóa nhưng không vượt quá 07 triệu đồng/ha và được hỗ trợ 4% lãi suất vay; c. Đối với vật liệu xây dựng các loại để làm nhà ở: mức tiền vay tối đa bằng 100% giá trị hàng hóa nhưng không vượt quá 50 triệu đồng và được hỗ trợ 4% lãi suất vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thời hạn hỗ trợ lãi suất: Các khoản vay theo hợp đồng tín dụng được ký kết, giải ngân trong khoảng thời gian từ ngày 01 tháng 5 năm 2009 đến ngày 31 tháng 12 năm 2009 của các tổ chức, cá nhân đối với: a. Các sản phẩm máy móc, thiết bị cơ khí, phương tiện phục vụ sản xuất, chế biến nông nghiệp và máy vi tính: thời hạn vay được hỗ trợ lãi suất tối đa là 24 tháng. b. Các sản phẩm vật tư nông nghiệp và vật liệu xây dựng các loại để làm nhà ở: thời hạn vay được hỗ trợ lãi suất tối đa là 12 tháng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Hoàn trả số tiền hỗ trợ lãi suất cho các ngân hàng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Nhà nước Việt Nam thực hiện hoàn trả số tiền cho các ngân hàng thương mại đã hỗ trợ lãi suất cho các tổ chức, cá nhân theo định kỳ hàng tháng trên cơ sở báo cáo và đề nghị của các ngân hàng thương mại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kinh phí hỗ trợ theo các quy định tại Quyết định này lấy từ nguồn hỗ trợ lãi suất của Chính phủ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Điều kiện đối với hàng hóa được hưởng chính sách hỗ trợ lãi suất vay vốn theo Quyết định này.",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sản phẩm được sản xuất trong nước",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sản phẩm phải được đăng ký, niêm yết giá bán và có nhãn hàng hóa theo quy định hiện hành của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Nhà nước Việt Nam chủ trì, phối hợp với Bộ Tài chính, Bộ Công Thương và Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn (bảo đảm thủ tục đơn giản, thuận tiện và phù hợp với điều kiện hoạt động của các tổ chức, cá nhân khu vực nông thôn), kiểm tra, giám sát và định kỳ báo cáo Thủ tướng Chính phủ việc thực hiện Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Công Thương chủ trì, phối hợp với các Bộ, ngành và địa phương tổ chức kiểm tra, giám sát nhằm bảo đảm hàng hóa được cung cấp đủ, đúng chất lượng và theo đúng các quy định tại Điều 7 Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương: a. Chỉ đạo chính quyền cấp xã, phường, thị trấn xác nhận đối tượng được vay vốn theo Quyết định này; b. Căn cứ khả năng ngân sách địa phương, chủ động hỗ trợ cho việc mua máy móc thiết bị, phương tiện, vật tư phục vụ sản xuất nông nghiệp và vật liệu xây dựng nhà ở nông thôn ngoài chủ trương hỗ trợ tại Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Thông tin và Truyền thông chỉ đạo các cơ quan thông tin đại chúng tuyên truyền, phổ biến công khai về chủ trương, chính sách, mặt hàng, đối tượng được hỗ trợ lãi suất để nhân dân biết và tiếp cận được nguồn vốn vay hỗ trợ của nhà nước quy định tại Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Các ngân hàng thương mại thực hiện hỗ trợ lãi suất theo đúng quy định tại Quyết định này và hướng dẫn của Ngân hàng Nhà nước Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các tổ chức, cá nhân: a. Thực hiện thủ tục vay theo đúng hướng dẫn của ngân hàng thương mại cho vay. b. Chịu trách nhiệm trước pháp luật về việc sử dụng tiền vay, bảo đảm đúng mục đích, hoàn trả nợ gốc và lãi vay đầy đủ, đúng thời hạn theo quy định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+                    "noi_dung_chung": "Điều 10. Thống đốc Ngân hàng Nhà nước Việt Nam, các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng quản trị, Tổng giám đốc các ngân hàng thương mại chịu trách nhiệm thi hành Quyết định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - VP BCĐ TW về phòng, chống tham nhũng; - HĐND, UBND các tỉnh, thành phố trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - UB Giám sát tài chính QG; - Kiểm toán Nhà nước; - Ngân hàng Chính sách Xã hội; - Ngân hàng Phát triển Việt Nam; - UBTW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, KTTH (5b). THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 497/QĐ-TTg năm 2009 về hỗ trợ lãi suất vốn vay mua máy móc thiết bị, vật tư phục vụ sản xuất nông nghiệp và vật liệu xây dựng nhà ở khu vực nông thôn do Thủ tướng Chính phủ ban hành Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 497/QĐ-TTg năm 2009 về hỗ trợ lãi suất vốn vay mua máy móc thiết bị, vật tư phục vụ sản xuất nông nghiệp và vật liệu xây dựng nhà ở khu vực nông thôn do Thủ tướng Chính phủ ban hành MỤC LỤC VĂN BẢN In mục lục In mục lục THE PRIME MINISTER ----------------- SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness ------------------------ No. 497/QD-TTg Hanoi, April 17, 2009 DECISION ON GIVING INTEREST RATE SUPPORT TO LOANS FOR PROCUREMENT OF MACHINE, EQUIPMENTS, MATERIALS TO SERVE AGRICULTURAL PRODUCTION AND MATERIALS FOR BUILDING DWELLING HOUSES IN RURAL AREAS THE PRIME MINISTER OF GOVERNMENT",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1049 @@
+{
+    "ten_luat": "Nghị định 71/2016/NĐ-CP trình tự thủ tục thi hành án hành chính xử lý trách nhiệm người không thi hành",
+    "so_hieu": "71/2016/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định thời hạn, trình tự, thủ tục thi hành bản án, quyết định của Tòa án về vụ án hành chính; biện pháp xử lý trách nhiệm đối với người không thi hành bản án, quyết định của Tòa án; nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân trong thi hành án hành chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "Nghị định này áp dụng đối với cơ quan quản lý nhà nước về thi hành án hành chính; cơ quan thi hành án dân sự; cơ quan, tổ chức, cá nhân có liên quan đến công tác thi hành án hành chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thi hành án hành chính là việc thi hành bản án, quyết định của Tòa án về vụ án hành chính được thi hành quy định tại Điều 309 Luật tố tụng hành chính , trừ quyết định về phần tài sản trong bản án, quyết định của Tòa án về vụ án hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đương sự bao gồm người được thi hành án, người phải thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người được thi hành án là cá nhân, cơ quan, tổ chức được hưởng quyền lợi trong bản án, quyết định của Tòa án về vụ án hành chính được thi hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Người phải thi hành án là cá nhân, cơ quan, tổ chức phải thực hiện nghĩa vụ trong bản án, quyết định của Tòa án về vụ án hành chính được thi hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Người có quyền lợi, nghĩa vụ liên quan là cá nhân, cơ quan, tổ chức có quyền lợi, nghĩa vụ liên quan trực tiếp đến việc thực hiện quyền, nghĩa vụ thi hành án hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Chậm thi hành án là hành vi cố ý của người phải thi hành án không chấp hành bản án, quyết định của Tòa án về vụ án hành chính trong thời hạn tự nguyện thi hành án quy định tại khoản 2 Điều 311 Luật tố tụng hành chính .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Không chấp hành án là hành vi cố ý của người phải thi hành án không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án về vụ án hành chính khi đã có quyết định buộc thi hành bản án, quyết định của Tòa án (sau đây gọi là quyết định buộc thi hành án hành chính) hoặc có biên bản yêu cầu tổ chức thi hành án của Chấp hành viên theo quy định tại khoản 2 Điều 19 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Cản trở việc thi hành án là hành vi trái pháp luật tác động đến quá trình thi hành án dẫn đến chậm thi hành, không thi hành hoặc thi hành không đầy đủ nội dung bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Vi phạm gây hậu quả nghiêm trọng trong thi hành án hành chính là trường hợp vi phạm làm ảnh hưởng đến uy tín của cá nhân, cơ quan, tổ chức nơi cán bộ, công chức, viên chức đang công tác hoặc gây thiệt hại về tiền, tài sản phải bồi thường một lần có giá trị dưới 20 triệu đồng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Vi phạm gây hậu quả rất nghiêm trọng trong thi hành án hành chính là trường hợp vi phạm làm giảm uy tín của cá nhân, cơ quan, tổ chức nơi cán bộ, công chức, viên chức đang công tác hoặc gây thiệt hại về tiền, tài sản phải bồi thường một lần có giá trị từ 20 triệu đồng đến dưới 50 triệu đồng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Vi phạm gây hậu quả đặc biệt nghiêm trọng trong thi hành án hành chính là trường hợp vi phạm làm mất uy tín của cá nhân, cơ quan, tổ chức nơi cán bộ, công chức, viên chức đang công tác; mất đoàn kết nội bộ, gây dư luận xấu, bức xúc trong cán bộ, đảng viên và nhân dân; làm mất niềm tin của nhân dân đối với cơ quan, tổ chức hoặc gây thiệt hại về tiền, tài sản phải bồi thường một lần có giá trị từ 50 triệu đồng trở lên.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc thực hiện trình tự, thủ tục và xử lý trách nhiệm trong thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chấp hành nghiêm bản án, quyết định của Tòa án, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người được thi hành án, người phải thi hành án bình đẳng trước pháp luật. Mọi hành vi vi phạm pháp luật về thi hành án hành chính đều phải được xử lý kịp thời, khách quan, nghiêm minh theo đúng quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xác định trách nhiệm của người đứng đầu của cơ quan, tổ chức, cá nhân là người phải thi hành án, cơ quan cấp trên trực tiếp của người phải thi hành án trong thi hành án hành chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Quyền, nghĩa vụ của người được thi hành án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người được thi hành án có các quyền theo quy định của Luật tố tụng hành chính và các quyền sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Yêu cầu người phải thi hành án thực hiện nghĩa vụ trong bản án, quyết định của Tòa án theo quy định của Luật tố tụng hành chính , Nghị định này và pháp luật có liên quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Yêu cầu Tòa án đã ra bản án, quyết định giải thích những điểm chưa rõ, đính chính sai sót trong bản án, quyết định để thi hành;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Được thông báo về thi hành án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đề nghị Tòa án đã xét xử sơ thẩm ra quyết định buộc thi hành án hành chính khi hết thời hạn tự nguyện thi hành án;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đề nghị người đứng đầu, người đứng đầu cơ quan cấp trên trực tiếp của người phải thi hành án kiểm tra, đôn đốc, chỉ đạo và xem xét xử lý trách nhiệm đối với người phải thi hành án, người đứng đầu của người phải thi hành án trong trường hợp chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Đề nghị cơ quan thi hành án dân sự nơi Tòa án đã xét xử sơ thẩm theo dõi việc thi hành án hành chính theo quy định của Nghị định này và pháp luật có liên quan;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Khiếu nại, tố cáo về thi hành án hành chính;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Ủy quyền cho người khác thực hiện quyền và nghĩa vụ của mình."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người được thi hành án có các nghĩa vụ theo quy định của Luật tố tụng hành chính và các nghĩa vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thi hành bản án, quyết định của Tòa án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thông báo cho người phải thi hành án, cơ quan, tổ chức, cá nhân có liên quan khi có thay đổi về địa chỉ, nơi cư trú;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thông báo kết quả thi hành án cho Tòa án đã xét xử sơ thẩm, người đứng đầu cơ quan cấp trên trực tiếp và cơ quan thi hành án dân sự nơi Tòa án đã xét xử sơ thẩm trong trường hợp người được thi hành án là cơ quan."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Quyền, nghĩa vụ của người phải thi hành án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người phải thi hành án có các quyền theo quy định của Luật tố tụng hành chính và các quyền sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Được thông báo về thi hành án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Yêu cầu Tòa án đã ra bản án, quyết định giải thích những điểm chưa rõ, đính chính sai sót trong bản án, quyết định để thi hành;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khiếu nại, tố cáo về thi hành án hành chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người phải thi hành án có các nghĩa vụ theo quy định của Luật tố tụng hành chính và các nghĩa vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chấp hành đúng, đầy đủ, kịp thời bản án, quyết định của Tòa án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thông báo cho người được thi hành án, cơ quan, tổ chức, cá nhân có liên quan khi có thay đổi về địa chỉ, nơi cư trú;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thông báo kết quả thi hành án cho Tòa án đã xét xử sơ thẩm, người đứng đầu cơ quan cấp trên trực tiếp và cơ quan thi hành án dân sự nơi Tòa án đã xét xử sơ thẩm trong trường hợp người phải thi hành án là cơ quan;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Cung cấp thông tin, các tài liệu có liên quan về quá trình và kết quả thi hành án theo yêu cầu của cơ quan thi hành án dân sự và các cơ quan có thẩm quyền."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Trách nhiệm của người đứng đầu cơ quan, tổ chức, cá nhân là người phải thi hành án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức thi hành bản án, quyết định của Tòa án; chịu trách nhiệm theo quy định của pháp luật và trước người đứng đầu cơ quan cấp trên trực tiếp về việc để xảy ra chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án tại cơ quan, tổ chức do mình là người đứng đầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xử lý kỷ luật đối với cá nhân thuộc phạm vi quản lý có hành vi chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xem xét xử lý trách nhiệm đối với người phải thi hành án theo kiến nghị của cơ quan thi hành án dân sự, cơ quan quản lý nhà nước về thi hành án hành chính và thông báo kết quả giải quyết cho cơ quan đã kiến nghị trong thời hạn 05 ngày làm việc.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Trách nhiệm của người đứng đầu cơ quan cấp trên trực tiếp của người phải thi hành án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm tra, đôn đốc và xử lý trách nhiệm đối với người phải thi hành án thuộc thẩm quyền quản lý theo quy định của Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xem xét xử lý kỷ luật hoặc đề nghị cơ quan, người có thẩm quyền xử lý kỷ luật đối với người đứng đầu cơ quan, tổ chức, cá nhân có hành vi chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xem xét xử lý trách nhiệm đối với người phải thi hành án theo kiến nghị của cơ quan thi hành án dân sự, cơ quan quản lý nhà nước về thi hành án hành chính và thông báo kết quả giải quyết cho cơ quan đã kiến nghị trong thời hạn 05 ngày làm việc.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Giải quyết khiếu nại, tố cáo về thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đương sự và người có quyền lợi, nghĩa vụ liên quan có quyền khiếu nại các quyết định, hành vi của cơ quan, tổ chức, cá nhân phát sinh trong quá trình thi hành án hành chính khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình. Việc giải quyết khiếu nại được thực hiện theo quy định của pháp luật về khiếu nại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Công dân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của cán bộ, công chức, viên chức trong quá trình thi hành án hành chính gây thiệt hại hoặc đe dọa gây thiệt hại lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cá nhân, cơ quan, tổ chức. Việc giải quyết tố cáo được thực hiện theo quy định của pháp luật về tố cáo.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "THỜI HẠN, TRÌNH TỰ, THỦ TỤC THI HÀNH ÁN HÀNH CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Tự nguyện thi hành án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người phải thi hành án có trách nhiệm thi hành bản án, quyết định của Tòa án trong thời hạn quy định tại khoản 2 Điều 311 Luật tố tụng hành chính .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trong thời hạn 03 ngày làm việc, kể từ ngày hết thời hạn tự nguyện thi hành án quy định tại khoản 2 Điều 311 Luật tố tụng hành chính , cơ quan phải thi hành án phải thông báo bằng văn bản tình hình, kết quả thi hành án cho Tòa án đã xét xử sơ thẩm, Viện kiểm sát và cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm, đồng thời báo cáo cơ quan cấp trên trực tiếp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Yêu cầu ra quyết định buộc thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khi hết thời hạn tự nguyện thi hành án quy định tại điểm b khoản 2 Điều 311 Luật tố tụng hành chính mà người phải thi hành án không tự nguyện thi hành thì người được thi hành án có quyền đề nghị Tòa án đã xét xử sơ thẩm ra quyết định buộc thi hành án hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người được thi hành án tự mình hoặc ủy quyền cho người khác yêu cầu Tòa án ra quyết định buộc thi hành án hành chính bằng hình thức trực tiếp nộp đơn, trình bày bằng lời nói, gửi đơn qua dịch vụ bưu chính hoặc các hình thức khác theo quy định của pháp luật. Ngày yêu cầu ra quyết định buộc thi hành án hành chính được tính từ ngày người yêu cầu nộp đơn hoặc trình bày trực tiếp hoặc ngày có dấu bưu điện nơi gửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đơn yêu cầu ra quyết định buộc thi hành án hành chính có các nội dung chủ yếu sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên, địa chỉ của người yêu cầu;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tên Tòa án đã xét xử sơ thẩm được yêu cầu;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tên, địa chỉ của người được thi hành án, người phải thi hành án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nội dung yêu cầu thi hành án;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Ngày, tháng, năm làm đơn;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Chữ ký hoặc điểm chỉ của người làm đơn; trường hợp là pháp nhân thì phải có chữ ký của người đại diện hợp pháp và đóng dấu của pháp nhân."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đơn yêu cầu thi hành án được gửi kèm theo bản sao bản án, quyết định của Tòa án và các tài liệu khác có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Thi hành bản án, quyết định của Tòa án khi có quyết định buộc thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khi nhận được quyết định buộc thi hành án hành chính, người phải thi hành án có trách nhiệm thi hành ngay bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan, tổ chức, cá nhân phải thi hành án có trách nhiệm tổ chức thi hành bản án, quyết định của Tòa án, chịu trách nhiệm trước pháp luật và trước người đứng đầu cơ quan cấp trên trực tiếp về việc không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong thời hạn 05 ngày làm việc, kể từ ngày bản án, quyết định được thi hành xong, cơ quan phải thi hành án thông báo kết quả cho Tòa án đã xét xử sơ thẩm, Viện kiểm sát và cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm, đồng thời báo cáo cơ quan cấp trên trực tiếp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Chỉ đạo, đôn đốc việc thực hiện quyết định buộc thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được quyết định buộc thi hành án hành chính, người đứng đầu cơ quan cấp trên trực tiếp của người phải thi hành án có trách nhiệm ban hành văn bản chỉ đạo người phải thi hành án nghiêm chỉnh thi hành bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp đã nhận được văn bản chỉ đạo quy định tại khoản 1 Điều này mà người phải thi hành án vẫn không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án thì người đứng đầu cơ quan cấp trên trực tiếp có văn bản chỉ đạo về việc xem xét xử lý trách nhiệm hoặc đề nghị cơ quan, người có thẩm quyền xem xét xử lý trách nhiệm đối với người đứng đầu của cơ quan, tổ chức, cá nhân là người phải thi hành án theo quy định tại Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các văn bản chỉ đạo quy định tại khoản 1 và khoản 2 Điều này phải được gửi cho Tòa án đã ra quyết định buộc thi hành án hành chính, Viện kiểm sát và cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Tiếp nhận bản án, quyết định của Tòa án, theo dõi việc thi hành án hành chính, quyết định buộc thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm có trách nhiệm tiếp nhận bản án, quyết định của Tòa án về vụ án hành chính do Tòa án gửi. Khi tiếp nhận bản án, quyết định, cơ quan thi hành án dân sự phải kiểm tra, vào sổ nhận bản án, quyết định. Sổ nhận bản án, quyết định phải ghi rõ số thứ tự; ngày, tháng, năm nhận bản án, quyết định; số, ngày, tháng, năm của bản án, quyết định và tên Tòa án ra bản án, quyết định; tên, địa chỉ của đương sự và tài liệu khác có liên quan. Việc giao, nhận trực tiếp bản án, quyết định phải có chữ ký của hai bên; trường hợp nhận được bản án, quyết định và tài liệu có liên quan bằng dịch vụ bưu chính thì cơ quan thi hành án dân sự phải thông báo bằng văn bản cho Tòa án đã gửi biết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khi nhận được bản án, quyết định của Tòa án, cơ quan thi hành án dân sự phân công Chấp hành viên thực hiện theo dõi việc thi hành án hành chính. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được bản án, quyết định của Tòa án, cơ quan thi hành án dân sự có trách nhiệm ra văn bản thông báo về việc tự nguyện thi hành án gửi người phải thi hành án. Nội dung thông báo nêu rõ thời hạn tự nguyện, trách nhiệm tổ chức thi hành án, việc xử lý trách nhiệm nếu không chấp hành án. Đối với bản án, quyết định của Tòa án quy định tại điểm e và điểm g khoản 1 Điều 311 Luật tố tụng hành chính thì phải ra ngay thông báo về việc tự nguyện thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được quyết định buộc thi hành án hành chính, Chấp hành viên được phân công theo dõi việc thi hành án phải làm việc với người phải thi hành án để yêu cầu thực hiện nghĩa vụ trong bản án, quyết định của Tòa án. Nội dung làm việc phải được lập thành biên bản.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan thi hành án dân sự có quyền yêu cầu người được thi hành án, người phải thi hành án, thủ trưởng trực tiếp của người phải thi hành án cung cấp thông tin, tài liệu có liên quan về quá trình và kết quả thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan thi hành án dân sự có văn bản kiến nghị cơ quan, người có thẩm quyền xử lý trách nhiệm đối với người phải thi hành án chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án theo quy định của Luật tố tụng hành chính và Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thủ trưởng cơ quan thi hành án dân sự có quyền yêu cầu Tòa án đã ra bản án, quyết định giải thích bằng văn bản những điểm chưa rõ, đính chính sai sót trong bản án, quyết định để thi hành; kiến nghị người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm đối với bản án, quyết định theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Chấp hành viên được phân công có trách nhiệm lập hồ sơ theo dõi thi hành án hành chính; cập nhật và bổ sung đầy đủ các tài liệu vào hồ sơ vụ việc. Hồ sơ gồm: Hồ sơ thi hành án hành chính phải thể hiện toàn bộ quá trình theo dõi, kiểm tra, đôn đốc thi hành án hành chính và được lưu trữ theo quy định của pháp luật về lưu trữ. Mục 2. THI HÀNH ÁN HÀNH CHÍNH TRONG CÁC TRƯỜNG HỢP CỤ THỂ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bản án, quyết định của Tòa án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Văn bản thông báo về việc tự nguyện thi hành án;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thông báo kết quả thi hành án hành chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Quyết định buộc thi hành án hành chính, nếu có;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Các văn bản chỉ đạo của người đứng đầu cơ quan cấp trên trực tiếp của người phải thi hành án, nếu có;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Quyết định xử lý trách nhiệm do chậm thi hành án, không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án, nếu có;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Các tài liệu khác có liên quan."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Thi hành bản án, quyết định của Tòa án về việc không chấp nhận yêu cầu khởi kiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp bản án, quyết định của Tòa án về việc không chấp nhận yêu cầu khởi kiện quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, danh sách cử tri mà quyết định đó chưa được thi hành hoặc mới thi hành được một phần thì các bên đương sự phải tiếp tục thi hành quyết định đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan có thẩm quyền có quyền áp dụng biện pháp cưỡng chế hành chính để thi hành quyết định hành chính có hiệu lực theo quy định của pháp luật. Việc thi hành quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh được thực hiện theo quy định của pháp luật về cạnh tranh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Thi hành bản án, quyết định của Tòa án đã hủy toàn bộ hoặc một phần quyết định hành chính, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp bản án, quyết định của Tòa án tuyên hủy toàn bộ quyết định hành chính, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, người phải thi hành án phải thực hiện nhiệm vụ, công vụ theo nội dung bản án, quyết định của Tòa án và theo quy định của pháp luật; thực hiện kiến nghị của Tòa án về việc xử lý đối với quyết định hành chính trái pháp luật đã bị hủy; trường hợp quyết định đó đã được thi hành toàn bộ hoặc một phần thì cơ quan đã ban hành quyết định hành chính phải thực hiện các thủ tục, biện pháp để khôi phục quyền và lợi ích hợp pháp của các bên theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp bản án, quyết định của Tòa án tuyên hủy một phần quyết định hành chính, quyết định giải quyết khiếu nại về quyết định xử lý vụ việc cạnh tranh, người phải thi hành án phải thực hiện nhiệm vụ, công vụ theo nội dung bản án, quyết định của Tòa án và theo quy định của pháp luật; thực hiện kiến nghị của Tòa án về việc xử lý đối với phần quyết định hành chính trái pháp luật đã bị hủy; trường hợp phần quyết định bị hủy đã được thi hành toàn bộ hoặc một phần thì cơ quan đã ban hành quyết định hành chính phải thực hiện các thủ tục, biện pháp để khôi phục quyền và lợi ích hợp pháp của các bên theo quy định của pháp luật. Các bên có trách nhiệm thi hành phần không bị tuyên hủy trong bản án, quyết định của Tòa án theo quy định tại Điều 15 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Thi hành bản án, quyết định của Tòa án đã hủy quyết định kỷ luật buộc thôi việc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp bản án, quyết định của Tòa án đã hủy quyết định kỷ luật buộc thôi việc thì người đứng đầu cơ quan, tổ chức đã ra quyết định kỷ luật buộc thôi việc phải nhận người bị buộc thôi việc trở lại làm việc và công bố công khai theo quy định của pháp luật về cán bộ, công chức, viên chức. Việc tiếp nhận trở lại làm việc phải lập thành biên bản, có sự chứng kiến và ký tên vào biên bản của Chấp hành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sau 03 ngày làm việc, kể từ ngày nhận được quyết định buộc thi hành án hành chính mà người phải thi hành án vẫn không tiếp nhận người bị buộc thôi việc trở lại làm việc, cơ quan thi hành án dân sự yêu cầu các bên đến trụ sở cơ quan thi hành án dân sự để lập biên bản ghi nhận sự việc. Biên bản nêu rõ lý do không thi hành án, ghi nhận ý kiến của các bên, vướng mắc, khó khăn để làm căn cứ xem xét xử lý trách nhiệm. Trường hợp một trong các bên vắng mặt không có lý do chính đáng, cơ quan thi hành án dân sự vẫn lập biên bản để làm căn cứ xem xét xử lý trách nhiệm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Thi hành bản án, quyết định của Tòa án về hành vi hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp bản án, quyết định của Tòa án đã tuyên bố hành vi hành chính đã thực hiện là trái pháp luật thì người phải thi hành án phải chấm dứt thực hiện hành vi hành chính đó kể từ ngày nhận được bản án, quyết định của Tòa án. Việc chấm dứt thực hiện hành vi hành chính phải được lập thành biên bản, có sự chứng kiến và ký tên vào biên bản của Chấp hành viên. Người được thi hành án có quyền yêu cầu cơ quan thi hành án dân sự lập biên bản về việc người phải thi hành án vẫn tiếp tục thực hiện hành vi trái pháp luật sau khi đã bị Tòa án tuyên là trái pháp luật. Người đứng đầu cơ quan của người thực hiện hành vi hành chính trái pháp luật có trách nhiệm yêu cầu người đó chấm dứt thực hiện hành vi hành chính theo đúng bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp bản án, quyết định của Tòa án tuyên bố hành vi không thực hiện nhiệm vụ, công vụ là trái pháp luật thì người phải thi hành án phải thực hiện nhiệm vụ, công vụ theo quy định của pháp luật kể từ ngày nhận được bản án, quyết định của Tòa án. Người được thi hành án có quyền yêu cầu cơ quan thi hành án dân sự lập biên bản về việc người phải thi hành án vẫn không thực hiện nhiệm vụ, công vụ theo quy định của pháp luật. Người đứng đầu cơ quan của người không thực hiện hành vi hành chính có trách nhiệm tổ chức thực hiện nhiệm vụ, công vụ theo đúng bản án, quyết định của Tòa án.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Thi hành bản án, quyết định buộc sửa đổi, bổ sung danh sách cử tri, quyết định áp dụng biện pháp khẩn cấp tạm thời",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan phải thi hành án phải thực hiện ngay việc sửa đổi, bổ sung danh sách cử tri; tạm đình chỉ việc thi hành quyết định hành chính, quyết định kỷ luật buộc thôi việc, quyết định xử lý vụ việc cạnh tranh; tạm dừng việc thực hiện hành vi hành chính; không thực hiện hoặc phải thực hiện hành vi nhất định theo đúng quyết định áp dụng biện pháp khẩn cấp tạm thời. Việc sửa đổi, bổ sung danh sách cử tri, thực hiện biện pháp khẩn cấp tạm thời phải được lập thành biên bản, có sự chứng kiến và ký tên vào biên bản của Chấp hành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp người phải thi hành án không sửa đổi, bổ sung danh sách cử tri, không thực hiện quyết định áp dụng biện pháp khẩn cấp tạm thời thì người được thi hành án có quyền yêu cầu cơ quan thi hành án dân sự lập biên bản về việc người phải thi hành án không chấp hành án, đồng thời thực hiện quyền theo quy định tại điểm đ, điểm e khoản 1 Điều 5 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "XỬ LÝ TRÁCH NHIỆM TRONG THI HÀNH ÁN HÀNH CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Xử lý kỷ luật đối với cán bộ, công chức, viên chức trong thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Công chức, viên chức có hành vi vi phạm pháp luật về thi hành án hành chính thì tùy theo tính chất, mức độ vi phạm có thể bị xử lý kỷ luật theo quy định tại các điều 21, 22, 23 , 24, 25 và Điều 26 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nguyên tắc, thẩm quyền, trình tự, thủ tục và các nội dung khác có liên quan đến việc xử lý kỷ luật công chức, viên chức vi phạm trong thi hành án hành chính chưa được quy định tại Nghị định này được thực hiện theo quy định của pháp luật về xử lý kỷ luật đối với công chức, viên chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc áp dụng các hình thức kỷ luật, thẩm quyền, trình tự, thủ tục xử lý kỷ luật cán bộ vi phạm trong thi hành án hành chính được thực hiện theo quy định của pháp luật, điều lệ của Đảng Cộng sản Việt Nam, tổ chức chính trị - xã hội và văn bản của cơ quan, tổ chức có thẩm quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kết quả xử lý kỷ luật được gửi cho Tòa án đã xét xử sơ thẩm, Viện kiểm sát và cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Khiển trách",
+                    "noi_dung_chung": "Hình thức kỷ luật khiển trách áp dụng đối với công chức, viên chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chậm thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chấp hành nhưng không đúng nội dung bản án, quyết định của Tòa án trong thời hạn tự nguyện quy định tại khoản 2 Điều 311 Luật tố tụng hành chính .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lợi dụng chức vụ, quyền hạn cản trở việc thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Từ chối làm việc hoặc không cung cấp, cung cấp nhưng không đầy đủ thông tin, tài liệu có liên quan về quá trình, kết quả thi hành án cho các cơ quan có thẩm quyền theo quy định của Luật tố tụng hành chính và Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Có thái độ hách dịch, cửa quyền hoặc gây khó khăn, phiền hà đối với người được thi hành án trong quá trình tổ chức thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan, tổ chức thiếu trách nhiệm trong việc chỉ đạo, kiểm tra, đôn đốc thi hành án hành chính để xảy ra hậu quả nghiêm trọng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Cảnh cáo",
+                    "noi_dung_chung": "Hình thức kỷ luật cảnh cáo áp dụng đối với công chức, viên chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có hành vi quy định tại khoản 1, 2 hoặc 3 Điều 21 Nghị định này và gây hậu quả nghiêm trọng nhưng đã thành khẩn kiểm điểm trong quá trình xem xét xử lý kỷ luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sau khi có quyết định buộc thi hành án hành chính mà vẫn không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bị phạt tù cho hưởng án treo hoặc cải tạo không giam giữ về tội không chấp hành án hoặc tội cản trở việc thi hành án đối với công chức không giữ chức vụ lãnh đạo, quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Viên chức không giữ chức vụ lãnh đạo, quản lý có một trong các hành vi quy định tại Điều 23 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan, tổ chức thiếu trách nhiệm trong việc chỉ đạo, kiểm tra, đôn đốc thi hành án hành chính để xảy ra hậu quả rất nghiêm trọng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Hạ bậc lương",
+                    "noi_dung_chung": "Hình thức kỷ luật hạ bậc lương áp dụng đối với công chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có hành vi quy định tại khoản 1, 2 hoặc 3 Điều 21 Nghị định này và gây hậu quả nghiêm trọng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sau khi có quyết định buộc thi hành án hành chính mà vẫn không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án và gây hậu quả nghiêm trọng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Giáng chức",
+                    "noi_dung_chung": "Hình thức kỷ luật giáng chức áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sau khi có quyết định buộc thi hành án hành chính mà vẫn không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án và gây hậu quả rất nghiêm trọng nhưng đã thành khẩn kiểm điểm trong quá trình xem xét xử lý kỷ luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan, tổ chức thiếu trách nhiệm trong việc chỉ đạo, kiểm tra, đôn đốc thi hành án hành chính, để xảy ra hậu quả đặc biệt nghiêm trọng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Cách chức",
+                    "noi_dung_chung": "Hình thức kỷ luật cách chức áp dụng đối với công chức, viên chức giữ chức vụ lãnh đạo, quản lý có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sau khi có quyết định buộc thi hành án hành chính mà vẫn không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án và gây hậu quả rất nghiêm trọng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bị phạt tù cho hưởng án treo hoặc cải tạo không giam giữ về tội không chấp hành án hoặc tội cản trở việc thi hành án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Viên chức giữ chức vụ lãnh đạo, quản lý có một trong các hành vi quy định tại Điều 24 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Buộc thôi việc",
+                    "noi_dung_chung": "Hình thức kỷ luật buộc thôi việc áp dụng đối với công chức, viên chức có một trong các hành vi vi phạm pháp luật về thi hành án hành chính sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sau khi có quyết định buộc thi hành án hành chính mà vẫn không chấp hành, chấp hành không đúng hoặc không đầy đủ nội dung bản án, quyết định của Tòa án và gây hậu quả đặc biệt nghiêm trọng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bị phạt tù mà không được hưởng án treo về tội không chấp hành án hoặc tội cản trở việc thi hành án. Mục 2. XỬ PHẠT VI PHẠM HÀNH CHÍNH, TRUY CỨU TRÁCH NHIỆM HÌNH SỰ, TRÁCH NHIỆM VẬT CHẤT TRONG THI HÀNH ÁN HÀNH CHÍNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Xử phạt vi phạm hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân cố ý không chấp hành án hoặc cản trở thi hành án thì tùy từng trường hợp mà bị xử phạt vi phạm hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thẩm quyền, trình tự, thủ tục xử phạt, mức xử phạt vi phạm hành chính thực hiện theo quy định của pháp luật về xử lý vi phạm hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kết quả xử phạt vi phạm hành chính được gửi cho Tòa án đã xét xử sơ thẩm, Viện kiểm sát và cơ quan thi hành án dân sự cùng cấp với Tòa án đã xét xử sơ thẩm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Truy cứu trách nhiệm hình sự",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người nào có hành vi không thi hành án, không chấp hành án, cố ý cản trở việc thi hành án có đủ yếu tố cấu thành tội phạm thì bị truy cứu trách nhiệm hình sự theo quy định của Bộ luật hình sự .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người đứng đầu, người đứng đầu cơ quan cấp trên trực tiếp của người phải thi hành án, cơ quan thi hành án dân sự, cơ quan quản lý nhà nước về thi hành án hành chính tùy theo chức năng, nhiệm vụ, quyền hạn của mình, có trách nhiệm đề nghị cơ quan có thẩm quyền truy cứu trách nhiệm hình sự đối với người có dấu hiệu vi phạm pháp luật hình sự trong thi hành án hành chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Trách nhiệm vật chất",
+                    "noi_dung_chung": "Người phải thi hành án trong quá trình thi hành án mà gây ra thiệt hại thì phải khắc phục hậu quả, bồi thường thiệt hại, hoàn trả theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước, pháp luật về dân sự. Mục 3. CÁC BIỆN PHÁP XỬ LÝ KHÁC",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Công khai thông tin về việc không chấp hành án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định buộc thi hành án hành chính, Cục Thi hành án dân sự tổ chức công khai quyết định buộc thi hành án hành chính bằng hình thức đăng tải trên Trang thông tin điện tử của Cục Thi hành án dân sự đối với các vụ việc thuộc thẩm quyền theo dõi của Cục và các Chi cục Thi hành án dân sự trực thuộc; đồng thời tích hợp trên Cổng thông tin điện tử của Tổng cục Thi hành án dân sự thuộc Bộ Tư pháp và Cổng thông tin điện tử Chính phủ đối với các vụ việc người phải thi hành án là Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thông tin công khai gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên, địa chỉ của người phải thi hành án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Số, ngày, tháng, năm và tên Tòa án ra quyết định buộc thi hành án hành chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nghĩa vụ phải thi hành."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được thông báo kết quả về việc thi hành xong, Cục Thi hành án dân sự đã công khai thông tin phải chấm dứt công khai thông tin.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Xem xét đánh giá, phân loại cán bộ, công chức, viên chức vi phạm pháp luật về thi hành án hành chính",
+                    "noi_dung_chung": "Cơ quan, người có thẩm quyền không xét thi đua, khen thưởng; không đánh giá, phân loại ở mức độ hoàn thành tốt nhiệm vụ, hoàn thành xuất sắc nhiệm vụ đối với cán bộ, công chức, viên chức vi phạm pháp luật về thi hành án hành chính.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "NHIỆM VỤ, QUYỀN HẠN CỦA CÁC CƠ QUAN, TỔ CHỨC TRONG THI HÀNH ÁN HÀNH CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Nhiệm vụ, quyền hạn của Bộ Tư pháp trong thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về thi hành án hành chính theo quy định tại khoản 2 Điều 313 Luật tố tụng hành chính .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Tư pháp giúp Chính phủ phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong công tác quản lý nhà nước về thi hành án hành chính với các nhiệm vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ban hành văn bản hoặc trình cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về thi hành án hành chính;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Theo dõi, kiểm tra, giải quyết khiếu nại, tố cáo về quản lý thi hành án hành chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng báo cáo, thống kê, sơ kết, tổng kết về công tác thi hành án hành chính theo định kỳ 6 tháng và hàng năm."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Tư pháp chủ trì, phối hợp với các bộ, ngành, cơ quan có liên quan giúp Thủ tướng Chính phủ kiểm tra, đôn đốc việc thi hành án; báo cáo, đề xuất trong trường hợp đề nghị Thủ tướng Chính phủ xử lý trách nhiệm đối với người phải thi hành án là Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tổng cục Thi hành án dân sự thuộc Bộ Tư pháp giúp Bộ trưởng Bộ Tư pháp thực hiện các nhiệm vụ và quyền hạn quy định tại khoản 1, 2 và 3 Điều này và các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Nhiệm vụ, quyền hạn của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chỉ đạo, hướng dẫn tổ chức thực hiện các bản án, quyết định của Tòa án liên quan đến lĩnh vực mình quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghiêm chỉnh thực hiện nghĩa vụ của người phải thi hành án quy định tại khoản 2 Điều 6 Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xây dựng tiêu chí đánh giá cán bộ, xét thi đua khen thưởng đối với các cơ quan, tổ chức, cá nhân thuộc phạm vi quản lý trong việc thi hành án hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Định kỳ 6 tháng, hàng năm hoặc đột xuất, báo cáo tình hình, kết quả thi hành án hành chính của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ gửi Bộ Tư pháp để tổng hợp, báo cáo Chính phủ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp trong thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh, cấp huyện chỉ đạo Ủy ban nhân dân cấp dưới và các cơ quan chuyên môn thuộc Ủy ban nhân dân nghiêm chỉnh thi hành án hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghiêm chỉnh thực hiện nghĩa vụ của người phải thi hành án quy định tại khoản 2 Điều 6 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chỉ đạo việc thi hành án hành chính đối với các vụ việc phức tạp, ảnh hưởng đến tình hình kinh tế - xã hội, an ninh trật tự ở địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Định kỳ 6 tháng, hàng năm hoặc đột xuất, Ủy ban nhân dân cấp tỉnh báo cáo Bộ Tư pháp; Ủy ban nhân dân cấp huyện, cấp xã báo cáo Ủy ban nhân dân cấp trên trực tiếp và cơ quan thi hành án dân sự cùng cấp với Ủy ban nhân dân cấp trên trực tiếp về tình hình, kết quả thi hành án hành chính của địa phương.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Nhiệm vụ, quyền hạn của cơ quan thi hành án dân sự trong thi hành án hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhiệm vụ, quyền hạn của Cục Thi hành án dân sự cấp tỉnh",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Theo dõi việc thi hành án hành chính theo quy định của Luật tố tụng hành chính và Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đề nghị Tổng cục Thi hành án dân sự đề xuất, kiến nghị cơ quan có thẩm quyền kiểm tra, đôn đốc, chỉ đạo, xử lý trách nhiệm đối với các vụ việc thi hành án hành chính mà người phải thi hành án là Chủ tịch Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp tỉnh và các cơ quan, tổ chức, cá nhân ở trung ương;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đề xuất, kiến nghị cơ quan có thẩm quyền kiểm tra, đôn đốc, chỉ đạo, xử lý trách nhiệm đối với các cá nhân, cơ quan, tổ chức phải thi hành bản án, quyết định của Tòa án nhân dân cùng cấp, trừ trường hợp quy định tại điểm b khoản 1 Điều này;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hướng dẫn nghiệp vụ quản lý thi hành án hành chính đối với Chi cục Thi hành án dân sự trực thuộc theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Xử phạt hoặc đề nghị cơ quan có thẩm quyền xử phạt vi phạm hành chính theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Tổng kết thực tiễn thi hành án hành chính; thực hiện chế độ thống kê, báo cáo công tác tổ chức, hoạt động thi hành án hành chính theo quy định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhiệm vụ, quyền hạn của Chi cục Thi hành án dân sự cấp huyện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Theo dõi việc thi hành án hành chính theo quy định của Luật tố tụng hành chính và Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đề xuất, kiến nghị cơ quan có thẩm quyền kiểm tra, đôn đốc, chỉ đạo, xử lý trách nhiệm đối với các cá nhân, cơ quan, tổ chức phải thi hành bản án, quyết định của Tòa án nhân dân cùng cấp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xử phạt hoặc đề nghị cơ quan có thẩm quyền xử phạt vi phạm hành chính theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện chế độ thống kê, báo cáo công tác thi hành án hành chính theo quy định."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "ĐIỀU KHOẢN THI HÀNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Hiệu lực thi hành và điều khoản chuyển tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các bản án, quyết định của Tòa án chưa thi hành được tổ chức thi hành theo quy định tại Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Tư pháp phối hợp với Bộ Nội vụ, Bộ Kế hoạch và Đầu tư, Bộ Tài chính có biện pháp bảo đảm biên chế, cơ sở vật chất, phương tiện làm việc cho công tác thi hành án hành chính theo quy định tại Điều 313 của Luật tố tụng hành chính và Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, VI (3b) TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Xuân Phúc Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: 6 hình thức kỷ luật CCVC vi phạm pháp luật thi hành án hành chính Hướng dẫn thi hành án hủy quyết định buộc thôi việc Các hình thức xử lý kỷ luật công chức, viên chức vi phạm pháp luật về thi hành án hành chính Thi hành án hành chính là gì? Khi nào ra quyết định buộc thi hành án hành chính? Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 71/2016/NĐ-CP Quy định thời hạn, trình tự, thủ tục thi hành án hành chính và xử lý trách nhiệm đối với người không thi hành bản án, quyết định của Tòa án Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: 6 hình thức kỷ luật CCVC vi phạm pháp luật thi hành án hành chính Hướng dẫn thi hành án hủy quyết định buộc thôi việc Các hình thức xử lý kỷ luật công chức, viên chức vi phạm pháp luật về thi hành án hành chính Thi hành án hành chính là gì? Khi nào ra quyết định buộc thi hành án hành chính? Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: 6 hình thức kỷ luật CCVC vi phạm pháp luật thi hành án hành chính Hướng dẫn thi hành án hủy quyết định buộc thôi việc Các hình thức xử lý kỷ luật công chức, viên chức vi phạm pháp luật về thi hành án hành chính Thi hành án hành chính là gì? Khi nào ra quyết định buộc thi hành án hành chính? Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 71/2016/NĐ-CP Quy định thời hạn, trình tự, thủ tục thi hành án hành chính và xử lý trách nhiệm đối với người không thi hành bản án, quyết định của Tòa án MỤC LỤC VĂN BẢN In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh MỤC LỤC VĂN BẢN In mục lục In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Nghị định 71/2016/NĐ-CP ngày 01/07/2016 Quy định thời hạn, trình tự, thủ tục thi hành án hành chính và xử lý trách nhiệm đối với người không thi hành bản án, quyết định của Tòa án Tải Văn bản tiếng Việt Tải Văn bản tiếng Việt (docx) Tải Văn bản gốc Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Nghị định 71/2016/NĐ-CP Công văn 959/VPCP-V.I năm 2018 về thi hành bản án, quyết định của Tòa án về vụ án hành chính do Văn phòng Chính phủ ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 26/01/2018 Hiệu lực: Đã biết Cập nhật: 31/01/2018 Nghị quyết 03/2017/NQ-HĐTP công bố bản án, quyết định trên Cổng thông tin điện tử của Tòa án do Hội đồng Thẩm phán Tòa án nhân dân tối cao ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 16/03/2017 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 21/03/2017 Luật tố tụng hành chính 2015 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 25/11/2015 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 19/12/2015 Luật tổ chức Chính phủ 2015 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 19/06/2015 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 16/07/2015 Công văn 1943/TCTHADS-NV2 năm 2013 hướng dẫn nghiệp vụ thi hành án hành chính do Tổng cục Thi hành án dân sự ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 31/07/2013 Hiệu lực: Đã biết Cập nhật: 03/12/2014 Quyết định 2251/QĐ-BTP năm 2012 về Kế hoạch thực hiện Chỉ thị 17/CT-TTg triển khai công tác thi hành án hành chính do Bộ trưởng Bộ Tư pháp ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 01/08/2012 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 30/10/2012 Chỉ thị 17/CT-TTg năm 2012 triển khai công tác thi hành án hành chính do Thủ tướng Chính phủ ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 25/05/2012 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 28/05/2012 Luật viên chức 2010 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 15/11/2010 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 04/12/2010 Luật cán bộ, công chức 2008 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 13/11/2008 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 04/12/2008 Bộ Luật Hình sự 1999 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 21/12/1999 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 28/12/2012 Thư mục cha: Chọn thư mục cha Tạo thư mục",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "101",
+                            "noi_dung_khoan": "407 Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu muốn làm Thành Viên Basic / Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Nếu muốn làm Thành Viên Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Nghị định 71/2016/NĐ-CP trình tự thủ tục thi hành án hành chính xử lý ... Chọn văn bản so sánh thay thế: NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN Văn bản bị thay thế Văn bản thay thế Chú thích Văn bản bị thay thế Văn bản thay thế Nội dung gốc Nội dung sửa đổi, hướng dẫn Nội dung gốc Nội dung sửa đổi, hướng dẫn Tải biểu mẫu Chú thích: Rà chuột vào nội dụng văn bản để sử dụng. <Nội dung> = Nội dung hai văn bản đều có; <Nội dung> = Nội dung văn bản cũ có, văn bản mới không có; <Nội dung> = Nội dung văn bản cũ không có, văn bản mới có; <Nội dung> = Nội dung được sửa đổi, bổ sung. Click trái để xem cụ thể từng nội dung cần so sánh và cố định bảng so sánh. Click phải để xem những nội dung sửa đổi, bổ sung. Double click để xem tất cả nội dung không có thay thế tương ứng. Tắt so sánh [X] để trở về trạng thái rà chuột ban đầu. FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN FILE ATTACHED TO DOCUMENT Thư mục cha: Chọn thư mục cha Tạo thư mục Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Xin chúc mừng thành viên acb đã đăng ký sử dụng thành công www.thuvienphapluat.vn THƯ VIỆN PHÁP LUẬT giúp thành viên tìm kiếm văn bản chính xác, nhanh chóng theo nhu cầu và cung cấp nhiều tiện ích, tính năng hiệu quả:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tra cứu và xem trực tiếp hơn 437.000 Văn bản luật, Công văn, hơn 200.000 Bản án Online;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tải về đa dạng văn bản gốc, văn bản file PDF/Word, văn bản Tiếng Anh, bản án, án lệ Tiếng Anh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các nội dung của văn bản này được văn bản khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc ; các quan hệ của các văn bản thông qua tiện ích Lược đồ và nhiều tiện ích khác;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được hỗ trợ pháp lý sơ bộ qua Điện thoại, Email và Zalo nhanh chóng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhận thông báo văn bản mới qua Email để cập nhật các thông tin, văn bản về pháp luật một cách nhanh chóng và chính xác nhất;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trang cá nhân: Quản lý thông tin cá nhân và cài đặt lưu trữ văn bản quan tâm theo nhu cầu. Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây. Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích miễn phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích MIỄN PHÍ nổi bật trên www.thuvienphapluat.vn : Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích có phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích CÓ PHÍ khi xem văn bản trên www.thuvienphapluat.vn : Xin chào Quý khách hàng - ! Để trải nghiệm lại nội dung hướng dẫn tiện ích, Bạn vui lòng vào Trang Hướng dẫn sử dụng . Bên cạnh những tiện ích vừa giới thiệu, Bạn có thể xem thêm Video/Bài viết hướng dẫn sử dụng để biết cách tra cứu, sử dụng toàn bộ các tính năng, tiện ích trên website. Ngoài ra, Bạn có thể nhấn vào đây để trải nghiệm MIỄN PHÍ các tiện ích khi xem văn bản dành cho thành viên CÓ PHÍ . 👉 Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây . 👉 Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Cảm ơn Bạn đã quan tâm và sử dụng dịch vụ của chúng tôi. Trân trọng, THƯ VIỆN PHÁP LUẬT TP. HCM, ngày 31/0 5/2021 Thưa Quý khách, Đúng 14 tháng trước, ngày 31/3/2020, THƯ VIỆN PHÁP LUẬT đã bậ t Thông báo này, và nay 31/5/2021 xin bật lại. Hơn 1 năm qua, dù nhiều khó khăn, chúng ta cũng đã đánh thắng Covid 19 trong 3 trận đầu. Trận 4 này , với chỉ đạo quyết liệt của Chính phủ, chắc chắn chúng ta lại thắng . Là sản phẩm online, nên 25 0 nhân sự chúng tôi vừa làm việc tại trụ sở, vừa làm việc từ xa qua Internet ngay từ đầu tháng 5/2021 . S ứ mệnh của THƯ VIỆN PHÁP LUẬT là:  s ử dụng công nghệ cao để tổ chức lại hệ thống văn bản pháp luật ,  v à kết nối cộng đồng Dân L uật Việt Nam, nhằm :  G iúp công chúng “…loại rủi ro pháp lý, nắm cơ hội làm giàu…” ,  v à cùng công chúng xây dựng, thụ hưởng một xã hội pháp quyền trong tương lai gần; Chúng tôi cam kết dịch vụ sẽ được cung ứng bình thường trong mọi tình huống. THÔNG BÁO về Lưu trữ, Sử dụng Thông tin Khách hàng Kính gửi: Quý Thành viên, Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hiệu lực từ ngày 01/07/2023) yêu cầu xác nhận sự đồng ý của thành viên khi thu thập, lưu trữ, sử dụng thông tin mà quý khách đã cung cấp trong quá trình đăng ký, sử dụng sản phẩm, dịch vụ của THƯ VIỆN PHÁP LUẬT . Quý Thành viên xác nhận giúp THƯ VIỆN PHÁP LUẬT được tiếp tục lưu trữ, sử dụng những thông tin mà Quý Thành viên đã, đang và sẽ cung cấp khi tiếp tục sử dụng dịch vụ. Thực hiện Nghị định 13/2023/NĐ-CP, chúng tôi cập nhật Quy chế và Thỏa thuận Bảo về Dữ liệu cá nhân bên dưới. Trân trọng cảm ơn Quý Thành viên. Tôi đã đọc và đồng ý Quy chế bảo vệ dữ liệu cá nhân Tiếp tục sử dụng Cảm ơn đã dùng ThuVienPhapLuat.vn Bạn vừa bị Đăng xuất khỏi Tài khoản . Hiện tại có đủ người dùng cùng lúc, nên khi người thứ vào thì bạn bị Đăng xuất. Có phải do Tài khoản của bạn bị lộ mật khẩu nên nhiều người khác vào dùng? Hỗ trợ: (028) 3930.3279 _ 0906.229966 Xin lỗi Quý khách vì sự bất tiện này! Tài khoản hiện đã đủ người dùng cùng thời điểm. Quý khách Đăng nhập vào thì sẽ có 1 người khác bị Đăng xuất. Tài khoản của Quý Khách đẵ đăng nhập quá nhiều lần trên nhiều thiết bị khác nhau, Quý Khách có thể vào đây để xem chi tiết lịch sử đăng nhập Có thể tài khoản của bạn đã bị rò rỉ mật khẩu và mất bảo mật, xin vui lòng đổi mật khẩu tại đây để tiếp tục sử dụng Hãy để chúng tôi hỗ trợ bạn! Họ & Tên: Email: Điện thoại: Nội dung: Bạn hãy nhập mật khẩu đang sử dụng và nhập mật khẩu mới 2 lần để chắc rằng bạn nhập đúng. Tên truy cập hoặc Email: Mật khẩu cũ: Mật khẩu mới: Bạn hãy nhập e-mail đã sử dụng để đăng ký thành viên. E-mail: Email người nhận: Tiêu đề Email: Nội dung: Họ & Tên: Email: Điện thoại: Nội dung: Thông báo cho tôi khi Văn bản bị sửa đổi, bổ sung, có hoặc hết hiệu lực. Email nhận thông báo: Thông báo cho tôi khi Văn bản có nội dung. Email nhận thông báo: Ghi chú cho Văn bản .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2126 @@
+{
+    "ten_luat": "Luật kiểm toán nhà nước 2015 số 81/2015/QH13 áp dụng 2025",
+    "so_hieu": "81/2015/QH13",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Luật này quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức và hoạt động của Kiểm toán nhà nước; nhiệm vụ, quyền hạn của Tổng Kiểm toán nhà nước; nhiệm vụ, quyền hạn của Kiểm toán viên nhà nước; quyền hạn và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đối với hoạt động kiểm toán nhà nước.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan, tổ chức quản lý, sử dụng tài chính công, tài sản công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân khác có liên quan đối với hoạt động kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo kiểm toán của Kiểm toán nhà nước là văn bản do Kiểm toán nhà nước lập và công bố sau mỗi cuộc kiểm toán để đánh giá, xác nhận, kết luận và kiến nghị về những nội dung đã kiểm toán. Báo cáo kiểm toán của Kiểm toán nhà nước do Tổng Kiểm toán nhà nước hoặc người được Tổng Kiểm toán nhà nước ủy quyền ký tên, đóng dấu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bằng chứng kiểm toán là tài liệu, thông tin do Kiểm toán viên nhà nước thu thập liên quan đến cuộc kiểm toán, làm cơ sở cho việc đánh giá, xác nhận, kết luận và kiến nghị kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đơn vị được kiểm toán là cơ quan, tổ chức quản lý, sử dụng tài chính công, tài sản công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hồ sơ kiểm toán của cuộc kiểm toán là các tài liệu do Kiểm toán nhà nước thu thập, phân loại, sử dụng, lập, lưu trữ và quản lý theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hoạt động kiểm toán của Kiểm toán nhà nước là việc đánh giá và xác nhận tính đúng đắn, trung thực của các thông tin tài chính công, tài sản công hoặc báo cáo tài chính liên quan đến quản lý, sử dụng tài chính công, tài sản công; việc chấp hành pháp luật và hiệu quả trong việc quản lý, sử dụng tài chính công, tài sản công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Kiểm toán nhà nước chuyên ngành là đơn vị trực thuộc Kiểm toán nhà nước, thực hiện kiểm toán đối với đơn vị được kiểm toán ở trung ương và các nhiệm vụ theo sự phân công của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Kiểm toán nhà nước khu vực là đơn vị trực thuộc Kiểm toán nhà nước, thực hiện kiểm toán đối với đơn vị được kiểm toán ở địa phương và các nhiệm vụ theo sự phân công của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Kiểm toán viên nhà nước là công chức nhà nước được Tổng Kiểm toán nhà nước bổ nhiệm vào các ngạch kiểm toán viên nhà nước để thực hiện nhiệm vụ kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Ngạch Kiểm toán viên nhà nước là tên gọi thể hiện thứ bậc về năng lực và trình độ chuyên môn, nghiệp vụ của Kiểm toán viên nhà nước, bao gồm các ngạch: Kiểm toán viên, Kiểm toán viên chính và Kiểm toán viên cao cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Tài chính công bao gồm: ngân sách nhà nước; dự trữ quốc gia; các quỹ tài chính nhà nước ngoài ngân sách; tài chính của các cơ quan nhà nước, đơn vị vũ trang nhân dân, đơn vị sự nghiệp công lập, đơn vị cung cấp dịch vụ, hàng hóa công, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp có sử dụng kinh phí, ngân quỹ nhà nước; phần vốn nhà nước tại các doanh nghiệp; các khoản nợ công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Tài sản công bao gồm: đất đai; tài nguyên nước; tài nguyên khoáng sản; nguồn lợi ở vùng biển, vùng trời; tài nguyên thiên nhiên khác; tài sản nhà nước tại cơ quan nhà nước, đơn vị vũ trang nhân dân, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; tài sản công được giao cho các doanh nghiệp quản lý và sử dụng; tài sản dự trữ nhà nước; tài sản thuộc kết cấu hạ tầng phục vụ lợi ích công cộng và các tài sản khác do Nhà nước đầu tư, quản lý thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Đối tượng kiểm toán của Kiểm toán nhà nước",
+                    "noi_dung_chung": "Đối tượng kiểm toán của Kiểm toán nhà nước là việc quản lý, sử dụng tài chính công, tài sản công và các hoạt động có liên quan đến việc quản lý, sử dụng tài chính công, tài sản công của đơn vị được kiểm toán.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Nguyên tắc hoạt động kiểm toán của Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Độc lập và chỉ tuân theo pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trung thực, khách quan, công khai, minh bạch.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Chuẩn mực kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chuẩn mực kiểm toán nhà nước là những quy định và hướng dẫn về yêu cầu, nguyên tắc, thủ tục kiểm toán và xử lý các mối quan hệ phát sinh trong hoạt động kiểm toán mà Kiểm toán viên nhà nước phải tuân thủ khi tiến hành hoạt động kiểm toán; là cơ sở để kiểm tra, đánh giá chất lượng kiểm toán và đạo đức nghề nghiệp của Kiểm toán viên nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước xây dựng và ban hành hệ thống chuẩn mực kiểm toán nhà nước theo quy định của Luật ban hành văn bản quy phạm pháp luật .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Giá trị pháp lý của báo cáo kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo kiểm toán của Kiểm toán nhà nước sau khi phát hành và công khai có giá trị bắt buộc phải thực hiện đối với đơn vị được kiểm toán về sai phạm trong việc quản lý, sử dụng tài chính công, tài sản công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo kiểm toán của Kiểm toán nhà nước là căn cứ để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quốc hội sử dụng trong quá trình xem xét, quyết định và giám sát việc thực hiện: mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội dài hạn và hằng năm của đất nước; chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia; chính sách cơ bản về tài chính, tiền tệ quốc gia; quy định, sửa đổi hoặc bãi bỏ các thứ thuế; quyết định phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương; mức giới hạn an toàn nợ quốc gia, nợ công, nợ chính phủ; dự toán ngân sách nhà nước và phân bổ ngân sách trung ương; phê chuẩn quyết toán ngân sách nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chính phủ, cơ quan quản lý nhà nước và tổ chức, cơ quan khác của Nhà nước sử dụng trong công tác quản lý, điều hành và thực thi nhiệm vụ, quyền hạn của mình;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hội đồng nhân dân sử dụng trong quá trình xem xét, quyết định dự toán và phân bổ ngân sách địa phương; phê chuẩn quyết toán ngân sách địa phương; giám sát việc quản lý, sử dụng tài chính công, tài sản công và thực thi nhiệm vụ, quyền hạn của mình;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đơn vị được kiểm toán thực hiện quyền khiếu nại."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Các hành vi bị nghiêm cấm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghiêm cấm các hành vi sau đây đối với Kiểm toán nhà nước, Kiểm toán viên nhà nước và cộng tác viên Kiểm toán nhà nước:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sách nhiễu, gây khó khăn, phiền hà cho đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Can thiệp trái pháp luật vào hoạt động bình thường của đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đưa, nhận, môi giới hối lộ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Báo cáo sai lệch, không đầy đủ kết quả kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Lợi dụng chức vụ, quyền hạn để vụ lợi;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Tiết lộ bí mật nhà nước, bí mật nghề nghiệp của đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Tiết lộ thông tin về tình hình và kết quả kiểm toán chưa được công bố chính thức."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghiêm cấm các hành vi sau đây đối với đơn vị được kiểm toán và tổ chức, cá nhân có liên quan :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Từ chối cung cấp thông tin, tài liệu phục vụ cho cuộc kiểm toán theo yêu cầu của Kiểm toán nhà nước và Kiểm toán viên nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cản trở công việc của Kiểm toán nhà nước và Kiểm toán viên nhà nước;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo sai lệch, không trung thực, không đầy đủ, kịp thời hoặc thiếu khách quan thông tin liên quan đến cuộc kiểm toán của Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Mua chuộc, đưa hối lộ cho Kiểm toán viên nhà nước và cộng tác viên Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Che giấu các hành vi vi phạm pháp luật về tài chính công, tài sản công."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nghiêm cấm mọi cơ quan, tổ chức, cá nhân can thiệp trái pháp luật vào hoạt động kiểm toán, kết quả kiểm toán của Kiểm toán nhà nước và Kiểm toán viên nhà nước, cộng tác viên Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ TỔ CHỨC CỦA KIỂM TOÁN NHÀ NƯỚC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Chức năng của Kiểm toán nhà nước",
+                    "noi_dung_chung": "Kiểm toán nhà nước có chức năng đánh giá, xác nhận, kết luận và kiến nghị đối với việc quản lý, sử dụng tài chính công, tài sản công.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Nhiệm vụ của Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quyết định kế hoạch kiểm toán hằng năm và báo cáo Quốc hội trước khi thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức thực hiện kế hoạch kiểm toán hằng năm và thực hiện nhiệm vụ kiểm toán theo yêu cầu của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xem xét, quyết định việc kiểm toán khi có đề nghị của Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, Thường trực Hội đồng nhân dân, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và cơ quan, tổ chức không có trong kế hoạch kiểm toán năm của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trình ý kiến của Kiểm toán nhà nước để Quốc hội xem xét, quyết định dự toán ngân sách nhà nước, quyết định phân bổ ngân sách trung ương, quyết định chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia, phê chuẩn quyết toán ngân sách nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tham gia với các cơ quan của Quốc hội, của Chính phủ trong việc xem xét về dự toán ngân sách nhà nước, phương án phân bổ ngân sách trung ương, phương án điều chỉnh dự toán ngân sách nhà nước, phương án bố trí ngân sách cho chương trình mục tiêu quốc gia, dự án quan trọng quốc gia do Quốc hội quyết định và quyết toán ngân sách nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tham gia với các cơ quan của Quốc hội trong hoạt động giám sát việc thực hiện luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội về lĩnh vực tài chính - ngân sách, giám sát việc thực hiện ngân sách nhà nước và chính sách tài chính khi có yêu cầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Tham gia với các cơ quan của Quốc hội, của Chính phủ, các cơ quan có thẩm quyền trình dự án luật, pháp lệnh khi có yêu cầu trong việc xây dựng và thẩm tra các dự án luật, pháp lệnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Báo cáo tổng hợp kết quả kiểm toán năm và kết quả thực hiện kết luận, kiến nghị kiểm toán với Quốc hội, Ủy ban thường vụ Quốc hội; gửi báo cáo tổng hợp kết quả kiểm toán năm và kết quả thực hiện kết luận, kiến nghị kiểm toán cho Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Hội đồng dân tộc, các Ủy ban của Quốc hội; cung cấp kết quả kiểm toán cho Bộ Tài chính, Đoàn đại biểu Quốc hội, Hội đồng nhân dân, Ủy ban nhân dân nơi kiểm toán và các cơ quan khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Giải trình về kết quả kiểm toán với Quốc hội và các cơ quan của Quốc hội theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Tổ chức công bố công khai báo cáo kiểm toán, báo cáo tổng hợp kết quả kiểm toán năm và báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán theo quy định tại Điều 50, Điều 51 của Luật này và quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Tổ chức theo dõi, kiểm tra việc thực hiện các kết luận, kiến nghị của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Chuyển hồ sơ cho cơ quan điều tra, Viện kiểm sát nhân dân và cơ quan khác của Nhà nước có thẩm quyền xem xét, xử lý những vụ việc có dấu hiệu của tội phạm, vi phạm pháp luật của cơ quan, tổ chức, cá nhân đã được phát hiện thông qua hoạt động kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Quản lý hồ sơ kiểm toán; giữ bí mật tài liệu, số liệu kế toán và thông tin về hoạt động của đơn vị được kiểm toán theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Thực hiện hợp tác quốc tế trong lĩnh vực kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "15",
+                            "noi_dung_khoan": "Tổ chức và quản lý công tác nghiên cứu khoa học, đào tạo, bồi dưỡng, phát triển nguồn nhân lực của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "16",
+                            "noi_dung_khoan": "Tổ chức thi, cấp, thu hồi và quản lý chứng chỉ Kiểm toán viên nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "17",
+                            "noi_dung_khoan": "Tổ chức thông tin, tuyên truyền, phổ biến, giáo dục pháp luật về kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "18",
+                            "noi_dung_khoan": "Xây dựng và trình Ủy ban thường vụ Quốc hội ban hành Chiến lược phát triển Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "19",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Quyền hạn của Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình dự án luật, dự án pháp lệnh, dự thảo nghị quyết trước Quốc hội, Ủy ban thường vụ Quốc hội theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Yêu cầu đơn vị được kiểm toán và tổ chức, cá nhân có liên quan cung cấp đầy đủ, chính xác, kịp thời thông tin, tài liệu phục vụ cho việc kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Yêu cầu đơn vị được kiểm toán thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước đối với sai phạm trong báo cáo tài chính và sai phạm trong việc chấp hành pháp luật; kiến nghị thực hiện biện pháp khắc phục yếu kém trong hoạt động của đơn vị do Kiểm toán nhà nước phát hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kiến nghị cơ quan, người có thẩm quyền yêu cầu đơn vị được kiểm toán thực hiện đầy đủ, kịp thời các kết luận, kiến nghị kiểm toán về sai phạm trong báo cáo tài chính và sai phạm trong việc chấp hành pháp luật; đề nghị xử lý theo quy định của pháp luật những trường hợp không thực hiện hoặc thực hiện không đầy đủ, kịp thời kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Kiến nghị cơ quan, người có thẩm quyền xử lý những vi phạm pháp luật của cơ quan, tổ chức, cá nhân đã được làm rõ thông qua hoạt động kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đề nghị cơ quan, người có thẩm quyền xử lý theo quy định của pháp luật đối với cơ quan, tổ chức, cá nhân có hành vi cản trở hoạt động kiểm toán của Kiểm toán nhà nước hoặc cung cấp thông tin, tài liệu sai sự thật cho Kiểm toán nhà nước và Kiểm toán viên nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Trưng cầu giám định chuyên môn khi cần thiết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Được ủy thác hoặc thuê doanh nghiệp kiểm toán thực hiện kiểm toán cơ quan, tổ chức quản lý, sử dụng tài chính công, tài sản công; Kiểm toán nhà nước chịu trách nhiệm về tính trung thực của số liệu, tài liệu và kết luận, kiến nghị kiểm toán do doanh nghiệp kiểm toán thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Kiến nghị Quốc hội, Ủy ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ và cơ quan khác của Nhà nước sửa đổi, bổ sung các cơ chế, chính sách và pháp luật. Mục 2. HỆ THỐNG TỔ CHỨC KIỂM TOÁN NHÀ NƯỚC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Tổng Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước là người đứng đầu Kiểm toán nhà nước, chịu trách nhiệm trước Quốc hội và Ủy ban thường vụ Quốc hội về tổ chức và hoạt động của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước do Quốc hội bầu, miễn nhiệm và bãi nhiệm theo đề nghị của Ủy ban thường vụ Quốc hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhiệm kỳ của Tổng Kiểm toán nhà nước là 05 năm theo nhiệm kỳ của Quốc hội. Tổng Kiểm toán nhà nước có thể được bầu lại nhưng không quá hai nhiệm kỳ liên tục.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Trách nhiệm của Tổng Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Lãnh đạo và chỉ đạo Kiểm toán nhà nước thực hiện nhiệm vụ, quyền hạn quy định tại Điều 10 và Điều 11 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình bày báo cáo tổng hợp kết quả kiểm toán năm, báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp, báo cáo trước Ủy ban thường vụ Quốc hội; trả lời chất vấn của đại biểu Quốc hội trước Quốc hội hoặc Ủy ban thường vụ Quốc hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước pháp luật về nội dung báo cáo kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quyết định và tổ chức thực hiện các biện pháp cụ thể để tăng cường kỷ luật, kỷ cương trong hoạt động kiểm toán nhà nước; phòng, chống tham nhũng, thực hành tiết kiệm, chống lãng phí và mọi biểu hiện quan liêu, hách dịch, cửa quyền của công chức, viên chức thuộc Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các đơn vị trực thuộc Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trình Ủy ban thường vụ Quốc hội quyết định biên chế và việc thành lập, sáp nhập, giải thể đơn vị trực thuộc Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thực hiện các biện pháp nhằm bảo đảm tính độc lập và chất lượng kiểm toán trong hoạt động kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Giải quyết khiếu nại, tố cáo liên quan đến hoạt động kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Quyền hạn của Tổng Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ban hành quyết định kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Được mời tham dự phiên họp toàn thể của Quốc hội, phiên họp của Ủy ban thường vụ Quốc hội, phiên họp của Chính phủ về vấn đề có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ban hành văn bản quy phạm pháp luật theo quy định của Luật ban hành văn bản quy phạm pháp luật .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kiến nghị Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, các cơ quan khác ở trung ương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, thủ trưởng cấp trên trực tiếp của đơn vị được kiểm toán xử lý theo thẩm quyền đối với cơ quan, tổ chức, cá nhân có hành vi cản trở hoạt động kiểm toán của Kiểm toán nhà nước; cung cấp thông tin, tài liệu sai sự thật cho Kiểm toán nhà nước; không thực hiện hoặc thực hiện không đầy đủ, kịp thời kết luận, kiến nghị của Kiểm toán nhà nước. Trường hợp kết luận, kiến nghị của Kiểm toán nhà nước không được giải quyết hoặc giải quyết không đầy đủ thì Tổng Kiểm toán nhà nước kiến nghị người có thẩm quyền xem xét, xử lý theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quyết định việc kiểm toán theo đề nghị của cơ quan, tổ chức quy định tại khoản 3 Điều 10 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quyết định việc niêm phong tài liệu, kiểm tra tài khoản của đơn vị được kiểm toán hoặc cá nhân có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đề nghị Ủy ban thường vụ Quốc hội bổ nhiệm, miễn nhiệm, cách chức đối với Phó Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Phó Tổng Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phó Tổng Kiểm toán nhà nước giúp Tổng Kiểm toán nhà nước thực hiện nhiệm vụ theo sự phân công của Tổng Kiểm toán nhà nước và chịu trách nhiệm trước Tổng Kiểm toán nhà nước về nhiệm vụ được phân công. Khi Tổng Kiểm toán nhà nước vắng mặt, một Phó Tổng Kiểm toán nhà nước được Tổng Kiểm toán nhà nước ủy nhiệm thay mặt Tổng Kiểm toán nhà nước lãnh đạo, chỉ đạo công tác của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phó Tổng Kiểm toán nhà nước do Tổng Kiểm toán nhà nước đề nghị Ủy ban thường vụ Quốc hội bổ nhiệm, miễn nhiệm, cách chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thời hạn bổ nhiệm của Phó Tổng Kiểm toán nhà nước là 05 năm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Tổ chức của Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán nhà nước được tổ chức và quản lý tập trung thống nhất gồm Văn phòng Kiểm toán nhà nước, các đơn vị thuộc bộ máy điều hành, Kiểm toán nhà nước chuyên ngành, Kiểm toán nhà nước khu vực và đơn vị sự nghiệp công lập. Văn phòng Kiểm toán nhà nước, Kiểm toán nhà nước khu vực và đơn vị sự nghiệp công lập có tài khoản và con dấu riêng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban thường vụ Quốc hội quyết định số lượng các đơn vị trực thuộc Kiểm toán nhà nước theo đề nghị của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Kiểm toán trưởng, Phó Kiểm toán trưởng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán trưởng là người đứng đầu Kiểm toán nhà nước chuyên ngành hoặc Kiểm toán nhà nước khu vực.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phó Kiểm toán trưởng giúp việc Kiểm toán trưởng, thực hiện nhiệm vụ theo sự phân công của Kiểm toán trưởng và chịu trách nhiệm trước Kiểm toán trưởng về nhiệm vụ được phân công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm toán trưởng, Phó Kiểm toán trưởng phải là Kiểm toán viên chính trở lên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước bổ nhiệm, miễn nhiệm, cách chức Kiểm toán trưởng và Phó Kiểm toán trưởng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm toán trưởng, Phó Kiểm toán trưởng do Tổng Kiểm toán nhà nước quy định. Mục 3. HỘI ĐỒNG KIỂM TOÁN NHÀ NƯỚC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Thành lập và giải thể Hội đồng Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng Kiểm toán nhà nước được thành lập khi cần thiết để tư vấn cho Tổng Kiểm toán nhà nước thẩm định các báo cáo kiểm toán quan trọng; giúp Tổng Kiểm toán nhà nước thực hiện tái thẩm định các báo cáo kiểm toán theo kiến nghị của đơn vị được kiểm toán, giải quyết khiếu nại về báo cáo kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quyết định thành lập Hội đồng Kiểm toán nhà nước, quyết định thành viên và quy chế làm việc của Hội đồng. Hội đồng Kiểm toán nhà nước do một Phó Tổng Kiểm toán nhà nước làm Chủ tịch. Căn cứ từng trường hợp cụ thể, Tổng Kiểm toán nhà nước được mời các chuyên gia không thuộc Kiểm toán nhà nước tham gia Hội đồng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hội đồng Kiểm toán nhà nước tự giải thể khi kết thúc nhiệm vụ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Nguyên tắc làm việc của Hội đồng Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Làm việc theo chế độ tập thể.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quyết định theo đa số, ý kiến thiểu số được bảo lưu và báo cáo Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Biên bản và các tài liệu của Hội đồng Kiểm toán nhà nước được bảo quản, lưu giữ trong hồ sơ kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "KIỂM TOÁN VIÊN NHÀ NƯỚC VÀ CỘNG TÁC VIÊN KIỂM TOÁN NHÀ NƯỚC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Các ngạch Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán viên nhà nước gồm các ngạch sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm toán viên;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kiểm toán viên chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kiểm toán viên cao cấp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quyết định bổ nhiệm, miễn nhiệm các ngạch Kiểm toán viên nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Tiêu chuẩn chung của Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "Kiểm toán viên nhà nước phải bảo đảm các tiêu chuẩn của công chức theo quy định của pháp luật về cán bộ, công chức và các tiêu chuẩn sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có phẩm chất đạo đức tốt, có ý thức trách nhiệm, liêm khiết, trung thực, khách quan;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Có bằng tốt nghiệp đại học trở lên thuộc một trong các chuyên ngành kiểm toán, kế toán, tài chính, ngân hàng, kinh tế, luật hoặc chuyên ngành khác có liên quan trực tiếp đến hoạt động kiểm toán;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đã có thời gian làm việc liên tục từ 05 năm trở lên theo chuyên ngành được đào tạo hoặc có thời gian làm nghiệp vụ kiểm toán ở Kiểm toán nhà nước từ 03 năm trở lên, không kể thời gian tập sự;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Có chứng chỉ Kiểm toán viên nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Trách nhiệm của Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện nhiệm vụ kiểm toán và chịu trách nhiệm về việc thực hiện nhiệm vụ kiểm toán được phân công; đưa ra ý kiến đánh giá, xác nhận, kết luận và kiến nghị về những nội dung đã kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tuân thủ pháp luật, nguyên tắc hoạt động, chuẩn mực, quy trình, nghiệp vụ kiểm toán của Kiểm toán nhà nước và các quy định khác có liên quan của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước pháp luật về những bằng chứng, đánh giá, xác nhận, kết luận và kiến nghị kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thu thập bằng chứng kiểm toán, ghi nhận và lưu giữ tài liệu làm việc của Kiểm toán viên nhà nước theo quy định của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Giữ bí mật thông tin, tài liệu thu thập được trong quá trình kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Xuất trình thẻ Kiểm toán viên nhà nước khi thực hiện nhiệm vụ kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thường xuyên học tập, rèn luyện để nâng cao kiến thức chuyên môn, kỹ năng và đạo đức nghề nghiệp; thực hiện chương trình cập nhật kiến thức hằng năm theo quy định của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Báo cáo kịp thời, đầy đủ với người ra quyết định thành lập Đoàn kiểm toán khi có trường hợp quy định tại Điều 28 của Luật này và các tình huống khác làm ảnh hưởng đến tính độc lập của Kiểm toán viên nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Tiêu chuẩn bổ nhiệm vào ngạch Kiểm toán viên",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đáp ứng các tiêu chuẩn chung của Kiểm toán viên nhà nước quy định tại Điều 21 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nắm vững đường lối, chủ trương của Đảng, chính sách, pháp luật về kiểm toán nhà nước; có kiến thức về quản lý nhà nước, quản lý kinh tế - xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nắm được quy trình nghiệp vụ, chuẩn mực kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đã đỗ kỳ thi ngạch Kiểm toán viên.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Tiêu chuẩn bổ nhiệm vào ngạch Kiểm toán viên chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nắm vững và áp dụng thành thạo quy định của pháp luật về kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Có năng lực đề xuất, tham mưu xây dựng chiến lược phát triển ngành, kế hoạch kiểm toán dài hạn, trung hạn và khả năng về tổng kết, nghiên cứu lý luận chuyên môn, nghiệp vụ kiểm toán; có khả năng xây dựng chuẩn mực kiểm toán nhà nước và kiến nghị sửa đổi, bổ sung các chuẩn mực kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hiểu biết các thông lệ và chuẩn mực kiểm toán quốc tế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Có thâm niên tối thiểu ở ngạch Kiểm toán viên là 05 năm hoặc ở ngạch tương đương là 08 năm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đã đỗ kỳ thi ngạch Kiểm toán viên chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Tiêu chuẩn bổ nhiệm vào ngạch Kiểm toán viên cao cấp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nắm vững và có khả năng chỉ đạo áp dụng quy trình, chuẩn mực, phương pháp chuyên môn, nghiệp vụ ở các lĩnh vực kiểm toán vào hoạt động kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Có năng lực chủ trì nghiên cứu đề tài khoa học cấp bộ, cấp nhà nước về lĩnh vực kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Có thâm niên tối thiểu ở ngạch Kiểm toán viên chính là 05 năm hoặc ở ngạch tương đương là 08 năm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đã đỗ kỳ thi ngạch Kiểm toán viên cao cấp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Thẻ Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thẻ Kiểm toán viên nhà nước do Tổng Kiểm toán nhà nước cấp cho Kiểm toán viên nhà nước để sử dụng khi thực hiện nhiệm vụ kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quy định mẫu và chế độ quản lý, sử dụng thẻ Kiểm toán viên nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Miễn nhiệm Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán viên nhà nước được miễn nhiệm trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nghỉ hưu, thôi việc, chuyển ngành;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do khác mà xét thấy không thể hoàn thành nhiệm vụ được giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kiểm toán viên nhà nước bị miễn nhiệm trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bị kết tội bằng bản án của Tòa án đã có hiệu lực pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Vi phạm quy định tại khoản 1 Điều 8 của Luật này ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Vi phạm phẩm chất đạo đức Kiểm toán viên nhà nước;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Không hoàn thành nhiệm vụ ở ngạch bổ nhiệm;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Có bằng chứng phát hiện người đã được bổ nhiệm vào ngạch Kiểm toán viên nhà nước có gian lận trong thi cử, hồ sơ bổ nhiệm vào ngạch."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Các trường hợp không được bố trí làm thành viên Đoàn kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mua cổ phần, góp vốn hoặc có quan hệ về lợi ích kinh tế với đơn vị được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đã từng giữ chức vụ quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng hoặc phụ trách kế toán tại đơn vị được kiểm toán của các năm tài chính được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong thời hạn ít nhất là 05 năm, kể từ khi thôi giữ chức vụ quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng hoặc phụ trách kế toán tại đơn vị được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Có quan hệ là bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, vợ, chồng, con, anh ruột, chị ruột, em ruột với người đứng đầu, kế toán trưởng hoặc người phụ trách kế toán của đơn vị được kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Cộng tác viên Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán nhà nước được sử dụng cộng tác viên là chuyên gia, nhà khoa học, nhà quản lý trong nước và ngoài nước dưới hình thức hợp đồng thực hiện nhiệm vụ. Kinh phí sử dụng cộng tác viên được bố trí trong kinh phí hoạt động hằng năm của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cộng tác viên Kiểm toán nhà nước có quyền và nghĩa vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện quyền, nghĩa vụ theo hợp đồng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chấp hành quy định của pháp luật về kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chịu trách nhiệm trước Kiểm toán nhà nước và trước pháp luật về kết quả thực hiện nhiệm vụ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quy định cụ thể việc sử dụng cộng tác viên Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "HOẠT ĐỘNG KIỂM TOÁN NHÀ NƯỚC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Căn cứ để ban hành quyết định kiểm toán",
+                    "noi_dung_chung": "Tổng Kiểm toán nhà nước ban hành quyết định kiểm toán khi có một trong các căn cứ sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kế hoạch kiểm toán hằng năm của Kiểm toán nhà nước;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Yêu cầu của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đề nghị của cơ quan, tổ chức quy định tại khoản 3 Điều 10 của Luật này và được Tổng Kiểm toán nhà nước chấp nhận.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Quyết định kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quyết định kiểm toán bao gồm các nội dung chủ yếu sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Căn cứ pháp lý để thực hiện cuộc kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Mục tiêu, nội dung, phạm vi kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Địa điểm kiểm toán, thời hạn kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trưởng Đoàn kiểm toán và các thành viên của Đoàn kiểm toán."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quyết định kiểm toán phải được gửi cho đơn vị được kiểm toán và các thành viên Đoàn kiểm toán chậm nhất là 03 ngày làm việc và phải được công bố chậm nhất là 15 ngày, kể từ ngày ký, trừ trường hợp kiểm toán đột xuất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong quá trình thực hiện kiểm toán, nếu cần phải thay đổi nội dung, phạm vi, địa điểm, thời hạn kiểm toán và thành viên Đoàn kiểm toán thì Tổng Kiểm toán nhà nước phải quyết định bằng văn bản và gửi cho đơn vị được kiểm toán và các thành viên Đoàn kiểm toán theo thời hạn quy định tại khoản 2 Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Nội dung kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nội dung kiểm toán bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm toán tài chính là việc kiểm toán để đánh giá, xác nhận tính đúng đắn, trung thực của các thông tin tài chính và báo cáo tài chính của đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kiểm toán tuân thủ là việc kiểm toán để đánh giá và xác nhận việc tuân thủ pháp luật, nội quy, quy chế mà đơn vị được kiểm toán phải thực hiện;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kiểm toán hoạt động là việc kiểm toán để đánh giá tính kinh tế, hiệu lực và hiệu quả trong quản lý và sử dụng tài chính công, tài sản công."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ vào yêu cầu của từng cuộc kiểm toán, Tổng Kiểm toán nhà nước quyết định nội dung kiểm toán của từng cuộc kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Kiểm toán báo cáo quyết toán ngân sách nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc kiểm toán báo cáo quyết toán ngân sách nhà nước các cấp thực hiện trước khi Quốc hội, Hội đồng nhân dân phê chuẩn quyết toán ngân sách. Việc kiểm toán báo cáo quyết toán ngân sách nhà nước các cấp của địa phương sau khi Hội đồng nhân dân phê chuẩn quyết toán ngân sách thực hiện theo quyết định của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp đã thực hiện kiểm toán nhưng báo cáo quyết toán ngân sách chưa được Quốc hội, Hội đồng nhân dân phê chuẩn thì trong phạm vi nhiệm vụ, quyền hạn của mình, Kiểm toán nhà nước phải tiếp tục làm rõ những vấn đề Quốc hội, Hội đồng nhân dân yêu cầu để trình Quốc hội, Hội đồng nhân dân vào thời gian do Quốc hội, Hội đồng nhân dân quyết định. Mục 2. THỜI HẠN KIỂM TOÁN, ĐỊA ĐIỂM KIỂM TOÁN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Thời hạn kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thời hạn của cuộc kiểm toán được tính từ ngày công bố quyết định kiểm toán đến khi kết thúc việc kiểm toán tại đơn vị được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thời hạn của một cuộc kiểm toán không quá 60 ngày, trừ trường hợp quy định tại khoản 3 Điều này. Trường hợp phức tạp, cần thiết kéo dài thời hạn kiểm toán thì Tổng Kiểm toán nhà nước quyết định gia hạn một lần, thời gian gia hạn không quá 30 ngày.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với cuộc kiểm toán để đánh giá tính kinh tế, hiệu lực và hiệu quả trong quản lý và sử dụng tài chính công, tài sản công có quy mô toàn quốc, Tổng Kiểm toán nhà nước quyết định cụ thể về thời hạn kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Địa điểm kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc kiểm toán được thực hiện tại đơn vị được kiểm toán, trụ sở Kiểm toán nhà nước hoặc tại địa điểm khác do Tổng Kiểm toán nhà nước quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp việc kiểm toán được thực hiện ngoài trụ sở đơn vị được kiểm toán thì đơn vị được kiểm toán có trách nhiệm chuyển hồ sơ, tài liệu theo quy định của Tổng Kiểm toán nhà nước. Mục 3. ĐOÀN KIỂM TOÁN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Thành lập và giải thể Đoàn kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đoàn kiểm toán được thành lập để thực hiện nhiệm vụ kiểm toán của Kiểm toán nhà nước. Tổng Kiểm toán nhà nước quyết định thành lập Đoàn kiểm toán theo đề nghị của Kiểm toán trưởng Kiểm toán nhà nước chuyên ngành hoặc Kiểm toán trưởng Kiểm toán nhà nước khu vực. Căn cứ vào quy mô cuộc kiểm toán, Đoàn kiểm toán có thể có Tổ kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đoàn kiểm toán tự giải thể sau khi hoàn thành nhiệm vụ kiểm toán nhưng phải chịu trách nhiệm về những đánh giá, xác nhận, kết luận và kiến nghị trong báo cáo kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Thành phần Đoàn kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trưởng Đoàn kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Phó trưởng Đoàn kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các Tổ trưởng Tổ kiểm toán, nếu Đoàn kiểm toán có Tổ kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các thành viên.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Tiêu chuẩn Trưởng Đoàn kiểm toán, Phó trưởng Đoàn kiểm toán và Tổ trưởng Tổ kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tiêu chuẩn của Trưởng Đoàn kiểm toán, Phó trưởng Đoàn kiểm toán:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có đủ trình độ chuyên môn, năng lực lãnh đạo và kinh nghiệm công tác phù hợp với nhiệm vụ được giao;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Là Kiểm toán viên chính giữ chức vụ từ Phó trưởng phòng trở lên hoặc Kiểm toán viên giữ chức vụ từ Trưởng phòng trở lên."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tiêu chuẩn của Tổ trưởng Tổ kiểm toán:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có đủ trình độ chuyên môn, năng lực lãnh đạo và kinh nghiệm công tác phù hợp với nhiệm vụ được giao;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Là Kiểm toán viên chính hoặc Kiểm toán viên giữ chức vụ từ Phó trưởng phòng trở lên."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Nhiệm vụ, quyền hạn và trách nhiệm của Trưởng Đoàn kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trưởng Đoàn kiểm toán có nhiệm vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức thực hiện nhiệm vụ kiểm toán theo quyết định kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Duyệt biên bản kiểm toán của các Tổ kiểm toán; lập báo cáo kiểm toán; báo cáo, giải trình kết quả kiểm toán trước Kiểm toán trưởng và cùng Kiểm toán trưởng báo cáo, giải trình kết quả đó trước Tổng Kiểm toán nhà nước; tổ chức thông báo kết quả kiểm toán đã được Tổng Kiểm toán nhà nước thông qua với đơn vị được kiểm toán; ký vào báo cáo kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quản lý thành viên Đoàn kiểm toán theo quy định của Tổng Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Báo cáo định kỳ hoặc đột xuất theo yêu cầu của Kiểm toán trưởng về tiến độ thực hiện kế hoạch kiểm toán, tình hình và kết quả hoạt động kiểm toán."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trưởng Đoàn kiểm toán có quyền hạn sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Yêu cầu đơn vị được kiểm toán cung cấp thông tin, tài liệu cần thiết và giải trình các vấn đề có liên quan đến nội dung kiểm toán; yêu cầu kiểm kê tài sản, đối chiếu công nợ của đơn vị được kiểm toán liên quan đến nội dung kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đề nghị tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu liên quan đến nội dung kiểm toán để thu thập bằng chứng kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đề nghị Kiểm toán trưởng kiến nghị Tổng Kiểm toán nhà nước quyết định kiểm tra tài khoản của đơn vị được kiểm toán hoặc cá nhân có liên quan tại tổ chức tín dụng hoặc Kho bạc nhà nước theo quy định của pháp luật; niêm phong tài liệu của đơn vị được kiểm toán khi có hành vi vi phạm pháp luật hoặc có hành vi sửa đổi, chuyển dời, cất giấu, tiêu hủy tài liệu có liên quan đến nội dung kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Yêu cầu Phó trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán và các thành viên Đoàn kiểm toán báo cáo kết quả kiểm toán; khi có ý kiến khác nhau trong Đoàn kiểm toán về kết quả kiểm toán thì Trưởng Đoàn kiểm toán được quyền quyết định và chịu trách nhiệm về quyết định của mình, đồng thời báo cáo ý kiến khác nhau đó với Kiểm toán trưởng;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Bảo lưu bằng văn bản ý kiến của mình khác với đánh giá, xác nhận, kết luận và kiến nghị trong báo cáo kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Báo cáo Kiểm toán trưởng đề nghị Tổng Kiểm toán nhà nước kiến nghị cơ quan có thẩm quyền xử lý đối với hành vi vi phạm pháp luật của đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Tạm đình chỉ thực hiện nhiệm vụ của thành viên Đoàn kiểm toán từ Tổ trưởng Tổ kiểm toán trở xuống khi có dấu hiệu vi phạm quy định tại khoản 1 Điều 8 của Luật này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trưởng Đoàn kiểm toán có trách nhiệm sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chịu trách nhiệm trước Kiểm toán trưởng về hoạt động của Đoàn kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chịu trách nhiệm trước pháp luật về tính đúng đắn, trung thực, khách quan của những đánh giá, xác nhận, kết luận và kiến nghị trong báo cáo kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chịu trách nhiệm liên đới về hành vi vi phạm pháp luật trong hoạt động kiểm toán của thành viên Đoàn kiểm toán; chịu trách nhiệm về quyết định, tạm đình chỉ việc thực hiện nhiệm vụ đối với thành viên trong Đoàn kiểm toán từ Tổ trưởng Tổ kiểm toán trở xuống."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Nhiệm vụ, quyền hạn và trách nhiệm của Phó trưởng Đoàn kiểm toán",
+                    "noi_dung_chung": "Phó trưởng Đoàn kiểm toán giúp Trưởng Đoàn kiểm toán thực hiện nhiệm vụ theo sự phân công của Trưởng Đoàn kiểm toán và chịu trách nhiệm trước Trưởng Đoàn kiểm toán về nhiệm vụ được phân công.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Nhiệm vụ, quyền hạn và trách nhiệm của Tổ trưởng Tổ kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ trưởng Tổ kiểm toán có nhiệm vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức thực hiện kiểm toán theo kế hoạch kiểm toán đã được phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổng hợp kết quả kiểm toán, lập và ký biên bản kiểm toán của Tổ kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quản lý thành viên Tổ kiểm toán theo quy định của Tổng Kiểm toán nhà nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ trưởng Tổ kiểm toán có quyền hạn sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Yêu cầu đơn vị được kiểm toán cung cấp đầy đủ, kịp thời thông tin, tài liệu cần thiết và giải trình các vấn đề có liên quan đến nội dung kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Yêu cầu tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu liên quan đến nội dung kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo và kiến nghị biện pháp xử lý thành viên Tổ kiểm toán có sai phạm để Trưởng Đoàn kiểm toán xem xét, xử lý theo thẩm quyền hoặc kiến nghị cơ quan, người có thẩm quyền xử lý theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đề nghị Trưởng Đoàn kiểm toán làm rõ lý do thay đổi đánh giá, xác nhận, kết luận và kiến nghị trong biên bản kiểm toán, báo cáo kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Bảo lưu bằng văn bản ý kiến của mình khác với đánh giá, xác nhận, kết luận và kiến nghị trong biên bản kiểm toán, báo cáo kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Đề nghị Trưởng Đoàn kiểm toán tạm đình chỉ nhiệm vụ thành viên Tổ kiểm toán khi có dấu hiệu vi phạm quy định tại khoản 1 Điều 8 của Luật này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổ trưởng Tổ kiểm toán có trách nhiệm sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chịu trách nhiệm trước Trưởng Đoàn kiểm toán về hoạt động của Tổ kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chịu trách nhiệm trước pháp luật về tính đúng đắn, trung thực, khách quan của đánh giá, xác nhận, kết luận và kiến nghị trong biên bản kiểm toán của Tổ kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Giải trình các vấn đề có liên quan đến công tác của Tổ kiểm toán theo yêu cầu của Trưởng Đoàn kiểm toán hoặc cơ quan, tổ chức, cá nhân có thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chịu trách nhiệm liên đới về hành vi vi phạm pháp luật trong hoạt động kiểm toán của thành viên Tổ kiểm toán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Nhiệm vụ, quyền hạn của thành viên Đoàn kiểm toán là Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thành viên Đoàn kiểm toán là Kiểm toán viên nhà nước có nhiệm vụ sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chấp hành sự phân công và báo cáo kết quả thực hiện nhiệm vụ kiểm toán với Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khi tiến hành kiểm toán phải tuân theo pháp luật; tuân thủ nguyên tắc, chuẩn mực, quy trình kiểm toán và các quy định của Tổng Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thu thập và đánh giá bằng chứng kiểm toán; ghi nhật ký kiểm toán và tài liệu làm việc của Kiểm toán viên nhà nước; lưu giữ, bảo quản hồ sơ kiểm toán theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chấp hành ý kiến chỉ đạo và kết luận của Tổ trưởng Tổ kiểm toán, Trưởng Đoàn kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Chấp hành kỷ luật công tác của Tổ kiểm toán, Đoàn kiểm toán theo quy định của Tổng Kiểm toán nhà nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thành viên Đoàn kiểm toán là Kiểm toán viên nhà nước có quyền hạn sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khi thực hiện kiểm toán, Kiểm toán viên nhà nước có quyền độc lập và chỉ tuân theo pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Yêu cầu đơn vị được kiểm toán và tổ chức, cá nhân có liên quan cung cấp đầy đủ, kịp thời thông tin, tài liệu có liên quan đến nội dung kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sử dụng thông tin, tài liệu của cộng tác viên Kiểm toán nhà nước; xem xét tài liệu liên quan đến hoạt động của đơn vị được kiểm toán; thu thập, bảo vệ tài liệu và bằng chứng khác; xem xét quy trình hoạt động của đơn vị được kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Bảo lưu ý kiến bằng văn bản về kết quả kiểm toán trong phạm vi được phân công và báo cáo Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán; trường hợp không thống nhất thì báo cáo Kiểm toán trưởng; trường hợp Kiểm toán trưởng không thống nhất thì báo cáo Tổng Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đề nghị Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán làm rõ lý do thay đổi những đánh giá, xác nhận, kết luận và kiến nghị của mình trong biên bản kiểm toán, báo cáo kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Đề nghị Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán yêu cầu đơn vị được kiểm toán giải trình về những vấn đề liên quan đến việc kiểm toán; đề nghị mời chuyên gia, cộng tác viên Kiểm toán nhà nước khi cần thiết;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Được bảo đảm điều kiện và phương tiện cần thiết để tiến hành kiểm toán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 43",
+                    "tieu_de": "Nhiệm vụ và trách nhiệm của thành viên Đoàn kiểm toán không phải Kiểm toán viên nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thành viên Đoàn kiểm toán không phải Kiểm toán viên nhà nước gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Công chức, viên chức của Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cộng tác viên Kiểm toán nhà nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thành viên Đoàn kiểm toán không phải Kiểm toán viên nhà nước có nhiệm vụ và trách nhiệm sau đây: Mục 4. QUY TRÌNH KIỂM TOÁN",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện nhiệm vụ theo sự phân công của Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tuân thủ pháp luật, chuẩn mực, quy trình và phương pháp chuyên môn, nghiệp vụ kiểm toán của Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chịu trách nhiệm trước Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán về nhiệm vụ được giao."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 44",
+                    "tieu_de": "Các bước của quy trình kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chuẩn bị kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thực hiện kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lập và gửi báo cáo kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Theo dõi, kiểm tra việc thực hiện kết luận, kiến nghị kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 45",
+                    "tieu_de": "Chuẩn bị kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khảo sát, thu thập thông tin về hệ thống kiểm soát nội bộ, tình hình tài chính và các thông tin có liên quan về đơn vị được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đánh giá hệ thống kiểm soát nội bộ và thông tin đã thu thập về đơn vị được kiểm toán để xác định mục tiêu, nội dung, phạm vi kiểm toán và phương pháp kiểm toán thích hợp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lập kế hoạch kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 46",
+                    "tieu_de": "Thực hiện kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đoàn kiểm toán phải thực hiện kiểm toán đúng quyết định kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thành viên Đoàn kiểm toán áp dụng phương pháp chuyên môn, nghiệp vụ kiểm toán để thu thập và đánh giá bằng chứng kiểm toán; kiểm tra, đối chiếu, xác nhận; điều tra đối với tổ chức, cá nhân có liên quan đến hoạt động kiểm toán làm cơ sở cho ý kiến đánh giá, xác nhận, kết luận và kiến nghị kiểm toán về nội dung đã kiểm toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 47",
+                    "tieu_de": "Lập và gửi báo cáo kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chậm nhất là 30 ngày, kể từ ngày kết thúc kiểm toán tại đơn vị được kiểm toán, Kiểm toán nhà nước có trách nhiệm hoàn thiện dự thảo báo cáo kiểm toán và gửi lấy ý kiến của đơn vị được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trong thời hạn 10 ngày, kể từ ngày nhận được dự thảo báo cáo kiểm toán, đơn vị được kiểm toán phải có ý kiến bằng văn bản gửi Kiểm toán nhà nước; quá thời hạn trên, đơn vị được kiểm toán không có ý kiến thì được coi là đã nhất trí với dự thảo báo cáo kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Báo cáo kiểm toán được Kiểm toán nhà nước gửi cho đơn vị được kiểm toán và cơ quan có liên quan theo quy định của Tổng Kiểm toán nhà nước chậm nhất là 45 ngày, kể từ ngày kết thúc kiểm toán tại đơn vị được kiểm toán; trường hợp đặc biệt thì có thể kéo dài, nhưng không quá 60 ngày, kể từ ngày kết thúc kiểm toán tại đơn vị được kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Báo cáo kiểm toán quyết toán ngân sách địa phương được gửi cho Đoàn đại biểu Quốc hội, Hội đồng nhân dân, Ủy ban nhân dân cùng cấp; đối với báo cáo kiểm toán quyết toán ngân sách tỉnh, thành phố trực thuộc trung ương còn được gửi cho Bộ Tài chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 48",
+                    "tieu_de": "Lập và gửi báo cáo kiểm toán quyết toán ngân sách nhà nước và báo cáo tổng hợp kết quả kiểm toán năm của Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo kiểm toán quyết toán ngân sách nhà nước được lập theo quy định tại các khoản 1, 2 và 3 Điều 47 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tổng hợp kết quả kiểm toán năm của Kiểm toán nhà nước được lập trên cơ sở báo cáo kiểm toán quyết toán ngân sách nhà nước và tổng hợp kết quả kiểm toán trong năm của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm toán nhà nước có trách nhiệm gửi báo cáo kiểm toán quyết toán ngân sách nhà nước, báo cáo tổng hợp kết quả kiểm toán năm đến Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc và các Ủy ban của Quốc hội chậm nhất là 16 tháng sau khi năm ngân sách kết thúc, đồng thời gửi Chủ tịch nước, Chính phủ và Thủ tướng Chính phủ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 49",
+                    "tieu_de": "Kiểm tra việc thực hiện kết luận và kiến nghị kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm toán nhà nước phải lập kế hoạch và tổ chức kiểm tra đơn vị được kiểm toán trong việc thực hiện đầy đủ, kịp thời kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc kiểm tra việc thực hiện kết luận, kiến nghị kiểm toán được thực hiện theo các hình thức sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Yêu cầu đơn vị được kiểm toán báo cáo bằng văn bản kết quả thực hiện kết luận, kiến nghị kiểm toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổ chức kiểm tra việc thực hiện kết luận, kiến nghị kiểm toán tại đơn vị được kiểm toán và cơ quan, tổ chức, đơn vị có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm toán nhà nước có trách nhiệm lập và gửi báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán. Việc gửi báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước được thực hiện theo quy định tại khoản 3 Điều 48 của Luật này . Mục 5. CÔNG KHAI KẾT QUẢ KIỂM TOÁN VÀ KẾT QUẢ THỰC HIỆN KẾT LUẬN, KIẾN NGHỊ KIỂM TOÁN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 50",
+                    "tieu_de": "Công khai báo cáo kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo kiểm toán sau khi phát hành được công bố công khai, trừ những nội dung thuộc bí mật nhà nước theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước tổ chức công khai báo cáo kiểm toán theo một hoặc một số hình thức sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Họp báo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Công bố trên Công báo và phương tiện thông tin đại chúng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đăng tải trên trang thông tin điện tử và các ấn phẩm của Kiểm toán nhà nước;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Niêm yết tại trụ sở của đơn vị được kiểm toán."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 51",
+                    "tieu_de": "Công khai báo cáo tổng hợp kết quả kiểm toán năm và báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo tổng hợp kết quả kiểm toán năm và báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước sau khi báo cáo Quốc hội được công bố công khai theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hình thức công khai thực hiện theo quy định tại các điểm a, b và c khoản 2 Điều 50 của Luật này . Mục 6: HỒ SƠ KIỂM TOÁN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 52",
+                    "tieu_de": "Hồ sơ kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tài liệu của mỗi cuộc kiểm toán phải được lập thành hồ sơ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quy định cụ thể về hồ sơ kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hồ sơ kiểm toán phải đưa vào lưu trữ trong thời hạn 12 tháng, kể từ ngày phát hành báo cáo kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thời hạn lưu trữ hồ sơ kiểm toán tối thiểu là 10 năm, trừ trường hợp có quyết định của cơ quan nhà nước có thẩm quyền.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 53",
+                    "tieu_de": "Bảo quản và khai thác hồ sơ kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ kiểm toán phải được bảo quản đầy đủ, an toàn và bảo mật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chỉ được khai thác hồ sơ kiểm toán trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khi có đề nghị của Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan điều tra và cơ quan có liên quan theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khi có yêu cầu giám định, kiểm tra chất lượng kiểm toán; giải quyết kiến nghị về báo cáo kiểm toán, khiếu nại, tố cáo; lập kế hoạch kiểm toán kỳ sau và các yêu cầu khác theo quyết định của Tổng Kiểm toán nhà nước."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 54",
+                    "tieu_de": "Hủy hồ sơ kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ kiểm toán đã hết thời hạn lưu trữ, nếu không có quyết định của cơ quan nhà nước có thẩm quyền thì được hủy theo quyết định của Tổng Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quyết định thành lập Hội đồng để hủy hồ sơ kiểm toán hết thời hạn lưu trữ. Hội đồng hủy hồ sơ kiểm toán phải tiến hành kiểm kê, lập danh mục hồ sơ kiểm toán tiêu hủy và biên bản hủy hồ sơ kiểm toán hết thời hạn lưu trữ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc hủy hồ sơ kiểm toán được thực hiện theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "QUYỀN VÀ NGHĨA VỤ CỦA ĐƠN VỊ ĐƯỢC KIỂM TOÁN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 55",
+                    "tieu_de": "Đơn vị được kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và cơ quan khác của Nhà nước ở trung ương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan được giao nhiệm vụ thu, chi ngân sách nhà nước các cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hội đồng nhân dân, Ủy ban nhân dân các cấp, cơ quan khác của Nhà nước ở địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đơn vị thuộc lực lượng vũ trang nhân dân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đơn vị quản lý, sử dụng dự trữ quốc gia; quỹ tài chính nhà nước ngoài ngân sách.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp có sử dụng kinh phí, ngân quỹ nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đơn vị sự nghiệp công lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Tổ chức quản lý tài sản quốc gia.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Ban quản lý dự án đầu tư có nguồn kinh phí ngân sách nhà nước hoặc có nguồn gốc từ ngân sách nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ. Đối với doanh nghiệp do Nhà nước nắm giữ từ 50% vốn điều lệ trở xuống, khi cần thiết, Tổng Kiểm toán nhà nước quyết định lựa chọn mục tiêu, tiêu chí, nội dung và phương pháp kiểm toán phù hợp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Đơn vị nhận trợ giá, trợ cấp của Nhà nước, đơn vị có công nợ được Nhà nước bảo lãnh mà không phải là doanh nghiệp có quản lý, sử dụng vốn, tài sản nhà nước. Các đơn vị này có thể thuê doanh nghiệp kiểm toán thực hiện kiểm toán; doanh nghiệp kiểm toán phải thực hiện việc kiểm toán theo chuẩn mực, quy trình kiểm toán nhà nước và gửi báo cáo kiểm toán cho Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Cơ quan được giao quản lý, sử dụng nợ công.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 56",
+                    "tieu_de": "Quyền của đơn vị được kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Yêu cầu Đoàn kiểm toán xuất trình quyết định kiểm toán, Kiểm toán viên nhà nước xuất trình thẻ Kiểm toán viên nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Từ chối cung cấp thông tin, tài liệu không liên quan đến nội dung kiểm toán; đề nghị thay thế thành viên Đoàn kiểm toán khi có bằng chứng cho rằng thành viên đó không trung thực, khách quan trong khi làm nhiệm vụ hoặc thuộc trường hợp không được bố trí làm thành viên Đoàn kiểm toán theo quy định tại Điều 28 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Giải trình bằng văn bản về những vấn đề được nêu trong dự thảo báo cáo kiểm toán nếu xét thấy chưa phù hợp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Khiếu nại về hành vi của thành viên Đoàn kiểm toán trong quá trình thực hiện kiểm toán khi có căn cứ cho rằng hành vi đó là trái pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Khiếu nại về đánh giá, xác nhận, kết luận và kiến nghị kiểm toán trong báo cáo kiểm toán khi có căn cứ cho rằng đánh giá, xác nhận, kết luận và kiến nghị đó là trái pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Yêu cầu Kiểm toán nhà nước bồi thường thiệt hại trong trường hợp gây thiệt hại cho đơn vị được kiểm toán theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thực hiện các quyền khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 57",
+                    "tieu_de": "Nghĩa vụ của đơn vị được kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chấp hành quyết định kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Lập và gửi đầy đủ, kịp thời báo cáo tài chính, báo cáo tình hình thực hiện, quyết toán vốn, quản lý dự án đầu tư; kế hoạch thu, chi; báo cáo tình hình chấp hành và quyết toán ngân sách cho Kiểm toán nhà nước theo yêu cầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cung cấp đầy đủ, kịp thời các thông tin, tài liệu cần thiết để thực hiện việc kiểm toán theo yêu cầu của Kiểm toán nhà nước, Kiểm toán viên nhà nước và phải chịu trách nhiệm trước pháp luật về tính chính xác, trung thực, khách quan của thông tin, tài liệu đã cung cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trả lời và giải trình đầy đủ, kịp thời các vấn đề do Đoàn kiểm toán, Kiểm toán viên nhà nước yêu cầu liên quan đến nội dung kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Ký biên bản kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thực hiện đầy đủ, kịp thời kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước về quản lý, sử dụng tài chính công, tài sản công; thực hiện biện pháp để khắc phục yếu kém trong hoạt động của mình theo kết luận, kiến nghị của Kiểm toán nhà nước; báo cáo bằng văn bản về việc thực hiện kết luận, kiến nghị đó cho Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Trong thời gian giải quyết khiếu nại, đơn vị được kiểm toán vẫn phải thực hiện đầy đủ, kịp thời kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước, trừ trường hợp Tổng Kiểm toán nhà nước, cơ quan nhà nước có thẩm quyền quyết định tạm đình chỉ thực hiện các kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 58",
+                    "tieu_de": "Trách nhiệm gửi báo cáo tài chính, báo cáo quyết toán ngân sách, dự toán kinh phí của các đơn vị được kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kết thúc năm ngân sách, các đơn vị dự toán cấp I của ngân sách trung ương, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các đơn vị được kiểm toán có trách nhiệm gửi báo cáo tài chính, báo cáo quyết toán ngân sách, dự toán kinh phí năm sau cho Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Tài chính, Sở Tài chính tỉnh, thành phố trực thuộc trung ương gửi báo cáo thực hiện dự toán thu, chi ngân sách năm cho Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước quy định cụ thể về thời gian, nơi nhận báo cáo theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VI",
+            "tieu_de_chuong": "BẢO ĐẢM HOẠT ĐỘNG CỦA KIỂM TOÁN NHÀ NƯỚC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 59",
+                    "tieu_de": "Kinh phí hoạt động và cơ sở vật chất của Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhà nước bảo đảm kinh phí hoạt động, cơ sở vật chất cho Kiểm toán nhà nước theo quy định của pháp luật. Kinh phí hoạt động của Kiểm toán nhà nước do Kiểm toán nhà nước lập dự toán và gửi Chính phủ tổng hợp, trình Quốc hội quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc quản lý, cấp và sử dụng kinh phí hoạt động của Kiểm toán nhà nước được thực hiện theo quy định của pháp luật về ngân sách nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 60",
+                    "tieu_de": "Biên chế của Kiểm toán nhà nước",
+                    "noi_dung_chung": "Biên chế của Kiểm toán nhà nước do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Tổng Kiểm toán nhà nước.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 61",
+                    "tieu_de": "Đầu tư hiện đại hóa hoạt động của Kiểm toán nhà nước",
+                    "noi_dung_chung": "Nhà nước có chính sách đầu tư phát triển cơ sở vật chất, công nghệ thông tin và các phương tiện khác để bảo đảm cho tổ chức và hoạt động của Kiểm toán nhà nước, đáp ứng yêu cầu hội nhập quốc tế.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 62",
+                    "tieu_de": "Chế độ đối với cán bộ, công chức của Kiểm toán nhà nước",
+                    "noi_dung_chung": "Chế độ tiền lương, phụ cấp, trang phục và chế độ ưu tiên đối với cán bộ, công chức của Kiểm toán nhà nước do Ủy ban thường vụ Quốc hội quy định.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VII",
+            "tieu_de_chuong": "TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN ĐỐI VỚI HOẠT ĐỘNG KIỂM TOÁN NHÀ NƯỚC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 63",
+                    "tieu_de": "Quốc hội với Kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội theo chức năng, nhiệm vụ, quyền hạn của mình giám sát hoạt động của Kiểm toán nhà nước theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng Kiểm toán nhà nước báo cáo kết quả kiểm toán, báo cáo công tác của Kiểm toán nhà nước trước Quốc hội, Ủy ban thường vụ Quốc hội; báo cáo, giải trình, cung cấp tài liệu, nghiên cứu và trả lời các kiến nghị theo yêu cầu của Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội; trả lời chất vấn của đại biểu Quốc hội trước Quốc hội hoặc Ủy ban thường vụ Quốc hội.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 64",
+                    "tieu_de": "Chính phủ với Kiểm toán nhà nước",
+                    "noi_dung_chung": "Chính phủ, các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình phối hợp với Kiểm toán nhà nước trong tổ chức và hoạt động kiểm toán nhà nước; thực hiện, đôn đốc và chỉ đạo các cơ quan liên quan thực hiện và báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 65",
+                    "tieu_de": "Trách nhiệm của cơ quan điều tra, Viện kiểm sát nhân dân",
+                    "noi_dung_chung": "Cơ quan điều tra, Viện kiểm sát nhân dân có trách nhiệm tiếp nhận và giải quyết theo thẩm quyền các vụ việc có dấu hiệu của tội phạm, do Kiểm toán nhà nước phát hiện và kiến nghị.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 66",
+                    "tieu_de": "Trách nhiệm của Hội đồng nhân dân",
+                    "noi_dung_chung": "Hội đồng nhân dân giám sát việc thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước tại địa phương.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 67",
+                    "tieu_de": "Trách nhiệm của Ủy ban nhân dân",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện và chỉ đạo các cơ quan của địa phương cung cấp đầy đủ, kịp thời thông tin, tài liệu phục vụ hoạt động kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thực hiện và chỉ đạo các cơ quan của địa phương thực hiện và báo cáo đầy đủ, kịp thời kết quả thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 68",
+                    "tieu_de": "Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động kiểm toán nhà nước có trách nhiệm cung cấp đầy đủ, chính xác, kịp thời thông tin, tài liệu theo yêu cầu của Kiểm toán nhà nước, Kiểm toán viên nhà nước và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực, khách quan của thông tin, tài liệu đã cung cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm thực hiện kết luận và kiến nghị kiểm toán của Kiểm toán nhà nước, đồng thời gửi báo cáo kết quả cho Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Tài chính, Bộ Kế hoạch và Đầu tư, cơ quan khác của Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm cung cấp đầy đủ, kịp thời các thông tin, tài liệu để phục vụ cho Kiểm toán nhà nước thực hiện nhiệm vụ quy định tại khoản 4 Điều 10 của Luật này .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VIII",
+            "tieu_de_chuong": "KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI PHẠM TRONG HOẠT ĐỘNG KIỂM TOÁN NHÀ NƯỚC",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 69",
+                    "tieu_de": "Khiếu nại và giải quyết khiếu nại trong hoạt động kiểm toán nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khiếu nại và giải quyết khiếu nại trong cơ quan Kiểm toán nhà nước được thực hiện theo quy định của pháp luật về khiếu nại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khiếu nại và giải quyết khiếu nại liên quan đến đơn vị được kiểm toán:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trong quá trình thực hiện kiểm toán, đơn vị được kiểm toán có quyền khiếu nại với Tổng Kiểm toán nhà nước về hành vi của Trưởng Đoàn kiểm toán, Tổ trưởng Tổ kiểm toán và các thành viên của Đoàn kiểm toán khi có căn cứ cho rằng hành vi đó là trái pháp luật, gây thiệt hại đến quyền và lợi ích hợp pháp của đơn vị;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 30 ngày, kể từ ngày nhận được báo cáo kiểm toán, đơn vị được kiểm toán có quyền khiếu nại với Tổng Kiểm toán nhà nước về đánh giá, xác nhận, kết luận và kiến nghị kiểm toán trong báo cáo kiểm toán khi có căn cứ cho rằng kết quả kiểm toán đó là trái pháp luật, gây thiệt hại đến quyền và lợi ích hợp pháp của đơn vị;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trình tự, thủ tục giải quyết khiếu nại trong hoạt động kiểm toán được thực hiện theo quy định của Luật khiếu nại;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Quyền, nghĩa vụ của người khiếu nại, người bị khiếu nại, người giải quyết khiếu nại, luật sư, trợ giúp viên pháp lý, việc thi hành quyết định giải quyết khiếu nại có hiệu lực pháp luật và các hành vi bị cấm thực hiện theo quy định của Luật khiếu nại ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 70",
+                    "tieu_de": "Tố cáo và giải quyết tố cáo về hoạt động kiểm toán nhà nước",
+                    "noi_dung_chung": "Việc tố cáo và giải quyết tố cáo về hoạt động kiểm toán nhà nước được thực hiện theo quy định của pháp luật về tố cáo.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 71",
+                    "tieu_de": "Xử lý vi phạm",
+                    "noi_dung_chung": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật về kiểm toán nhà nước thì tùy theo tính chất, mức độ vi phạm mà bị xử lý theo quy định của pháp luật.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IX",
+            "tieu_de_chuong": "ĐIỀU KHOẢN THI HÀNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 72",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2016. Việc kiểm toán đối với doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ đã có trong kế hoạch kiểm toán năm 2015 được tiếp tục thực hiện cho đến khi hoàn thành kế hoạch kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Luật Kiểm toán nhà nước số 37/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 73",
+                    "tieu_de": "Quy định chi tiết",
+                    "noi_dung_chung": "Ủy ban thường vụ Quốc hội, Tổng Kiểm toán nhà nước quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 24 tháng 6 năm 2015.",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

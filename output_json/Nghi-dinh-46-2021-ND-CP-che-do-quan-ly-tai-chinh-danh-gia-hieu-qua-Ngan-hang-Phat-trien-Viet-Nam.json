@@ -1,0 +1,1683 @@
+{
+    "ten_luat": "Nghị định 46/2021/NĐ-CP chế độ quản lý tài chính đánh giá hiệu quả Ngân hàng Phát triển Việt Nam",
+    "so_hieu": "46/2021/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam (sau đây gọi tắt là Ngân hàng Phát triển).",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan đại diện chủ sở hữu vốn nhà nước tại Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các tổ chức và cá nhân có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích thuật ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "“Tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước” bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các khoản cho vay theo quy định của Chính phủ về chính sách tín dụng đầu tư của Nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dư nợ cho vay tín dụng xuất khẩu của Nhà nước đối với các hợp đồng đã ký trước thời điểm Nghị định số 32/2017/NĐ-CP ngày 31 tháng 3 năm 2017 của Chính phủ về tín dụng đầu tư của Nhà nước có hiệu lực thi hành (sau đây gọi tắt là Nghị định số 32/2017/NĐ-CP);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các khoản cho vay theo chương trình, dự án do Chính phủ, Thủ tướng Chính phủ giao được ngân sách nhà nước cấp bù lãi suất và/hoặc phí quản lý;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các khoản nợ vay Ngân hàng Phát triển nhận lại từ tổ chức tiền thân."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "“Nợ vay bắt buộc bảo lãnh” là các khoản nợ vay bắt buộc sau khi Ngân hàng Phát triển thực hiện nghĩa vụ bảo lãnh cho doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại theo quyết định của Thủ tướng Chính phủ về cơ chế bảo lãnh cho doanh nghiệp nhỏ và vừa.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "“Các khoản nợ vay khác” là các khoản Ngân hàng Phát triển cho vay lại vốn vay nước ngoài của Chính phủ do Ngân hàng Phát triển chịu rủi ro tín dụng và các khoản cho vay khác của Ngân hàng Phát triển theo lãi suất thỏa thuận, ngân sách nhà nước không cấp bù lãi suất và phí quản lý.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc quản lý tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển là ngân hàng chính sách, hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, có tư cách pháp nhân, có vốn điều lệ, có bảng cân đối kế toán, có con dấu, được mở tài khoản tại Ngân hàng Nhà nước Việt Nam, Kho bạc Nhà nước, các ngân hàng thương mại trong nước và nước ngoài theo quy định của pháp luật. Ngân hàng Phát triển là đơn vị hạch toán tập trung toàn hệ thống; tự chủ về tài chính, tự chịu trách nhiệm về hoạt động của mình trước pháp luật; tiến tới tự bù đắp chi phí và rủi ro trong hoạt động. Ngân hàng Phát triển thực hiện quản lý tài chính theo quy định của Nghị định này, đối với các nội dung không quy định tại Nghị định này thì thực hiện theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển hoạt động không vì mục tiêu lợi nhuận nhằm thực hiện chính sách tín dụng của Nhà nước và các nhiệm vụ khác theo quy định của Chính phủ, Thủ tướng Chính phủ; được ngân sách nhà nước cấp bù lãi suất và phí quản lý theo quy định của pháp luật và Nghị định này; được miễn nộp thuế và các khoản nộp ngân sách nhà nước; được Chính phủ đảm bảo khả năng thanh toán; được áp dụng tỷ lệ dự trữ bắt buộc bằng 0% (không phần trăm) và không phải tham gia bảo hiểm tiền gửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được Ngân hàng Nhà nước Việt Nam cho vay tái cấp vốn theo quy định của pháp luật; được tham gia thị trường liên ngân hàng, tham gia thị trường mở, tổ chức thanh toán nội bộ, cung cấp các dịch vụ thanh toán, các dịch vụ ngân hàng khác cho khách hàng, thực hiện hoạt động ngoại hối; được tham gia hệ thống thanh toán trong nước và quốc tế theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đối với hoạt động cho vay khác: ngân sách nhà nước không cấp bù lãi suất và phí quản lý; các khoản thu nhập, chi phí và kết quả hoạt động phát sinh được hòa nhập chung với kết quả hoạt động của Ngân hàng Phát triển theo quy định tại Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Chế độ trách nhiệm",
+                    "noi_dung_chung": "Hội đồng quản trị, Ban Kiểm soát, Tổng giám đốc Ngân hàng Phát triển chịu trách nhiệm trước pháp luật, trước các cơ quan quản lý nhà nước về việc quản lý an toàn vốn, tài sản của Ngân hàng Phát triển, đảm bảo việc sử dụng vốn đúng mục đích, tiết kiệm, hiệu quả và chấp hành chế độ tài chính, kế toán, kiểm toán của Ngân hàng Phát triển.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "VỐN, QUỸ VÀ TÀI SẢN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Vốn hoạt động của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Vốn chủ sở hữu: Việc thay đổi mức vốn điều lệ do Thủ tướng Chính phủ quyết định trên cơ sở đề nghị của Ngân hàng Phát triển và ý kiến của Bộ Tài chính, đảm bảo phù hợp với yêu cầu, nhiệm vụ và tỷ lệ bảo đảm an toàn vốn của Ngân hàng Phát triển trong từng thời kỳ;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Vốn điều lệ ngân sách nhà nước cấp và được bổ sung từ quỹ dự trữ bổ sung vốn điều lệ, quỹ đầu tư phát triển hoặc các nguồn khác theo quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Vốn đầu tư xây dựng cơ bản do ngân sách nhà nước cấp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các quỹ: Quỹ dự trữ bổ sung vốn điều lệ, quỹ đầu tư phát triển, quỹ dự phòng tài chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chênh lệch do đánh giá lại tài sản; chênh lệch tỷ giá;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Kết quả hoạt động chưa phân phối;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Vốn tài trợ không hoàn lại của các tổ chức trong nước và nước ngoài;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Vốn khác thuộc sở hữu của Ngân hàng Phát triển."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Vốn huy động theo quy định của pháp luật, gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phát hành trái phiếu được Chính phủ bảo lãnh;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phát hành trái phiếu, kỳ phiếu, chứng chỉ tiền gửi, giấy tờ có giá bằng đồng Việt Nam của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Vay Bảo hiểm xã hội Việt Nam; vay của các tổ chức tài chính, tín dụng trong nước và nước ngoài;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Vay Ngân hàng Nhà nước Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Huy động của các tổ chức khác trong và ngoài nước;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Nhận tiền gửi ủy thác của các tổ chức, cá nhân trong và ngoài nước;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Huy động các nguồn vốn khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các khoản vốn khác gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân sách nhà nước cấp bù lãi suất để thực hiện các hợp đồng hỗ trợ sau đầu tư phát sinh trước thời điểm Nghị định số 32/2017/NĐ-CP có hiệu lực thi hành;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Vốn vay nước ngoài của Chính phủ được Bộ Tài chính ủy quyền cho vay lại;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Vốn nhận ủy thác của Bộ Tài chính, chính quyền địa phương, các quỹ tài chính địa phương, các tổ chức trong nước và nước ngoài (bên ủy thác) để thực hiện theo văn bản yêu cầu của bên ủy thác;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các nguồn vốn hợp pháp khác theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Vốn tự có",
+                    "noi_dung_chung": "Vốn tự có được xác định và tính toán từ số liệu trong báo cáo tài chính riêng lẻ, bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các quỹ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ dự trữ bổ sung vốn điều lệ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quỹ đầu tư phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quỹ dự phòng tài chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chênh lệch dương do đánh giá lại tài sản (bao gồm tài sản cố định, các khoản góp vốn đầu tư dài hạn).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chênh lệch thu chi dương chưa phân phối lũy kế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Các khoản phải giảm trừ khi xác định vốn tự có gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Vốn góp vào công ty con, công ty liên kết theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chênh lệch thu chi âm lũy kế;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chênh lệch âm do đánh giá lại tài sản."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Sử dụng vốn và tài sản",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được sử dụng vốn hoạt động để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện chính sách tín dụng theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện các hình thức cấp tín dụng khác theo quy định tại Điều lệ tổ chức và hoạt động của Ngân hàng Phát triển và quyết định của cấp có thẩm quyền theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cấp hỗ trợ sau đầu tư theo quy định của pháp luật đối với các Hợp đồng phát sinh trước thời điểm Nghị định số 32/2017/NĐ-CP có hiệu lực thi hành;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện nghĩa vụ bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Ủy thác cho các tổ chức tín dụng thực hiện một số hoạt động của Ngân hàng Phát triển theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Cho vay theo ủy quyền/ủy thác, cấp phát vốn theo ủy thác; bảo lãnh theo ủy quyền/ủy thác;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Ủy thác, nhận ủy thác cung ứng các dịch vụ tài chính, ngân hàng cho khách hàng theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Mua, bán, chiết khấu, tái chiết khấu giấy tờ có giá theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Góp vốn, thành lập công ty con hoặc tham gia thành lập các công ty liên kết trong nước theo quy định của pháp luật và Điều lệ tổ chức và hoạt động của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Đầu tư xây dựng cơ bản và mua sắm tài sản phục vụ cho hoạt động của Ngân hàng Phát triển theo quy định của Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Sử dụng nguồn vốn nhàn rỗi để gửi tại các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. Ngân hàng Phát triển lựa chọn tổ chức tín dụng, chi nhánh ngân hàng nước ngoài để gửi tiền đảm bảo an toàn, không để mất vốn;"
+                                },
+                                {
+                                    "id_diem": "m",
+                                    "noi_dung": "Thực hiện một số nhiệm vụ khác do Chính phủ, Thủ tướng Chính phủ giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều chỉnh cơ cấu vốn, tài sản: Ngân hàng Phát triển được chủ động điều chỉnh cơ cấu vốn, tài sản trong phạm vi hệ thống để phục vụ cho hoạt động theo quy định tại Điều lệ tổ chức và hoạt động của Ngân hàng Phát triển .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều động vốn, tài sản: Việc điều động vốn, tài sản giữa các đơn vị thuộc, trực thuộc Ngân hàng Phát triển thực hiện theo quy định tại Điều lệ tổ chức và hoạt động của Ngân hàng Phát triển .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Bảo đảm an toàn vốn",
+                    "noi_dung_chung": "Ngân hàng Phát triển có trách nhiệm thực hiện các quy định về bảo đảm an toàn vốn hoạt động, gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quản lý, sử dụng vốn, tài sản, phân phối kết quả tài chính, thực hiện chế độ quản lý tài chính và chế độ kế toán theo quy định tại Nghị định này và các quy định của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Mua bảo hiểm tài sản theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hạch toán vào chi phí hoạt động các khoản trích lập dự phòng rủi ro theo quy định tại Nghị định này và quy định của pháp luật liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Mua lại, hoán đổi các giấy tờ có giá do Ngân hàng Phát triển phát hành theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Xử lý tổn thất về tài sản theo quy định tại Điều 14 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thực hiện các biện pháp khác về bảo toàn vốn theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Kiểm kê, đánh giá lại, thanh lý, nhượng bán tài sản",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm kê tài sản và xử lý kết quả kiểm kê tài sản:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển thực hiện kiểm kê tài sản khi khóa sổ kế toán để lập báo cáo tài chính năm; khi thực hiện quyết định chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức pháp lý; sau khi xảy ra thiên tai, địch họa hoặc vì các nguyên nhân khác gây ra biến động tài sản của Ngân hàng Phát triển; theo quyết định của cơ quan nhà nước có thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Việc xử lý kết quả kiểm kê tài sản tại Ngân hàng Phát triển thực hiện theo các quy định hiện hành đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đánh giá lại tài sản:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển thực hiện đánh giá lại tài sản theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả đánh giá lại tài sản của Ngân hàng Phát triển được gửi cho cơ quan nhà nước có thẩm quyền quyết định việc đánh giá và đồng gửi Bộ Tài chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thanh lý, nhượng bán tài sản:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển được thanh lý, nhượng bán những tài sản hư hỏng không có khả năng phục hồi, lạc hậu kỹ thuật, không có nhu cầu sử dụng hoặc không sử dụng được để thu hồi vốn trên nguyên tắc công khai, minh bạch;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thẩm quyền, phương thức, trình tự, thủ tục thanh lý, nhượng bán tài sản của Ngân hàng Phát triển thực hiện theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các khoản thu hoặc chi phí phát sinh từ việc thanh lý, nhượng bán tài sản (bao gồm cả giá trị còn lại của tài sản thanh lý, nhượng bán) được hạch toán vào thu nhập hoặc chi phí của Ngân hàng Phát triển theo quy định."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Khấu hao tài sản cố định",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện trích khấu hao tài sản cố định theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được sử dụng số khấu hao tài sản cố định để tái đầu tư thay thế, đổi mới tài sản cố định và các yêu cầu hoạt động khác theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Đầu tư xây dựng cơ bản, mua sắm tài sản cố định",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc đầu tư xây dựng cơ bản, mua sắm tài sản cố định phục vụ cho hoạt động của Ngân hàng Phát triển tuân thủ theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ và theo kế hoạch hằng năm được Hội đồng quản trị phê duyệt. Trường hợp giá trị dự án đầu tư vượt thẩm quyền quyết định đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, Hội đồng quản trị báo cáo Bộ Tài chính để trình Thủ tướng Chính phủ quyết định. Việc đầu tư xây dựng cơ bản từ nguồn vốn đầu tư công (nếu có) thực hiện theo quy định của Luật Đầu tư công và các văn bản hướng dẫn có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng giá trị còn lại của toàn bộ tài sản cố định phục vụ cho hoạt động của Ngân hàng Phát triển (nguyên giá tài sản cố định trừ khấu hao) không vượt quá 25% vốn điều lệ và quỹ dự trữ bổ sung vốn điều lệ phản ánh trên sổ sách kế toán của Ngân hàng Phát triển.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Thuê, cho thuê, thế chấp và cầm cố tài sản",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được cho thuê, thế chấp, cầm cố các tài sản thuộc quyền sử dụng, quyền sở hữu của Ngân hàng Phát triển theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với những tài sản Ngân hàng Phát triển đi thuê hoặc nhận cầm cố, thế chấp, nhận bảo quản giữ hộ của khách hàng, Ngân hàng Phát triển có trách nhiệm quản lý, bảo quản hoặc sử dụng theo thỏa thuận với khách hàng phù hợp với quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Xử lý tổn thất về tài sản",
+                    "noi_dung_chung": "Khi bị tổn thất về tài sản, Ngân hàng Phát triển xác định mức độ, nguyên nhân, trách nhiệm và xử lý theo nguyên tắc sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nếu do nguyên nhân chủ quan thì cá nhân, tập thể gây ra tổn thất phải bồi thường thiệt hại theo quy định của pháp luật. Ngân hàng Phát triển quy định cụ thể việc bồi thường và quyết định mức bồi thường phù hợp với quy định của pháp luật; chịu trách nhiệm về quyết định của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nếu tài sản đã mua bảo hiểm thì xử lý theo hợp đồng bảo hiểm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sử dụng các khoản dự phòng được trích lập trong chi phí để bù đắp theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Giá trị tổn thất sau khi đã bù đắp bằng tiền bồi thường của cá nhân, tập thể, của tổ chức bảo hiểm và sử dụng dự phòng được trích trong chi phí, nếu thiếu được bù đắp bằng Quỹ dự phòng tài chính. Trường hợp Quỹ dự phòng tài chính không đủ bù đắp, phần thiếu được hạch toán vào chi phí hoạt động khác trong kỳ.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "PHÂN LOẠI NỢ, TRÍCH LẬP VÀ SỬ DỤNG DỰ PHÒNG RỦI RO",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Phân loại nợ và xác định dự phòng rủi ro tín dụng cần phải trích lập",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện phân loại nợ theo hướng dẫn của Ngân hàng Nhà nước Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ kết quả phân loại nợ quy định tại khoản 1 Điều này, Ngân hàng Phát triển tính toán đầy đủ và theo dõi số dự phòng rủi ro cần phải trích lập (dự phòng chung và dự phòng cụ thể) của từng hoạt động tín dụng quy định tại Điều 3 Nghị định này ; mức trích lập theo hướng dẫn của Ngân hàng Nhà nước Việt Nam đối với các ngân hàng thương mại.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Trích lập dự phòng rủi ro tín dụng",
+                    "noi_dung_chung": "Ngân hàng Phát triển tính vào chi phí hoạt động hằng năm để trích lập dự phòng rủi ro đối với tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước; nợ vay bắt buộc bảo lãnh và các khoản nợ vay khác mà Ngân hàng Phát triển chịu rủi ro tín dụng. Việc trích lập như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước, nợ vay bắt buộc bảo lãnh (sau đây gọi tắt là dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh): Hằng năm, Ngân hàng Phát triển căn cứ chênh lệch thu chi tài chính để quyết định mức trích lập nhưng tối thiểu bằng 0,75% tổng dư nợ tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh và đảm bảo số dư quỹ dự phòng rủi ro không vượt quá tổng mức phải trích lập theo quy định tại khoản 2 Điều 15 của Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với dự phòng rủi ro các khoản cho vay khác: Đối với các khoản cho vay theo Hợp đồng ủy quyền cho vay lại giữa Bộ Tài chính và Ngân hàng Phát triển được ký kết kể từ ngày Nghị định số 97/2018/NĐ-CP ngày 30 tháng 6 năm 2018 của Chính phủ về cho vay lại vốn ODA, vay ưu đãi nước ngoài của Chính phủ có hiệu lực thi hành (sau đây gọi tắt là Nghị định số 97/2018/NĐ-CP), Ngân hàng Phát triển thực hiện trích lập và sử dụng dự phòng rủi ro theo quy định tại Nghị định số 97/2018/NĐ-CP và các văn bản sửa đổi, bổ sung (nếu có); Đối với các khoản cho vay theo Hợp đồng ủy quyền cho vay lại giữa Bộ Tài chính và Ngân hàng Phát triển được ký kết trước ngày Nghị định số 97/2018/NĐ-CP có hiệu lực thi hành, Ngân hàng Phát triển thực hiện trích lập dự phòng rủi ro theo Hợp đồng ủy quyền cho vay lại vốn vay nước ngoài ký với Bộ Tài chính. Trường hợp Hợp đồng ủy quyền cho vay lại không quy định về việc trích lập dự phòng rủi ro thì Ngân hàng Phát triển thực hiện trích lập theo quy định tại điểm b khoản này;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với các khoản cho vay từ nguồn cho vay lại vốn vay nước ngoài của Chính phủ:"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với các khoản cho vay khác còn lại Ngân hàng Phát triển chịu rủi ro tín dụng: Hằng năm, Ngân hàng Phát triển dùng chênh lệch dương giữa thu lãi cho vay với chi phí huy động vốn của toàn bộ các hoạt động cho vay này để trích lập dự phòng rủi ro và đảm bảo số dư quỹ dự phòng rủi ro các khoản nợ vay khác không vượt quá mức phải trích lập theo quy định tại khoản 2 Điều 15 của Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc trích lập dự phòng rủi ro tín dụng được thực hiện hằng quý. Riêng đối với kỳ kế toán năm, trích vào thời điểm quyết toán căn cứ vào kết quả phân loại nợ tại thời điểm 30 tháng 11 của năm kế toán.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Các quỹ dự phòng rủi ro tín dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các quỹ dự phòng rủi ro tín dụng của Ngân hàng Phát triển bao gồm quỹ dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh và quỹ dự phòng rủi ro các khoản nợ vay khác được hình thành từ các nguồn sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trích lập dự phòng rủi ro tín dụng theo quy định tại Điều 16 của Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Số tiền thu hồi được từ các khoản nợ gốc đã sử dụng quỹ dự phòng rủi ro tín dụng để xử lý;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phần chênh lệch giữa giá bán khoản nợ đang hạch toán nội bảng sau khi trừ các chi phí liên quan đến bán nợ theo quy định của pháp luật cao hơn giá trị sổ sách của khoản nợ (gốc, lãi) theo quy định;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Kết chuyển số dư quỹ dự phòng rủi ro của hoạt động cho vay tín dụng đầu tư, tín dụng xuất khẩu và quỹ dự phòng rủi ro bảo lãnh vào quỹ dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh; số dư quỹ dự phòng rủi ro của các hoạt động cho vay khác vào quỹ dự phòng rủi ro các khoản cho vay khác tại thời điểm Nghị định này có hiệu lực thi hành;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Các nguồn khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện quản lý, theo dõi riêng đối với từng quỹ dự phòng rủi ro và sử dụng để xử lý rủi ro theo Quy chế xử lý rủi ro tín dụng tại Ngân hàng Phát triển do Thủ tướng Chính phủ ban hành.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh được sử dụng để xử lý rủi ro cho các khoản nợ tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh theo quy định của pháp luật; quỹ dự phòng rủi ro các khoản cho vay khác được sử dụng để xử lý rủi ro cho các khoản cho vay khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp số dư quỹ dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh lớn hơn số dự phòng phải trích theo quy định, Ngân hàng Phát triển thực hiện hoàn nhập phần chênh lệch thừa vào thu nhập;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Số dư quỹ dự phòng rủi ro các khoản nợ vay khác sau khi đã thu hồi hết dư nợ vay, Ngân hàng Phát triển được chuyển vào quỹ dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh; chỉ thực hiện hoàn nhập phần chênh lệch thừa vào thu nhập khi quỹ dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh đã trích lập đủ theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trường hợp các quỹ dự phòng rủi ro tín dụng không đủ bù đắp số rủi ro được cấp có thẩm quyền cho phép xử lý trong năm, Ngân hàng Phát triển báo cáo để Bộ Tài chính chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư trình Thủ tướng Chính phủ xem xét, quyết định theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Trích lập dự phòng khác",
+                    "noi_dung_chung": "Ngân hàng Phát triển căn cứ quy định của pháp luật đối với doanh nghiệp và các ngân hàng thương mại về trích lập, sử dụng các khoản dự phòng giảm giá hàng tồn kho, tổn thất các khoản đầu tư tài chính, nợ phải thu khó đòi, các khoản dự phòng khác và khả năng tài chính để quyết định mức trích lập dự phòng vào chi phí hằng năm.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "CẤP BÙ LÃI SUẤT VÀ PHÍ QUẢN LÝ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Cấp bù lãi suất",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được Nhà nước cấp bù lãi suất để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện nhiệm vụ cho vay tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước và thực hiện nghĩa vụ bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại theo các hợp đồng bảo lãnh đã ký theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hỗ trợ sau đầu tư đối với các Hợp đồng hỗ trợ sau đầu tư phát sinh trước thời điểm Nghị định số 32/2017/NĐ-CP có hiệu lực thi hành."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc cấp bù lãi suất hằng năm để thực hiện nhiệm vụ cho vay tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước và thực hiện nghĩa vụ bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại được xác định trên cơ sở chênh lệch giữa tổng chi phí cho việc huy động vốn với tổng thu nhập từ việc sử dụng vốn khi thực hiện các nhiệm vụ này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Tài chính hướng dẫn cụ thể về cấp bù lãi suất đối với Ngân hàng Phát triển.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Phí quản lý",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được Nhà nước cấp phí quản lý tính theo tỷ lệ phần trăm (%) trên dư nợ bình quân của các khoản cho vay tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước và nợ vay bắt buộc bảo lãnh theo quy định tại Nghị định này. Riêng đối với các khoản cho vay theo hợp đồng tín dụng ký và giải ngân sau thời điểm Nghị định số 32/2017/NĐ-CP có hiệu lực thi hành, phí quản lý chỉ tính trên dư nợ bình quân không bao gồm nợ khoanh và nợ quá hạn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nguyên tắc xây dựng tỷ lệ phí quản lý:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tỷ lệ phí quản lý được xây dựng ổn định trong từng thời kỳ 03 năm. Mức phí quản lý được xây dựng căn cứ vào kết quả thực hiện các chỉ tiêu hoạt động do Chính phủ, Thủ tướng Chính phủ giao, tình hình tài chính, các định mức, chế độ Nhà nước quy định và nhu cầu thực tế, đảm bảo cho Ngân hàng Phát triển chủ động trong chi tiêu, đủ nguồn kinh phí hoạt động và trích lập dự phòng rủi ro tín dụng đầu tư, tín dụng xuất khẩu, nợ vay bắt buộc bảo lãnh theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Một số chỉ tiêu cơ bản làm căn cứ xác định, điều chỉnh tỷ lệ phí quản lý trong từng thời kỳ gồm: Dự kiến dư nợ, dự kiến chỉ tiêu tín dụng được giao trong giai đoạn tính phí; chi phí về trích lập dự phòng rủi ro và chi cho hoạt động bộ máy theo quy định tại Điều 23 của Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân hàng Phát triển đề xuất mức phí quản lý báo cáo Bộ Tài chính trình Thủ tướng Chính phủ xem xét, quyết định. Nội dung đề xuất bao gồm các nội dung cơ bản sau: Căn cứ pháp lý, nguyên tắc, cơ sở và phương pháp, số liệu tính toán đối với từng khoản chi phí về hoạt động, chi phí trích lập dự phòng rủi ro và các khoản chi khác. Trường hợp có biến động đột biến về chi phí do bổ sung chức năng, nhiệm vụ theo quyết định của cấp có thẩm quyền; do thiên tai, địch họa và các nguyên nhân khách quan khác cần phải điều chỉnh tỷ lệ phí quản lý được cấp, Ngân hàng Phát triển báo cáo Bộ Tài chính để trình Thủ tướng Chính phủ xem xét, quyết định điều chỉnh tỷ lệ phí quản lý phù hợp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Trình tự, thủ tục xây dựng dự toán và thực hiện cấp bù lãi suất và phí quản lý hằng năm do ngân sách nhà nước cấp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình tự, thủ tục lập, thẩm định, phê duyệt, giao dự toán cấp bù lãi suất và phí quản lý hằng năm của Ngân hàng Phát triển được thực hiện theo quy định tại Luật Ngân sách nhà nước , Luật Đầu tư công và các văn bản hướng dẫn, sửa đổi, bổ sung, thay thế (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ dự toán chi cấp bù lãi suất và phí quản lý được ngân sách nhà nước bố trí, số cấp bù lãi suất và phí quản lý vượt dự toán giao từ các năm trước, số phát sinh thực tế của quý trước và số phát sinh dự kiến của quý thực hiện theo báo cáo của Ngân hàng Phát triển, vào tháng đầu hàng quý, Bộ Tài chính thực hiện tạm cấp bù cho Ngân hàng Phát triển trong phạm vi dự toán được ngân sách nhà nước giao hằng năm và thực hiện quyết toán sau khi kết thúc năm tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trường hợp số chi cấp bù lãi suất và phí quản lý thực tế được hưởng phát sinh lớn hơn số dự toán được bố trí thì sẽ được tổng hợp phần chênh lệch thiếu vào dự toán năm sau. Trường hợp số chi cấp bù lãi suất và phí quản lý thực tế được hưởng phát sinh nhỏ hơn số dự toán được bố trí, thực hiện theo quy định của Luật Ngân sách nhà nước , Luật Đầu tư công và các văn bản hướng dẫn, sửa đổi, bổ sung, thay thế (nếu có).",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "THU NHẬP, CHI PHÍ VÀ CHẾ ĐỘ TIỀN LƯƠNG CỦA NGÂN HÀNG PHÁT TRIỂN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Thu nhập của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thu nhập từ hoạt động nghiệp vụ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thu lãi cho vay từ tín dụng đầu tư, tín dụng xuất khẩu của Nhà nước; thu lãi cho vay bắt buộc bảo lãnh;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thu lãi cho vay khác;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thu phí bảo lãnh;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Phí quản lý cho vay lại các nguồn vốn vay nước ngoài của Chính phủ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thu lãi tiền gửi;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Thu từ mua bán nợ;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Thu cấp bù lãi suất theo quy định tại điểm a khoản 1 Điều 19 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Thu phí quản lý từ ngân sách nhà nước;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Thu phí nhận ủy thác cấp phát vốn, ủy thác cho vay;"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Thu từ hoạt động ngoại hối;"
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Thu từ dịch vụ thanh toán và ngân quỹ;"
+                                },
+                                {
+                                    "id_diem": "m",
+                                    "noi_dung": "Thu từ hoạt động mua bán, chiết khấu, tái chiết khấu giấy tờ có giá;"
+                                },
+                                {
+                                    "id_diem": "n",
+                                    "noi_dung": "Thu lãi từ các khoản nợ đã được xóa, chuyển theo dõi ngoại bảng;"
+                                },
+                                {
+                                    "id_diem": "o",
+                                    "noi_dung": "Các khoản thu khác từ hoạt động nghiệp vụ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thu nhập từ hoạt động khác:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thu từ các hoạt động dịch vụ, thu từ cho thuê tài sản của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thu chênh lệch tỷ giá;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thu từ việc nhượng bán, thanh lý tài sản;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thu tiền phạt do khách hàng vi phạm hợp đồng;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thu từ hoạt động góp vốn, chuyển nhượng phần vốn góp;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các khoản thu khác theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Chi phí của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chi cho hoạt động nghiệp vụ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chi trả lãi: tiền vay; tiền gửi của khách hàng; phát hành giấy tờ có giá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi cho hoạt động phát hành, mua bán, chiết khấu, tái chiết khấu giấy tờ có giá; chi cho huy động vốn;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chi cho hoạt động góp vốn, chuyển nhượng phần vốn góp;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chi về tham gia thị trường tiền tệ; chi cho hoạt động dịch vụ thanh toán và ngân quỹ bao gồm các khoản chi về dịch vụ thanh toán; chi vận chuyển bốc xếp tiền, chi kiểm đếm phân loại và đóng gói tiền, chi bảo vệ tiền và các khoản chi phí khác về hoạt động thanh toán, ngân quỹ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Chi chênh lệch tỷ giá; chi cho hoạt động ngoại hối;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Chi nộp thuế, phí, lệ phí đối với các hoạt động phải nộp theo quy định;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Chi hoa hồng, đại lý môi giới, ủy thác;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Chi khác cho hoạt động nghiệp vụ: Chi để thu hồi các khoản nợ đã xoá, thu hồi nợ xấu; chi cho hoạt động mua bán nợ; chi thu giữ, bảo quản, khai thác các tài sản bảo đảm; chi xử lý khoản tổn thất về vốn, tài sản và các khoản nợ cho vay sau khi đã bù đắp bằng các nguồn theo quy định; chi thuê luật sư, tư vấn pháp lý, án phí, lệ phí thi hành án; chi trả các khoản nợ đã xác định không còn đối tượng trả và hạch toán vào thu nhập nhưng sau đó lại xác định được chủ nợ; chi các khoản đã hạch toán vào thu nhập nhưng thực tế không thu được và không hạch toán giảm thu nhập; các chi phí dịch vụ thuê ngoài phục vụ các hoạt động nghiệp vụ; chi khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chi trích lập dự phòng:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chi trích lập các quỹ dự phòng rủi ro trong hoạt động tín dụng theo quy định tại Điều 16 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi trích lập các khoản dự phòng khác theo quy định tại Điều 18 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chi hoạt động bộ máy:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chi cho người lao động và người quản lý: Chi tiền lương, thù lao, tiền thưởng; các khoản đóng góp theo lương: bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp, kinh phí công đoàn theo quy định; chi ăn ca; chi bảo hộ lao động, chi trang phục giao dịch; chi trợ cấp, chi cho lao động nữ theo chế độ quy định; chi y tế, nghỉ phép theo chế độ hằng năm; các khoản chi có tính chất phúc lợi như quy định đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, tổng số chi không quá 01 tháng lương bình quân thực tế thực hiện trong năm; chi trợ cấp thôi việc, chi trợ cấp mất việc làm cho người lao động và các khoản chi khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi cho hoạt động quản lý và công vụ: Chi công tác phí; chi điện, nước, bưu phí, thông tin liên lạc, nhiên liệu, vật liệu, giấy, mực in, văn phòng phẩm; chi mua tài liệu, sách báo; chi nghiên cứu và ứng dụng khoa học, công nghệ; chi đào tạo, huấn luyện nghiệp vụ; sáng kiến cải tiến nhằm nâng cao hiệu quả hoạt động của Ngân hàng Phát triển; chi thực hiện các đề án, đề tài phục vụ công tác quản lý, hoạt động của Ngân hàng Phát triển; chi thuê tư vấn, thuê chuyên gia trong và ngoài nước; chi nhân công thuê ngoài; chi cho công tác thanh tra, kiểm tra, kiểm toán, quyết toán; chi cho công tác bảo vệ môi trường, bảo vệ cơ quan, phòng cháy chữa cháy, chi cho công tác quốc phòng an ninh; chi xuất bản tài liệu; chi tuyên truyền; chi hội nghị, lễ tân, khánh tiết, giao dịch, đối ngoại; chi đoàn ra, đoàn vào; chi các khoản phạt do vi phạm hợp đồng với khách hàng, phạt vi phạm hành chính bao gồm vi phạm pháp luật kế toán thống kê và các khoản vi phạm hành chính khác theo quy định của pháp luật (không bao gồm các khoản nộp phạt thuộc trách nhiệm cá nhân); chi đóng phí hiệp hội ngành nghề mà Ngân hàng Phát triển tham gia; chi hỗ trợ cho công tác đảng, đoàn thể (phần chi ngoài kinh phí của tổ chức đảng, đoàn thể được chi từ nguồn quy định); các chi phí khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chi về tài sản: Chi khấu hao tài sản cố định theo quy định chung đối với các doanh nghiệp; chi mua sắm công cụ, dụng cụ; chi thuê tài sản (trường hợp trả tiền thuê tài sản một lần cho nhiều năm thì tiền thuê được phân bổ dần vào chi phí hoạt động theo số năm sử dụng tài sản); chi bảo trì, bảo dưỡng, sửa chữa và vận hành tài sản; chi bảo hiểm tài sản; chi nhượng bán, thanh lý tài sản bao gồm giá trị còn lại của tài sản cố định thanh lý, nhượng bán (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Định mức chi phí quy định tại khoản 3 Điều này thực hiện theo quy định của pháp luật đối với định mức chi phí của công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ. Trường hợp pháp luật chưa có quy định hoặc không khống chế định mức chi, Ngân hàng Phát triển xây dựng định mức và căn cứ vào khả năng tài chính để quyết định việc chi tiêu đảm bảo phù hợp, hiệu quả và chịu trách nhiệm trước pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Các khoản chi không được hạch toán vào chi phí hoạt động của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các khoản thiệt hại đã được Nhà nước hỗ trợ hoặc cơ quan bảo hiểm, bên gây thiệt hại bồi thường.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các khoản chi phạt thuộc trách nhiệm cá nhân do vi phạm hành chính, vi phạm môi trường, phạt nợ vay quá hạn do nguyên nhân chủ quan, phạt vi phạm chế độ tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các khoản chi đầu tư xây dựng cơ bản, mua sắm, nâng cấp, cải tạo tài sản cố định thuộc nguồn vốn đầu tư xây dựng cơ bản.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các khoản chi cho sửa chữa, bảo dưỡng và trang thiết bị các tài sản phúc lợi như nhà ở, nhà nghỉ của người lao động Ngân hàng Phát triển, các khoản chi cho các công trình phúc lợi khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Các khoản chi ủng hộ địa phương, các tổ chức xã hội, các cơ quan khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các khoản chi vượt định mức theo quy định tại Nghị định này và các văn bản quy phạm pháp luật khác có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Các khoản chi thuộc nguồn kinh phí khác đài thọ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Chế độ tiền lương của Ngân hàng Phát triển",
+                    "noi_dung_chung": "Ngân hàng Phát triển thực hiện quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động, người quản lý theo quy định của pháp luật đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ, phù hợp với tính chất, mô hình và hoạt động của Ngân hàng Phát triển và hướng dẫn của Bộ Lao động - Thương binh và Xã hội.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VI",
+            "tieu_de_chuong": "KẾT QUẢ TÀI CHÍNH, TRÍCH LẬP VÀ SỬ DỤNG CÁC QUỸ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Kết quả tài chính và phân phối kết quả tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kết quả tài chính là chênh lệch giữa thu nhập và chi phí phát sinh trong năm tài chính:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kết quả tài chính của Ngân hàng Phát triển trong năm đạt thặng dư khi chênh lệch giữa thu nhập và chi phí phát sinh trong năm tài chính của Ngân hàng Phát triển có kết quả dương (+);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả tài chính của Ngân hàng Phát triển trong năm bị thâm hụt khi chênh lệch giữa thu nhập và chi phí phát sinh trong năm tài chính của Ngân hàng Phát triển có kết quả âm (-)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khi kết quả tài chính trong năm đạt thặng dư, sau khi bù đắp khoản thâm hụt từ những năm trước (nếu có), được phân phối như sau: Ngân hàng Phát triển xếp loại A được trích 03 tháng lương thực hiện cho hai quỹ khen thưởng, phúc lợi; Ngân hàng Phát triển xếp loại B được trích 1,5 tháng lương thực hiện cho hai quỹ khen thưởng, phúc lợi; Ngân hàng Phát triển xếp loại C được trích 01 tháng lương thực hiện cho hai quỹ khen thưởng, phúc lợi; Ngân hàng Phát triển xếp loại A được trích 1,5 tháng lương thực hiện của người quản lý và các thành viên Ban Kiểm soát; Ngân hàng Phát triển xếp loại B được trích 01 tháng lương thực hiện của người quản lý và các thành viên Ban Kiểm soát; Ngân hàng Phát triển xếp loại C thì không được trích lập quỹ thưởng người quản lý và các thành viên Ban Kiểm soát;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trích 5% vào quỹ dự trữ bổ sung vốn điều lệ, mức tối đa của quỹ này không vượt quá mức vốn điều lệ của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trích 10% vào quỹ dự phòng tài chính, mức tối đa của quỹ này không vượt quá 25% mức vốn điều lệ của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trích tối đa 25% vào quỹ đầu tư phát triển;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trích quỹ khen thưởng, phúc lợi cho người lao động của Ngân hàng Phát triển:"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trích quỹ thưởng người quản lý và Ban kiểm soát:"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Trường hợp chênh lệch thu chi còn lại sau khi trích lập các quỹ quy định tại điểm a, điểm b, điểm c khoản này mà không đủ nguồn để trích các quỹ khen thưởng, quỹ phúc lợi cho người lao động, quỹ thưởng người quản lý và Ban kiểm soát theo mức quy định thì Ngân hàng Phát triển được giảm trích lập quỹ đầu tư phát triển để bổ sung nguồn trích lập đủ quỹ khen thưởng, phúc lợi cho người lao động, quỹ thưởng người quản lý và Ban kiểm soát theo mức quy định nhưng mức giảm tối đa không quá mức trích vào quỹ đầu tư phát triển trong năm tài chính;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Số còn lại sau khi trích lập các quỹ trên được bổ sung vào quỹ dự trữ bổ sung vốn điều lệ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khi kết quả tài chính trong năm bị thâm hụt, Ngân hàng Phát triển được chuyển số chênh lệch thu nhập nhỏ hơn chi phí sang năm sau, thời gian chuyển không quá 05 năm. Trường hợp sau 05 năm nếu Ngân hàng Phát triển không chuyển hết số chênh lệch thu nhập nhỏ hơn chi phí, Ngân hàng Phát triển báo cáo Bộ Tài chính chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư trình Thủ tướng Chính phủ xem xét, quyết định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Quản lý và sử dụng các quỹ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc sử dụng các quỹ của Ngân hàng Phát triển phải đúng mục đích, đúng đối tượng.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển phải xây dựng, ban hành Quy chế quản lý sử dụng các quỹ theo quy định của pháp luật để áp dụng trong nội bộ ngân hàng; Quy chế đảm bảo dân chủ, minh bạch, có sự tham gia của Ban Chấp hành công đoàn Ngân hàng Phát triển và công khai trong ngân hàng trước khi thực hiện;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong năm tài chính, Ngân hàng Phát triển thực hiện tạm trích các quỹ trên cơ sở kết quả tài chính để có nguồn chi sử dụng quỹ theo mục đích đã quy định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ dự trữ bổ sung vốn điều lệ được dùng để bổ sung vốn điều lệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ dự phòng tài chính được dùng để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bù đắp phần còn lại của những tổn thất, thiệt hại về tài sản xảy ra trong quá trình hoạt động sau khi đã được bù đắp bằng tiền bồi thường của các tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng trích lập trong chi phí;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Sử dụng cho các mục đích khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hội đồng quản trị Ngân hàng Phát triển quyết định việc sử dụng quỹ dự phòng tài chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển được dùng để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đầu tư mở rộng quy mô hoạt động và đổi mới công nghệ trang thiết bị, điều kiện làm việc của Ngân hàng Phát triển và bổ sung vốn điều lệ cho Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hội đồng quản trị Ngân hàng Phát triển quyết định việc sử dụng quỹ đầu tư phát triển; quyết định hình thức và biện pháp đầu tư phù hợp với quy định áp dụng đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quỹ khen thưởng người lao động được dùng để:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thưởng cuối năm hoặc thưởng thường kỳ cho cán bộ, nhân viên của Ngân hàng Phát triển. Mức thưởng do Hội đồng quản trị của Ngân hàng Phát triển quyết định theo đề nghị của Tổng Giám đốc và Công đoàn Ngân hàng Phát triển trên cơ sở năng suất lao động, thành tích công tác của mỗi cán bộ, nhân viên trong Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thưởng đột xuất cho những cá nhân, tập thể của Ngân hàng Phát triển có sáng kiến cải tiến kỹ thuật, quy trình nghiệp vụ mang lại hiệu quả trong hoạt động. Mức thưởng do Hội đồng quản trị của Ngân hàng Phát triển quyết định;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thưởng cho cá nhân và đơn vị ngoài Ngân hàng Phát triển có đóng góp hiệu quả vào hoạt động của Ngân hàng Phát triển. Mức thưởng do Hội đồng quản trị của Ngân hàng Phát triển quyết định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quỹ thưởng người quản lý và Ban kiểm soát:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Được dùng để thưởng hằng năm và khi kết thúc nhiệm kỳ cho Chủ tịch và các thành viên Hội đồng quản trị, các thành viên Ban kiểm soát, Tổng giám đốc, các Phó tổng giám đốc, Kế toán trưởng của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mức thưởng hằng năm và khi kết thúc nhiệm kỳ do cơ quan đại diện chủ sở hữu quyết định theo mức độ hoàn thành nhiệm vụ được giao và hiệu quả hoạt động của Ngân hàng Phát triển, trên cơ sở đề nghị của Chủ tịch Hội đồng quản trị Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trường hợp Chủ tịch và các thành viên Hội đồng quản trị, các thành viên Ban kiểm soát, Tổng giám đốc, các Phó tổng giám đốc, Kế toán trưởng được khen thưởng theo quy định của pháp luật về thi đua khen thưởng thì được sử dụng nguồn quỹ khen thưởng người lao động của Ngân hàng Phát triển để chi thưởng cho các đối tượng nêu trên theo mức thưởng mà pháp luật về thi đua khen thưởng đã quy định đối với từng hình thức thi đua, khen thưởng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Quỹ phúc lợi được dùng để: Hội đồng quản trị, Tổng giám đốc phối hợp với Công đoàn Ngân hàng Phát triển quản lý, sử dụng quỹ này.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đầu tư xây dựng hoặc sửa chữa, bổ sung vốn xây dựng các công trình phúc lợi của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi cho các hoạt động thể thao, văn hóa, phúc lợi công cộng của tập thể cán bộ, nhân viên Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chi trợ cấp khó khăn thường xuyên, đột xuất cho cán bộ, nhân viên kể cả các cán bộ, nhân viên đã về hưu, nghỉ mất sức của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chi cho các hoạt động phúc lợi khác."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VII",
+            "tieu_de_chuong": "CHẾ ĐỘ KẾ TOÁN, KẾ HOẠCH TÀI CHÍNH, CHẾ ĐỘ BÁO CÁO VÀ KIỂM TOÁN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Phương pháp hạch toán, chế độ kế toán, thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phương pháp hạch toán:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển thực hiện hạch toán thu nhập, chi phí theo phương pháp kế toán thực thu - thực chi (riêng đối với các khoản thu cấp bù lãi suất quy định tại điểm a khoản 1 Điều 19 Nghị định này và thu phí quản lý do ngân sách nhà nước cấp, Ngân hàng Phát triển hạch toán dự thu; đối với quỹ lương còn lại chưa chi hết trong năm, Ngân hàng Phát triển hạch toán dự chi). Ngân hàng Phát triển chịu trách nhiệm trước pháp luật về nội dung và tính chính xác, trung thực của các khoản thu, chi; thực hiện các quy định của pháp luật về chế độ hóa đơn, chứng từ kế toán;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn tối đa 05 năm kể từ ngày Nghị định này có hiệu lực thi hành, Ngân hàng Phát triển phải thực hiện hạch toán theo phương pháp kế toán dồn tích."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện chế độ kế toán do Bộ Tài chính hướng dẫn. Công tác thống kê của Ngân hàng Phát triển thực hiện theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Năm tài chính của Ngân hàng Phát triển bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Báo cáo về kế hoạch tài chính hằng năm",
+                    "noi_dung_chung": "Báo cáo về kế hoạch tài chính hằng năm của Ngân hàng Phát triển gồm các nội dung sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kế hoạch nguồn vốn - sử dụng vốn bao gồm các nội dung cơ bản sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổng nguồn vốn trong năm, trong đó chi tiết một số nguồn vốn như: vốn điều lệ; vốn ngân sách nhà nước cấp để thực hiện nhiệm vụ được Chính phủ, Thủ tướng Chính phủ giao; vốn huy động trong và ngoài nước (chi tiết huy động vốn qua phát hành trái phiếu được Chính phủ bảo lãnh); nhận nguồn vốn vay nước ngoài của Chính phủ để cho vay lại theo thỏa thuận vay vốn nước ngoài ký với nhà tài trợ hoặc hợp đồng cho vay lại vốn nước ngoài ký với Bộ Tài chính (nếu có) và nguồn vốn khác (nếu có);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổng nhu cầu sử dụng nguồn vốn trong năm, trong đó chi tiết một số nội dung: thanh toán các khoản huy động đến hạn (chi tiết khoản trả nợ trái phiếu được Chính phủ bảo lãnh); đảm bảo chỉ tiêu vốn tín dụng đầu tư phát triển của Nhà nước do Thủ tướng Chính phủ giao; nhiệm vụ cho vay lại vốn vay nước ngoài của Chính phủ và các nhiệm vụ khác được Chính phủ, Thủ tướng Chính phủ giao và các khoản sử dụng vốn khác (nếu có);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các thuyết minh kế hoạch kèm theo (nếu có), trong đó thuyết minh chi tiết về tỷ lệ nợ xấu dự kiến của năm kế hoạch."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kế hoạch cấp bù lãi suất và phí quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kế hoạch đầu tư xây dựng cơ bản, mua sắm, nâng cấp, hiện đại hóa tài sản gồm các chỉ tiêu: Dự kiến nhu cầu đầu tư các dự án xây dựng cơ bản chuyển tiếp và phát sinh mới trong năm; dự kiến mua sắm tài sản mới, nâng cấp, hiện đại hóa các tài sản hiện có; dự kiến bố trí nguồn từ quỹ đầu tư phát triển, vốn đầu tư do ngân sách nhà nước cấp (nếu có) và các nguồn vốn hợp pháp khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kế hoạch thu nhập, chi phí, kết quả tài chính: Dự kiến tổng thu nhập trong năm (chi tiết một số nội dung: thu lãi cho vay; thu lãi tiền gửi; thu phí; thu cấp bù lãi suất quy định tại điểm a khoản 1 Điều 19 và phí quản lý được hưởng trong năm kế hoạch theo quy định của Nghị định này); dự kiến tổng chi phí phát sinh trong năm kế hoạch (chi tiết một số nội dung chi: các khoản chi hoạt động nghiệp vụ; các khoản trích dự phòng; các khoản chi hoạt động bộ máy); dự kiến kết quả tài chính năm kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Kế hoạch lao động, tiền lương: Tổng số lao động dự kiến trong năm kế hoạch; mức tiền lương bình quân của người lao động trong năm kế hoạch; quỹ tiền lương kế hoạch theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Kế hoạch cấp hỗ trợ sau đầu tư đối với các Hợp đồng phát sinh trước thời điểm Nghị định số 32/2017/NĐ-CP có hiệu lực thi hành và kế hoạch cấp bổ sung quỹ dự phòng bảo lãnh theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Lập báo cáo kế hoạch tài chính:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Việc lập và gửi báo cáo kế hoạch vốn đầu tư công trung hạn và hằng năm của Ngân hàng Phát triển được thực hiện theo quy định tại Luật Ngân sách nhà nước , Luật Đầu tư công và các văn bản hướng dẫn, sửa đổi, bổ sung, thay thế (nếu có);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 10 ngày làm việc sau khi Thủ tướng Chính phủ có quyết định về giao hạn mức phát hành trái phiếu được Chính phủ bảo lãnh năm kế hoạch, căn cứ kết quả hoạt động của năm trước, Ngân hàng Phát triển rà soát, hoàn chỉnh báo cáo về kế hoạch tài chính gửi Bộ Tài chính để phục vụ công tác giám sát tài chính và đánh giá hiệu quả hoạt động của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bộ Tài chính thực hiện rà soát lại báo cáo về kế hoạch tài chính do Ngân hàng Phát triển lập để có ý kiến chính thức bằng văn bản và giao chỉ tiêu đánh giá, xếp loại đối với Ngân hàng Phát triển chậm nhất 30 ngày làm việc sau khi Thủ tướng Chính phủ có quyết định giao hạn mức phát hành trái phiếu được Chính phủ bảo lãnh năm kế hoạch. Trên cơ sở ý kiến của Bộ Tài chính, Hội đồng quản trị phê duyệt kế hoạch tài chính năm của Ngân hàng Phát triển."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Căn cứ kế hoạch được phê duyệt, Ngân hàng Phát triển tổ chức thực hiện các chỉ tiêu kế hoạch quy định tại Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện chế độ kiểm toán nội bộ, công bố kết quả hoạt động tài chính hằng năm theo quy định của pháp luật và chịu trách nhiệm về số liệu đã công bố.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tài chính hằng năm của Ngân hàng Phát triển được kiểm toán bởi Kiểm toán nhà nước hoặc kiểm toán độc lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm toán nhà nước thực hiện kiểm toán báo cáo tài chính của Ngân hàng Phát triển theo kế hoạch của Kiểm toán nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trong thời hạn 30 ngày, kể từ ngày có kết quả kiểm toán báo cáo tài chính, Ngân hàng Phát triển phải gửi Bộ Tài chính, Ngân hàng Nhà nước Việt Nam và công khai các báo cáo tài chính đã được kiểm toán theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Chế độ báo cáo",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Báo cáo về kế hoạch tài chính theo quy định tại Điều 29 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tài chính/Báo cáo quyết toán tài chính gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Báo cáo tình hình tài chính (Bảng cân đối kế toán);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo kết quả hoạt động;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo lưu chuyển tiền tệ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thuyết minh báo cáo tài chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các báo cáo hoạt động nghiệp vụ gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bảng cân đối tài khoản cấp II (bao gồm cả tài khoản ngoại bảng);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo phân loại nợ của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo trích lập dự phòng rủi ro tín dụng;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Báo cáo cấp bù lãi suất và phí quản lý."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Báo cáo tình hình hoạt động gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Việc quản lý và sử dụng vốn, tài sản đối với toàn bộ hoạt động tại Ngân hàng Phát triển quy định tại Điều 8 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện chế độ tiền lương, thù lao, tiền thưởng, phụ cấp trách nhiệm và quyền lợi khác đối với người lao động, người quản lý Ngân hàng Phát triển, Ban Kiểm soát theo quy định hiện hành của pháp luật đối với Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kết quả tài chính và trích lập các quỹ sau chênh lệch thu chi của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đánh giá hiệu quả hoạt động hằng năm của Ngân hàng Phát triển theo các tiêu chí quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quy định về lập và gửi báo cáo:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với báo cáo tài chính: Báo cáo tài chính hợp nhất lập theo năm và báo cáo tài chính riêng lẻ lập theo quý/năm; Báo cáo quyết toán tài chính hằng năm được Hội đồng quản trị Ngân hàng Phát triển phê duyệt trước khi gửi Bộ Tài chính và Ngân hàng Nhà nước Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với báo cáo hoạt động nghiệp vụ: Các báo cáo hoạt động nghiệp vụ được gửi cho Bộ Tài chính theo định kỳ hàng quý, năm và đột xuất khác theo yêu cầu của Bộ Tài chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đối với báo cáo tình hình hoạt động: Ngân hàng Phát triển có trách nhiệm lập và gửi báo cáo tình hình hoạt động cho Bộ Tài chính và Ngân hàng Nhà nước Việt Nam định kỳ 06 tháng một lần; Hội đồng quản trị lập báo cáo tình hình hoạt động kèm theo Báo cáo thẩm định của Ban Kiểm soát gửi Bộ Tài chính, Ngân hàng Nhà nước Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Căn cứ báo cáo tài chính, báo cáo tình hình hoạt động do Hội đồng quản trị Ngân hàng Phát triển lập và các thông tin, tài liệu khác có liên quan, định kỳ 06 tháng một lần Bộ Tài chính tổng hợp báo cáo gửi Thủ tướng Chính phủ sau khi lấy ý kiến tham gia của Bộ Kế hoạch và Đầu tư và Ngân hàng Nhà nước Việt Nam."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VIII",
+            "tieu_de_chuong": "ĐÁNH GIÁ HIỆU QUẢ HOẠT ĐỘNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Tiêu chí đánh giá hiệu quả hoạt động",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các tiêu chí đánh giá hiệu quả hoạt động hằng năm của Ngân hàng Phát triển, bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiêu chí 1: Tín dụng đầu tư của Nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiêu chí 2: Tỷ lệ nợ xấu;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tiêu chí 3: Kết quả tài chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tiêu chí 4: Tình hình chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn Nhà nước tại Ngân hàng Phát triển đối với các nghiệp vụ phát sinh trong năm đánh giá;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Tiêu chí 5: Tình hình chấp hành chế độ báo cáo theo quy định tại Điều 31 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các tiêu chí quy định tại khoản 1 Điều này được xác định và tính toán từ số liệu trong báo cáo quyết toán tài chính riêng lẻ đã được kiểm toán, báo cáo thống kê định kỳ theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các tiêu chí đánh giá nêu tại khoản 1 Điều này khi tính toán được xem xét, loại trừ các yếu tố tác động:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các nguyên nhân khách quan được loại trừ theo quy định về đánh giá hiệu quả hoạt động đối với doanh nghiệp nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các khoản nợ xấu phát sinh do khách hàng vay đang thực hiện sắp xếp lại theo quyết định của cơ quan nhà nước có thẩm quyền, các khoản nợ xấu cho vay theo Quyết định của Chính phủ, Thủ tướng Chính phủ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Do Nhà nước thay đổi chính sách làm ảnh hưởng đến kết quả hoạt động của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các khoản chậm cấp vốn của ngân sách nhà nước ảnh hưởng đến tài chính của Ngân hàng Phát triển."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Việc đánh giá kết quả hoạt động của người quản lý Ngân hàng Phát triển thực hiện theo các tiêu chí sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiêu chí đánh giá kết quả hoạt động của người quản lý doanh nghiệp như đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả xếp loại Ngân hàng Phát triển theo quy định tại Điều 33 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ Tài chính hướng dẫn cách thức xác định các chỉ tiêu đánh giá tại khoản 1, khoản 3, khoản 4 Điều này phù hợp với đặc thù hoạt động của Ngân hàng Phát triển và phương thức đánh giá, xếp loại mức độ hoàn thành nhiệm vụ của người quản lý Ngân hàng Phát triển.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Đánh giá hiệu quả hoạt động và xếp loại Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc đánh giá hiệu quả hoạt động và xếp loại Ngân hàng Phát triển căn cứ vào báo cáo tài chính riêng lẻ đã được kiểm toán, được thực hiện theo quy định đối với doanh nghiệp nhà nước và Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Tài chính hướng dẫn cụ thể phương thức đánh giá hiệu quả và xếp loại phù hợp với tính chất, hoạt động của Ngân hàng Phát triển; rà soát kế hoạch tài chính để giao các chỉ tiêu đánh giá, xếp loại hằng năm cho Ngân hàng Phát triển sau khi Thủ tướng Chính phủ ban hành các Quyết định về việc giao kế hoạch vốn tín dụng đầu tư phát triển của Nhà nước và hạn mức phát hành trái phiếu được Chính phủ bảo lãnh.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IX",
+            "tieu_de_chuong": "TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC VÀ CỦA NGÂN HÀNG PHÁT TRIỂN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Bộ Tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện chức năng quản lý nhà nước về tài chính đối với Ngân hàng Phát triển, hướng dẫn các nội dung được giao tại Nghị định này và các nội dung cần thiết khác liên quan đến quản lý tài chính đối với Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình Thủ tướng Chính phủ quyết định tỷ lệ phí quản lý ổn định cho từng thời kỳ (03 năm) theo quy định tại Điều 20 của Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thực hiện cấp bù lãi suất, phí quản lý và các khoản cấp khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Xử lý các vấn đề về tài chính đối với Ngân hàng Phát triển theo thẩm quyền hoặc báo cáo cấp có thẩm quyền xem xét quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thực hiện thanh tra việc chấp hành pháp luật về tài chính theo quy định của pháp luật về thanh tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trình Chính phủ sửa đổi, bổ sung các quy định tại Nghị định này nếu cần thiết.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Bộ Kế hoạch và Đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Tài chính trình Thủ tướng Chính phủ: Bố trí trong dự toán chi đầu tư phát triển các khoản chi cấp bù lãi suất và phí quản lý, cấp bổ sung vốn điều lệ (nếu có) cho Ngân hàng Phát triển, đảm bảo đúng hạn; trình cấp có thẩm quyền quyết định giao kế hoạch vốn tín dụng đầu tư phát triển hằng năm cho Ngân hàng Phát triển theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp với Bộ Tài chính xây dựng và xử lý theo thẩm quyền các kiến nghị liên quan đến Nghị định về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Ngân hàng Nhà nước Việt Nam",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Tài chính và các bộ, ngành liên quan hướng dẫn Ngân hàng Phát triển thực hiện phân loại nợ và các quy định khác đảm bảo an toàn trong hoạt động, phù hợp với tính chất và hoạt động của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp với Bộ Tài chính xây dựng và xử lý theo thẩm quyền các kiến nghị liên quan đến Nghị định về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Bộ Lao động - Thương binh và Xã hội",
+                    "noi_dung_chung": "Chủ trì hướng dẫn quản lý lao động, tiền lương, thù lao, tiền thưởng đối với người lao động và người quản lý Ngân hàng Phát triển theo quy định tại Điều 25 Nghị định này sau khi kết thúc chế độ tiền lương trong giai đoạn cơ cấu lại quy định tại khoản 2 Điều 40 Nghị định này .",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Các bộ, ngành, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm kiểm tra, giám sát đối với hoạt động của Ngân hàng Phát triển theo chức năng, nhiệm vụ được giao và theo quy định của pháp luật.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ về phần vốn và các nguồn lực khác được giao theo quy định tại Điều lệ tổ chức và hoạt động và Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chủ động xây dựng và trình Bộ Kế hoạch và Đầu tư chủ trì, trình cấp có thẩm quyền phê duyệt kế hoạch vốn tín dụng đầu tư phát triển phù hợp với dự toán chi cấp bù lãi suất và phí quản lý được giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổ chức thực hiện đầy đủ các nội dung quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ khác theo quy định của pháp luật và quy định tại Điều lệ tổ chức và hoạt động của Ngân hàng Phát triển .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Báo cáo Bộ Tài chính trình Thủ tướng Chính phủ xem xét sửa đổi, bổ sung các quy định của Nghị định này nếu cần thiết.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương X",
+            "tieu_de_chuong": "TỔ CHỨC THỰC HIỆN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Một số cơ chế trong giai đoạn cơ cấu lại",
+                    "noi_dung_chung": "Ngân hàng Phát triển thực hiện một số cơ chế trong giai đoạn cơ cấu lại theo quyết định của Thủ tướng Chính phủ và khi các khoản tiền cấp bù lãi suất, phí quản lý và các khoản khác cho Ngân hàng Phát triển chưa được thanh toán đủ theo quy định của pháp luật, bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Không phải giảm trừ phần chênh lệch thu chi âm lũy kế (nếu có) khi xác định vốn tự có quy định tại Điều 7 Nghị định này để xác định giới hạn tín dụng của Ngân hàng Phát triển theo quy định của pháp luật cho đến khi khắc phục được chênh lệch thu chi âm lũy kế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ chế tiền lương và quỹ tiền lương của Ngân hàng Phát triển được xác theo nguyên tắc:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiền lương của người lao động được xác định trên cơ sở tiền lương bình quân thực hiện năm 2018 và điều chỉnh theo mức tăng chỉ số giá tiêu dùng hằng năm so với năm 2018;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiền lương của người quản lý theo đánh giá mức độ hoàn thành nhiệm vụ, trường hợp hoàn thành nhiệm vụ tối đa không vượt quá mức tiền lương quy định tại Phụ lục II ban hành kèm theo Nghị định số 52/2016/NĐ-CP ngày 13 tháng 6 năm 2016 của Chính phủ và các văn bản sửa đổi, bổ sung, thay thế (nếu có);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bộ Tài chính thực hiện đánh giá mức độ hoàn thành nhiệm vụ của người quản lý Ngân hàng Phát triển, xem xét và phê duyệt quỹ tiền lương hằng năm của người quản lý sau khi có ý kiến của Bộ Lao động - Thương binh và Xã hội."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người lao động được tuyển dụng vào làm việc tại Ngân hàng Phát triển trước ngày 31 tháng 7 năm 2019 thuộc đối tượng lao động dôi dư, lao động có nguyện vọng nghỉ hưu trước tuổi khi Ngân hàng Phát triển thực hiện cơ cấu lại đã tìm mọi biện pháp nhưng không bố trí được việc làm được hưởng các chế độ theo chính sách hỗ trợ quy định tại khoản 1, khoản 2, khoản 3, khoản 4 Điều 3 Nghị định số 63/2015/NĐ-CP ngày 22 tháng 7 năm 2015 của Chính phủ về chính sách đối với người lao động dôi dư khi sắp xếp lại công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu và các văn bản hướng dẫn, sửa đổi, bổ sung, thay thế (nếu có), trong đó:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nguồn kinh phí để thực hiện chính sách hỗ trợ cho người lao động quy định tại Điều này được hạch toán vào chi hoạt động bộ máy của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bảo hiểm Xã hội Việt Nam có trách nhiệm thực hiện chế độ bảo hiểm xã hội đối với người lao động theo quy định tại khoản này."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Điều khoản chuyển tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Số dư vốn Ngân hàng Phát triển đã huy động để bù vào số còn thiếu của Quỹ dự phòng bảo lãnh để thực hiện nghĩa vụ bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại trước khi Nghị định này có hiệu lực thi hành được ngân sách nhà nước cấp bù lãi suất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc đánh giá mức độ hoàn thành nhiệm vụ của người quản lý Ngân hàng Phát triển trước năm 2021 được thực hiện theo các quy định tại các Điều 14, Điều 15, Điều 16, Điều 17 của Nghị định số 97/2015/NĐ-CP ngày 19 tháng 10 năm 2015 của Chính phủ về quản lý người giữ chức danh, chức vụ tại doanh nghiệp là công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Điều khoản thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực từ ngày 01 tháng 6 năm 2021 và áp dụng từ năm tài chính 2021.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quy chế quản lý tài chính đối với Ngân hàng Phát triển ban hành kèm theo Quyết định số 44/2007/QĐ-TTg ngày 30 tháng 3 năm 2007 của Thủ tướng Chính phủ và Điều 16 về phân loại nợ và trích lập quỹ dự phòng rủi ro của Nghị định số 32/2017/NĐ-CP ngày 31 tháng 3 năm 2017 của Chính phủ về tín dụng đầu tư của Nhà nước hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, Chủ tịch Hội đồng quản trị và Tổng Giám đốc Ngân hàng Phát triển chịu trách nhiệm thi hành Nghị định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (2b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Xuân Phúc Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 46/2021/NĐ-CP về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 46/2021/NĐ-CP về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- THE SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness --------------- No. 46/2021/ND-CP Hanoi, March 31, 2021 DECREE ON FINANCIAL MANAGEMENT AND PERFORMANCE EVALUATION REGIME FOR THE VIETNAM DEVELOPMENT BANK",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

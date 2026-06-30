@@ -1,0 +1,243 @@
+{
+    "ten_luat": "Nghị định 98/2014/NĐ-CP thành lập tổ chức chính trị xã hội doanh nghiệp thuộc mọi thành phần kinh tế",
+    "so_hieu": "98/2014/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định thành lập tổ chức Đảng Cộng sản Việt Nam (sau đây viết tắt là tổ chức Đảng); các tổ chức chính trị - xã hội (gồm Công đoàn Việt Nam, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Cựu Chiến binh Việt Nam) tại doanh nghiệp thuộc mọi thành phần kinh tế; trách nhiệm của cơ quan, tổ chức, doanh nghiệp trong việc tạo điều kiện để người lao động có nhu cầu, hoặc mong muốn được thành lập và tham gia hoạt động tại các tổ chức đó khi đủ điều kiện theo quy định.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh và doanh nghiệp tư nhân, bao gồm cả công ty trách nhiệm hữu hạn, công ty cổ phần được chuyển đổi từ doanh nghiệp 100% vốn nhà nước, doanh nghiệp của tổ chức Đảng và của các tổ chức chính trị - xã hội, doanh nghiệp có vốn đầu tư của nhà đầu tư nước ngoài.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp có vốn đầu tư của nhà đầu tư nước ngoài không đăng ký lại theo Nghị định số 101/2006/NĐ-CP ngày 21 tháng 9 năm 2006 của Chính phủ quy định về việc đăng ký lại, chuyển đổi và đăng ký đổi Giấy chứng nhận đầu tư của các doanh nghiệp có vốn đầu tư nước ngoài theo quy định của Luật Doanh nghiệp và Luật Đầu tư .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hợp tác xã.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Người quản lý doanh nghiệp và người lao động trong các loại hình doanh nghiệp nêu tại Khoản 1, Khoản 2, Khoản 3 của Điều này. Đối tượng nêu tại Khoản 1, Khoản 2 và Khoản 3 của Điều này được gọi chung là doanh nghiệp thuộc mọi thành phần kinh tế.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Nguyên tắc, điều kiện thành lập",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức Đảng, các tổ chức chính trị - xã hội trong doanh nghiệp hoạt động trong khuôn khổ Hiến pháp , pháp luật và theo Điều lệ Đảng, Điều lệ các tổ chức chính trị - xã hội và phù hợp với quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thành lập tổ chức Đảng, các tổ chức chính trị - xã hội trong doanh nghiệp thuộc mọi thành phần kinh tế khi có đủ số người lao động là đảng viên, đoàn viên, hội viên theo quy định của pháp luật và Điều lệ của tổ chức đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người lao động trong doanh nghiệp có nhu cầu, hoặc mong muốn tham gia hoạt động, được cấp ủy đảng cấp trên cơ sở, tổ chức chính trị - xã hội cấp trên hướng dẫn thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp có nghĩa vụ tôn trọng, tạo điều kiện thuận lợi để người lao động thành lập và tham gia hoạt động trong tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Quy định thành lập tổ chức Đảng tại doanh nghiệp",
+                    "noi_dung_chung": "Doanh nghiệp có từ 3 người lao động là đảng viên chính thức trở lên đủ điều kiện thành lập tổ chức Đảng theo quy định của Điều lệ Đảng Cộng sản Việt Nam, việc thành lập và hoạt động được thực hiện như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp đã có tổ chức Đảng: Tổ chức Đảng tại doanh nghiệp tiến hành rà soát số người lao động là đảng viên đang làm việc ổn định từ 12 tháng trở lên trong doanh nghiệp đang sinh hoạt đảng ở nơi khác và đề nghị cấp ủy đảng cấp trên chuyển số người lao động là đảng viên đó về sinh hoạt tại tổ chức Đảng của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp chưa có tổ chức Đảng: Cấp ủy đảng cấp trên cơ sở nơi doanh nghiệp hoạt động tiến hành rà soát khi có đủ từ 3 người lao động là đảng viên chính thức đang làm việc ổn định từ 12 tháng trở lên trong doanh nghiệp đang sinh hoạt đảng ở nơi khác, tiến hành chuyển số đảng viên đó về tổ chức Đảng cấp trên cơ sở, phối hợp với doanh nghiệp làm các thủ tục thành lập tổ chức Đảng ở doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp chỉ có 1 hoặc 2 người lao động là đảng viên chính thức, cấp ủy đảng cấp trên cơ sở chuyển số lao động là đảng viên đó về tổ chức Đảng cấp trên cơ sở, quyết định lập chi bộ ghép hoặc phân công đảng viên của tổ chức Đảng cấp trên cơ sở về sinh hoạt và lập tổ chức Đảng tại doanh nghiệp; chi bộ ghép có trách nhiệm thực hiện công tác phát triển đảng ở doanh nghiệp, khi có đủ 3 người lao động là đảng viên chính thức làm việc cùng doanh nghiệp, cấp ủy đảng cấp trên cơ sở quyết định thành lập tổ chức Đảng tại doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp chưa có người lao động là đảng viên, cấp ủy đảng cấp trên cơ sở chỉ đạo cấp ủy đảng cơ sở nơi doanh nghiệp đặt trụ sở chính, phân công cấp ủy viên, đảng viên có kinh nghiệm phối hợp với các tổ chức chính trị - xã hội trong doanh nghiệp phát hiện, bồi dưỡng tạo nguồn, kết nạp đảng viên, khi đủ điều kiện theo quy định của Điều lệ Đảng cộng sản Việt Nam, cấp ủy đảng cấp trên cơ sở quyết định thành lập tổ chức Đảng tại doanh nghiệp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Quy định thành lập các tổ chức chính trị - xã hội tại doanh nghiệp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức Công đoàn",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp có từ 5 đoàn viên công đoàn, hoặc người lao động có đơn tự nguyện gia nhập Công đoàn Việt Nam, đủ điều kiện thành lập tổ chức Công đoàn theo quy định của Luật Công đoàn và Điều lệ Công đoàn Việt Nam."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chậm nhất sau sáu tháng kể từ ngày doanh nghiệp được thành lập và đi vào hoạt động, công đoàn địa phương, công đoàn ngành, công đoàn khu công nghiệp, khu chế xuất phối hợp cùng doanh nghiệp thành lập tổ chức Công đoàn theo quy định của Bộ luật Lao động , Luật Công đoàn và Điều lệ Công đoàn Việt Nam để đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động, tập thể lao động."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sau thời gian quy định tại Điểm b Khoản 1 Điều này, nếu doanh nghiệp chưa thành lập tổ chức Công đoàn, công đoàn cấp trên có quyền chỉ định Ban Chấp hành Công đoàn lâm thời của doanh nghiệp để đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động, tập thể lao động."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức Đoàn thanh niên, tổ chức Cựu chiến binh",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với doanh nghiệp có tổ chức Đảng, tổ chức Đoàn thanh niên, tổ chức Cựu chiến binh cấp trên cơ sở cùng với tổ chức Đảng tại doanh nghiệp căn cứ vào điều kiện cụ thể của từng doanh nghiệp nêu tại Điều 2 Nghị định này phối hợp với doanh nghiệp thành lập tổ chức Đoàn thanh niên và tổ chức Cựu chiến binh tại doanh nghiệp."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với doanh nghiệp chưa có tổ chức Đảng, căn cứ vào quy định của pháp luật, Luật Thanh niên , Pháp lệnh Cựu chiến binh và Điều lệ của các tổ chức đó, người lao động có nhu cầu, hoặc mong muốn thành lập thì tổ chức Đảng cấp trên cơ sở phối hợp với doanh nghiệp và tổ chức Đoàn thanh niên, tổ chức Cựu chiến binh cấp trên cơ sở xem xét, quyết định thành lập phù hợp với từng doanh nghiệp nêu tại Điều 2 Nghị định này ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Trách nhiệm của cơ quan quản lý nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan quản lý nhà nước có trách nhiệm giúp đỡ, phối hợp, tạo điều kiện để doanh nghiệp thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp theo quy định của pháp luật; thường xuyên kiểm tra, đôn đốc việc thực hiện Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các khoản chi hỗ trợ của doanh nghiệp cho tổ chức Đảng, các tổ chức chính trị - xã hội để phục vụ hoạt động được tính là khoản chi được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Trách nhiệm của tổ chức Đảng, các tổ chức chính trị - xã hội",
+                    "noi_dung_chung": "Tổ chức Đảng, các tổ chức chính trị - xã hội cấp trên nơi doanh nghiệp đóng trụ sở chính có trách nhiệm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hướng dẫn, giúp đỡ doanh nghiệp chưa thành lập tổ chức Đảng, các tổ chức chính trị - xã hội thực hiện các thủ tục thành lập khi đủ điều kiện theo quy định của pháp luật và Điều lệ của tổ chức đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kiểm tra, đôn đốc việc thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp để đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động, góp phần doanh nghiệp phát triển bền vững.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Trách nhiệm của doanh nghiệp",
+                    "noi_dung_chung": "Doanh nghiệp có trách nhiệm phối hợp với cơ quan quản lý nhà nước, tổ chức Đảng, các tổ chức chính trị - xã hội cấp trên nơi doanh nghiệp đóng trụ sở chính thực hiện:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tôn trọng, tạo điều kiện và bảo đảm các quyền thành lập tổ chức Đảng, các tổ chức chính trị - xã hội của người lao động tại doanh nghiệp theo quy định của pháp luật, Điều lệ của tổ chức đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp và tạo điều kiện thuận lợi để tổ chức Đảng, các tổ chức chính trị xã hội cấp trên tuyên truyền, phổ biến và hướng dẫn người lao động tham gia thành lập tổ chức phù hợp với điều kiện hoạt động và phát triển doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tạo điều kiện thuận lợi, phối hợp với tổ chức Đảng, các tổ chức chính trị - xã hội đã được thành lập tại doanh nghiệp giải quyết kịp thời những vấn đề liên quan đến quyền, nghĩa vụ và lợi ích hợp pháp, chính đáng của người lao động.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ nguyên tắc, điều kiện và quy định tại Điều 3, Điều 4 và Điều 5 của Nghị định này , cơ quan, tổ chức, doanh nghiệp và người lao động phối hợp tiến hành thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc mọi thành phần kinh tế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với doanh nghiệp tư nhân, doanh nghiệp có vốn đầu tư của nhà đầu tư nước ngoài còn gặp khó khăn trong việc thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp thì trong thời gian từ năm 2014 - 2016 giao Bộ Nội vụ chủ trì, phối hợp với các Bộ, ban, ngành, đoàn thể ở Trung ương, địa phương và cơ quan có liên quan tổ chức làm điểm tại một số tỉnh, thành phố trực thuộc Trung ương, sau đó tổ chức sơ kết đánh giá, rút kinh nghiệm để nhân rộng trong cả nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Định kỳ hàng năm, Ủy ban nhân dân cấp tỉnh làm việc với tổ chức Đảng, các tổ chức chính trị - xã hội cùng cấp để kiểm điểm, đánh giá tình hình thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc tỉnh; đề xuất, kiến nghị với cơ quan có thẩm quyền các vấn đề phát sinh liên quan đến thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc mọi thành phần kinh tế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Tài chính có trách nhiệm hướng dẫn thực hiện Khoản 2 Điều 6 của Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hàng năm trước ngày 15 tháng 11, Ủy ban nhân dân cấp tỉnh có trách nhiệm gửi báo cáo kết quả thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc mọi thành phần kinh tế về Bộ Nội vụ để tổng hợp báo cáo Thủ tướng Chính phủ. Bộ Nội vụ chủ trì, phối hợp với Ban Tổ chức Trung ương làm việc với Đảng ủy khối doanh nghiệp Trung ương, các tổ chức chính trị - xã hội ở Trung ương đánh giá tình hình thành lập tổ chức Đảng, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc mọi thành phần kinh tế, kịp thời đề xuất, kiến nghị những vấn đề phát sinh liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Sau 5 năm tổ chức triển khai thực hiện, Chính phủ chủ trì tổ chức sơ kết đánh giá kết quả thực hiện Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "Nghị định này có hiệu lực thi hành kể từ ngày 10 tháng 12 năm 2014.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các cơ quan, tổ chức, đơn vị, doanh nghiệp có liên quan chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - UBTW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTCP, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, V.III (3b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Hướng dẫn thành lập tổ chức Đảng tại doanh nghiệp Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 98/2014/NĐ-CP về việc thành lập tổ chức chính trị, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc mọi thành phần kinh tế Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Hướng dẫn thành lập tổ chức Đảng tại doanh nghiệp Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Hướng dẫn thành lập tổ chức Đảng tại doanh nghiệp Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 98/2014/NĐ-CP về việc thành lập tổ chức chính trị, các tổ chức chính trị - xã hội tại doanh nghiệp thuộc mọi thành phần kinh tế MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom - Happiness --------------- No.: 98/2014/ND-CP Hanoi, October 24, 2014 DECREE DECISION ABOUT ESTABLISHMENT OF INTRAMURAL POLITICAL ORGANIZATIONS, SOCIO-POLITICAL ORGANIZATIONS IN ENTERPRISES OF ALL ECONOMIC SECTORS",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

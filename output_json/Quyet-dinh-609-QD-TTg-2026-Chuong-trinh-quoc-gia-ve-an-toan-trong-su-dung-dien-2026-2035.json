@@ -1,0 +1,554 @@
+{
+    "ten_luat": "",
+    "so_hieu": "Quyet-dinh-609-QD-TTg-2026-Chuong-trinh-quoc-gia-ve-an-toan-trong-su-dung-dien-2026-2035",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phê duyệt Chương trình quốc gia về an toàn trong sử dụng điện giai đoạn 2026 - 2035 (sau đây viết tắt là Chương trình) với nội dung như sau:",
+                    "noi_dung_chung": "I. QUAN ĐIỂM",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "An toàn trong sử dụng điện góp phần quan trọng trong đảm bảo an toàn cho người sử dụng điện, cho cộng đồng và đảm bảo an toàn cho hệ thống điện, góp phần vào sự phát triển bền vững của quốc gia.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chương trình quốc gia về an toàn trong sử dụng điện là chương trình tổng thể các nhiệm vụ, giải pháp của các cấp chính quyền từ trung ương đến địa phương, các hiệp hội, doanh nghiệp, tổ chức, cá nhân và cộng đồng nhằm mục tiêu bảo đảm an toàn trong sử dụng điện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc triển khai Chương trình quốc gia về an toàn trong sử dụng điện phải có sự tham gia của cả hệ thống chính trị và xã hội, thực hiện đồng bộ các giải pháp kỹ thuật, quản lý, ứng dụng khoa học công nghệ, nâng cao nhận thức, kỹ năng sử dụng điện an toàn và kỹ năng ứng phó với các tình huống mất an toàn điện xảy ra theo quy định của pháp luật về điện lực. II. MỤC TIÊU",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mục tiêu tổng quát",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nâng cao nhận thức, trách nhiệm và hình thành thói quen, văn hóa sử dụng điện an toàn trong đời sống xã hội;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chú trọng công tác phòng ngừa tai nạn, sự cố do điện, bảo đảm an toàn tính mạng cho người sử dụng điện, cho cộng đồng, tài sản của tổ chức, cá nhân, góp phần vào sự phát triển bền vững của quốc gia;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Huy động mọi nguồn lực trong nước và quốc tế cho việc thúc đẩy giải pháp kỹ thuật, quản lý, ứng dụng khoa học công nghệ, tuyên truyền, đào tạo nâng cao nhận thức, kỹ năng sử dụng điện an toàn theo quy định của pháp luật về điện lực."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Mục tiêu cụ thể - Hoàn thiện đầy đủ cơ chế chính sách và quy định của pháp luật về an toàn trong sử dụng điện từ trung ương đến địa phương. - Giảm 20% số vụ cháy do chập điện, số vụ tai nạn do điện giật so với giai đoạn 2020 - 2025. - 100% cơ sở sản xuất, kinh doanh và hộ gia đình được tiếp cận thông tin tuyên truyền về tư vấn, hướng dẫn các biện pháp bảo đảm an toàn trong sử dụng điện. - Phấn đấu 80% số hộ gia đình tại khu vực đô thị và 50% số hộ gia đình tại vùng nông thôn, vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được tập huấn, phổ biến kỹ năng về an toàn trong sử dụng điện. - 100% cơ sở sản xuất, kinh doanh, nhà chung cư cao tầng; 50% số hộ gia đình được tư vấn, hướng dẫn tự đánh giá mức độ an toàn đối với hệ thống điện. - Hoàn thiện tài liệu, giáo trình hướng dẫn về an toàn trong sử dụng điện và thí điểm bổ sung vào chương trình đào tạo của một số cấp học phổ thông. - Tổ chức triển khai hiệu quả Chương trình nghiên cứu khoa học, ứng dụng chuyển giao công nghệ trong lĩnh vực an toàn điện, đạt được một số kết quả sau: + Xây dựng cơ sở dữ liệu quốc gia về tai nạn điện và sự cố cháy nổ có diễn biến chính nguyên nhân từ điện. + Nghiên cứu, ứng dụng và chuyển giao công nghệ sản xuất thiết bị bảo vệ an toàn điện thông minh, khuyến khích lắp đặt thiết bị bảo vệ an toàn điện thông minh trong các cơ sở sản xuất, công trình nhà ở, thương mại, dịch vụ. + Ứng dụng công nghệ chuyển đổi số trong công tác tuyên truyền, tư vấn, hướng dẫn các biện pháp bảo đảm an toàn trong sử dụng điện. - Giảm đến 50% số vụ cháy do chập điện, số vụ tai nạn do điện giật so với giai đoạn 2020 - 2025. - Phấn đấu 100% số cơ sở sản xuất, kinh doanh, hộ gia đình được tư vấn, hướng dẫn tự đánh giá mức độ an toàn đối với hệ thống điện. - 100% các thiết bị, dụng cụ điện được sản xuất, nhập khẩu, lưu thông trên thị trường phải được kiểm soát chất lượng đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật tương ứng. - Khuyến khích lắp đặt thiết bị bảo vệ an toàn điện thông minh cho hệ thống điện trong cơ sở sản xuất, công trình nhà ở, thương mại, dịch vụ, hướng tới mục tiêu trang bị 100% cho các cơ sở sản xuất, kinh doanh, dịch vụ. - Hoàn thiện tài liệu, giáo trình hướng dẫn về an toàn trong sử dụng điện và bổ sung vào chương trình đào tạo của các cấp học phổ thông toàn quốc. - Phấn đấu hoàn thành và nhân rộng kết quả nghiên cứu, ứng dụng khoa học, công nghệ, giải pháp kỹ thuật về an toàn sử dụng điện theo điều kiện thực tế. III. PHẠM VI, ĐỐI TƯỢNG VÀ THỜI GIAN THỰC HIỆN",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Mục tiêu đến năm 2030"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mục tiêu đến năm 2035"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạm vi, đối tượng",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạm vi: Chương trình quốc gia về an toàn trong sử dụng điện được triển khai và áp dụng trên phạm vi cả nước."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối tượng: Chương trình áp dụng với mọi đối tượng bao gồm các cơ quan, tổ chức và cá nhân liên quan đến hoạt động sử dụng điện tại Việt Nam."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thời gian thực hiện: Từ năm 2026 đến hết năm 2035. IV. NHIỆM VỤ TRỌNG TÂM VÀ GIẢI PHÁP THỰC HIỆN CHƯƠNG TRÌNH",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Rà soát, xây dựng và hoàn thiện cơ chế, chính sách về an toàn trong sử dụng điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Rà soát, sửa đổi, bổ sung hoàn thiện các văn bản pháp luật, quy định về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Rà soát, nghiên cứu, sửa đổi, bổ sung, hoàn thiện hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về thiết kế, lắp đặt hệ thống điện đối với nhà ở và các công trình khác; tiêu chuẩn, quy chuẩn về sản phẩm, thiết bị bảo vệ an toàn điện cho mục đích sản xuất, sinh hoạt, dịch vụ."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Rà soát, nghiên cứu, sửa đổi, bổ sung, hoàn thiện cơ chế, chính sách, pháp luật trong kiểm soát chất lượng sản phẩm, hàng hóa về thiết bị, dụng cụ điện."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Rà soát, sửa đổi, bổ sung, hoàn thiện quy định xử lý vi phạm về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Rà soát, sửa đổi, bổ sung, hoàn thiện quy định tiêu chuẩn, quy chuẩn trụ sạc xe điện lắp đặt tại công trình nhà ở và công trình công cộng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghiên cứu, ứng dụng khoa học, công nghệ, các giải pháp kỹ thuật, quản lý nâng cao mức độ an toàn trong sử dụng điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng và triển khai nhiệm vụ, dự án nghiên cứu, ứng dụng chuyển giao công nghệ sản xuất, chế tạo các loại thiết bị thông minh cảnh báo chập cháy, rò điện, tự động ngắt mạch bảo vệ quá tải, thiết bị bảo vệ an toàn điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nghiên cứu, ứng dụng khoa học, công nghệ trong việc cảnh báo mất an toàn điện . Ứng dụng công nghệ chuyển đổi số trong việc thông tin cho khách hàng sử dụng điện về nguy cơ mất an toàn điện trong quá trình sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng và thực hiện áp dụng các giải pháp kỹ thuật để nâng cao mức độ an toàn đối với hệ thống điện cung cấp điện, hệ thống điện phục vụ cho sản xuất và mục đích sinh hoạt, dịch vụ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nghiên cứu xây dựng và ban hành tiêu chuẩn, quy chuẩn đối với các thiết bị điện, thiết bị bảo vệ an toàn điện thông minh sử dụng trong sản xuất và sinh hoạt để nâng cao mức độ an toàn điện và phòng chống cháy n ổ ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tăng cường công tác thông tin và tuyên truyền, nâng cao nhận thức cho tổ chức, cá nhân, cộng đồng về an toàn trong sử dụng điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng các tài liệu tuyên truyền, sổ tay hướng dẫn về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Xây dựng nội dung đào tạo về an toàn trong sử dụng điện để lồng ghép vào chương trình giáo dục đào tạo các cấp."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng và tổ chức triển khai các chiến dịch, chương trình, kế hoạch truyền thông, tuyên truyền, hướng dẫn, diễn tập về an toàn trong sử dụng điện thông qua các hình thức khác nhau nhằm nâng cao nhận thức và trách nhiệm về an toàn trong sử dụng điện của cộng đồng, doanh nghiệp, tổ chức và xã hội."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Triển khai thực hiện các hoạt động tuyên truyền, truyền thông về an toàn trong sử dụng điện, bao gồm: các chương trình giáo dục đào tạo; cung cấp thông tin cho doanh nghiệp và cộng đồng; tổ chức các cuộc thi, giải thưởng định kỳ; các phong trào/chiến dịch thúc đẩy sử dụng điện an toàn; các hội chợ, triển lãm thúc đẩy thị trường sản phẩm, công nghệ về thiết bị, dụng cụ điện có độ tin cậy an toàn cao."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Tổ chức các khóa tập huấn, hướng dẫn việc đánh giá mức độ an toàn đối với hệ thống điện cho các đối tượng sử dụng điện."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tăng cường năng lực cho lực lượng quản lý và tư vấn, hướng dẫn về an toàn trong sử dụng điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng các tài liệu tập huấn cho lực lượng quản lý và tư vấn, hướng dẫn về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổ chức các khóa đào tạo, tập huấn, tăng cường năng lực cho các tổ chức, cán bộ quản lý, lực lượng trong ngành điện lực về kỹ năng, nhiệm vụ kiểm tra, tuyên truyền, tư vấn, hướng dẫn về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tăng cường tổ chức các khóa đào tạo, huấn luyện, cấp thẻ an toàn điện cho lực lượng lặp đặt, sửa chữa hệ thống điện trong nhà ở, công trình."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tăng cường hiệu quả công tác kiểm tra về an toàn trong sử dụng điện và kiểm soát chất lượng sản phẩm thiết bị điện lưu thông trên thị trường",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức rà soát, kiểm tra, đánh giá mức độ an toàn đối với hệ thống điện phục vụ sản xuất, sinh hoạt, dịch vụ để phát hiện sớm các khu vực có nguy cơ cao về mất an toàn điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tăng cường triển khai công tác kiểm tra, giám sát và đánh giá việc tuân thủ pháp luật về an toàn trong sử dụng điện đối với tổ chức, cá nhân sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tăng cường năng lực cho các phòng thí nghiệm, thử nghiệm chất lượng sản phẩm, thiết bị điện."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đẩy mạnh hoạt động kiểm tra, kiểm soát chất lượng sản phẩm, hàng hóa thiết bị điện lưu thông trên thị trường."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tăng cường quan hệ, hợp tác quốc tế trong lĩnh vực điện lực về an toàn trong sử dụng điện (Danh mục các nhiệm vụ ưu tiên thực hiện trong giai đoạn 2026 - 2030 tại Phụ lục kèm theo Quyết định này). V. KINH PHÍ THỰC HIỆN CHƯƠNG TRÌNH",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Mở rộng hợp tác quốc tế, đẩy mạnh, tăng cường trao đổi chính sách, chia sẻ kinh nghiệm và hợp tác kỹ thuật với các nước, các tổ chức quốc tế, tổ chức phi chính phủ về an toàn trong sử dụng điện, trong đó có việc nghiên cứu sản xuất thử nghiệm các vật liệu mới phục vụ công tác bảo đảm an toàn điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tăng cường tiếp nhận hỗ trợ kỹ thuật, chuyển giao công nghệ và đào tạo nguồn nhân lực trong hoạt động sử dụng điện an toàn."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Huy động, triển khai các dự án hỗ trợ kỹ thuật, dự án hỗ trợ đầu tư liên quan đến sử dụng điện an toàn."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hợp tác xây dựng các cơ chế tài chính song phương, đa phương nhằm thúc đẩy việc thực hiện các giải pháp an toàn trong sử dụng điện."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nguồn kinh phí thực hiện Chương trình bao gồm nguồn vốn ngân sách nhà nước và các nguồn vốn huy động hợp pháp khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các bộ, ngành, địa phương lập dự toán ngân sách hàng năm và quản lý kinh phí thực hiện các nhiệm vụ của Chương trình theo quy định hiện hành của pháp luật về ngân sách nhà nước và các quy định pháp luật liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Công Thương",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ trì, điều hành các hoạt động của Chương trình, theo dõi và báo cáo kết quả triển khai Chương trình; tổng kết đánh giá kết quả thực hiện giai đoạn 2026 - 2030 và đề xuất điều chỉnh, bổ sung mục tiêu, nhiệm vụ của Chương trình giai đoạn 2031 - 2035 cho phù hợp với tình hình phát triển kinh tế xã hội của đất nước, báo cáo Thủ tướng Chính phủ xem xét quyết định vào năm 2030."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hàng năm, đôn đốc các bộ, cơ quan ngang bộ, địa phương xây dựng kế hoạch và tổ chức triển khai thực hiện các nhiệm vụ của Chương trình, tổng hợp báo cáo Thủ tướng Chính phủ kết quả thực hiện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chủ trì, phối hợp với các cơ quan liên quan hoàn thiện hệ thống pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật liên quan đến công tác an toàn trong sử dụng điện; tổ chức thực hiện Chương trình nghiên cứu, ứng dụng khoa học, công nghệ, các giải pháp kỹ thuật, quản lý nâng cao mức độ an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hướng dẫn, kiểm tra, giám sát, đôn đốc việc quản lý, thực hiện về công tác an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Chỉ đạo, tổ chức tuyên truyền, phổ biến, hướng dẫn, nâng cao nhận thức cho cơ quan, tổ chức, cá nhân về an toàn trong sử dụng điện; tổ chức các chương trình xúc tiến thương mại, giới thiệu công nghệ, thúc đẩy thị trường sản phẩm an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Mở rộng hợp tác quốc tế, tăng cường trao đổi kinh nghiệm, khoa học công nghệ, tài chính, đào tạo nguồn nhân lực, thông tin để thực hiện Chương trình quốc gia. Triển khai các dự án hợp tác quốc tế về an toàn trong sử dụng điện nói riêng và an toàn điện nói chung."
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Thực hiện các nhiệm vụ khác về an toàn trong sử dụng điện thuộc chức năng nhiệm vụ được giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Xây dựng",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng, hoàn thiện hệ thống tiêu chuẩn, quy chuẩn kỹ thuật đối với thiết kế, lắp đặt hệ thống điện trong nhà ở, công trình theo quy định của pháp luật về xây dựng."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện trách nhiệm của cơ quan quản lý nhà nước chuyên ngành về xây dựng và quản lý chất lượng công trình xây dựng theo quy định; có trách nhiệm xây dựng, hướng dẫn công tác thẩm định, phê duyệt báo cáo nghiên cứu khả thi, thiết kế xây dựng triển khai sau thiết kế cơ sở; kiểm tra bảo đảm các điều kiện an toàn trong quá trình xây dựng, kiểm tra công tác nghiệm thu hoàn thành đưa vào sử dụng các công trình chuyên ngành xây dựng đảm bảo các quy định an toàn về điện lực."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chủ trì, phối hợp với Bộ Công Thương tổ chức triển khai các nhiệm vụ, giải pháp thuộc Chương trình trong phạm vi quản lý của Bộ Xây dựng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Công an",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ trì, phối hợp với Bộ Công Thương tổ chức triển khai các nhiệm vụ, giải pháp thuộc Chương trình quốc gia về an toàn trong sử dụng điện giai đoạn 2026 - 2035."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chỉ đạo lực lượng Công an phối hợp với Ủy ban nhân dân các cấp trong việc kiểm tra công tác nghiệm thu về phòng cháy, chữa cháy đối với các đối tượng kinh doanh và sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Lồng ghép các hoạt động tuyên truyền, phổ biến, nâng cao nhận thức về an toàn trong sử dụng điện vào chương trình tuyên truyền, phổ biến kiến thức pháp luật, huấn luyện nghiệp vụ, kỹ năng trong phòng cháy, chữa cháy và cứu nạn, cứu hộ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Phối hợp với Bộ Công Thương, Tập đoàn Điện lực Việt Nam, các đơn vị bán điện thực hiện việc tuyên truyền, phổ biến kiến thức pháp luật cho tổ chức, cá nhân về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Hàng năm thống kê, phân loại cụ thể về cháy, nổ có nguyên nhân từ việc sử dụng điện không an toàn."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Lồng ghép nội dung kiểm tra an toàn trong sử dụng điện vào hoạt động kiểm tra định kỳ về phòng cháy, chữa cháy và cứu nạn, cứu hộ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Quốc phòng",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức kiểm tra, giám sát, đôn đốc việc thực hiện an toàn trong sử dụng điện thuộc phạm vi quản lý của Bộ Quốc phòng."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ trì, phối hợp với Bộ Công Thương tổ chức triển khai các nhiệm vụ, giải pháp thuộc Chương trình trong phạm vi quản lý của Bộ Quốc phòng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ Giáo dục và Đào tạo",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ trì xây dựng và lồng ghép các nội dung kiến thức, nâng cao nhận thức, kỹ năng về an toàn trong sử dụng điện, an toàn điện vào các chương trình ngoại khóa, hoạt động trải nghiệm hoặc các môn học giảng dạy có liên quan trong hệ thống giáo dục các cấp, giáo dục nghề nghiệp."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hướng dẫn, chỉ đạo các cơ sở giáo dục tổ chức thực hiện việc tích hợp, lồng ghép kiến thức, pháp luật về an toàn điện, trong đó có nội dung về an toàn trong sử dụng điện vào chương trình giảng dạy (đảm bảo phù hợp với từng cấp giảng dạy)."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chủ trì ban hành văn bản quy định các điều kiện bảo đảm việc giảng dạy, trang bị kiến thức, thực hành các kỹ năng về an toàn trong sử dụng điện trong cơ sở giáo dục mầm non, giáo dục phổ thông, giáo dục đại học, giáo dục nghề nghiệp phù hợp với từng cấp học, ngành học."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chủ trì, phối hợp với Bộ Công Thương tổ chức triển khai các nhiệm vụ, giải pháp thuộc Chương trình trong phạm vi quản lý của Bộ Giáo dục và Đào tạo."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Bộ Khoa học và Công nghệ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Rà soát, xây dựng, hoàn thiện hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về chất lượng sản phẩm thiết bị điện, trụ sạc xe điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ trì, phối hợp với Bộ Công Thương xây dựng và tổ chức triển khai thực hiện các nhiệm vụ, giải pháp thuộc Chương trình trong phạm vi quản lý của Bộ Khoa học và Công nghệ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Bộ Tài chính Chủ trì tổng hợp nhu cầu sử dụng ngân sách nhà nước của Chương trình, báo cáo cấp có thẩm quyền theo quy định của Luật Ngân sách nhà nước , Luật Đầu tư công và các quy định pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Trách nhiệm chung của các bộ, cơ quan ngang bộ, ngành",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng và triển khai kế hoạch 5 năm, hàng năm thực hiện các nhiệm vụ của Chương trình, lồng ghép với các chương trình mục tiêu quốc gia, chương trình quốc gia, chương trình phát triển kinh tế - xã hội khác thuộc thẩm quyền quản lý, phù hợp với mục tiêu chung về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lập dự toán ngân sách hàng năm thực hiện các nhiệm vụ của Chương trình gửi Bộ Tài chính để tổng hợp báo cáo cấp có thẩm quyền bố trí kinh phí theo quy định; chủ động huy động các nguồn vốn hợp pháp để thực hiện các nhiệm vụ của Chương trình."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hàng năm, tổ chức tổng kết, đánh giá kết quả thực hiện các nhiệm vụ của Chương trình theo chức năng, nhiệm vụ được giao, gửi Bộ Công Thương tổng hợp báo cáo Thủ tướng Chính phủ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện Chương trình theo quy định của pháp luật về điện lực và pháp luật khác có liên quan, bao gồm các nội dung sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng kế hoạch triển khai thực hiện Chương trình theo từng giai đoạn 2026 - 2030 và 2031 - 2035 trên cơ sở bảo đảm các nguyên tắc sau: phải căn cứ mục tiêu phát triển kinh tế - xã hội của địa phương, có mục tiêu, nhiệm vụ, giải pháp cụ thể phù hợp với các mục tiêu, nhiệm vụ, giải pháp của Chương trình; ban hành quy định về quản lý an toàn trong sử dụng điện trên địa bàn thuộc phạm vi quản lý; bố trí ngân sách địa phương hàng năm để triển khai thực hiện Chương trình. Định kỳ hàng năm hoặc đột xuất báo cáo Bộ Công Thương tình hình thực hiện Chương trình."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ động phối hợp với các bộ, ngành, cơ quan liên quan triển khai thực hiện các hoạt động trong Chương trình quốc gia về an toàn trong sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chỉ đạo các cơ quan chức năng thuộc phạm vi quản lý tổ chức thanh tra, kiểm tra an toàn trong sử dụng điện; kiểm tra, kiểm soát chặt chẽ hoạt động sản xuất, kinh doanh thiết bị, dụng cụ điện, thiết bị sử dụng điện đảm bảo các quy định về chất lượng sản phẩm, hàng hóa."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tổ chức tuyên truyền, phổ biến, hướng dẫn, nâng cao nhận thức cho cơ quan, tổ chức, cá nhân về an toàn trong sử dụng điện trên địa bàn."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Tập đoàn Điện lực Việt Nam",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ đạo các đơn vị điện lực các địa phương bảo đảm cung cấp điện an toàn, liên tục phục vụ sản xuất, cho mục đích sinh hoạt, dịch vụ; tư vấn việc lắp đặt, sử dụng hệ thống, thiết bị điện để bảo đảm an toàn; tổ chức tập huấn, hướng dẫn, cung cấp cho khách hàng sử dụng điện thông tin về nguy cơ gây mất an toàn trong sử dụng điện và biện pháp bảo đảm an toàn điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phối hợp với cơ quan quản lý nhà nước thực hiện kiểm tra an toàn hệ thống điện của khách hàng khi có yêu cầu của cơ quan có thẩm quyền, trường hợp phát hiện có nguy cơ mất an toàn phải kịp thời có biện pháp ngăn chặn hoặc ngừng cung cấp điện và báo cáo các cơ quan có thẩm quyền theo quy định."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đẩy mạnh ứng dụng khoa học, công nghệ trong công tác giám sát, cảnh báo an toàn điện . Ứng dụng công nghệ chuyển đổi số trong việc thông tin cho khách hàng sử dụng điện về nguy cơ mất an toàn điện trong quá trình sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Định kỳ tổ chức các hoạt động tuyên truyền, phổ biến, hướng dẫn, nâng cao nhận thức cho khách hàng về an toàn trong sử dụng điện."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Các đơn vị bán điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tư vấn việc lắp đặt, sử dụng hệ thống, thiết bị điện để bảo đảm an toàn; cung cấp cho khách hàng sử dụng điện thông tin về nguy cơ gây mất an toàn trong sử dụng điện và biện pháp bảo đảm an toàn điện."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đẩy mạnh ứng dụng khoa học, công nghệ trong công tác giám sát, cảnh báo an toàn điện, ứng dụng công nghệ chuyển đổi số trong việc thông tin cho khách hàng sử dụng điện về nguy cơ mất an toàn điện trong quá trình sử dụng điện."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Định kỳ tổ chức các hoạt động tuyên truyền, phổ biến, hướng dẫn, nâng cao nhận thức cho khách hàng sử dụng điện an toàn."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khi có yêu cầu của cơ quan có thẩm quyền thì đơn vị bán điện có trách nhiệm phối hợp kiểm tra an toàn hệ thống điện của khách hàng sử dụng điện, trường hợp phát hiện có nguy cơ mất an toàn phải kịp thời có biện pháp ngăn chặn hoặc ngừng cung cấp điện và báo cáo các cơ quan có thẩm quyền theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Các tổ chức, cá nhân sản xuất, kinh doanh thiết bị điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sản xuất, kinh doanh các thiết bị điện đảm bảo tiêu chuẩn và quy chuẩn kỹ thuật về chất lượng sản phẩm, hàng hóa, đặc biệt là các quy định về an toàn, bảo vệ môi trường."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Xây dựng và duy trì hệ thống quản lý chất lượng, truy xuất nguồn gốc theo quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cung cấp dịch vụ bảo hành, bảo trì thiết bị theo cam kết, đảm bảo thiết bị hoạt động ổn định trong suốt thời gian sử dụng."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hướng dẫn việc lắp đặt, sử dụng dây dẫn, thiết bị, dụng cụ điện để bảo đảm an toàn trong sử dụng điện."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Các tổ chức, cá nhân sử dụng điện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thiết k ế , lắp đặt dây dẫn , thiết bị đóng cắt và thiết bị điện trong nhà ở, công trình... phải bảo đảm chất lượng, an toàn điện, an toàn phòng cháy, chữa cháy, đúng theo hướng dẫn sử dụng, bảo quản, bảo dưỡng của nhà sản xuất, tiêu chuẩn, quy chuẩn kỹ thuật về công trình xây dựng theo quy định của pháp luật và phù hợp với tổng nhu cầu sử dụng điện năng."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cung cấp thông tin về hệ thống điện trong nhà ở, công trình do mình sở hữu hoặc quản lý, sử dụng và nhu cầu sử dụng điện năng khi ký hợp đồng mua bán điện hoặc khi nhu cầu sử dụng công suất tăng cao hơn so với đăng ký phải thông báo cho bên bán điện để có phương án cấp điện phù hợp."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bảo đảm an toàn đối với hệ thống điện trong nhà ở, công trình do mình sở hữu hoặc quản lý, sử dụng. Thường xuyên kiểm tra, kịp thời sửa chữa, thay thế dây dẫn, thiết bị điện không bảo đảm chất lượng. Khi xảy ra sự cố điện phải có biện pháp ngăn ngừa nguy cơ gây cháy lan sang đồ vật, trang thiết bị khác trong nhà ở, công trình và kịp thời thông báo cho đơn vị bán điện và cơ quan chức năng tại địa phương."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tích cực tham gia các buổi hướng dẫn, phổ biến, tư vấn về an toàn điện do cơ quan chức năng và đơn vị điện lực tại địa phương tổ chức; phối hợp với cơ quan chức năng trong việc kiểm tra an toàn trong sử dụng điện."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tăng cường thời lượng, ưu tiên bố trí khung giờ tuyên truyền, phổ biến kiến thức, kỹ năng sử dụng điện an toàn, đảm bảo phòng chống cháy n ổ , cảnh báo nguy cơ cháy do sử dụng điện không an toàn."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mở chuyên mục tuyên truyền thường xuyên về an toàn trong sử dụng điện, đảm bảo phòng chống cháy nổ vào các khung giờ khán giả dễ theo dõi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Điều khoản thi hành",
+                    "noi_dung_chung": "Quyết định này có hiệu lực thi hành kể từ ngày ký. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, Chủ tịch Tập đoàn Điện lực Việt Nam, người đứng đầu các đơn vị điện lực và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các tổ chức chính trị - xã hội; - Tập đoàn Điện lực Việt Nam; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc; - Lưu: VT, CN (2) . KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Bùi Thanh Sơn PHỤ LỤC DANH MỤC CÁC NHIỆM VỤ ƯU TIÊN THỰC HIỆN TRONG GIAI ĐOẠN 2026 - 2030 (Kèm theo Quyết định số 609/QĐ-TTg ngày 03 tháng 4 năm 2026 của Thủ tướng Chính phủ) I. Xây dựng và hoàn thiện cơ chế, chính sách về an toàn trong sử dụng điện Tên nhiệm vụ Ban hành hướng dẫn cụ thể về an toàn sử dụng điện trong sinh hoạt và dịch vụ, đảm bảo yêu cầu về phòng cháy, chữa cháy (theo khoản 7 Điều 41 Nghị định số 105/2025/NĐ-CP ) Mục tiêu/nội dung chính Ban hành hướng dẫn kỹ thuật/sổ tay về an toàn trong sử dụng điện cho sinh hoạt và dịch vụ Đơn vị chủ trì/thực hiện Chủ trì: Bộ Công Thương Thực hiện/Phối hợp: Bộ Công an, Tập đoàn Điện lực Việt Nam (EVN) và các cơ quan, tổ chức khác có liên quan. Thời gian 2026 - 2030 Kinh phí Theo quy định tại Mục V Điều 1 tại Quyết định này . Tên nhiệm vụ Hoàn thiện hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về an toàn trong sử dụng điện phục vụ cho sản xuất, cho mục đích sinh hoạt , dịch vụ . Mục tiêu/nội dung chính - Nghiên cứu xây dựng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về an toàn trong sử dụng điện cho sản xuất; - Nghiên cứu xây dựng hệ thống tiêu chuẩn , quy chuẩn kỹ thuật về an toàn trong sử dụng điện cho sinh hoạt; - Nghiên cứu xây dựng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về an toàn trong sử dụng điện cho dịch vụ; - Nghiên cứu xây dựng hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về thiết kế, lắp đặt, vận hành trạm sạc xe điện. Đơn vị chủ trì/thực hiện Chủ trì: Bộ Công Thương, Bộ Khoa học và Công nghệ, Bộ Xây dựng Thực hiện/phối hợp: EVN và các cơ quan, tổ chức khác có liên quan. Thời gian 2026 - 2030 Kinh phí Theo quy định tại Mục V Điều 1 tại Quyết định này . Nghiên cứu ứng dụng khoa học, công nghệ, các giải pháp kỹ thuật, quản lý nâng cao mức độ an toàn trong sử dụng điện Tên nhiệm vụ Chương trình Nghiên cứu, ứng dụng khoa học, công nghệ về an toàn trong sử dụng điện Mục tiêu/nội dung chính - Nghiên cứu các loại công nghệ phát hiện sớm, cảnh báo tự động và ngăn ngừa các nguy cơ mất an toàn của hệ thống điện phục vụ sản xuất, sinh hoạt, dịch vụ; - Nghiên cứu, ứng dụng chuyển giao công nghệ sản xuất, chế tạo các loại thiết bị cảnh báo thông minh chập cháy, rò điện, tự động ngắt mạch bảo vệ quá tải, thiết bị bảo vệ an toàn điện thông minh; - Nghiên cứu ứng dụng công nghệ số để truyền tin cảnh báo cho khách hàng sử dụng điện các nguy cơ mất an toàn trong quá trình sử dụng điện; - Nghiên cứu để ban hành tiêu chuẩn, quy chuẩn đối với các thiết bị điện thông minh sử dụng trong sản xuất và sinh hoạt để đảm bảo an toàn điện và phòng chống cháy nổ. - Nghiên cứu, thu thập, xây dựng cơ sở dữ liệu quốc gia về tai nạn điện và sự cố cháy nổ có diễn biến chính nguyên nhân từ điện. - Nghiên cứu, thu thập, xây dựng cơ sở dữ liệu số phân tích nguy cơ tai nạn điện. - Nghiên cứu, thu thập, xây dựng cơ sở dữ liệu và tổ chức các hoạt động tuyên truyền, truyền thông trên các phương tiện về an toàn trong sử dụng điện và phòng cháy, chữa cháy. Đơn vị chủ trì/thực hiện Chủ trì: Bộ Công Thương, Bộ Khoa học và Công nghệ, Ủy ban nhân dân cấp tỉnh, Tập đoàn Điện lực Việt Nam Thực hiện/phối hợp: Bộ, ngành, Ủy ban nhân dân (UBND) các cấp và các cơ quan, tổ chức khác có liên quan. Thời gian 2026 - 2030 Kinh phí Theo quy định tại Mục V Điều 1 tại Quyết định này . III Tăng cường nhận thức, năng lực, kỹ năng về an toàn trong sử dụng điện Tên nhiệm vụ Xây dựng chương trình đào tạo về an toàn trong sử dụng điện trong hệ thống giáo dục phổ thông, đại học Mục tiêu/nội dung chính - Nhằm mục tiêu nâng cao nhận thức cho học sinh, sinh viên trong việc sử dụng điện an toàn. - Xây dựng tài liệu, giáo trình đào tạo về an toàn trong sử dụng điện tương ứng với từng cấp học; - Lồng ghép các nội dung, chương trình về an toàn trong sử dụng điện vào chương trình đ à o tạo tại các trường học. Đơn vị chủ trì/thực hiện Chủ trì: Bộ Giáo dục và Đào tạo Thực hiện/phối hợp: Bộ Công Thương, Bộ Công an, EVN và các cơ quan, tổ chức khác có liên quan. c ) Thời gian 2026 - 2030 Kinh phí Theo quy định tại Mục V Điều 1 tại Quyết định này . Tên nhiệm vụ Tăng cường tập huấn, phổ biến, hướng dẫn về an toàn trong sử dụng điện cho các đối tượng sử dụng điện Mục tiêu/nội dung chính - Nhằm mục tiêu nâng cao nhận thức cho các tầng lớp nhân dân, cơ quan, đơn vị trong việc sử dụng điện an toàn. - Xây dựng các tài liệu hướng dẫn kỹ thuật về an toàn trong sử dụng điện. - Tổ chức các buổi huấn luyện, phổ biến cho các đối tượng về an toàn trong sử dụng điện. - Tổ chức hội nghị phổ biến tiêu chuẩn và quy chuẩn kỹ thuật về an toàn trong sử dụng điện. Đơn vị chủ trì/ thực hiện Chủ trì: Tập đoàn Điện lực Việt Nam và các đơn vị bán điện Thực hiện/phối hợp: Các bộ, ngành, UBND các cấp và các cơ quan, tổ chức khác có liên quan. Thời gian 2026 - 2030 Kinh phí Theo quy định tại Mục V Điều 1 tại Quyết định này . Tên nhiệm vụ Cơ sở dữ liệu về an toàn điện Mục tiêu/nội dung chính - Nhằm mục tiêu kịp thời thông tin và tuyên truyền các nội dung về an toàn điện, phổ biến kiến thức pháp luật và cập nhập các sản phẩm điện đạt quy chuẩn và tiêu chuẩn - Khảo sát, thu thập thông tin. - Xây dựng hệ thống cơ sở dữ liệu (đảm bảo liên thông giữa các bộ, ngành và địa phương) - Vận hành, cập nhập cơ sở dữ liệu. Đơn vị chủ trì/ thực hiện Chủ trì: Bộ Công Thương Thực hiện/phối hợp: EVN, UBND các cấp và các cơ quan, tổ chức khác có liên quan. Thời gian 2026 - 2030 Kinh phí Theo quy định tại Mục V Điều 1 tại Quyết định này . Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Phấn đấu đến năm 2035, giảm đến 50% số vụ cháy do chập điện Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 609/QĐ-TTg năm 2026 Chương trình quốc gia về an toàn trong sử dụng điện giai đoạn 2026-2035 do Thủ tướng Chính phủ ban hành Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Phấn đấu đến năm 2035, giảm đến 50% số vụ cháy do chập điện Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Phấn đấu đến năm 2035, giảm đến 50% số vụ cháy do chập điện Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 609/QĐ-TTg năm 2026 Chương trình quốc gia về an toàn trong sử dụng điện giai đoạn 2026-2035 do Thủ tướng Chính phủ ban hành MỤC LỤC VĂN BẢN In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh MỤC LỤC VĂN BẢN In mục lục In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Quyết định 609/QĐ-TTg ngày 03/04/2026 Chương trình quốc gia về an toàn trong sử dụng điện giai đoạn 2026-2035 do Thủ tướng Chính phủ ban hành Tải Văn bản tiếng Việt Tải Văn bản tiếng Việt (docx) Tải Văn bản gốc Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Quyết định 305/QĐ-BCT năm 2026 đính chính Nghị định 62/2025/NĐ-CP hướng dẫn Luật Điện lực về bảo vệ công trình điện lực và an toàn trong lĩnh vực điện lực do Bộ trưởng Bộ Công Thương ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 12/02/2026 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 21/03/2026 Quyết định 111/QĐ-BXD năm 2026 về Quy chế quản lý, vận hành, khai thác, sử dụng và bảo đảm an toàn thông tin mạng Hệ thống thông tin lưu trữ tài liệu điện tử Bộ Xây dựng Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 27/01/2026 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 05/02/2026 Thông tư 60/2025/TT-BKHCN quy định nội dung Báo cáo phân tích an toàn và Báo cáo đánh giá an toàn nhà máy điện hạt nhân do Bộ trưởng Bộ Khoa học và Công nghệ ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 31/12/2025 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 13/01/2026 Nghị quyết 70-NQ/TW năm 2025 bảo đảm an ninh năng lượng quốc gia đến năm 2030, tầm nhìn đến năm 2045 do Ban Chấp hành Trung ương ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 20/08/2025 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 04/09/2025 Luật ngân sách nhà nước 2025 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 25/06/2025 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 16/07/2025 Nghị định 105/2025/NĐ-CP hướng dẫn Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 15/05/2025 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 20/05/2025 Nghị định 62/2025/NĐ-CP hướng dẫn Luật Điện lực về bảo vệ công trình điện lực và an toàn trong lĩnh vực điện lực Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 04/03/2025 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 08/03/2025 Luật Tổ chức Chính phủ 2025 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 18/02/2025 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 22/02/2025 Nghị quyết 57-NQ/TW năm 2024 đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia do Ban Chấp hành Trung ương ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 22/12/2024 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 25/12/2024 Luật Điện lực 2024 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 30/11/2024 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 17/12/2024 Thư mục cha: Chọn thư mục cha Tạo thư mục 652 Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu muốn làm Thành Viên Basic / Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Nếu muốn làm Thành Viên Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Quyết định 609/QĐ-TTg 2026 Chương trình quốc gia về an toàn trong sử ... Chọn văn bản so sánh thay thế: NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN Văn bản bị thay thế Văn bản thay thế Chú thích Văn bản bị thay thế Văn bản thay thế Nội dung gốc Nội dung sửa đổi, hướng dẫn Nội dung gốc Nội dung sửa đổi, hướng dẫn Tải biểu mẫu Chú thích: Rà chuột vào nội dụng văn bản để sử dụng. <Nội dung> = Nội dung hai văn bản đều có; <Nội dung> = Nội dung văn bản cũ có, văn bản mới không có; <Nội dung> = Nội dung văn bản cũ không có, văn bản mới có; <Nội dung> = Nội dung được sửa đổi, bổ sung. Click trái để xem cụ thể từng nội dung cần so sánh và cố định bảng so sánh. Click phải để xem những nội dung sửa đổi, bổ sung. Double click để xem tất cả nội dung không có thay thế tương ứng. Tắt so sánh [X] để trở về trạng thái rà chuột ban đầu. FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN FILE ATTACHED TO DOCUMENT Thư mục cha: Chọn thư mục cha Tạo thư mục Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Xin chúc mừng thành viên acb đã đăng ký sử dụng thành công www.thuvienphapluat.vn THƯ VIỆN PHÁP LUẬT giúp thành viên tìm kiếm văn bản chính xác, nhanh chóng theo nhu cầu và cung cấp nhiều tiện ích, tính năng hiệu quả:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tra cứu và xem trực tiếp hơn 437.000 Văn bản luật, Công văn, hơn 200.000 Bản án Online;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tải về đa dạng văn bản gốc, văn bản file PDF/Word, văn bản Tiếng Anh, bản án, án lệ Tiếng Anh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các nội dung của văn bản này được văn bản khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc ; các quan hệ của các văn bản thông qua tiện ích Lược đồ và nhiều tiện ích khác;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được hỗ trợ pháp lý sơ bộ qua Điện thoại, Email và Zalo nhanh chóng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhận thông báo văn bản mới qua Email để cập nhật các thông tin, văn bản về pháp luật một cách nhanh chóng và chính xác nhất;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trang cá nhân: Quản lý thông tin cá nhân và cài đặt lưu trữ văn bản quan tâm theo nhu cầu. Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây. Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích miễn phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích MIỄN PHÍ nổi bật trên www.thuvienphapluat.vn : Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích có phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích CÓ PHÍ khi xem văn bản trên www.thuvienphapluat.vn : Xin chào Quý khách hàng - ! Để trải nghiệm lại nội dung hướng dẫn tiện ích, Bạn vui lòng vào Trang Hướng dẫn sử dụng . Bên cạnh những tiện ích vừa giới thiệu, Bạn có thể xem thêm Video/Bài viết hướng dẫn sử dụng để biết cách tra cứu, sử dụng toàn bộ các tính năng, tiện ích trên website. Ngoài ra, Bạn có thể nhấn vào đây để trải nghiệm MIỄN PHÍ các tiện ích khi xem văn bản dành cho thành viên CÓ PHÍ . 👉 Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây . 👉 Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Cảm ơn Bạn đã quan tâm và sử dụng dịch vụ của chúng tôi. Trân trọng, THƯ VIỆN PHÁP LUẬT TP. HCM, ngày 31/0 5/2021 Thưa Quý khách, Đúng 14 tháng trước, ngày 31/3/2020, THƯ VIỆN PHÁP LUẬT đã bậ t Thông báo này, và nay 31/5/2021 xin bật lại. Hơn 1 năm qua, dù nhiều khó khăn, chúng ta cũng đã đánh thắng Covid 19 trong 3 trận đầu. Trận 4 này , với chỉ đạo quyết liệt của Chính phủ, chắc chắn chúng ta lại thắng . Là sản phẩm online, nên 25 0 nhân sự chúng tôi vừa làm việc tại trụ sở, vừa làm việc từ xa qua Internet ngay từ đầu tháng 5/2021 . S ứ mệnh của THƯ VIỆN PHÁP LUẬT là:  s ử dụng công nghệ cao để tổ chức lại hệ thống văn bản pháp luật ,  v à kết nối cộng đồng Dân L uật Việt Nam, nhằm :  G iúp công chúng “…loại rủi ro pháp lý, nắm cơ hội làm giàu…” ,  v à cùng công chúng xây dựng, thụ hưởng một xã hội pháp quyền trong tương lai gần; Chúng tôi cam kết dịch vụ sẽ được cung ứng bình thường trong mọi tình huống. THÔNG BÁO về Lưu trữ, Sử dụng Thông tin Khách hàng Kính gửi: Quý Thành viên, Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hiệu lực từ ngày 01/07/2023) yêu cầu xác nhận sự đồng ý của thành viên khi thu thập, lưu trữ, sử dụng thông tin mà quý khách đã cung cấp trong quá trình đăng ký, sử dụng sản phẩm, dịch vụ của THƯ VIỆN PHÁP LUẬT . Quý Thành viên xác nhận giúp THƯ VIỆN PHÁP LUẬT được tiếp tục lưu trữ, sử dụng những thông tin mà Quý Thành viên đã, đang và sẽ cung cấp khi tiếp tục sử dụng dịch vụ. Thực hiện Nghị định 13/2023/NĐ-CP, chúng tôi cập nhật Quy chế và Thỏa thuận Bảo về Dữ liệu cá nhân bên dưới. Trân trọng cảm ơn Quý Thành viên. Tôi đã đọc và đồng ý Quy chế bảo vệ dữ liệu cá nhân Tiếp tục sử dụng Cảm ơn đã dùng ThuVienPhapLuat.vn Bạn vừa bị Đăng xuất khỏi Tài khoản . Hiện tại có đủ người dùng cùng lúc, nên khi người thứ vào thì bạn bị Đăng xuất. Có phải do Tài khoản của bạn bị lộ mật khẩu nên nhiều người khác vào dùng? Hỗ trợ: (028) 3930.3279 _ 0906.229966 Xin lỗi Quý khách vì sự bất tiện này! Tài khoản hiện đã đủ người dùng cùng thời điểm. Quý khách Đăng nhập vào thì sẽ có 1 người khác bị Đăng xuất. Tài khoản của Quý Khách đẵ đăng nhập quá nhiều lần trên nhiều thiết bị khác nhau, Quý Khách có thể vào đây để xem chi tiết lịch sử đăng nhập Có thể tài khoản của bạn đã bị rò rỉ mật khẩu và mất bảo mật, xin vui lòng đổi mật khẩu tại đây để tiếp tục sử dụng Hãy để chúng tôi hỗ trợ bạn! Họ & Tên: Email: Điện thoại: Nội dung: Bạn hãy nhập mật khẩu đang sử dụng và nhập mật khẩu mới 2 lần để chắc rằng bạn nhập đúng. Tên truy cập hoặc Email: Mật khẩu cũ: Mật khẩu mới: Bạn hãy nhập e-mail đã sử dụng để đăng ký thành viên. E-mail: Email người nhận: Tiêu đề Email: Nội dung: Họ & Tên: Email: Điện thoại: Nội dung: Thông báo cho tôi khi Văn bản bị sửa đổi, bổ sung, có hoặc hết hiệu lực. Email nhận thông báo: Thông báo cho tôi khi Văn bản có nội dung. Email nhận thông báo: Ghi chú cho Văn bản .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

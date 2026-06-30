@@ -1,0 +1,1771 @@
+{
+    "ten_luat": "Luật bưu chính 2010 số 49/2010/QH12 áp dụng 2024",
+    "so_hieu": "49/2010/QH12",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Luật này quy định về hoạt động bưu chính; quyền và nghĩa vụ của tổ chức, cá nhân trong hoạt động bưu chính và quản lý nhà nước về hoạt động bưu chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "Luật này áp dụng đối với tổ chức, cá nhân thực hiện, tham gia thực hiện hoạt động bưu chính tại Việt Nam.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hoạt động bưu chính gồm các hoạt động đầu tư, kinh doanh, cung ứng, sử dụng dịch vụ bưu chính, dịch vụ bưu chính công ích, tem bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bưu gửi bao gồm thư, gói, kiện hàng hoá được chấp nhận, vận chuyển và phát hợp pháp qua mạng bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Dịch vụ bưu chính là dịch vụ chấp nhận, vận chuyển và phát bưu gửi bằng các phương thức từ địa điểm của người gửi đến địa điểm của người nhận qua mạng bưu chính, trừ phương thức điện tử.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Dịch vụ bưu chính công ích là dịch vụ bưu chính được cung ứng theo yêu cầu của Nhà nước, gồm dịch vụ bưu chính phổ cập, dịch vụ bưu chính phục vụ quốc phòng, an ninh và nhiệm vụ đặc thù khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Dịch vụ bưu chính phổ cập là dịch vụ bưu chính được cung ứng thường xuyên đến người dân theo các điều kiện về khối lượng, chất lượng và giá cước do cơ quan nhà nước có thẩm quyền quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thư là thông tin trao đổi dưới dạng văn bản viết tay hoặc bản in, có địa chỉ nhận hoặc không có địa chỉ nhận, trừ ấn phẩm định kỳ, sách, báo, tạp chí.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thư không có địa chỉ nhận là thư không có thông tin liên quan đến người nhận trên thư, trên bao bì của thư, bao gồm cả thư để quảng cáo, tuyên truyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Dịch vụ thư cơ bản là dịch vụ thư không có các yếu tố làm tăng thêm giá trị của dịch vụ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Mạng bưu chính là hệ thống cơ sở khai thác bưu gửi, điểm phục vụ bưu chính được kết nối bằng các tuyến vận chuyển và tuyến phát để cung ứng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Mạng bưu chính công cộng là mạng bưu chính do Nhà nước đầu tư và giao cho doanh nghiệp được chỉ định quản lý, khai thác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Điểm phục vụ bưu chính là nơi chấp nhận, phát bưu gửi, gồm bưu cục, kiốt, đại lý, thùng thư công cộng và hình thức khác để chấp nhận, phát bưu gửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Thùng thư công cộng là điểm phục vụ bưu chính thuộc mạng bưu chính công cộng được dùng để chấp nhận thư cơ bản.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Hộp thư tập trung là tập hợp các hộp thư gia đình được lắp đặt tại vị trí thuận lợi cho việc phát và nhận bưu gửi của chung cư cao tầng, toà nhà văn phòng có nhiều địa chỉ nhận thư độc lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Thời gian toàn trình của bưu gửi là khoảng thời gian tính từ khi bưu gửi được chấp nhận cho đến khi được phát cho người nhận.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "15",
+                            "noi_dung_khoan": "Thông tin về sử dụng dịch vụ bưu chính gồm nội dung bưu gửi, thông tin về họ tên, địa chỉ, số điện thoại (nếu có) của người gửi, người nhận và các thông tin có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "16",
+                            "noi_dung_khoan": "Người sử dụng dịch vụ bưu chính là tổ chức, cá nhân sử dụng dịch vụ bưu chính, bao gồm người gửi và người nhận.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "17",
+                            "noi_dung_khoan": "Người gửi là tổ chức, cá nhân có tên tại phần ghi thông tin về người gửi trên bưu gửi, trên hợp đồng cung ứng và sử dụng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "18",
+                            "noi_dung_khoan": "Người nhận là tổ chức, cá nhân có tên tại phần ghi thông tin về người nhận trên bưu gửi, trên hợp đồng cung ứng và sử dụng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "19",
+                            "noi_dung_khoan": "Doanh nghiệp được chỉ định là doanh nghiệp cung ứng dịch vụ bưu chính được Nhà nước chỉ định để thực hiện nghĩa vụ bưu chính công ích và tham gia hoạt động cung ứng dịch vụ bưu chính quốc tế, các dịch vụ khác trong khuôn khổ điều ước quốc tế của Liên minh Bưu chính Thế giới, điều ước quốc tế khác trong lĩnh vực bưu chính mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "20",
+                            "noi_dung_khoan": "Tem Bưu chính Việt Nam là ấn phẩm do cơ quan nhà nước có thẩm quyền về bưu chính của Việt Nam quyết định phát hành để thanh toán trước giá cước dịch vụ bưu chính trên mạng bưu chính công cộng và được công nhận trong mạng lưới của Liên minh Bưu chính Thế giới.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "21",
+                            "noi_dung_khoan": "Tem bưu chính nước ngoài là ấn phẩm do các nước thành viên của Liên minh Bưu chính Thế giới phát hành để thanh toán trước giá cước dịch vụ bưu chính và được công nhận trong mạng lưới của Liên minh Bưu chính Thế giới.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc hoạt động bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bảo đảm an ninh, an toàn, kịp thời, chính xác, tiện lợi trong cung ứng và sử dụng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bảo đảm bí mật thư theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kinh doanh dịch vụ bưu chính theo cơ chế thị trường có sự quản lý của Nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảo đảm cung ứng dịch vụ bưu chính công ích thường xuyên, ổn định cho xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tôn trọng, bảo vệ quyền và lợi ích hợp pháp của tổ chức, cá nhân tham gia hoạt động bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Chính sách của Nhà nước về bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Xây dựng và phát triển ngành bưu chính hiện đại nhằm phục vụ phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh và đời sống của nhân dân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xây dựng và hoàn thiện môi trường cạnh tranh theo quy định của pháp luật để các thành phần kinh tế tham gia hoạt động bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khuyến khích ứng dụng tiến bộ khoa học, công nghệ, đào tạo nguồn nhân lực để phát triển bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tăng cường hội nhập, hợp tác quốc tế và thực hiện cam kết quốc tế trong lĩnh vực bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Áp dụng cơ chế ưu đãi đối với việc cung ứng dịch vụ bưu chính công ích tại vùng có điều kiện kinh tế - xã hội khó khăn và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Các trường hợp bưu gửi được ưu tiên chấp nhận, vận chuyển và phát trong trường hợp khẩn cấp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phòng, chống hoả hoạn, thiên tai và thảm hoạ khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phòng, chống dịch bệnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cứu nạn, cứu hộ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phục vụ quốc phòng, an ninh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Các hành vi bị cấm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Gửi, chấp nhận, vận chuyển và phát bưu gửi có nội dung kích động, gây mất an ninh, phá hoại đoàn kết dân tộc, chống phá Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Gửi, chấp nhận, vận chuyển và phát bưu gửi chứa vũ khí, vật, chất gây nổ, chất độc, chất phóng xạ, ma túy, vi trùng dịch bệnh nhằm khủng bố, xâm hại tính mạng, tài sản công dân, gây mất trật tự, an toàn xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Gửi, chấp nhận, vận chuyển và phát bưu gửi chứa văn hóa phẩm trái đạo đức xã hội, trái thuần phong mỹ tục của Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Mạo danh người khác khi sử dụng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chiếm đoạt, trộm cắp bưu gửi; tráo đổi nội dung bưu gửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tiết lộ thông tin về sử dụng dịch vụ bưu chính, bóc mở, huỷ bưu gửi trái pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Xâm hại công trình bưu chính công cộng; cản trở hoạt động bưu chính hợp pháp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thực hiện hành vi cạnh tranh trái pháp luật trong hoạt động bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Sản xuất, kinh doanh, sử dụng tem Bưu chính Việt Nam và tem bưu chính nước ngoài trái pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Hoạt động bưu chính trái pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "CUNG ỨNG VÀ SỬ DỤNG DỊCH VỤ BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính là thoả thuận giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi, theo đó doanh nghiệp chấp nhận, vận chuyển và phát bưu gửi đến địa điểm theo yêu cầu của người gửi và người gửi phải thanh toán giá cước dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính được giao kết bằng văn bản hoặc được xác lập bằng hành vi. Dấu ngày hoặc các thông tin xác định thời gian và địa điểm chấp nhận bưu gửi là căn cứ xác định trách nhiệm của doanh nghiệp cung ứng dịch vụ bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính bằng văn bản",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính bằng văn bản phải có những nội dung chính sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Loại hình dịch vụ bưu chính;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khối lượng, số lượng bưu gửi;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thời gian, địa điểm và phương thức cung ứng dịch vụ bưu chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chất lượng dịch vụ bưu chính;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Quyền và nghĩa vụ của các bên;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Giá cước và phương thức thanh toán;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Trách nhiệm và mức bồi thường tối đa khi có vi phạm hợp đồng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hợp đồng giao kết bằng văn bản phải được lập bằng tiếng Việt; nếu các bên có thỏa thuận sử dụng thêm ngôn ngữ khác thì văn bản bằng tiếng Việt và văn bản bằng ngôn ngữ khác có giá trị pháp lý như nhau.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chứng từ xác nhận việc chấp nhận bưu gửi giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi có giá trị pháp lý như hợp đồng giao kết bằng văn bản giữa các bên, trừ trường hợp các bên có thỏa thuận khác .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính xác lập bằng hành vi cụ thể",
+                    "noi_dung_chung": "Việc gửi vào thùng thư công cộng thư đủ điều kiện quy định tại khoản 1 Điều 11 của Luật này , có dán tem Bưu chính Việt Nam hoặc có dấu thanh toán trước giá cước của doanh nghiệp cung ứng dịch vụ bưu chính là hành vi xác lập hợp đồng giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Chấp nhận và phát bưu gửi",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bưu gửi được chấp nhận khi có đủ các điều kiện sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Không chứa các vật phẩm, hàng hoá quy định tại Điều 12 của Luật này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có thông tin liên quan đến người gửi, người nhận trên bưu gửi, trừ trường hợp các bên có thỏa thuận khác;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đã thanh toán đủ giá cước dịch vụ bưu chính, trừ trường hợp các bên có thỏa thuận khác;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Được gói, bọc theo yêu cầu của dịch vụ bưu chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bưu gửi được coi là đã được chấp nhận trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bưu gửi đã được doanh nghiệp cung ứng dịch vụ bưu chính chấp nhận tại điểm phục vụ bưu chính hoặc tại địa chỉ của người gửi;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thư đủ các điều kiện quy định tại khoản 1 điều này đã được bỏ vào thùng thư công cộng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bưu gửi được coi là đã phát hợp lệ trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đã phát tại địa chỉ của người nhận, gồm hộp thư tập trung, hộp thư gia đình, hộp thư thuê bao hoặc hình thức khác dành cho việc nhận bưu gửi;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đã phát cho người nhận tại điểm phục vụ bưu chính thực hiện việc phát;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đã phát theo yêu cầu của người sử dụng dịch vụ bưu chính."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Vật phẩm, hàng hoá không được gửi, chấp nhận, vận chuyển qua mạng bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Vật phẩm, hàng hóa mà pháp luật của Việt Nam quy định cấm lưu thông.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Vật phẩm, hàng hoá từ Việt Nam gửi đi các nước mà pháp luật Việt Nam quy định cấm xuất khẩu hoặc pháp luật của nước nhận quy định cấm nhập khẩu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Vật phẩm, hàng hoá từ các nước gửi về Việt Nam mà pháp luật Việt Nam quy định cấm nhập khẩu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Vật phẩm, hàng hoá bị cấm vận chuyển bằng đường bưu chính theo quy định của pháp luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Bảo đảm an toàn trong cung ứng và sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bưu gửi của tổ chức, cá nhân được bảo đảm an toàn từ khi được chấp nhận cho đến khi được phát theo quy định tại khoản 2 và khoản 3 Điều 11 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp vỏ bọc của bưu gửi bị hư hại, rách, doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm kiểm kê, lập biên bản và gói, bọc lại cho phù hợp với yêu cầu của dịch vụ bưu chính để đảm bảo an toàn cho bưu gửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổ chức, cá nhân thực hiện, tham gia thực hiện hoạt động bưu chính tại Việt Nam có trách nhiệm bảo đảm an toàn cho người, bưu gửi và mạng bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Bảo đảm an ninh trong cung ứng và sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp bưu gửi bị phát hiện vi phạm quy định tại Điều 12 của Luật này thì doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đình chỉ vận chuyển, phát bưu gửi đó;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thông báo cho cơ quan nhà nước có thẩm quyền liên quan để xử lý theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan nhà nước có thẩm quyền tạm đình chỉ vận chuyển, phát bưu gửi; kiểm tra, xử lý bưu gửi hoặc yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có căn cứ xác định bưu gửi có liên quan hoặc dẫn đến hành vi vi phạm pháp luật về an ninh quốc gia hoặc hành vi vi phạm pháp luật nghiêm trọng khác;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bưu gửi có liên quan đến vụ án hình sự mà việc kiểm tra, xử lý bưu gửi và yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính được pháp luật cho phép."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc tạm đình chỉ vận chuyển, phát bưu gửi; kiểm tra, xử lý bưu gửi hoặc yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính quy định tại khoản 2 điều này chỉ được thực hiện sau khi có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Việc đình chỉ, tạm đình chỉ vận chuyển, phát bưu gửi; kiểm tra, xử lý bưu gửi và yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính quy định tại khoản 1 và khoản 2 điều này phải được lập biên bản, có chữ ký của các bên liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tổ chức, cá nhân không được lợi dụng việc đình chỉ, tạm đình chỉ vận chuyển, phát bưu gửi; kiểm tra, xử lý bưu gửi và yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính để gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân cung ứng và sử dụng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm phối hợp, tạo điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện nhiệm vụ quy định tại khoản 2 điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Việc đình chỉ, tạm đình chỉ vận chuyển, phát bưu gửi; kiểm tra, xử lý bưu gửi và yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính không được ảnh hưởng đến hoạt động bình thường và chất lượng dịch vụ bưu chính của doanh nghiệp cung ứng dịch vụ bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Xuất khẩu, nhập khẩu bưu gửi",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc xuất khẩu, nhập khẩu bưu gửi phải được thực hiện theo quy định của Luật này và các quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp cung ứng dịch vụ bưu chính quốc tế được thay mặt người sử dụng dịch vụ bưu chính thực hiện các thủ tục xuất khẩu, nhập khẩu bưu gửi khi là đại diện hợp pháp của người sử dụng dịch vụ bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Quyền định đoạt, thay đổi họ tên, địa chỉ người nhận, rút lại bưu gửi và chuyển tiếp bưu gửi",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bưu gửi khi chưa phát cho người nhận vẫn thuộc quyền định đoạt của người gửi, trừ trường hợp bị thu giữ hoặc tiêu huỷ theo quy định của Luật này và các quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người gửi có quyền thay đổi họ tên, địa chỉ người nhận hoặc rút lại bưu gửi khi bưu gửi chưa phát cho người nhận và khi người gửi có chứng từ chứng minh việc gửi. Người gửi phải thanh toán giá cước dịch vụ bưu chính phát sinh do việc thay đổi họ tên, địa chỉ người nhận hoặc rút lại bưu gửi, trừ trường hợp các bên có thỏa thuận khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khi bưu gửi chưa phát đến địa chỉ của người nhận và khi người sử dụng dịch vụ bưu chính thông báo cho doanh nghiệp cung ứng dịch vụ bưu chính về việc thay đổi địa chỉ của người nhận thì bưu gửi được chuyển tiếp đến địa chỉ mới. Người yêu cầu chuyển tiếp bưu gửi phải thanh toán giá cước dịch vụ bưu chính, trừ trường hợp các bên có thỏa thuận khác.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Bưu gửi không phát được, bưu gửi được chuyển hoàn, bưu gửi không hoàn trả được cho người gửi, bưu gửi không có người nhận",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bưu gửi được coi là không phát được trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Không có địa chỉ người nhận; địa chỉ người nhận không đầy đủ hoặc không đúng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Người nhận đã thay đổi địa chỉ nhưng không để lại địa chỉ mới;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không tìm được người nhận tại địa chỉ đã ghi;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Sau khi không thực hiện được việc phát, doanh nghiệp cung ứng dịch vụ bưu chính đã mời tối thiểu hai lần, mỗi lần cách nhau 02 ngày làm việc, nhưng người nhận không đến nhận;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Người nhận từ chối nhận."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bưu gửi được chuyển hoàn để trả lại cho người gửi khi không phát được cho người nhận và người gửi yêu cầu chuyển hoàn. Người gửi phải thanh toán giá cước dịch vụ bưu chính khi chuyển hoàn bưu gửi, trừ trường hợp các bên có thỏa thuận khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thư cơ bản đến 500 gam (g) khi không phát được mặc nhiên được chuyển hoàn cho người gửi và được miễn cước dịch vụ bưu chính khi chuyển hoàn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bưu gửi được coi là không hoàn trả được cho người gửi trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Không có địa chỉ người gửi; địa chỉ người gửi không đầy đủ hoặc không đúng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Người gửi đã thay đổi địa chỉ nhưng không để lại địa chỉ mới;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không tìm được người gửi tại địa chỉ đã ghi trên bưu gửi;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Sau khi không thực hiện được việc phát, doanh nghiệp cung ứng dịch vụ bưu chính đã mời tối thiểu hai lần, mỗi lần cách nhau 02 ngày làm việc, nhưng người gửi không đến nhận;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Người gửi từ chối nhận lại."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bưu gửi bị coi là không có người nhận trong trường hợp không phát được cho người nhận theo quy định tại khoản 1 và không hoàn trả được cho người gửi theo quy định tại khoản 4 điều này sau thời hạn 06 tháng, kể từ ngày bưu gửi được chấp nhận. Thời hạn này không áp dụng đối với bưu gửi mà người nhận từ chối nhận và người gửi cũng từ chối nhận lại.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Mã bưu chính quốc gia",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mã bưu chính quốc gia gồm tập hợp các ký tự nhằm xác định một hoặc một nhóm địa chỉ bưu chính do cơ quan nhà nước có thẩm quyền về bưu chính quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc xây dựng mã bưu chính phải bảo đảm các nguyên tắc sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bảo đảm tính khoa học, ổn định và không trùng lặp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Căn cứ vào địa dư hành chính, mật độ dân số và được phân bổ trên phạm vi cả nước;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phù hợp với hướng dẫn của Liên minh Bưu chính Thế giới và thông lệ quốc tế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khuyến khích tổ chức, cá nhân tham gia hoạt động bưu chính áp dụng mã bưu chính quốc gia nhằm nâng cao chất lượng dịch vụ bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước, quốc phòng, an ninh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mạng bưu chính phục vụ cơ quan Đảng, Nhà nước, quốc phòng, an ninh được thiết lập để cung cấp dịch vụ bưu chính phục vụ các cơ quan này, hoạt động không vì mục đích kinh doanh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Mạng bưu chính quy định tại khoản 1 điều này chỉ được kết nối với mạng bưu chính công cộng.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "ĐẦU TƯ, KINH DOANH DỊCH VỤ BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Đầu tư, kinh doanh dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức, cá nhân đầu tư, kinh doanh dịch vụ bưu chính theo quy định của Luật này và các quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hình thức, điều kiện đầu tư, kinh doanh và tỷ lệ vốn góp của nhà đầu tư nước ngoài trong hoạt động đầu tư, kinh doanh dịch vụ bưu chính phải theo quy định của pháp luật Việt Nam và điều ước quốc tế liên quan đến bưu chính mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Điều kiện cấp phép kinh doanh dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp cung ứng dịch vụ thư có địa chỉ nhận có khối lượng đơn chiếc đến 02 kilôgam (kg) phải có giấy phép kinh doanh dịch vụ bưu chính (sau đây gọi là giấy phép bưu chính) do cơ quan nhà nước có thẩm quyền về bưu chính cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp được cấp giấy phép bưu chính khi có đủ các điều kiện sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có giấy chứng nhận đăng ký kinh doanh hoạt động bưu chính hoặc giấy chứng nhận đầu tư trong lĩnh vực bưu chính;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có khả năng tài chính, nhân sự phù hợp với phương án kinh doanh theo nội dung đề nghị được cấp giấy phép;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có phương án kinh doanh khả thi phù hợp với quy định về giá cước, chất lượng dịch vụ bưu chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có biện pháp đảm bảo an ninh thông tin và an toàn đối với con người, bưu gửi, mạng bưu chính."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Nội dung và thời hạn của giấy phép bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giấy phép bưu chính có những nội dung chính sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên, địa chỉ trụ sở chính của doanh nghiệp được cấp giấy phép bưu chính;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Loại hình dịch vụ bưu chính cung ứng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phạm vi cung ứng dịch vụ bưu chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tiêu chuẩn, chất lượng dịch vụ bưu chính cung ứng;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Quyền và nghĩa vụ của doanh nghiệp được cấp giấy phép bưu chính;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Thời hạn của giấy phép bưu chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Giấy phép bưu chính được cấp với thời hạn không quá 10 năm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Sửa đổi, bổ sung, cấp lại giấy phép bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp cần thay đổi nội dung ghi trong giấy phép bưu chính đã được cấp, doanh nghiệp phải làm thủ tục sửa đổi, bổ sung giấy phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc cấp lại giấy phép bưu chính được thực hiện trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy phép bưu chính hết hạn;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Giấy phép bưu chính bị mất hoặc hư hỏng không sử dụng được;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Theo yêu cầu của cơ quan nhà nước có thẩm quyền cấp giấy phép bưu chính."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Thu hồi giấy phép bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có thẩm quyền cấp giấy phép bưu chính thu hồi giấy phép bưu chính nếu doanh nghiệp được cấp giấy phép có một trong những hành vi sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hoạt động chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự và an toàn xã hội;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cung cấp thông tin giả mạo hoặc cố ý gian dối để được cấp giấy phép;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không còn đủ các điều kiện để được cấp giấy phép;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Cung ứng dịch vụ bưu chính không đúng với nội dung được ghi trong giấy phép, gây hậu quả nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Sau 01 năm kể từ ngày được cấp giấy phép chưa triển khai cung ứng dịch vụ bưu chính được ghi trong giấy phép;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Cho thuê, cho mượn giấy phép; chuyển nhượng giấy phép trái pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sau 01 năm kể từ khi bị thu hồi giấy phép theo quy định tại các điểm b, c, d, đ và e khoản 1 điều này, nếu đã khắc phục được hậu quả gây ra và có đủ các điều kiện để được cấp giấy phép quy định tại Điều 21 của Luật này , doanh nghiệp đã bị thu hồi giấy phép có thể làm thủ tục đề nghị cấp giấy phép mới.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Thông báo hoạt động bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các hoạt động bưu chính sau đây phải được thông báo bằng văn bản cho cơ quan nhà nước có thẩm quyền về bưu chính:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cung ứng dịch vụ thư không có địa chỉ nhận có khối lượng đơn chiếc đến 02 kilôgam (kg);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cung ứng dịch vụ thư có khối lượng đơn chiếc trên 02 kilôgam (kg);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cung ứng dịch vụ gói, kiện;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Làm đại lý cho doanh nghiệp cung ứng dịch vụ bưu chính nước ngoài;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Nhận nhượng quyền thương mại trong lĩnh vực bưu chính từ nước ngoài vào Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Làm đại diện cho doanh nghiệp cung ứng dịch vụ bưu chính nước ngoài;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Làm chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Làm văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính nước ngoài."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp có thay đổi nội dung đã thông báo, doanh nghiệp cung ứng dịch vụ bưu chính, các tổ chức quy định tại điểm g và điểm h khoản 1 điều này phải thông báo về việc thay đổi nội dung đó với cơ quan nhà nước có thẩm quyền về bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước có thẩm quyền về bưu chính xác nhận bằng văn bản các trường hợp thông báo quy định tại khoản 1 và khoản 2 điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Văn bản xác nhận thông báo hoạt động dịch vụ bưu chính được cấp lại trong trường hợp bị mất hoặc bị hư hỏng không sử dụng được.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trong thời gian thực hiện thủ tục thông báo, doanh nghiệp cung ứng dịch vụ bưu chính, các tổ chức quy định tại điểm g và điểm h khoản 1 điều này được tiến hành các hoạt động bưu chính theo Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đầu tư hoặc Giấy phép thành lập văn phòng đại diện của thương nhân nước ngoài hoặc thông báo chấp thuận đăng ký hoạt động nhượng quyền thương mại đã được cấp tại Việt Nam .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Các trường hợp không cần giấy phép bưu chính, không cần thông báo hoạt động",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cá nhân nhận, vận chuyển và phát thư, gói, kiện hàng hoá trên cơ sở tự thoả thuận với người gửi mà không lấy tiền công với số lượng bưu gửi tối đa theo quy định của cơ quan nhà nước có thẩm quyền về bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức nhận, vận chuyển và phát thư, gói, kiện hàng hoá trong nội bộ hoặc cho khách hàng của mình mà không lấy tiền công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hoạt động cung cấp dịch vụ bưu chính quy định tại khoản 1 Điều 19 của Luật này .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "CHẤT LƯỢNG VÀ GIÁ CƯỚC DỊCH VỤ BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Chất lượng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chất lượng dịch vụ bưu chính công ích được quản lý trên cơ sở quy chuẩn kỹ thuật quốc gia về dịch vụ bưu chính công ích do cơ quan nhà nước có thẩm quyền về bưu chính ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chất lượng dịch vụ bưu chính không thuộc dịch vụ bưu chính công ích do doanh nghiệp cung ứng dịch vụ bưu chính công bố, áp dụng phù hợp với quy định của pháp luật về bưu chính và các quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhà nước khuyến khích doanh nghiệp cung ứng dịch vụ bưu chính áp dụng tiêu chuẩn quốc tế trong lĩnh vực bưu chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Giá cước dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ để xây dựng và điều chỉnh giá cước dịch vụ bưu chính gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chi phí sản xuất, quan hệ cung cầu thị trường;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mức giá cước cùng loại trên thị trường khu vực và thế giới."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Giá cước dịch vụ bưu chính công ích do cơ quan nhà nước có thẩm quyền về bưu chính quy định theo quy định của Luật này và pháp luật về giá .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quyết định giá cước dịch vụ bưu chính do doanh nghiệp cung ứng, trừ dịch vụ bưu chính thuộc danh mục do cơ quan nhà nước có thẩm quyền quy định giá cước ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đăng ký, kê khai giá cước dịch vụ bưu chính theo quy định của pháp luật về giá ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thông báo với cơ quan nhà nước có thẩm quyền về bưu chính giá cước các dịch vụ bưu chính ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Niêm yết công khai giá cước dịch vụ bưu chính ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "QUYỀN VÀ NGHĨA VỤ CỦA DOANH NGHIỆP CUNG ỨNG DỊCH VỤ BƯU CHÍNH, NGƯỜI SỬ DỤNG DỊCH VỤ BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính",
+                    "noi_dung_chung": "Ngoài quyền và nghĩa vụ quy định tại Luật doanh nghiệp , doanh nghiệp cung ứng dịch vụ bưu chính còn có các quyền và nghĩa vụ sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thiết lập mạng bưu chính để cung ứng dịch vụ bưu chính;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Được thanh toán đủ giá cước dịch vụ bưu chính mà mình cung ứng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm tra nội dung gói, kiện hàng hoá trước khi chấp nhận;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Từ chối cung ứng dịch vụ bưu chính nếu phát hiện bưu gửi vi phạm quy định tại Điều 12 của Luật này và quy định về điều kiện cung ứng dịch vụ bưu chính của doanh nghiệp;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Xử lý bưu gửi không có người nhận quy định tại khoản 5 Điều 17 của Luật này ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Cung cấp đầy đủ, chính xác thông tin về dịch vụ bưu chính cho người sử dụng dịch vụ bưu chính ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Niêm yết công khai tại điểm phục vụ Danh mục vật phẩm, hàng hoá không được gửi, chấp nhận, vận chuyển qua mạng bưu chính quy định tại Điều 12 của Luật này và các quy định về điều kiện cung ứng dịch vụ bưu chính của doanh nghiệp;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Bảo đảm an toàn, an ninh trong cung ứng và sử dụng dịch vụ bưu chính theo quy định tại Điều 13 và Điều 14 của Luật này ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước pháp luật khi cố ý chấp nhận bưu gửi vi phạm quy định tại các khoản 1, 2 và 3 Điều 7 và Điều 12 của Luật này ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Không được tiết lộ thông tin về sử dụng dịch vụ bưu chính của tổ chức, cá nhân, trừ trường hợp quy định tại Điều 14 của Luật này ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Không được cung ứng dịch vụ bưu chính vi phạm quy định về phạm vi dịch vụ bưu chính dành riêng dưới mọi hình thức;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Hưởng thù lao, chi phí hợp lý khi thay mặt người sử dụng dịch vụ bưu chính thực hiện thủ tục xuất khẩu, nhập khẩu bưu gửi quốc tế quy định tại Điều 15 của Luật này ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Thực hiện dịch vụ thay đổi họ tên, địa chỉ người nhận, rút lại bưu gửi, chuyển tiếp, chuyển hoàn bưu gửi theo quy định tại khoản 2 và khoản 3 Điều 16, khoản 2 và khoản 3 Điều 17 của Luật này ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Giải quyết khiếu nại, tranh chấp, bồi thường thiệt hại theo quy định của Luật này và các quy định khác của pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Quyền và nghĩa vụ của người sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "Người sử dụng dịch vụ bưu chính có các quyền và nghĩa vụ sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Được doanh nghiệp cung ứng dịch vụ bưu chính cung cấp đầy đủ, chính xác thông tin về dịch vụ bưu chính mà mình sử dụng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Được bảo đảm an toàn và an ninh thông tin;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khiếu nại về dịch vụ bưu chính đã sử dụng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được bồi thường thiệt hại theo quy định của pháp luật;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Ghi đúng họ tên, địa chỉ của người gửi và người nhận;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Cung cấp thông tin về bưu gửi;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước pháp luật về bưu gửi;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thực hiện các quy định về an toàn, an ninh đối với bưu gửi;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thanh toán đủ giá cước dịch vụ bưu chính mà mình sử dụng, trừ trường hợp được miễn, giảm giá cước theo quy định của pháp luật hoặc các bên có thoả thuận khác;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Trả thù lao, chi phí hợp lý khi doanh nghiệp thực hiện thủ tục xuất khẩu, nhập khẩu bưu gửi;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Tạo điều kiện thuận lợi cho doanh nghiệp phát bưu gửi đến địa chỉ của mình hoặc lắp đặt hộp thư tại vị trí thuận tiện cho việc phát bưu gửi;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Bồi thường thiệt hại cho doanh nghiệp cung ứng dịch vụ bưu chính theo quy định tại Điều 42 của Luật này .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VI",
+            "tieu_de_chuong": "HOẠT ĐỘNG BƯU CHÍNH CÔNG ÍCH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Nguyên tắc hoạt động bưu chính công ích",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bảo đảm cung ứng dịch vụ bưu chính thiết yếu cho xã hội với chất lượng theo quy chuẩn kỹ thuật quốc gia về bưu chính và giá cước phù hợp với khả năng thanh toán của người dân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Giảm dần theo lộ trình sự điều tiết hỗ trợ của Nhà nước trong việc cung ứng dịch vụ bưu chính công ích.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Cung ứng dịch vụ bưu chính công ích",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhà nước hỗ trợ việc cung ứng dịch vụ bưu chính công ích thông qua phạm vi dịch vụ bưu chính dành riêng và các cơ chế hỗ trợ khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thủ tướng Chính phủ chỉ định doanh nghiệp bưu chính của Nhà nước quản lý mạng bưu chính công cộng và thực hiện cung ứng dịch vụ bưu chính công ích theo nhiệm vụ, kế hoạch mà Nhà nước giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp cung ứng dịch vụ bưu chính công ích quy định tại khoản 2 điều này thực hiện cung ứng dịch vụ bưu chính dành riêng, gồm dịch vụ thư có địa chỉ nhận, có khối lượng đơn chiếc đến 02 kilôgam (kg) với mức giá cước theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phạm vi dịch vụ bưu chính dành riêng giảm dần căn cứ vào tình hình phát triển bưu chính trong từng thời kỳ theo quy định tại khoản 2 Điều 44 của Luật này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính công ích",
+                    "noi_dung_chung": "Ngoài quyền và nghĩa vụ quy định tại Điều 29 của Luật này , doanh nghiệp cung ứng dịch vụ bưu chính công ích còn có các quyền và nghĩa vụ sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thiết lập mạng bưu chính công cộng trong phạm vi cả nước để cung ứng dịch vụ bưu chính trong nước và quốc tế; lắp đặt thùng thư công cộng để chấp nhận thư cơ bản;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bảo đảm cung ứng dịch vụ bưu chính công ích và thực hiện các nhiệm vụ công ích khác do Nhà nước giao theo danh mục, phạm vi, giá cước, quy chuẩn kỹ thuật quốc gia do cơ quan nhà nước có thẩm quyền quyết định;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xây dựng, trình cơ quan nhà nước có thẩm quyền phương án giá cước dịch vụ bưu chính do Nhà nước quy định;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kiểm tra, sửa chữa, bảo trì, bảo vệ công trình thuộc mạng bưu chính công cộng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Sử dụng phương tiện vận tải chuyên ngành đi, đến, đỗ trong đô thị để cung ứng dịch vụ bưu chính công ích theo quy định ưu tiên của cơ quan nhà nước có thẩm quyền tại địa phương;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Không sử dụng doanh thu từ các dịch vụ bưu chính dành riêng để trợ cấp cho các khoản lỗ do việc cung ứng các dịch vụ cạnh tranh khác dưới giá thành;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Theo dõi riêng các dịch vụ bưu chính công ích, dịch vụ bưu chính dành riêng và báo cáo kết quả cung ứng các dịch vụ này với Bộ Thông tin và Truyền thông;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Sản xuất, cung ứng tem Bưu chính Việt Nam;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Sử dụng hiệu quả mạng bưu chính công cộng để kinh doanh dịch vụ tài chính, tiết kiệm, chuyển tiền, phát hành báo chí và các dịch vụ khác theo quy định của pháp luật;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Không được từ chối cung ứng dịch vụ bưu chính công ích khi người sử dụng đã thực hiện các yêu cầu về sử dụng dịch vụ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Mạng bưu chính công cộng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mạng bưu chính công cộng được xây dựng và phát triển theo quy hoạch được cơ quan nhà nước có thẩm quyền phê duyệt. Các điểm phục vụ của mạng bưu chính công cộng được đặt tại nhà ga, bến xe, cảng biển, cảng hàng không, cửa khẩu, khu dân cư và các điểm công cộng khác để phục vụ nhu cầu của người sử dụng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ quy hoạch phát triển mạng bưu chính công cộng và quy hoạch, kế hoạch sử dụng đất đã được phê duyệt, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương bố trí quỹ đất cho các công trình xây dựng thuộc mạng bưu chính công cộng để phục vụ cho việc cung ứng và sử dụng dịch vụ bưu chính công ích.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khi xây dựng mới khu đô thị, khu dân cư tập trung, chung cư cao tầng, toà nhà văn phòng, chủ đầu tư có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bố trí địa điểm thuận lợi để doanh nghiệp được chỉ định cung ứng dịch vụ bưu chính công ích lắp đặt hệ thống thùng thư công cộng trong khu đô thị, khu dân cư tập trung;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lắp đặt hộp thư tập trung tại chung cư cao tầng, toà nhà văn phòng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tại khu đô thị, khu dân cư tập trung, chung cư cao tầng, tòa nhà văn phòng đã đưa vào sử dụng trước khi Luật này có hiệu lực nhưng chưa có thùng thư công cộng, hộp thư tập trung, đơn vị quản lý có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bố trí địa điểm thuận lợi để doanh nghiệp được chỉ định cung ứng dịch vụ bưu chính công ích lắp đặt hệ thống thùng thư công cộng trong khu đô thị, khu dân cư tập trung;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bố trí địa điểm và tổ chức để người sử dụng dịch vụ bưu chính tại chung cư cao tầng, toà nhà văn phòng thực hiện việc lắp đặt hộp thư tập trung."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VII",
+            "tieu_de_chuong": "TEM BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Tem Bưu chính Việt Nam",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Thông tin và Truyền thông là cơ quan duy nhất quyết định phát hành tem Bưu chính Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tem Bưu chính Việt Nam phải thể hiện:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Dòng chữ “Việt Nam”;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dòng chữ “Bưu chính”;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Giá in trên mặt tem (nếu có) bằng tiền đồng Việt Nam."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ đề và thiết kế của tem Bưu chính Việt Nam không được có các nội dung, hình ảnh, ký hiệu, dấu hiệu gây kích động, thù hằn giữa các dân tộc, sắc tộc, tôn giáo; chống phá Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; không phù hợp với đạo đức xã hội, với thuần phong mỹ tục của Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tem Bưu chính Việt Nam được gắn mã số của Việt Nam và tham gia hệ thống mã số của Liên minh Bưu chính Thế giới.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tem Bưu chính Việt Nam và các tài liệu liên quan phải được lưu trữ theo quy định của pháp luật về lưu trữ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Sử dụng tem bưu chính để thanh toán trước giá cước dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tem Bưu chính Việt Nam được sử dụng để thanh toán trước giá cước dịch vụ bưu chính trong nước và dịch vụ bưu chính quốc tế từ Việt Nam đi các nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tem bưu chính nước ngoài không được sử dụng để thanh toán trước giá cước dịch vụ bưu chính trong nước và dịch vụ bưu chính quốc tế từ Việt Nam đi các nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Sử dụng tem bưu chính để kinh doanh, sưu tập",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức, cá nhân được kinh doanh, sưu tập tem Bưu chính Việt Nam và tem bưu chính nước ngoài, trừ trường hợp quy định tại khoản 3 điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc nhập khẩu tem bưu chính nước ngoài được thực hiện theo quy định của cơ quan nhà nước có thẩm quyền về bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổ chức, cá nhân không được kinh doanh, trao đổi, trưng bày, tuyên truyền những loại tem sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tem bưu chính giả;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tem bưu chính có nội dung, hình ảnh, ký hiệu, dấu hiệu gây kích động, thù hằn giữa các dân tộc, sắc tộc, tôn giáo; chống phá Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; không phù hợp với đạo đức xã hội, với thuần phong mỹ tục của Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tem bưu chính đã có quyết định thu hồi của cơ quan nhà nước có thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tem bưu chính nước ngoài có nội dung và nguồn gốc xuất xứ không phù hợp theo thông báo của cơ quan bưu chính các nước thành viên Liên minh Bưu chính Thế giới và các hiệp hội sưu tập tem."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VIII",
+            "tieu_de_chuong": "GIẢI QUYẾT TRANH CHẤP VÀ BỒI THƯỜNG THIỆT HẠI TRONG CUNG ỨNG VÀ SỬ DỤNG DỊCH VỤ BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Khiếu nại trong cung ứng và sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người sử dụng dịch vụ bưu chính, doanh nghiệp cung ứng dịch vụ bưu chính có quyền khiếu nại để bảo vệ quyền và lợi ích hợp pháp của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc khiếu nại quy định tại khoản 1 điều này phải được lập thành văn bản. Thời hiệu khiếu nại được quy định như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "06 tháng, kể từ ngày kết thúc thời gian toàn trình của bưu gửi đối với khiếu nại về việc mất bưu gửi, chuyển phát bưu gửi chậm so với thời gian toàn trình đã công bố; trường hợp doanh nghiệp không công bố thời gian toàn trình thì thời hiệu này được tính từ ngày sau ngày bưu gửi đó được chấp nhận;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "01 tháng, kể từ ngày bưu gửi được phát cho người nhận đối với khiếu nại về việc bưu gửi bị suy suyển, hư hỏng, về giá cước và các nội dung khác có liên quan trực tiếp đến bưu gửi."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thời hạn giải quyết khiếu nại được quy định như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Không quá 02 tháng, kể từ ngày nhận được khiếu nại đối với dịch vụ bưu chính trong nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không quá 03 tháng, kể từ ngày nhận được khiếu nại đối với dịch vụ bưu chính quốc tế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trong thời hạn quy định tại khoản 3 điều này, bên nhận khiếu nại phải giải quyết khiếu nại và thông báo cho bên khiếu nại biết; trường hợp quá thời hạn quy định tại khoản 3 điều này mà bên khiếu nại không nhận được thông báo trả lời hoặc không đồng ý với kết quả giải quyết khiếu nại của bên nhận khiếu nại thì có quyền yêu cầu giải quyết tranh chấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trường hợp việc khiếu nại không được thực hiện trong thời hạn quy định tại khoản 2 điều này thì việc yêu cầu giải quyết tranh chấp không có giá trị.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Giải quyết tranh chấp trong cung ứng và sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc giải quyết tranh chấp trong cung ứng và sử dụng dịch vụ bưu chính được thực hiện thông qua các hình thức sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thương lượng giữa các bên;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hoà giải;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Giải quyết tại Trọng tài hoặc Toà án."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc giải quyết tranh chấp trong cung ứng và sử dụng dịch vụ bưu chính tại Trọng tài hoặc Toà án được thực hiện theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Nguyên tắc bồi thường thiệt hại trong cung ứng và sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc bồi thường thiệt hại trong trường hợp bưu gửi bị mất, hư hỏng hoặc bị tráo đổi toàn bộ được xác định theo mức giới hạn trách nhiệm bồi thường thiệt hại toàn bộ đối với dịch vụ đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc bồi thường thiệt hại trong trường hợp bưu gửi bị mất, hư hỏng hoặc tráo đổi một phần được xác định trên cơ sở thiệt hại thực tế, nhưng không cao hơn mức giới hạn trách nhiệm bồi thường thiệt hại toàn bộ đối với dịch vụ đó, trừ trường hợp các bên có thoả thuận khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiền bồi thường thiệt hại là đồng Việt Nam, việc chi trả được thực hiện một lần, trừ trường hợp các bên có thoả thuận khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Không bồi thường thiệt hại gián tiếp hoặc nguồn lợi không thu được do việc cung ứng dịch vụ bưu chính không bảo đảm chất lượng dịch vụ bưu chính mà doanh nghiệp đã công bố.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Mức bồi thường thiệt hại do doanh nghiệp cung ứng dịch vụ bưu chính công bố và áp dụng, nhưng không được thấp hơn mức bồi thường do cơ quan nhà nước có thẩm quyền quy định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Trách nhiệm bồi thường thiệt hại của doanh nghiệp cung ứng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm bồi thường thiệt hại cho người sử dụng dịch vụ bưu chính khi không bảo đảm chất lượng dịch vụ bưu chính mà doanh nghiệp đã công bố hoặc vi phạm hợp đồng đã giao kết, trừ trường hợp quy định tại khoản 4 điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp một phần thiệt hại xảy ra do người sử dụng dịch vụ bưu chính vi phạm hợp đồng đã giao kết thì doanh nghiệp được miễn trách nhiệm bồi thường thiệt hại tương ứng với mức độ thiệt hại do người sử dụng dịch vụ bưu chính gây ra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiền bồi thường thiệt hại được trả cho người gửi, trừ trường hợp có thoả thuận khác giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi; trường hợp bưu gửi bị hư hỏng, mất một phần mà người nhận đồng ý nhận phần còn lại thì tiền bồi thường thiệt hại được trả cho người nhận.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trừ trường hợp các bên có thoả thuận khác, doanh nghiệp cung ứng dịch vụ bưu chính không phải bồi thường thiệt hại trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thiệt hại xảy ra hoàn toàn do lỗi vi phạm hợp đồng của người sử dụng dịch vụ bưu chính hoặc do đặc tính tự nhiên, khuyết tật vốn có của vật chứa trong bưu gửi đó;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Người sử dụng dịch vụ bưu chính không chứng minh được việc gửi và suy suyển, hư hỏng bưu gửi;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bưu gửi đã được phát và người nhận không có ý kiến khi nhận bưu gửi;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Bưu gửi bị tịch thu hoặc tiêu hủy theo quy định của pháp luật Việt Nam hoặc pháp luật của nước nhận;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Người sử dụng dịch vụ bưu chính không thực hiện đúng các quy định về khiếu nại, giải quyết tranh chấp quy định tại Điều 38 và Điều 39 của Luật này ;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các trường hợp bất khả kháng theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Trách nhiệm bồi thường thiệt hại của người sử dụng dịch vụ bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người sử dụng dịch vụ bưu chính phải bồi thường thiệt hại cho doanh nghiệp cung ứng dịch vụ bưu chính và các bên có liên quan theo quy định của pháp luật khi gửi vật phẩm, hàng hoá không được gửi quy định tại Điều 12 hoặc bưu gửi không được gói, bọc theo quy định tại điểm d khoản 1 Điều 11 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trừ trường hợp các bên có thoả thuận khác, người sử dụng dịch vụ bưu chính không phải bồi thường thiệt hại trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thiệt hại xảy ra do doanh nghiệp cung ứng dịch vụ bưu chính vi phạm hợp đồng đã giao kết;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bưu gửi đã được chấp nhận đúng thỏa thuận trong hợp đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Doanh nghiệp cung ứng dịch vụ bưu chính không thực hiện các quy định về khiếu nại, giải quyết tranh chấp quy định tại Điều 38 và Điều 39 của Luật này ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IX",
+            "tieu_de_chuong": "TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG BƯU CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 43",
+                    "tieu_de": "Trách nhiệm quản lý nhà nước về hoạt động bưu chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chính phủ thống nhất quản lý nhà nước về hoạt động bưu chính trong phạm vi cả nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về hoạt động bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về hoạt động bưu chính theo phân công của Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện quản lý nhà nước về hoạt động bưu chính theo phân cấp của Chính phủ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 44",
+                    "tieu_de": "Trách nhiệm của Bộ Thông tin và Truyền thông",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình Chính phủ ban hành quy định cụ thể về điều kiện, hình thức đầu tư, hoạt động thương mại trong cung ứng dịch vụ bưu chính; điều kiện, thẩm quyền, thủ tục cấp, sửa đổi, bổ sung, cấp lại giấy phép bưu chính, văn bản xác nhận thông báo hoạt động; bồi thường thiệt hại trong cung ứng và sử dụng dịch vụ bưu chính; tem bưu chính; xử phạt vi phạm hành chính trong hoạt động bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình Thủ tướng Chính phủ ban hành quyết định danh mục dịch vụ bưu chính công ích, cơ chế hỗ trợ dịch vụ bưu chính công ích, mạng bưu chính phục vụ cơ quan Đảng, Nhà nước, quản lý giá cước dịch vụ bưu chính, lộ trình giảm dần và thời điểm kết thúc phạm vi dịch vụ bưu chính dành riêng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quy định cụ thể về mã bưu chính quốc gia; dấu ngày; bưu gửi không phát được; chuyển tiếp, chuyển hoàn bưu gửi; các trường hợp không cần giấy phép bưu chính, văn bản xác nhận thông báo hoạt động; báo cáo thống kê trong hoạt động bưu chính; khiếu nại trong cung ứng và sử dụng dịch vụ bưu chính; chất lượng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quyết định danh mục dịch vụ bưu chính, giá cước dịch vụ bưu chính công ích sau khi thống nhất với Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Phối hợp với Bộ Tài chính quy định về xuất khẩu, nhập khẩu bưu gửi; xử lý bưu gửi không có người nhận; miễn, giảm giá cước dịch vụ bưu chính và tổ chức thực hiện việc miễn giảm này; xây dựng danh mục dịch vụ bưu chính phải thực hiện đăng ký giá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Phối hợp với Bộ Công thương quy định về hướng dẫn hoạt động khuyến mại và giải quyết cạnh tranh trong cung ứng dịch vụ bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phối hợp với Bộ Xây dựng quy định về lắp đặt thùng thư công cộng, hộp thư tập trung tại khu đô thị, khu dân cư tập trung, chung cư cao tầng, tòa nhà văn phòng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Phối hợp với Bộ Công an quy định về nguyên tắc, điều kiện đình chỉ, tạm đình chỉ vận chuyển, phát bưu gửi, kiểm tra, xử lý bưu gửi và yêu cầu cung cấp thông tin về sử dụng dịch vụ bưu chính; về mạng bưu chính phục vụ an ninh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Phối hợp với Bộ Quốc phòng quy định về mạng bưu chính phục vụ quốc phòng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Phối hợp với các bộ, ngành có liên quan hướng dẫn về xử lý hàng lậu, hàng cấm gửi qua đường bưu chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Phối hợp với Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương để hướng dẫn lập quy hoạch và trình tự, thủ tục phê duyệt quy hoạch mạng bưu chính công cộng tại địa phương.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương X",
+            "tieu_de_chuong": "ĐIỀU KHOẢN THI HÀNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 45",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các quy định về bưu chính của Pháp lệnh bưu chính, viễn thông số 43/2002/PL- UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Giấy phép bưu chính được cấp trước ngày Luật này có hiệu lực được tiếp tục thực hiện cho đến khi kết thúc thời hạn ghi trong giấy phép đã cấp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 46",
+                    "tieu_de": "Quy định chi tiết và hướng dẫn thi hành",
+                    "noi_dung_chung": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "ten_luat": "",
+    "so_hieu": "68/2013/QĐ-TTg",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Ngân sách nhà nước hỗ trợ lãi suất vốn vay thương mại đối với các khoản vay dài hạn, trung hạn, ngắn hạn bằng đồng Việt Nam để mua máy, thiết bị nhằm giảm tổn thất trong nông nghiệp như sau:",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối tượng hỗ trợ là các doanh nghiệp, hợp tác xã, tổ h ợ p tác, hộ gia đình, cá nhân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhóm danh mục máy, thiết bị gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các loại máy làm đất, san ph ẳ ng đồng ruộng, gieo cấy, trồng, chăm sóc, thu hoạch lúa, ngô, cà phê, chè, mía; máy sấy nông sản, thủy sản; máy, thiết bị sản xuất muối sạch; máy, thiết bị sử dụng trong chăn nuôi;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hệ thống thiết bị tưới tiết kiệm nước trong sản xuất nông nghiệp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Máy, thiết bị sử dụng sản xuất giống, nuôi trồng, thu hoạch thủy sản;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các loại máy, thiết bị dò cá, thu, thả lưới câu, thông tin liên lạc, hầm (buồng) cấp đông, thùng (hầm) bảo quản sản phẩm có gắn thiết bị lạnh, sản xuất nước đá, lọc nước biển làm nước ngọt sử dụng trên tàu cá, tàu dịch vụ hậu cần phục vụ đánh bắt xa bờ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Máy, thiết bị chế biến sản phẩm từ phế và phụ phẩm nông nghiệp, thủy sản;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Kho, thiết bị sử dụng chứa, bảo quản thóc, ngô quy mô hộ gia đình;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Các loại máy kéo, động cơ Diezen sử dụng trong nông nghiệp, khai thác đánh bắt thủy sản."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện được hưởng hỗ trợ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các hợp tác xã, tổ hợp tác, hộ gia đình, cá nhân phải được Ủy ban nhân dân cấp xã xác nhận là đối tượng trực tiếp sản xuất trồng tr ọt, chăn nuôi, nuôi trồng, đánh bắt, chế biến nông sản, thủy sản; dịch vụ cơ giới nông nghiệp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các doanh nghiệp có ký kết thực hiện h ợ p đồng liên kết sản xuất, tiêu thụ nông sản, dịch vụ cơ giới hóa với tổ hợp tác, h ợ p tác xã hoặc nông dân;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các loại máy, thiết bị quy định tại Khoản 2 Điều này phải là máy, thiết bị mới, chất lượng phù hợp tiêu chuẩn công bố theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Mức vay, mức hỗ trợ lãi suất, thời gian hỗ trợ: Điều 2. Ngân sách nhà nước hỗ trợ phần chênh lệch giữa lãi suất thương mại đối với các khoản vay dài hạn, trung hạn bằng đồng Việt Nam và lãi suất tín dụng đầu tư phát triển của Nhà nước để thực hiện các dự án đầu tư dây chuyền máy, thiết bị giảm tổn thất trong nông nghiệp (bao gồm cả nhà xưởng); các dự án chế tạo máy, thiết bị sản xuất nông nghiệp quy định như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Mức vay tối đa để mua các loại máy, thiết bị quy định tại Khoản 2 Điều này bằng 100% giá trị hàng hóa;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hỗ trợ 100% lãi suất vốn vay trong hai năm đầu, 50% trong năm thứ ba."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối tượng hỗ trợ là các doanh nghiệp, hợp tác xã, tổ hợp tác, hộ gia đình, cá nhân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Danh mục các dự án đầu tư gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kho silô dự trữ lúa, ngô; hệ thống sấy nông sản; dây chuyền máy, thiết bị xay xát, đánh bóng, phân loại gạo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hệ thống nhà kính, nhà lưới phục vụ sản xuất; máy, thiết bị bảo quản, chế biến rau, hoa, quả;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Dây chuyền máy, thiết bị bảo quản, giết mổ gia súc, gia cầm công nghiệp; ch ế bi ế n thủy sản (thi ế t bị làm lạnh, c ấ p đông, tái đông; sản xuất nước đá, đá vảy; thiết bị hấp sấy...);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Dây chuyền máy, thiết bị chế biến cà phê, chè, nhân điều, hồ tiêu;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Dây chuyền máy, thiết bị chế biến muối;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các dự án chế tạo máy, thiết bị sản xuất nông nghiệp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện được hưởng hỗ trợ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các tổ chức, cá nhân phải có dự án đầu tư được cấp có thẩm quyền phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các dự án đầu tư chưa được hưởng hỗ trợ từ các chính sách khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Mức vay tối đa bằng 70% giá trị của dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thời hạn cho vay được xác định theo khả năng thu hồi vốn của dự án và khả năng trả nợ của chủ đầu tư phù hợp với đặc điểm sản xuất, kinh doanh của dự án nhưng không quá 12 năm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Nguyên tắc xác định mức lãi suất cho vay của các ngân hàng thương mại và ngân sách nhà nước hỗ trợ lãi suất, cấp bù chênh lệch lãi suất như sau:",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mức lãi suất cho vay thương mại của các ngân hàng để mua các loại máy, thiết bị là mức lãi suất cho vay thấp nhất trong lĩnh vực nông nghiệp, nông thôn cùng kỳ hạn và cùng thời kỳ của ngân hàng thực hiện cho vay và được công bố công khai.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân sách nhà nước chỉ hỗ trợ lãi suất và cấp bù chênh lệch lãi suất đối với các khoản khách hàng trả nợ đúng hạn. Những khoản vay bị chuyển sang nợ quá hạn sẽ không được hưởng hỗ trợ kể từ thời điểm phát sinh nợ xấu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân sách nhà nước chỉ hỗ trợ lãi suất và cấp bù chênh lệch lãi suất đối với các khoản vay đã ký h ợ p đồng vay vốn tại các ngân hàng thương mại trước ngày 31 tháng 12 năm 2020.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ trì, phối hợp với Bộ Công Thương công bố chủng loại máy, thiết bị sản xuất trong nước, nhập khẩu thuộc nhóm danh mục máy, thiết bị được hưởng chính sách hỗ trợ quy định tại Khoản 2 Điều 1 Quyết định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hướng dẫn thẩm định điều kiện kỹ thuật các loại máy, thiết bị của các dự án đầu tư quy định tại Khoản 2 Điều 2 Quyết định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chủ tr ì, phối hợp với Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các Bộ, ngành liên quan kiểm tra, giám sát việc thực hiện Quyết định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Công Thương phối hợp với Bộ Nông nghiệp và Phát triển nông thôn thống nhất máy, thiết bị được hưởng các chính sách hỗ trợ theo quy định tại Khoản 2 Điều 1 Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân hàng Nhà nước Việt Nam hướng dẫn và kiểm tra các ngân hàng thương mại thực hiện cho vay theo quy định tại Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Tài chính chủ trì hướng dẫn thực hiện việc hỗ trợ lãi suất, cấp bù chênh lệch lãi suất đối với các khoản vốn vay theo qui định tại Quyết định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Ủy ban nhân dân các tỉnh, thành ph ố trực thuộc Trung ương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ đạo thực hiện các chương trình, đề á n nhằm giảm tổn thất trong nông nghiệp của địa phương; hướng dẫn, giám sát số lượng, chủng loại máy, thiết bị được hỗ trợ phù hợp với yêu cầu thực tế của từng lĩnh vực, từng địa bàn để phát huy hiệu quả của chính sách hỗ trợ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Căn cứ nhu cầu thực tế về đầu tư máy, thiết bị giảm tổn thất trong nông nghiệp và khả năng ngân sách của địa phương, các tỉnh, thành phố nghiên cứu xem xét có chính sách hỗ trợ bổ sung ngoài chính sách quy định tại Quyết định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hàng năm báo cáo Bộ Nông nghiệp và Phát triển nông thôn về kết quả thực hiện chính sách trên địa bàn."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2014 và thay thế Quyết định số 63/2010/QĐ-TTg ngày 15 tháng 10 năm 2010 và Quyết định số 65/2011/QĐ-TTg ngày 02 tháng 12 năm 2011 của Thủ tướng Chính phủ về chính sách hỗ trợ nhằm giảm tổn thất sau thu hoạch đối với nông sản, thủy sản.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các tổ chức, cá nhân đang thực hiện chính sách hỗ trợ theo Quyết định số 63/2010/QĐ-TTg ngày 15 tháng 10 năm 2010 và Quyết định số 65/2011/QĐ-TTg ngày 02 tháng 12 năm 2011 của Thủ tướng Chính phủ trước ngày Quyết định này có hiệu lực thì tiếp tục được hưởng các chính sách hỗ trợ đó.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+                    "noi_dung_chung": "Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - HĐND, UBND các tỉnh, TP trực thuộc TW; - V ă n phòng TW và các Ban của Đảng; - V ă n phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các UB của Quốc hội; - V ă n phòng Quốc hội; - Tòa án nhân d ân tối cao; - Viện k iểm sát nhân dân tối cao; - UB Giám sát tài chính Quốc gia; - Kiểm toán Nhà nước; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ngân hàng TMCP Ngoại thương Việt Nam; - Ngân hàng TMCP Công thương Việt Nam; - Ngân hàng NN&PTNT Việt Nam; - Ngân hàng Đầu tư và Phát triển Việt Nam; - Ủy ban TW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTCP, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, KTN (3b). THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Hỗ trợ mua máy móc, thiết bị nông nghiệp Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 68/2013/QĐ-TTg chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp do Thủ tướng Chính phủ ban hành Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Hỗ trợ mua máy móc, thiết bị nông nghiệp Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Hỗ trợ mua máy móc, thiết bị nông nghiệp Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 68/2013/QĐ-TTg chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp do Thủ tướng Chính phủ ban hành MỤC LỤC VĂN BẢN In mục lục In mục lục PRIME MINISTER -------- SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom - Happiness ---------------- No. 68/2013/QD-TTg Hanoi, November 14, 2013 DECISION ON SUPPORTIVE POLICIES ON REDUCTION OF LOSSES IN AGRICULTURE",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

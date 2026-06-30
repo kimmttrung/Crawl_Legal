@@ -1,0 +1,222 @@
+{
+    "ten_luat": "Nghị định 56/2012/NĐ-CP quy định trách nhiệm của Bộ ngành",
+    "so_hieu": "56/2012/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                    "noi_dung_chung": "Nghị định này quy định trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ (sau đây gọi chung là các Bộ, ngành); Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Ủy ban nhân dân các huyện, quận, thị xã, thành phố thuộc tỉnh; Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân các cấp) trong việc bảo đảm cho Hội Liên hiệp Phụ nữ Việt Nam, Hội Liên hiệp Phụ nữ tỉnh, thành phố trực thuộc Trung ương, Hội Liên hiệp Phụ nữ huyện, quận, thị xã, thành phố thuộc tỉnh, Hội Liên hiệp Phụ nữ xã, phường, thị trấn (sau đây gọi chung là các cấp Hội Liên hiệp Phụ nữ) tham gia quản lý nhà nước theo quy định của pháp luật.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Nguyên tắc phối hợp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quan hệ công tác giữa các Bộ, ngành với Hội Liên hiệp Phụ nữ Việt Nam; Ủy ban nhân dân các cấp với Hội Liên hiệp Phụ nữ cùng cấp là mối quan hệ phối hợp trên nguyên tắc tạo điều kiện để cùng thực hiện tốt chức năng, nhiệm vụ và quyền hạn của mỗi cơ quan theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ, ngành và Ủy ban nhân dân các cấp tạo điều kiện thuận lợi về kinh phí, phương tiện để Hội Liên hiệp Phụ nữ cùng cấp tham gia quản lý nhà nước và tổ chức thực hiện các hoạt động có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Trách nhiệm của các Bộ, ngành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mời Hội Liên hiệp Phụ nữ Việt Nam:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tham gia xây dựng cơ chế, chính sách, các văn bản quy phạm pháp luật, các chương trình, đề án, dự án liên quan đến quyền, lợi ích của phụ nữ, trẻ em; các lĩnh vực kinh tế, văn hoá, xã hội thuộc chức năng quản lý nhà nước của các Bộ, ngành theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tham gia tuyên truyền, phổ biến, giáo dục chính sách, pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tham gia kiểm tra, giám sát việc thực hiện pháp luật về phụ nữ, trẻ em, phòng, chống bạo lực gia đình và bình đẳng giới trong các lĩnh vực có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tạo điều kiện cho Hội Liên hiệp Phụ nữ Việt Nam thực hiện các nhiệm vụ khác theo quy định của Luật bình đẳng giới .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngoài quy định tại Khoản 1 và Khoản 2 Điều này, Bộ Công an và Bộ Quốc phòng có chế độ hỗ trợ về kinh phí, điều kiện và phương tiện làm việc, các hoạt động gây quỹ, hỗ trợ cán bộ, công chức, viên chức nữ giải quyết những vấn đề xã hội liên quan đến sự tiến bộ và bình đẳng của phụ nữ phù hợp với luật pháp, chính sách của Nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Trách nhiệm của Ủy ban nhân dân các cấp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mời Hội Liên hiệp Phụ nữ cùng cấp:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tham gia xây dựng, sửa đổi, bổ sung cơ chế, chính sách, chương trình, kế hoạch phát triển kinh tế - xã hội, trật tự an toàn xã hội liên quan đến quyền, lợi ích của phụ nữ, trẻ em và bình đẳng giới theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phối hợp với các cơ quan chuyên môn thuộc Ủy ban nhân dân tuyên truyền, phổ biến, giáo dục chính sách, pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tham gia là thành viên chính thức trong các tổ chức tư vấn (Hội đồng, Ủy ban, Ban Chỉ đạo...) liên quan đến phụ nữ, trẻ em và bình đẳng giới;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tham gia các đoàn kiểm tra, giám sát những vấn đề có liên quan đến quyền và lợi ích của phụ nữ, trẻ em, bình đẳng giới, phòng, chống bạo lực gia đình và các lĩnh vực khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp với Hội Liên hiệp Phụ nữ cùng cấp tổ chức các cuộc họp để thu thập ý kiến về tình hình thực hiện chủ trương, luật pháp, chính sách; nghiên cứu, xem xét và xử lý kịp thời các hành vi vi phạm quyền, lợi ích hợp pháp, chính đáng của phụ nữ, trẻ em và các lĩnh vực khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tạo điều kiện thuận lợi cho hoạt động của Hội Liên hiệp Phụ nữ cùng cấp như hỗ trợ kinh phí, điều kiện và phương tiện làm việc, các hoạt động gây quỹ Hội, tổ chức sản xuất, dịch vụ, hỗ trợ phụ nữ giải quyết những vấn đề xã hội liên quan đến sự tiến bộ và bình đẳng của phụ nữ phù hợp với luật pháp, chính sách của Nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Trách nhiệm của Bộ Nội vụ, Hội Liên hiệp Phụ nữ Việt Nam và các cấp Hội Liên hiệp Phụ nữ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Nội vụ có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hướng dẫn, theo dõi, đôn đốc các Bộ, ngành và Ủy ban nhân dân các cấp thực hiện trách nhiệm theo quy định tại Điều 3, 4 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ trì, phối hợp với Hội Liên hiệp Phụ nữ Việt Nam kiểm tra, thanh tra, giám sát việc thực hiện Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội Liên hiệp Phụ nữ Việt Nam và các cấp Hội Liên hiệp Phụ nữ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cử đại diện tham gia các hoạt động quản lý nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ động nghiên cứu, đề xuất, kiến nghị các biện pháp, chính sách, liên quan đến quyền, lợi ích hợp pháp, chính đáng của phụ nữ, trẻ em, gia đình và bình đẳng giới; cung cấp kịp thời các thông tin liên quan đến phụ nữ, trẻ em và bình đẳng giới;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phối hợp chặt chẽ với các Bộ, ngành và Ủy ban nhân dân các cấp trong việc thực hiện trách nhiệm theo quy định của pháp luật về bình đẳng giới;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện các quy định của pháp luật về quyền và trách nhiệm của các cấp Hội Liên hiệp Phụ nữ Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Hướng dẫn, hỗ trợ các cấp Hội Liên hiệp Phụ nữ thực hiện Nghị định này."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Định kỳ làm việc:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sáu tháng một lần Ủy ban nhân dân cấp huyện, cấp xã làm việc với Hội Liên hiệp Phụ nữ cùng cấp để kiểm điểm, đánh giá tình hình thực hiện chế độ, chính sách và những kiến nghị, đề xuất về các vấn đề liên quan đến quyền, lợi ích của phụ nữ, trẻ em và các lĩnh vực khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hàng năm, lãnh đạo Ủy ban nhân dân cấp tỉnh làm việc với Ban Thường vụ Hội Liên hiệp Phụ nữ cùng cấp để kiểm điểm, đánh giá tình hình thực hiện chế độ, chính sách và những kiến nghị, đề xuất về các vấn đề liên quan đến quyền, lợi ích của phụ nữ, trẻ em và các lĩnh vực khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hàng năm, Bộ Nội vụ chủ trì, phối hợp với Văn phòng Chính phủ lồng ghép nội dung đánh giá kết quả thực hiện trách nhiệm của các Bộ, ngành và Ủy ban nhân dân các cấp trong việc bảo đảm cho các cấp Hội Liên hiệp Phụ nữ tham gia quản lý nhà nước trong chương trình làm việc định kỳ của Thủ tướng Chính phủ với Đoàn Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức sơ kết, tổng kết:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với cấp xã: Mỗi năm một lần Ủy ban nhân dân cấp xã chủ trì, phối hợp với Hội Liên hiệp Phụ nữ cùng cấp tổ chức đánh giá việc thực hiện Nghị định này và gửi báo cáo về Ủy ban nhân dân cấp huyện để tổng hợp, đánh giá gửi về Ủy ban nhân dân cấp tỉnh;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với cấp Bộ, tỉnh: Hai năm một lần sơ kết ở Bộ, ngành và Ủy ban nhân dân cấp tỉnh; đồng thời gửi báo cáo sơ kết về Bộ Nội vụ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Năm năm một lần Bộ Nội vụ chủ trì, phối hợp với Hội Liên hiệp Phụ nữ Việt Nam tổ chức hội nghị tổng kết toàn quốc."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày 05 tháng 9 năm 2012.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghị định này thay thế Nghị định số 19/2003/NĐ-CP ngày 07 tháng 3 năm 2003 của Chính phủ quy định trách nhiệm của cơ quan hành chính nhà nước các cấp trong việc bảo đảm cho các cấp Hội Liên hiệp Phụ nữ Việt Nam tham gia quản lý nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, Hội Liên hiệp Phụ nữ các cấp và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - VP BCĐ TW về phòng, chống tham nhũng; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách Xã hội; - Ngân hàng Phát triển Việt Nam; - UBTW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTCP; Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, TH (5b) TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Hội phụ nữ VN tham gia quản lý nhà nước Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 56/2012/NĐ-CP quy định trách nhiệm của Bộ, ngành, Ủy ban nhân dân các cấp trong việc bảo đảm cho các cấp Hội Liên hiệp Phụ nữ Việt Nam tham gia quản lý nhà nước Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Hội phụ nữ VN tham gia quản lý nhà nước Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Hội phụ nữ VN tham gia quản lý nhà nước Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 56/2012/NĐ-CP quy định trách nhiệm của Bộ, ngành, Ủy ban nhân dân các cấp trong việc bảo đảm cho các cấp Hội Liên hiệp Phụ nữ Việt Nam tham gia quản lý nhà nước MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- THE SOCIALIST REPUBLIC OF VIETNAM Independence– Freedom – Happiness --------------- No. 56/2012/ND-CP Hanoi, July 16, 2012 DECREE PRESCRIBING RESPONSIBILITIES OF MINISTRIES, SECTORS AND PEOPLE'S COMMITTEES AT ALL LEVELS FOR ENSURING THE PARTICIPATION IN THE STATE MANAGEMENT BY THE VIETNAM WOMEN'S UNION AT ALL LEVELS",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

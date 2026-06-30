@@ -1,0 +1,633 @@
+{
+    "ten_luat": "Nghị định 98/2011/NĐ-CP sửa đổi Nghị định nông nghiệp",
+    "so_hieu": "98/2011/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Sửa đổi, bổ sung một số điều Nghị định số 02/2007/NĐ-CP ngày 05 tháng 01 năm 2007 của Chính phủ về kiểm dịch thực vật",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khoản 5 Điều 26 được sửa đổi, bổ sung như sau: “Điều 26. Điều kiện hoạt động xông hơi khử trùng",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Có địa điểm làm việc, kho chứa thiết bị, hóa chất theo quy định.”",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khoản 1 Điều 27 được sửa đổi, bổ sung như sau: “Điều 27. Điều kiện cấp chứng chỉ hành nghề xông hơi khử trùng",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có trình độ chuyên môn từ đại học trở lên của một (01) trong các chuyên ngành về hóa chất, bảo vệ thực vật, trồng trọt hoặc nông học.”",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Sửa đổi, bổ sung khoản 1 Điều 17 Điều lệ quản lý thuốc bảo vệ thực vật ban hành kèm theo Nghị định số 58/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ",
+                    "noi_dung_chung": "Khoản 1 Điều 17 được sửa đổi, bổ sung như sau: “Điều 17. Điều kiện cấp chứng chỉ hành nghề cho người buôn bán thuốc bảo vệ thực vật",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có văn bằng trung cấp trở lên của một (01) trong các chuyên ngành trồng trọt, bảo vệ thực vật, sinh học, sư phạm nông nghiệp hoặc giấy chứng nhận đã tham dự lớp học chuyên môn về thuốc bảo vệ thực vật do Chi cục Bảo vệ thực vật cấp tỉnh cấp.” Điều 4. Sửa đổi, bổ sung khoản 1 Điều 1 Nghị định số 119/2008/NĐ-CP ngày 28 tháng 11 năm 2008 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 33/2005/NĐ-CP ngày 15 tháng 3 năm 2005 quy định chi tiết thi hành một số điều của Pháp lệnh Thú y Khoản 1 Điều 1 được sửa đổi, bổ sung như sau: “Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 33/2005/NĐ-CP ngày 15 tháng 3 năm 2005 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh Thú y như sau:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều 30 được sửa đổi, bổ sung như sau: “Điều 30. Khai báo kiểm dịch động vật, sản phẩm động vật trên cạn",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trước khi vận chuyển, lưu thông trong nước động vật, sản phẩm động vật có trong Danh mục động vật, sản phẩm động vật thuộc diện phải kiểm dịch, chủ hàng phải khai báo kiểm dịch và gửi một (01) bộ hồ sơ kiểm dịch theo quy định đến cơ quan quản lý nhà nước chuyên ngành về thú y tỉnh, thành phố trực thuộc Trung ương hoặc Cơ quan quản lý nhà nước chuyên ngành về thú y quận, huyện, thị xã, thành phố thuộc tỉnh. Việc khai báo kiểm dịch được quy định như sau: Trong thời gian một (01) ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định, Cơ quan tiếp nhận hồ sơ có trách nhiệm xác nhận khai báo kiểm dịch và thông báo địa điểm, thời gian tiến hành kiểm dịch. Trong thời gian một (01) ngày làm việc, kể từ khi động vật, sản phẩm động vật được tập trung tại nơi quy định, Cơ quan tiếp nhận hồ sơ phải tiến hành kiểm dịch.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khai báo trước ít nhất hai (02) ngày làm việc nếu động vật đã được áp dụng các biện pháp phòng bệnh bắt buộc theo quy định và còn miễn dịch; trước ít nhất từ mười lăm (15) đến ba mươi (30) ngày làm việc nếu động vật chưa được áp dụng các biện pháp phòng bệnh bắt buộc theo quy định hoặc không còn miễn dịch;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khai báo trước ít nhất hai (02) ngày làm việc nếu sản phẩm động vật đã được xét nghiệm các chỉ tiêu vệ sinh thú y hoặc gửi qua đường bưu điện; bảy (07) ngày làm việc nếu sản phẩm động vật chưa được xét nghiệm các chỉ tiêu vệ sinh thú y."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chủ hàng có nhu cầu xuất khẩu, nhập khẩu, tạm nhập tái xuất, tạm xuất tái nhập, chuyển khẩu, quá cảnh lãnh thổ Việt Nam động vật, sản phẩm động vật có trong Danh mục động vật, sản phẩm động vật thuộc diện phải kiểm dịch hoặc động vật, sản phẩm động vật lạ chưa có ở Việt Nam phải đăng ký kiểm dịch và gửi một (01) bộ hồ sơ kiểm dịch theo quy định đến Cơ quan kiểm dịch động vật có thẩm quyền theo quy định của Bộ Nông nghiệp và Phát triển nông thôn. Trong thời hạn năm (05) ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định, Cơ quan kiểm dịch động vật có trách nhiệm trả lời chủ hàng và hướng dẫn các yêu cầu về kiểm dịch, đồng thời gửi cho các Cơ quan kiểm dịch động vật có liên quan để phối hợp thực hiện kiểm dịch. Trước khi hàng đến cửa khẩu, chủ hàng phải thực hiện khai báo với Cơ quan kiểm dịch có thẩm quyền, cụ thể như sau: Trong thời gian một (01) ngày làm việc, kể từ khi nhận được khai báo của chủ hàng, Cơ quan kiểm dịch động vật có thẩm quyền có trách nhiệm thông báo cho chủ hàng địa điểm, thời gian tiến hành kiểm dịch, cửa khẩu nhập, cửa khẩu xuất, các quy định khác có liên quan đối với trường hợp quá cảnh Lãnh thổ Việt Nam động vật, sản phẩm động vật.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khai báo xuất khẩu trước khi xuất hàng: theo quy định tại điểm a, b khoản 1 Điều này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khai báo nhập khẩu: ít nhất tám (08) ngày trước khi hàng đến cửa khẩu; hai (02) ngày trước khi hàng đến bưu điện;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khai báo tạm nhập tái xuất, tạm xuất tái nhập, chuyển cửa khẩu, quá cảnh lãnh thổ Việt Nam: ít nhất bốn (04) ngày trước khi hàng đến cửa khẩu."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm: Điều 5. Sửa đổi, bổ sung một số điều Nghị định số 82/2006/NĐ-CP ngày 10 tháng 8 năm 2006 của Chính phủ về quản lý hoạt động xuất, nhập khẩu, tái xuất, nhập nội từ biển, quá cảnh, nuôi sinh sản, nuôi sinh trưởng và trồng cấy nhân tạo các loài động vật, thực vật hoang dã nguy cấp, quý, hiếm như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quy định Cơ quan kiểm dịch có thẩm quyền tiếp nhận đăng ký và thực hiện kiểm dịch động vật, sản phẩm động vật xuất khẩu, nhập khẩu, tạm nhập tái xuất, tạm xuất tái nhập, chuyển khẩu, quá cảnh lãnh thổ Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Công bố Danh sách các quốc gia, vùng lãnh thổ được phép xuất khẩu động vật, sản phẩm động vật vào Việt Nam hoặc Danh sách các quốc gia, vùng lãnh thổ không được phép xuất khẩu động vật, sản phẩm động vật vào Việt Nam trước ngày 01 tháng 01 năm 2012. Các danh mục này được sửa đổi, bổ sung thường xuyên khi có thay đổi."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quy định kể từ ngày 01 tháng 01 năm 2015 tổ chức, cá nhân khi nhập khẩu động vật, sản phẩm động vật vào Việt Nam chỉ phải thực hiện thủ tục đăng ký và kiểm dịch tại một cơ quan thú y có thẩm quyền.”"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều 11 được sửa đổi, bổ sung như sau: “Điều 11. Đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo các loài động vật, thực vật hoang dã quy định tại các Phụ lục của CITES.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo các loài động vật, thực vật hoang dã quy định tại Phụ lục I của CITES Trong thời hạn mười lăm (15) ngày làm việc, kể từ khi nhận được hồ sơ đầy đủ theo quy định, Cơ quan tiếp nhận hồ sơ phải hoàn thành việc thẩm định và gửi hồ sơ đã thẩm định cho Cơ quan quản lý CITES Việt Nam. Trường hợp từ chối tiếp nhận hồ sơ; trong thời hạn năm (05) ngày làm việc Cơ quan quản lý CITES Việt Nam phải thông báo lý do từ chối cho Cơ quan thẩm định hồ sơ và tổ chức, hộ gia đình, cá nhân đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo. Trường hợp chấp nhận hồ sơ, Cơ quan quản lý CITES Việt Nam phải xem xét, gửi hồ sơ đăng ký cho Ban Thư ký Công ước CITES quốc tế để xem xét, chấp nhận trong thời hạn mười lăm (15) ngày làm việc sau khi nhận được hồ sơ đăng ký đã được thẩm định. Trong thời hạn năm (05) ngày làm việc kể từ khi nhận được ý kiến chấp nhận của Ban Thư ký CITES quốc tế, Cơ quan quản lý CITES Việt Nam phải cấp giấy chứng nhận đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo vì mục đích thương mại loài thuộc Phụ lục I của CITES cho tổ chức, hộ gia đình, cá nhân.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức, hộ gia đình, cá nhân nộp trực tiếp hoặc gửi qua đường bưu điện một (01) bộ hồ sơ đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo quy định tại các Phụ lục III-A và Phụ lục III-B Nghị định này đến Cơ quan quản lý chuyên ngành về thủy sản cấp tỉnh khi đăng ký các loài thủy sinh; Cơ quan kiểm lâm cấp tỉnh đối với các loài động vật, thực vật hoang dã khác;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn ba (03) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký, nếu hồ sơ chưa đạt yêu cầu, Cơ quan tiếp nhận hồ sơ theo quy định tại điểm a khoản này phải thông báo cho tổ chức, hộ gia đình, cá nhân để hoàn thiện hồ sơ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo các loài động vật, thực vật hoang dã quy định tại các Phụ lục II, III của CITES Tổ chức, hộ gia đình, cá nhân nộp trực tiếp hoặc gửi qua đường bưu điện một (01) bộ hồ sơ đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo quy định tại các Phụ lục IV-A và Phụ lục IV-B Nghị định này đến Cơ quan quản lý chuyên ngành về thủy sản cấp tỉnh khi đăng ký các loài thủy sinh; Cơ quan kiểm lâm cấp tỉnh đối với các loài động vật, thực vật hoang dã khác. Trong thời hạn ba (03) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký, nếu hồ sơ chưa đạt yêu cầu, Cơ quan tiếp nhận hồ sơ phải thông báo cho tổ chức, hộ gia đình, cá nhân để hoàn thiện hồ sơ theo quy định. Trong thời hạn bảy (07) ngày làm việc, kể từ khi nhận được hồ sơ đầy đủ theo quy định, Cơ quan tiếp nhận hồ sơ tiến hành thẩm định và cấp giấy chứng nhận đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo theo mẫu Phụ biểu 5 Nghị định số 82/2006/NĐ-CP .”",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều 12 được sửa đổi, bổ sung như sau: “Điều 12. Điều kiện và đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng, cơ sở trồng cấy nhân tạo các loài động vật, thực vật hoang dã, nguy cấp, quý, hiếm theo quy định của pháp luật Việt Nam, không quy định tại các Phụ lục của Công ước CITES",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trại nuôi sinh sản, trại nuôi sinh trưởng các loài động vật hoang dã nguy cấp, quý, hiếm theo quy định của pháp luật Việt Nam phải đảm bảo các điều kiện quy định tại khoản 1 Điều 10 Nghị định số 82/2006/NĐ-CP .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đăng ký trại nuôi sinh sản, trại nuôi sinh trưởng các loài động vật hoang dã nguy cấp, quý, hiếm theo quy định của pháp luật Việt Nam thực hiện theo quy định tại khoản 2 Điều 11 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 1 Điều 5 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ sở trồng cấy nhân tạo thực vật hoang dã nguy cấp, quý, hiếm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với loài cây gỗ, phải đăng ký rừng trồng tại Hạt kiểm lâm sở tại theo quy định của pháp luật về bảo vệ và phát triển rừng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với loài thực vật không phải cây gỗ, thực hiện theo quy định tại khoản 2 Điều 11 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 1 Điều 5 Nghị định này .”"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khoản 1 Điều 16 được sửa đổi, bổ sung như sau: “Điều 16. Trình tự và cách thức thực hiện thủ tục đề nghị cấp các loại giấy phép, chứng chỉ CITES",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình tự và cách thức thực hiện thủ tục xin cấp các loại giấy phép, chứng chỉ CITES (áp dụng cho cả mẫu vật động vật, thực vật hoang dã nguy cấp, quý, hiếm không thuộc CITES nhưng thuộc Danh mục động, thực vật rừng hoang dã, quý, hiếm theo quy định của pháp luật Việt Nam). Trường hợp hồ sơ không đầy đủ theo quy định trong hạn ba (03) ngày làm việc, kể từ ngày nhận hồ sơ, Cơ quan tiếp nhận hồ sơ thông báo cho tổ chức, hộ gia đình, cá nhân để hoàn thiện hồ sơ. Chậm nhất là mười (10) ngày làm việc kể từ khi nhận được hồ sơ đầy đủ theo quy định, Cơ quan tiếp nhận hồ sơ phải hoàn thành việc thẩm định và cấp giấy phép, chứng chỉ CITES. Trường hợp hồ sơ phải chờ xác nhận, thẩm định, tư vấn của Ban Thư ký CITES quốc tế, Cơ quan khoa học CITES và Cơ quan quản lý CITES của các nước thành viên có liên quan thì trong vòng năm (05) ngày làm việc, kể từ ngày nhận hồ sơ, Cơ quan tiếp nhận hồ sơ phải thông báo cho tổ chức, cá nhân nộp hồ sơ đó. Tổ chức, hộ gia đình, cá nhân nhận một (01) giấy phép, chứng chỉ gốc vào giờ hành chính các ngày trong tuần tại bộ phận tiếp nhận và trả kết quả giải quyết thủ tục hành chính (nơi đã nộp hồ sơ). Trường hợp nhận hộ, người nhận hộ phải có thêm giấy ủy quyền và chứng minh nhân dân hoặc hộ chiếu của người ủy quyền.”",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức, hộ gia đình, cá nhân nộp một (01) bộ hồ sơ trực tiếp hoặc gửi qua đường bưu điện cho mỗi lần đề nghị cấp phép đến Cơ quan quản lý CITES Việt Nam hoặc Cơ quan quản lý CITES Việt Nam tại phía Nam;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện:"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Điều 17 được sửa đổi, bổ sung như sau: “Điều 17. Hồ sơ cấp giấy phép, chứng chỉ xuất khẩu, tái xuất khẩu mẫu vật",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Xuất khẩu, tái xuất khẩu mẫu vật vì mục đích thương mại",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; hồ sơ chứng minh mẫu vật có nguồn gốc hợp pháp theo quy định hiện hành (bản sao chụp mang theo bản chính để đối chiếu, trong trường hợp nộp hồ sơ trực tiếp hoặc là bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện). Bản sao chụp hợp đồng giao kết thương mại giữa các bên có liên quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xuất khẩu, tái xuất khẩu mẫu vật không vì mục đích thương mại Trong trường hợp nộp trực tiếp, tổ chức, cá nhân mang theo bản chính để đối chiếu, trường hợp nộp hồ sơ qua đường bưu điện, các giấy tờ trên là bản sao có chứng thực.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; bản sao văn bản ký kết về chương trình hợp tác nghiên cứu khoa học hoặc văn bản xác nhận quá biếu, tặng, ngoại giao do cơ quan có thẩm quyền phê duyệt (đối với mẫu vật nghiên cứu khoa học, ngoại giao); bản sao quyết định gửi mẫu vật đi tham dự triển lãm hoặc biểu diễn xiếc của cơ quan có thẩm quyền (đối với mẫu vật để triển lãm, biểu diễn xiếc không vì mục đích thương mại); bản sao hồ sơ về nguồn gốc hợp pháp của mẫu vật theo quy định của pháp luật; bản sao Giấy phép nhập khẩu do Cơ quan quản lý CITES nước nhập khẩu cấp đối với mẫu vật quy định tại Phụ lục I của CITES."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xuất khẩu, tái xuất khẩu mẫu vật săn bắn:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; hồ sơ về nguồn gốc hợp pháp của mẫu vật theo quy định của pháp luật (bản sao chụp mang theo bản chính để đối chiếu trực tiếp, trong trường hợp nộp hồ sơ trực tiếp; hoặc bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Xuất khẩu, tái xuất khẩu mẫu vật tiền Công ước:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục số I ban hành kèm theo Nghị định này; hồ sơ chứng minh mẫu vật tiền Công ước hoặc bản sao giấy phép CITES nhập khẩu đối với trường hợp tái xuất (bản sao chụp mang theo bản chính để đối chiếu, trong trường hợp nộp hồ sơ trực tiếp; hoặc bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này .”"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Điều 18 được sửa đổi, bổ sung như sau: “Điều 18. Hồ sơ cấp giấy phép, chứng chỉ nhập khẩu mẫu vật",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhập khẩu mẫu vật vì mục đích thương mại: Trường hợp mẫu vật nhập khẩu là động vật, thực vật hoang dã còn sống hồ sơ còn phải có các giấy tờ sau: xác nhận đủ điều kiện nuôi, giữ, chăm sóc đối với động vật, thực vật trên cạn của Cơ quan kiểm lâm cấp tỉnh hoặc xác nhận của cơ quan quản lý chuyên ngành về thủy sản ở cấp tỉnh đối với các loài thủy sinh; xác nhận của Cơ quan Khoa học CITES Việt Nam về việc nhập khẩu mẫu vật đó không ảnh hưởng xấu tới môi trường và việc bảo tồn các loài động vật, thực vật trong nước; quyết định công nhận giống vật nuôi mới, giống cây trồng mới và đưa vào Danh mục giống vật nuôi, giống cây trồng được phép sản xuất, kinh doanh của Cơ quan có thẩm quyền đối với trường hợp loài động vật, thực vật đó lần đầu tiên được nhập khẩu vào Việt Nam.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu Phụ lục I ban hành kèm theo Nghị định này; bản sao chụp hợp đồng giao kết thương mại giữa các bên có liên quan; bản sao chụp giấy phép xuất khẩu, tái xuất khẩu do Cơ quan quản lý CITES của nước xuất khẩu, tái xuất khẩu cấp."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhập khẩu mẫu vật không vì mục đích thương mại:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; bản sao chụp văn bản ký kết về chương trình hợp tác nghiên cứu khoa học hoặc văn bản xác nhận quà biếu, tặng, ngoại giao do Cơ quan có thẩm quyền phê duyệt (đối với mẫu vật nghiên cứu khoa học, ngoại giao); bản sao chụp quyết định gửi mẫu vật đi tham dự triển lãm hoặc biểu diễn xiếc của Cơ quan có thẩm quyền (đối với mẫu vật để triển lãm, biểu diễn xiếc); bản sao chụp giấy phép xuất khẩu do Cơ quan quản lý CITES nước xuất khẩu cấp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhập khẩu mẫu vật săn bắn:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu Phụ lục I ban hành kèm theo Nghị định này; bản sao chụp giấy phép xuất khẩu do Cơ quan quản lý CITES nước xuất khẩu cấp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự và cách thức thực hiện theo quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nhập khẩu mẫu vật tiền Công ước:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; hồ sơ chứng minh mẫu vật tiền Công ước hoặc bản sao giấy phép CITES nhập khẩu đối với trường hợp tái xuất (bản sao chụp mang theo bản chính để đối chiếu, trong trường hợp nộp hồ sơ trực tiếp; hoặc bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này .”"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Điều 19 được sửa đổi, bổ sung như sau: “Điều 19. Hồ sơ cấp giấy phép nhập nội từ biểu mẫu vật quy định tại các Phụ lục I, II của Công ước CITES",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu Phụ lục I ban hành kèm theo Nghị định này; văn bản chấp thuận của Tổng cục Thủy sản. Trường hợp nhập nội từ biểu mẫu vật là động vật, thực vật hoang dã còn sống, hồ sơ còn phải có các giấy tờ sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xác nhận đủ điều kiện nuôi, giữ, chăm sóc của Cơ quan quản lý chuyên ngành về thủy sản cấp tỉnh;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Xác nhận của Cơ quan khoa học CITES Việt Nam về việc nhập nội mẫu vật đó không ảnh hưởng xấu tới môi trường và việc bảo tồn các loài động vật, thực vật trong nước đối với trường hợp loài động vật, thực vật đó lần đầu tiên nhập nội vào Việt Nam."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này .”",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Điều 20 được sửa đổi, bổ sung như sau: “Điều 20. Hồ sơ cấp giấy phép vận chuyển quá cảnh mẫu vật là động vật sống",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; Giấy phép CITES xuất khẩu, tái xuất khẩu do Cơ quan quản lý CITES nước xuất khẩu, tái xuất khẩu cấp (bản sao chụp mang theo bản chính để đối chiếu, trong trường hợp nộp hồ sơ trực tiếp hoặc bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện); Hợp đồng vận chuyển quá cảnh (bản sao chụp mang theo bản chính để đối chiếu, trong trường hợp nộp hồ sơ trực tiếp; hoặc bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này .”",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Điều 22 được sửa đổi, bổ sung như sau: “Điều 22. Hồ sơ xin cấp chứng chỉ mẫu vật tiền Công ước",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ gồm: đơn đề nghị cấp giấy phép, chứng chỉ theo mẫu tại Phụ lục I ban hành kèm theo Nghị định này; giấy tờ chứng minh nguồn gốc hợp pháp của mẫu vật như hóa đơn mua bán, giấy phép khai thác, giấy phép nhập khẩu (bản sao chụp mang theo bản chính để đối chiếu, trong trường hợp nộp hồ sơ trực tiếp; hoặc bản sao có chứng thực, trong trường hợp nộp hồ sơ qua đường bưu điện).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự thực hiện quy định tại khoản 1 Điều 16 Nghị định số 82/2006/NĐ-CP được sửa đổi, bổ sung tại khoản 3 Điều 5 Nghị định này .”",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thay thế các Phụ biểu 3-A ; 3-B ; 4-A và 4-B ban hành kèm theo Nghị định số 82/2006/NĐ-CP bằng các Phụ lục tương ứng III-A ; III-B ; IV-A và IV-B ban hành kèm theo Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Sửa đổi, bổ sung điểm a và điểm b khoản 2 Điều 54 Nghị định số 23/2006/NĐ-CP ngày 03 tháng 3 năm 2006 của Chính phủ về thi hành Luật Bảo vệ và Phát triển rừng",
+                    "noi_dung_chung": "Điểm a và điểm b khoản 2 Điều 54 được sửa đổi, bổ sung như sau: “Điều 54. Nghiên cứu khoa học trong rừng",
+                    "khoan": [
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với tổ chức, cá nhân trong nước và nước ngoài có các hoạt động về thực hành, thực tập, thực hiện các chuyên đề, đề tài nghiên cứu khoa học trong rừng phải thực hiện các quy định sau: Tổ chức, cá nhân chỉ được tiến hành nghiên cứu, giảng dạy hoặc thực tập trong rừng khi được sự đồng ý bằng văn bản của chủ rừng. Tổ chức, cá nhân gửi dự án hoặc các thỏa thuận hợp tác khoa học đã được cấp có thẩm quyền phê duyệt đến Bộ Nông nghiệp và Phát triển nông thôn. Chậm nhất năm (05) ngày làm việc kể từ ngày nhận được dự án hoặc thỏa thuận, Bộ Nông nghiệp và Phát triển nông thôn phải trả lời bằng văn bản, trường hợp từ chối phải nêu rõ lý do. Chậm nhất mười bốn (14) ngày sau khi kết thúc hoạt động nghiên cứu khoa học, giảng dạy, thực tập tại khu rừng, tổ chức, cá nhân phải gửi báo cáo kết quả nghiên cứu khoa học, giảng dạy, thực tập cho Bộ Nông nghiệp và Phát triển nông thôn.”",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức, cá nhân trong nước khi có nhu cầu về nghiên cứu, giảng dạy hoặc thực tập trong khu rừng phải gửi công văn đến chủ rừng. Chậm nhất là năm (05) ngày làm việc, kể từ ngày nhận được công văn xin phép của tổ chức, cá nhân, chủ rừng phải trả lời bằng văn bản, trường hợp từ chối phải nêu rõ lý do."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổ chức quốc tế, tổ chức phi chính phủ và cá nhân nước ngoài tiến hành nghiên cứu khoa học hoặc phối hợp với tổ chức, cá nhân trong nước nghiên cứu khoa học trong các khu rừng phải được Bộ Nông nghiệp và Phát triển nông thôn cho phép trên cơ sở dự án hoặc các thỏa thuận hợp tác khoa học đã được cấp có thẩm quyền phê duyệt."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 12 năm 2011.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Trách nhiệm tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn thi hành Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - VP BCĐ TW về phòng, chống tham nhũng; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách Xã hội; - Ngân hàng Phát triển Việt Nam; - UBTW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, KTN (5b) TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng PHỤ LỤC I MẪU ĐỀ NGHỊ CẤP GIẤY PHÉP, CHỨNG CHỈ (Ban hành kèm theo Nghị định số 98/2011/NĐ-CP ngày 26 tháng 10 năm 2011 của Chính phủ) Annex I SAMPLE REQUEST FOR PERMIT, CERTIFICATE (in accompanied with Decree of Government No 98/2011/ND-CP, October, 26, 2011) CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM THE SOCIALIST REPUBLIC OF VIETNAM Độc lập - Tự do - Hạnh phúc Independence - Freedom - Happiness --------------- ĐỀ NGHỊ CẤP GIẤY PHÉP, CHỨNG CHỈ REQUEST FOR PERMIT, CERTIFICATE Kính gửi/To: Cơ quan quản lý CITES Việt Nam Viet Nam CITES Management Authority",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tên tổ chức, cá nhân đề nghị cấp phép/Name of requesting organization, individual: - Tổ chức: Tên đầy đủ bằng tiếng Việt và tên giao dịch bằng tiếng Anh (nếu có)/Organization: Fullname of the organization in Vietnamese and transaction name in English (if any): - Cá nhân: Họ, tên ghi trong CMND/Hộ chiếu/Individual: Fullname as appeared in ID/Passport: - Số CMND/Hộ chiếu/ID/Passport: Ngày cấp/date: Nơi cấp/place:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Địa chỉ/Address: - Tổ chức: Địa chỉ trụ sở, số, ngày đăng ký kinh doanh/Organization: Address of head office, Business registration number and date of issue: - Cá nhân: Địa chỉ thường trú/Individual: Permanent Address:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nội dung đề nghị/Request:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tên loài/(Name of species) - Tên khoa học (tên La tinh)/Scientific name (Latin name): - Tên thông thường (tiếng Anh, tiếng Việt)/Common name (English, Vietnamese): - Số lượng (bằng chữ: …)/Quantity (in words: …..): - Đơn vị (con, kg, mảnh, chiếc …)/unit (individual, kg, piece …): - Mục đích của việc đề nghị cấp giấy phép, chứng chỉ CITES:/Purpose of requesting for CITES permit, certificate:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nguồn gốc mẫu vật/Origin of specimens:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Mô tả chi tiết (kích cỡ, tình trạng, loại sản phẩm …)/Detailed description (size, status, type of products …):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Tên và địa chỉ của tổ chức, cá nhân xuất khẩu, nhập khẩu bằng tiếng Việt và tiếng Anh (nếu có)/Name and address of exporting and importing organization, individual in Vietnamese and in English (if any):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thời gian dự kiến xuất, nhập khẩu/Expected exporting, importing time:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Cửa khẩu xuất, nhập khẩu (nêu rõ tên cửa khẩu, nước)/Export, import border gate (specify border gate’s name and country):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Chứng từ gửi kèm/Attached documents: Địa điểm/place … Ngày/date … tháng/month … năm/year … Ký tên/Signature (Tổ chức: ghi rõ họ, tên, chức vụ của người đại diện và đóng dấu; cá nhân: ghi rõ họ, tên) (Organization: specify Fullname and position of the authorized person and stamp; Individual: specify Fullname) PHỤ LỤC III-A MẪU ĐỀ NGHỊ CẤP GIẤY PHÉP, CHỨNG NHẬN CƠ SỞ TRỒNG CẤY NHÂN TẠO CÁC LOÀI PHỤ LỤC I CỦA CÔNG ƯỚC CITES (Ban hành kèm theo Nghị định số 98/2011/NĐ-CP ngày 26 tháng 10 năm 2011 của Chính phủ) Annex III-A SAMPLE REQUEST FOR REGISTRATION FARM OF PLANT SPECIES BELONG TO CITES APPENDIX I (in accompanied with Decree of Government No 98/2011/ND-CP, October, 26, 2011)",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tên và địa chỉ của cơ sở/Name and address of the requested farm:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Họ, tên chủ cơ sở hoặc người đại diện/Full name owners or their representatives: Số CMND/Hộ chiếu/ID/Passport: Ngày cấp/date: Nơi cấp/place:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Loài đăng ký trồng cấy nhân tạo (tên khoa học, tên thông thường)/Registration species for artificial propagation (scientific name, common names):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Số lượng loài thực vật đăng ký trồng cấy nhân tạo/Number of plant species and artificial propagation register:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Mô tả nguồn giống của loài đăng ký trồng cấy nhân tạo (tài liệu chứng minh nguồn giống được khai thác hoặc nhập khẩu hợp pháp)/Description of seed sources of species for artificial propagation register (documented seed sources are exploited or legally imported:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Mô tả phương pháp trồng cấy nhân tạo/Described methods for artificial propagation:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Mô tả điều kiện hạ tầng cơ sở/Description of infrastructure conditions:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Sản lượng hàng năm trước đây, hiện tại và dự kiến trong các năm tới/Annual output of previous, current and expected in the coming years:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Giấy chứng nhận mẫu vật không mang dịch bệnh hoặc không gây hại cho các hoạt động kinh tế khác của quốc gia đối với các cơ sở trồng cấy nhân tạo những loài không phân bố ở Việt Nam/Certificate specimens do not carry diseases or harmful to other economic activities of national institutions for the artificial propagation of the species are not distributed in Vietnam:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Các thông tin khác theo yêu cầu của Công ước CITES đối với những loài thực vật quy định tại Phụ lục I của Công ước CITES /Other required information by CITES for plant species in Appendix I of the CITES: PHỤ LỤC III-B MẪU HỒ SƠ GỬI KÈM CÔNG VĂN ĐỀ NGHỊ ĐĂNG KÝ CÁC TRẠI NUÔI SINH SẢN ĐỘNG VẬT HOANG DÃ QUY ĐỊNH TẠI PHỤ LỤC I CỦA CÔNG ƯỚC CITES (Ban hành kèm theo Nghị định số 98/2011/NĐ-CP ngày 26 tháng 10 năm 2011 của Chính phủ) Annex III-B SAMPLE REQUEST FOR REGISTRATION FARM OF SPECIES BELONG TO CITES APPENDIX I (in accompanied with Decree of Government No 98/2011/ND-CP, October, 26, 2011)",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tên và địa chỉ của trại/Name and address of the farm:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Họ, tên chủ cơ sở hoặc người đại diện/Full name owners or their representatives: Số CMND/Hộ chiếu/ID/Passport: Ngày cấp/date: Nơi cấp/place:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Loài đăng ký gây nuôi sinh sản (tên khoa học, tên thông thường)/Species registered breeding (scientific names, common names):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thông tin chi tiết về số lượng và tuổi của con đực, cái trong đàn giống sinh sản/Details about the number and age of males, female reproduction in the breed:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tài liệu chứng minh các con giống có nguồn gốc hợp pháp theo quy định hiện hành hoặc nếu nhập khẩu thì phải chứng minh được việc nhập khẩu phù hợp với các quy định của Công ước CITES và luật pháp quốc gia/Documents proving that the breed which had originated legal under current regulations, or prove that the importation in accordance with the provisions of CITES and national legislation, if they are imported:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Nếu trại mới sản xuất được thế hệ F1 thì cung cấp tài liệu chứng minh trại được quản lý và hoạt động theo phương pháp mà một trại khác đã áp dụng và được công nhận đã sản xuất được thế hệ F2/If a new farm produce F1 generation, provide documents to prove the camp is manages and operated under a method that other camps have applied and been recognized already producing F2 generation:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Sản lượng hàng năm trước đây, hiện tại và dự kiến trong các năm tới/Annual output of previous, current and expected in the coming years:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Loại sản phẩm (động vật sống, da, xương, huyết thanh, các bộ phận hoặc dẫn xuất khác)/Product (live animals, skins, bones, serum, organs or other derivatives):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Mô tả chi tiết phương pháp đánh dấu mẫu vật (dùng thẻ, chíp điện tử, cắt tai, cắt vẩy), nhằm xác định nguồn giống sinh sản, các thế hệ kế tiếp và các loại sản phẩm xuất khẩu/Detailed description of methods marked specimens (card, chip, cut off ears, cut flakes), to identify sources of seed breeding, and the next generation of products for export:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Mô tả cơ sở hạ tầng của trại nuôi: diện tích, công nghệ chăn nuôi, cung cấp thức ăn, khả năng thú y, vệ sinh môi trường, cách thức lưu trữ thông tin/Describes the infrastructure of the farm: area, breeding technologies, food supply, veterinary capacity, environmental hygiene, how to store information:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Các trại nuôi sinh sản những loài không phân bố ở Việt Nam phải trình bằng chứng nguồn giống là mẫu vật tiền Công ước, có nguồn gốc từ mẫu vật tiền Công ước hoặc được đánh bắt tại quốc gia có loài đó phân bố theo đúng các quy định của Công ước và luật pháp của quốc gia đó/The Vietnamese breeding farms but their species are not distributed in Viet Nam have to provide the evidence of specimens were derived from pre-Convention specimens or to colected in countries such species distribution accordance with the provisions or the Convention and the laws of that country:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Các trại nuôi sinh sản những loài không phân bố ở Việt Nam phải trình giấy chứng nhận mẫu vật không mang dịch bệnh hoặc không gây hại cho các hoạt động kinh tế của quốc gia/Submit a certificate of non - disease samples or not harmful to other economic activites of Vietnam if the species are not distributed in Vietnam:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Các thông tin khác theo yêu cầu của Công ước CITES đối với những loài động vật quy định tại Phụ lục I của Công ước CITES /Other information requires by CITES to those animals specified in Annex I of the CITES: PHỤ LỤC IV-A HỒ SƠ KÈM THEO CÔNG VĂN ĐỀ NGHỊ ĐĂNG KÝ CƠ SỞ TRỒNG CẤY NHÂN TẠO THỰC VẬT HOANG DÃ QUY ĐỊNH TẠI PHỤ LỤC II, III CỦA CÔNG ƯỚC CITES VÀ THEO QUY ĐỊNH CỦA PHÁP LUẬT VIỆT NAM (Ban hành kèm theo Nghị định số 98/2011/NĐ-CP ngày 26 tháng 10 năm 2011 của Chính phủ) Annex IV-A ATTACHED DOCUMENTS REQUEST FOR REGISTRATION OF ESTABLISHMENTS FOR ARTIFICIAL PROPAGATION OF WILD PLANTS SPECIFIED IN APPENDIX II AND APPENDIX III OF CITES AND IN ACCORDANCE WITH THE LAWS OF VIETNAM (in accompanied with Decree of Government No 98/2011/ND-CP, October, 26, 2011)",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tên và địa chỉ của cơ sở/Name and address of the farm:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Họ, tên chủ cơ sở hoặc người đại diện/Full name owners or their representatives: Số CMND/Hộ chiếu/ID/Passport: Ngày cấp/date: Nơi cấp/place:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Loài đăng ký trồng cấy nhân tạo (tên khoa học và tên thông thường)/Registration species for artificial propagation (the scientific name and common names):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Mô tả số lượng nguồn giống khai thác hợp pháp từ tự nhiên/Describes the number of seed sources from the legal exploitation of natural:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Mô tả điều kiện hạ tầng và phương thức trồng cấy/Description infrastructure conditions and cultivation method:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Sản lượng hàng năm trước đây, hiện tại và dự kiến trong các năm tới/Annual output of previous, current and expected in the coming years: PHỤ LỤC IV-B HỒ SƠ KÈM THEO CÔNG VĂN ĐỀ NGHỊ ĐĂNG KÝ TRẠI NUÔI SINH SẢN ĐỘNG VẬT HOANG DÃ QUY ĐỊNH TẠI CÁC PHỤ LỤC II, III CỦA CÔNG ƯỚC CITES VÀ THEO QUY ĐỊNH CỦA PHÁP LUẬT VIỆT NAM (Ban hành kèm theo Nghị định số 98/2011/NĐ-CP ngày 26 tháng 10 năm 2011 của Chính phủ) Annex IV-B DOCUMENTS ATTACHED REQUEST FOR REGISTRATION OF FARMS FOR BREEDING OF WILD ANIMALS SPECIFIED IN APPENDIX II AND APPENDIX III OF CITES AND IN ACCORDANCE WITH THE LAWS OF VIETNAM (in accompanied with Decree of Government No 98/2011/ND-CP, October, 26, 2011) Tên và địa chỉ của trại/Name and address of the farm:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Họ, tên chủ trại hoặc người đại diện/The full name of the farmer or his representatives: Số CMND/Hộ chiếu/ID/Passport: Ngày cấp/date: Nơi cấp/place:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Loài đăng ký nuôi sinh sản (tên khoa học và tên thông thường)/Registered breeding species (scientific names and common names):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thông tin chi tiết về số lượng và tuổi của con đực, cái trong đàn giống sinh sản/Details about the number and age of males, female reproduction in the breed:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tài liệu chứng minh các con giống đó được đánh bắt hợp pháp theo quy định hiện hành hoặc nếu nhập khẩu thì phải chứng minh được việc nhập khẩu đó phù hợp với các quy định của Công ước CITES và luật pháp quốc gia/Documents proving that the breed is considered illegal under current regulations, or if imported, they must prove that the import is consistent with the provisions of CITES and national legislation:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bản đánh giá nhu cầu và nguồn cung cấp mẫu vật để tăng cường nguồn giống sinh sản nhằm phát triển nguồn gen/Written assessment of needs and supply samples to strengthen seed breeding to develop genetic resources:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Loại sản phẩm xuất khẩu (động vật sống, da, xương, huyết thanh, các bộ phận hoặc dẫn xuất khác)/Product categories exports (live animals, skins, his parish, serum, organs or other derivatives):",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Mô tả cơ sở hạ tầng của trại nuôi: diện tích, công nghệ chăn nuôi, cung cấp thức ăn, khả năng thú y, vệ sinh môi trường và cách thức lưu trữ thông tin/Describes the infrastructure of the farm: area, breeding technologies, food supply, veterinary capacity, environmental sanitation and how to store information: Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 98/2011/NĐ-CP sửa đổi Nghị định về nông nghiệp Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 98/2011/NĐ-CP sửa đổi Nghị định về nông nghiệp MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- SOCIALIST REPUBLIC OF VIET NAM Independence - Freedom – Happiness --------- No. 98/2011/ND-CP Hanoi, October 26, 2011 DECREE OF THE GOVERNMENT AMENDING, SUPPLEMENTING SOME ARTICLES OF DECREES ON AGRICULTURE",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

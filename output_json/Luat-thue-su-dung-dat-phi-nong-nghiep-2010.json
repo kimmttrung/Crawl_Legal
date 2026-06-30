@@ -1,0 +1,386 @@
+{
+    "ten_luat": "Luật thuế sử dụng đất phi nông nghiệp 2010 số 48/2010/QH12 áp dụng 2024",
+    "so_hieu": "48/2010/QH12",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Luật này quy định về đối tượng chịu thuế, đối tượng không chịu thuế; người nộp thuế; căn cứ tính thuế; đăng ký, khai, tính và nộp thuế; miễn, giảm thuế sử dụng đất phi nông nghiệp.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng chịu thuế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đất ở tại nông thôn, đất ở tại đô thị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đất sản xuất, kinh doanh phi nông nghiệp bao gồm: đất xây dựng khu công nghiệp; đất làm mặt bằng xây dựng cơ sở sản xuất, kinh doanh; đất khai thác, chế biến khoáng sản; đất sản xuất vật liệu xây dựng, làm đồ gốm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đất phi nông nghiệp quy định tại Điều 3 của Luật này sử dụng vào mục đích kinh doanh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Đối tượng không chịu thuế",
+                    "noi_dung_chung": "Đất phi nông nghiệp sử dụng không vào mục đích kinh doanh bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đất sử dụng vào mục đích công cộng bao gồm: đất giao thông, thủy lợi; đất xây dựng công trình văn hóa, y tế, giáo dục và đào tạo, thể dục thể thao phục vụ lợi ích công cộng; đất có di tích lịch sử - văn hóa, danh lam thắng cảnh; đất xây dựng công trình công cộng khác theo quy định của Chính phủ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đất do cơ sở tôn giáo sử dụng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đất làm nghĩa trang, nghĩa địa;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đất có công trình là đình, đền, miếu, am, từ đường, nhà thờ họ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đất xây dựng trụ sở cơ quan, xây dựng công trình sự nghiệp, đất sử dụng vào mục đích quốc phòng, an ninh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đất phi nông nghiệp khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Người nộp thuế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người nộp thuế là tổ chức, hộ gia đình, cá nhân có quyền sử dụng đất thuộc đối tượng chịu thuế quy định tại Điều 2 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp tổ chức, hộ gia đình, cá nhân chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất (sau đây gọi chung là Giấy chứng nhận) thì người đang sử dụng đất là người nộp thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người nộp thuế trong một số trường hợp cụ thể được quy định như sau: Chương 2. CĂN CỨ TÍNH THUẾ, ĐĂNG KÝ, KHAI, TÍNH VÀ NỘP THUẾ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trường hợp được Nhà nước cho thuê đất để thực hiện dự án đầu tư thì người thuê đất ở là người nộp thuế;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp người có quyền sử dụng đất cho thuê đất theo hợp đồng thì người nộp thuế được xác định theo thỏa thuận trong hợp đồng. Trường hợp trong hợp đồng không có thỏa thuận về người nộp thuế thì người có quyền sử dụng đất là người nộp thuế;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trường hợp đất đã được cấp Giấy chứng nhận nhưng đang có tranh chấp thì trước khi tranh chấp được giải quyết, người đang sử dụng đất là người nộp thuế. Việc nộp thuế không phải là căn cứ để giải quyết tranh chấp về quyền sử dụng đất;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trường hợp nhiều người cùng có quyền sử dụng một thửa đất thì người nộp thuế là người đại diện hợp pháp của những người cùng có quyền sử dụng thửa đất đó;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trường hợp người có quyền sử dụng đất góp vốn kinh doanh bằng quyền sử dụng đất mà hình thành pháp nhân mới có quyền sử dụng đất thuộc đối tượng chịu thuế quy định tại Điều 2 của Luật này thì pháp nhân mới là người nộp thuế."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Căn cứ tính thuế",
+                    "noi_dung_chung": "Căn cứ tính thuế là giá tính thuế và thuế suất.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Giá tính thuế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giá tính thuế đối với đất được xác định bằng diện tích đất tính thuế nhân với giá của 1m 2 đất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Diện tích đất tính thuế được quy định như sau: Trường hợp có quyền sử dụng nhiều thửa đất ở thì diện tích đất tính thuế là tổng diện tích các thửa đất tính thuế. Trường hợp được Nhà nước giao đất, cho thuê đất để xây dựng khu công nghiệp thì diện tích đất tính thuế không bao gồm diện tích đất xây dựng kết cấu hạ tầng sử dụng chung; Hệ số phân bổ được xác định bằng diện tích đất xây dựng nhà nhiều tầng nhiều hộ ở, nhà chung cư chia cho tổng diện tích nhà của các tổ chức, hộ gia đình, cá nhân sử dụng. Trường hợp nhà nhiều tầng nhiều hộ ở, nhà chung cư có tầng hầm thì 50% diện tích tầng hầm của các tổ chức, hộ gia đình, cá nhân sử dụng trong tầng hầm được cộng vào diện tích nhà của các tổ chức, hộ gia đình, cá nhân sử dụng để tính hệ số phân bổ;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Diện tích đất tính thuế là diện tích đất thực tế sử dụng."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với đất ở nhà nhiều tầng nhiều hộ ở, nhà chung cư bao gồm cả trường hợp vừa để ở, vừa để kinh doanh thì diện tích đất tính thuế được xác định bằng hệ số phân bổ nhân với diện tích nhà của từng tổ chức, hộ gia đình, cá nhân sử dụng."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đối với công trình xây dựng dưới mặt đất thì áp dụng hệ số phân bổ bằng 0,5 diện tích đất xây dựng chia cho tổng diện tích công trình của các tổ chức, hộ gia đình, cá nhân sử dụng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Giá của 1m 2 đất là giá đất theo mục đích sử dụng do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định và được ổn định theo chu kỳ 5 năm, kể từ ngày Luật này có hiệu lực thi hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Thuế suất",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thuế suất đối với đất ở bao gồm cả trường hợp sử dụng để kinh doanh áp dụng theo biểu thuế lũy tiến từng phần được quy định như sau: Bậc thuế Diện tích đất tính thuế (m 2 ) Thuế suất (%) Diện tích trong hạn mức 0,03 Phần diện tích vượt không quá 3 lần hạn mức 0,07 Phần diện tích vượt trên 3 lần hạn mức 0,15",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hạn mức đất ở làm căn cứ tính thuế là hạn mức giao đất ở mới theo quy định của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, kể từ ngày Luật này có hiệu lực thi hành. Trường hợp đất ở đã có hạn mức theo quy định trước ngày Luật này có hiệu lực thi hành thì áp dụng như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trường hợp hạn mức đất ở theo quy định trước ngày Luật này có hiệu lực thi hành thấp hơn hạn mức giao đất ở mới thì áp dụng hạn mức giao đất ở mới để làm căn cứ tính thuế;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp hạn mức đất ở theo quy định trước ngày Luật này có hiệu lực thi hành cao hơn hạn mức giao đất ở mới thì áp dụng hạn mức đất ở cũ để làm căn cứ tính thuế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đất ở nhà nhiều tầng nhiều hộ ở, nhà chung cư, công trình xây dựng dưới mặt đất áp dụng mức thuế suất 0,03%.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đất sản xuất, kinh doanh phi nông nghiệp áp dụng mức thuế suất 0,03%.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đất phi nông nghiệp quy định tại Điều 3 của Luật này sử dụng vào mục đích kinh doanh áp dụng mức thuế suất 0,03%.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đất sử dụng không đúng mục đích, đất chưa sử dụng theo đúng quy định áp dụng mức thuế suất 0,15%. Trường hợp đất của dự án đầu tư phân kỳ theo đăng ký của nhà đầu tư được cơ quan nhà nước có thẩm quyền phê duyệt thì không coi là đất chưa sử dụng và áp dụng mức thuế suất 0,03%.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đất lấn, chiếm áp dụng mức thuế suất 0,2% và không áp dụng hạn mức. Việc nộp thuế không phải là căn cứ để công nhận quyền sử dụng đất hợp pháp của người nộp thuế đối với diện tích đất lấn, chiếm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Đăng ký, khai, tính và nộp thuế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người nộp thuế đăng ký, khai, tính và nộp thuế theo quy định của pháp luật về quản lý thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người nộp thuế đăng ký, khai, tính và nộp thuế tại cơ quan thuế huyện, quận, thị xã, thành phố thuộc tỉnh nơi có quyền sử dụng đất. Trường hợp ở vùng sâu, vùng xa, điều kiện đi lại khó khăn, người nộp thuế có thể thực hiện việc đăng ký, khai, tính và nộp thuế tại Ủy ban nhân dân xã. Cơ quan thuế tạo điều kiện để người nộp thuế thực hiện nghĩa vụ của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trường hợp người nộp thuế có quyền sử dụng nhiều thửa đất ở thì diện tích tính thuế là tổng diện tích các thửa đất ở tính thuế trong phạm vi tỉnh, thành phố trực thuộc trung ương. Việc đăng ký, khai, tính và nộp thuế được quy định như sau: Giá tính thuế được áp dụng theo giá đất của từng huyện, quận, thị xã, thành phố thuộc tỉnh tại nơi có thửa đất. Người nộp thuế lập tờ khai tổng hợp theo mẫu quy định để xác định tổng diện tích các thửa đất ở có quyền sử dụng và số thuế đã nộp, gửi cơ quan thuế nơi người nộp thuế đã lựa chọn để xác định hạn mức đất ở để nộp phần chênh lệch giữa số thuế phải nộp theo quy định của Luật này và số thuế đã nộp. Chương 3. MIỄN THUẾ, GIẢM THUẾ",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Người nộp thuế đăng ký, khai, tính và nộp thuế tại cơ quan thuế huyện, quận, thị xã, thành phố thuộc tỉnh nơi có quyền sử dụng đất;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Người nộp thuế được lựa chọn hạn mức đất ở tại một huyện, quận, thị xã, thành phố thuộc tỉnh nơi có quyền sử dụng đất. Trường hợp có một hoặc nhiều thửa đất ở vượt hạn mức thì người nộp thuế được lựa chọn một nơi có thửa đất ở vượt hạn mức để xác định diện tích vượt hạn mức của các thửa đất."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Miễn thuế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đất của dự án đầu tư thuộc lĩnh vực đặc biệt khuyến khích đầu tư; dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; dự án đầu tư thuộc lĩnh vực khuyến khích đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn; đất của doanh nghiệp sử dụng trên 50% số lao động là thương binh, bệnh binh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đất của cơ sở thực hiện xã hội hóa đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hóa, thể thao, môi trường.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đất xây dựng nhà tình nghĩa, nhà đại đoàn kết, cơ sở nuôi dưỡng người già cô đơn, người khuyết tật, trẻ mồ côi; cơ sở chữa bệnh xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đất ở trong hạn mức tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đất ở trong hạn mức của người hoạt động cách mạng trước ngày 19/8/1945; thương binh hạng 1/4, 2/4; người hưởng chính sách như thương binh hạng 1/4, 2/4; bệnh binh hạng 1/3; anh hùng lực lượng vũ trang nhân dân; mẹ Việt Nam anh hùng; cha đẻ, mẹ đẻ, người có công nuôi dưỡng liệt sĩ khi còn nhỏ; vợ, chồng của liệt sĩ; con của liệt sĩ được hưởng trợ cấp hàng tháng; người hoạt động cách mạng bị nhiễm chất độc da cam; người bị nhiễm chất độc da cam mà hoàn cảnh gia đình khó khăn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đất ở trong hạn mức của hộ nghèo theo quy định của Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Hộ gia đình, cá nhân trong năm bị thu hồi đất ở theo quy hoạch, kế hoạch được cơ quan nhà nước có thẩm quyền phê duyệt thì được miễn thuế trong năm thực tế có thu hồi đối với đất tại nơi bị thu hồi và đất tại nơi ở mới.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Đất có nhà vườn được cơ quan nhà nước có thẩm quyền xác nhận là di tích lịch sử - văn hóa.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Người nộp thuế gặp khó khăn do sự kiện bất khả kháng nếu giá trị thiệt hại về đất và nhà trên đất trên 50% giá tính thuế.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Giảm thuế",
+                    "noi_dung_chung": "Giảm 50% số thuế phải nộp cho các trường hợp sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đất của dự án đầu tư thuộc lĩnh vực khuyến khích đầu tư; dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn; đất của doanh nghiệp sử dụng từ 20% đến 50% số lao động là thương binh, bệnh binh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đất ở trong hạn mức tại địa bàn có điều kiện kinh tế - xã hội khó khăn;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đất ở trong hạn mức của thương binh hạng 3/4, 4/4; người hưởng chính sách như thương binh hạng 3/4, 4/4; bệnh binh hạng 2/3, 3/3; con của liệt sĩ không được hưởng trợ cấp hàng tháng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Người nộp thuế gặp khó khăn do sự kiện bất khả kháng nếu giá trị thiệt hại về đất và nhà trên đất từ 20% đến 50% giá tính thuế.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Nguyên tắc miễn thuế, giảm thuế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người nộp thuế được hưởng cả miễn thuế và giảm thuế đối với cùng một thửa đất thì được miễn thuế; người nộp thuế thuộc hai trường hợp được giảm thuế trở lên quy định tại Điều 10 của Luật này thì được miễn thuế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người nộp thuế đất ở chỉ được miễn thuế hoặc giảm thuế tại một nơi do người nộp thuế lựa chọn, trừ trường hợp quy định tại khoản 9 Điều 9 và khoản 4 Điều 10 của Luật này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người nộp thuế có nhiều dự án đầu tư được miễn thuế, giảm thuế thì thực hiện miễn, giảm theo từng dự án đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Miễn thuế, giảm thuế chỉ áp dụng trực tiếp đối với người nộp thuế và chỉ tính trên số tiền thuế phải nộp theo quy định của Luật này. Chương 4. ĐIỀU KHOẢN THI HÀNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các văn bản quy phạm pháp luật sau đây hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Pháp lệnh thuế nhà, đất năm 1992 ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh thuế nhà, đất năm 1994 ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Quy định chi tiết và hướng dẫn thi hành",
+                    "noi_dung_chung": "Chính phủ quy định chi tiết và hướng dẫn thi hành những nội dung cần thiết của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010.",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

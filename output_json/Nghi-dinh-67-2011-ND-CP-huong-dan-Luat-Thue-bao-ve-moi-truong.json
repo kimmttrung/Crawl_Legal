@@ -1,0 +1,118 @@
+{
+    "ten_luat": "Nghị định 67/2011/NĐ-CP hướng dẫn Luật Thuế bảo vệ môi trường",
+    "so_hieu": "67/2011/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định về đối tượng chịu thuế, căn cứ tính thuế, khai thuế, tính thuế, nộp thuế và hoàn thuế bảo vệ môi trường.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng chịu thuế",
+                    "noi_dung_chung": "Đối tượng chịu thuế thực hiện theo quy định tại Điều 3 của Luật Thuế bảo vệ môi trường .",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với xăng, dầu, mỡ nhờn quy định tại Khoản 1 Điều 3 của Luật Thuế bảo vệ môi trường là các loại xăng, dầu, mỡ nhờn gốc hóa thạch. Đối với nhiên liệu hỗn hợp chứa nhiên liệu sinh học và xăng, dầu, mỡ nhờn gốc hóa thạch, chỉ tính thu thuế bảo vệ môi trường đối với phần xăng, dầu, mỡ nhờn gốc hóa thạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với dung dịch hydro-chloro-fluoro-carbon (ký hiệu là HCFC) quy định tại khoản 3 Điều 3 của Luật Thuế bảo vệ môi trường là loại gas dùng làm môi chất sử dụng trong thiết bị lạnh và trong công nghiệp bán dẫn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với túi ni lông thuộc diện chịu thuế (túi nhựa) quy định tại Khoản 4 Điều 3 của Luật Thuế bảo vệ môi trường là loại túi, bao bì nhựa mỏng làm từ màng nhựa đơn HDPE (high density polyethylene resin), LDPE (Low density polyethylen) hoặc LLDPE (Linear low density polyethylen resin), trừ bao bì đóng gói sẵn hàng hóa và túi ni lông đáp ứng tiêu chí thân thiện với môi trường theo quy định của Bộ Tài nguyên và Môi trường.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đối với thuốc diệt cỏ thuộc loại hạn chế sử dụng, thuốc trừ mối thuộc loại hạn chế sử dụng, thuốc bảo quản lâm sản thuộc loại hạn chế sử dụng, thuốc khử trùng kho thuộc loại hạn chế sử dụng, quy định tại Khoản 5, 6, 7 và Khoản 8 Điều 3 Luật Thuế bảo vệ môi trường : Chi tiết thực hiện theo quy định tại Nghị quyết số 1269/2011/UBTVQH12 ngày 14 tháng 7 năm 2011 của Ủy ban Thường vụ Quốc hội về biểu thuế bảo vệ môi trường. Chương 2. CĂN CỨ TÍNH THUẾ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Số lượng hàng hóa tính thuế",
+                    "noi_dung_chung": "Số lượng hàng hóa tính thuế được thực hiện theo quy định tại Điều 6 Luật Thuế bảo vệ môi trường . Trường hợp nhiên liệu hỗn hợp chứa xăng, dầu, mỡ nhờn gốc hóa thạch và nhiên liệu sinh học thì số lượng hàng hóa tính thuế chỉ tính cho số lượng xăng, dầu, mỡ nhờn gốc hóa thạch trong nhiên liệu hỗn hợp.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Mức thuế",
+                    "noi_dung_chung": "Mức thuế cụ thể đối với từng hàng hóa chịu thuế thực hiện theo Biểu thuế bảo vệ môi trường do Ủy ban Thường vụ Quốc hội ban hành. Chương 3. KHAI THUẾ, TÍNH THUẾ, NỘP THUẾ VÀ HOÀN THUẾ",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Khai thuế, tính thuế và nộp thuế",
+                    "noi_dung_chung": "Khai thuế, tính thuế và nộp thuế thực hiện theo quy định tại Điều 10 Luật Thuế bảo vệ môi trường và pháp luật về quản lý thuế.",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với hàng hóa sản xuất bán ra, trao đổi, tiêu dùng nội bộ, tặng cho thực hiện khai thuế, tính thuế và nộp thuế theo tháng. Đối với hàng hóa nhập khẩu, hàng hóa nhập khẩu ủy thác thực hiện khai thuế, tính thuế và nộp thuế theo từng lần phát sinh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khai thuế, tính thuế và nộp thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn: Các công ty kinh doanh xăng dầu đầu mối thực hiện khai, nộp thuế bảo vệ môi trường và ngân sách nhà nước đối với lượng xăng dầu xuất, bán (bao gồm cả xuất để tiêu dùng nội bộ, xuất để trao đổi sản phẩm hàng hóa khác, xuất trả hàng nhập khẩu ủy thác, bán cho tổ chức, cá nhân khác; trừ bán cho công ty kinh doanh xăng dầu đầu mối khác) tại địa phương nơi kê khai, nộp thuế giá trị gia tăng. Bộ Tài chính quy định công ty đầu mối kê khai nộp thuế bảo vệ môi trường đối với xăng dầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khai thuế, tính thuế và nộp thuế bảo vệ môi trường đối với than thực hiện theo nguyên tắc: Than tiêu thụ nội địa phải khai, nộp thuế bảo vệ môi trường; than xuất khẩu không thuộc đối tượng chịu thuế bảo vệ môi trường. Bộ Tài chính chủ trì, phối hợp với Bộ Công Thương hướng dẫn cụ thể quy định tại Khoản này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thuế bảo vệ môi trường chỉ phải nộp một lần đối với hàng hóa sản xuất hoặc nhập khẩu. Trường hợp hàng hóa xuất khẩu đã nộp thuế bảo vệ môi trường nhưng phải nhập khẩu trở lại Việt Nam thì không phải nộp thuế bảo vệ môi trường khi nhập khẩu.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Hoàn thuế",
+                    "noi_dung_chung": "Hoàn thuế bảo vệ môi trường được thực hiện theo quy định tại Điều 11 Luật Thuế bảo vệ môi trường . Đối với xăng dầu, quy định tại Khoản 2 Điều 11 Luật Thuế bảo vệ môi trường , người nộp thuế được hoàn số thuế bảo vệ môi trường đã nộp tương ứng lượng xăng dầu đã cung ứng. Người nộp thuế chịu trách nhiệm trước pháp luật về tính chính xác về số liệu kê khai hoàn thuế. Trình tự, thủ tục kê khai, hoàn thuế được thực hiện theo quy định pháp luật về quản lý thuế và pháp luật về hải quan. Chương 4. ĐIỀU KHOẢN THI HÀNH",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Hiệu lực và hướng dẫn thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2012.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quy định về thu phí xăng, dầu tại Nghị định số 78/2000/NĐ-CP ngày 26 tháng 12 năm 2000 của Chính phủ về phí xăng dầu và Quyết định số 03/2009/QĐ-TTg ngày 09 tháng 01 năm 2009 của Thủ tướng Chính phủ về điều chỉnh mức thu phí xăng, dầu hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực thi hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Tài chính hướng dẫn thi hành Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - VP BCĐTW về phòng, chống tham nhũng; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách Xã hội; - Ngân hàng Phát triển Việt Nam; - UBTW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, KTTH (5b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 67/2011/NĐ-CP hướng dẫn Luật Thuế bảo vệ môi trường Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 67/2011/NĐ-CP hướng dẫn Luật Thuế bảo vệ môi trường MỤC LỤC VĂN BẢN In mục lục In mục lục GOVERNMENT ------- SOCIALIST REPUBLIC OF VIET NAM Independence - Freedom - Happiness --------------- No: 67/2011/ND-CP Hanoi, August 08, 2011 DECREE",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

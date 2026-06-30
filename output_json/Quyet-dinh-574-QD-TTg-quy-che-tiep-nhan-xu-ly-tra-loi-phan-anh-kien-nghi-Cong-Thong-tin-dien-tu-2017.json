@@ -1,0 +1,477 @@
+{
+    "ten_luat": "Quyết định 574/QĐ-TTg quy chế tiếp nhận xử lý trả lời phản ánh kiến nghị Cổng Thông tin điện tử 2017",
+    "so_hieu": "574/QĐ-TTg",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Ban hành kèm theo Quyết định này Quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng Thông tin điện tử Chính phủ tại địa chỉ website http://nguoidan.chinhphu.vn và http://doanhnghiep.chinhphu.vn.",
+                    "noi_dung_chung": "",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Quyết định này có hiệu lực từ ngày ký ban hành.",
+                    "noi_dung_chung": "",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Thủ trưởng các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+                    "noi_dung_chung": "Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - HĐND, UBND các tỉnh, thành phố trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng, - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Ủy ban Giám sát tài chính Quốc gia; - Kiểm toán Nhà nước; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, Các PCN, Trợ lý TTgCP, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, KSTT (3b). THỦ TƯỚNG Nguyễn Xuân Phúc QUY CHẾ TIẾP NHẬN, XỬ LÝ VÀ TRẢ LỜI PHẢN ÁNH, KIẾN NGHỊ CỦA NGƯỜI DÂN, DOANH NGHIỆP TRÊN CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ (Ban hành kèm theo Quyết định số 574/QĐ-TTg ngày 25 tháng 4 năm 2017 của Thủ tướng Chính phủ)",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạm vi điều chỉnh",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quy chế này quy định việc tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp về các vướng mắc, khó khăn trong thực hiện cơ chế, chính sách, thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh và đời sống của người dân thông qua Hệ thống thông tin tiếp nhận, trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng Thông tin điện tử Chính phủ (sau đây viết tắt là Hệ thống thông tin)."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quy chế này không quy định về việc tiếp nhận đơn thư khiếu nại, tố cáo và hướng dẫn, giải đáp pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối tượng áp dụng Quy chế này áp dụng cho các đối tượng sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là các bộ, ngành, địa phương) tham gia khai thác, sử dụng Hệ thống thông tin để tiếp nhận, xử lý và trả lời các phản ánh, kiến nghị của người dân, doanh nghiệp."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Người dân, doanh nghiệp có phản ánh, kiến nghị."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Hệ thống thông tin là Hệ thống phần mềm hỗ trợ hoạt động tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp do Văn phòng Chính phủ xây dựng và được tích hợp trên Cổng Thông tin điện tử Chính phủ, tại địa chỉ http://nguoidan.chinhphu.vn; http://doanhnghiep.chinhphu.vn.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Nguyên tắc tiếp nhận, xử lý và trả lời phản ánh, kiến nghị trên Hệ thống thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tuân thủ quy định của pháp luật về tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của cá nhân, tổ chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bảo đảm công khai, minh bạch, khách quan, trung thực.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quy trình tiếp nhận, phân loại chuyển xử lý, xử lý và trả lời phải cụ thể, rõ ràng, thống nhất và được thực hiện qua các chức năng của Hệ thống thông tin; bảo đảm thủ tục tiếp nhận đơn giản, thuận tiện, tạo điều kiện cho người dân, doanh nghiệp gửi phản ánh, kiến nghị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảo đảm an toàn thông tin trong việc gửi, chuyển, lưu trữ dữ liệu về phản ánh, kiến nghị của người dân, doanh nghiệp.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "NỘI DUNG, CÁCH THỨC VÀ YÊU CẦU VỀ PHẢN ÁNH, KIẾN NGHỊ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nội dung phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hành vi chậm trễ, gây phiền hà hoặc không thực hiện, thực hiện không đúng quy định của cán bộ, công chức, viên chức trong giải quyết thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Những cơ chế, chính sách, thủ tục hành chính không phù hợp với thực tế, không đồng bộ, không thống nhất, không hợp pháp, trái với các điều ước quốc tế mà Việt Nam đã ký kết hoặc gia nhập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Những giải pháp, sáng kiến ban hành mới quy định về cơ chế, chính sách, thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh và đời sống của người dân.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Cách thức phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người dân truy cập vào địa chỉ http://nguoidan.chinhphu.vn để gửi phản ánh, kiến nghị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp truy cập vào địa chỉ http://doanhnghiep.chinhphu.vn để gửi phản ánh, kiến nghị.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Yêu cầu đối với phản ánh, kiến nghị",
+                    "noi_dung_chung": "Yêu cầu đối với phản ánh, kiến nghị gửi qua Hệ thống thông tin:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sử dụng ngôn ngữ tiếng Việt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thể hiện rõ nội dung phản ánh, kiến nghị quy định tại Điều 4 Quy chế này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Có đầy đủ thông tin về tên, địa chỉ liên hệ, số điện thoại, địa chỉ thư điện tử của người dân, doanh nghiệp gửi phản ánh, kiến nghị.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Giá trị phản ánh, kiến nghị được gửi trên Hệ thống thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nội dung phản ánh, kiến nghị của người dân, doanh nghiệp và trả lời của cơ quan nhà nước có thẩm quyền trên Hệ thống thông tin có giá trị như văn bản giấy.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các hoạt động, nội dung thực hiện tiếp nhận, phối hợp và xử lý phản ánh, kiến nghị của cơ quan tiếp nhận và cơ quan xử lý trên Hệ thống thông tin có giá trị như văn bản giấy.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "TIẾP NHẬN PHẢN ÁNH, KIẾN NGHỊ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Quy trình tiếp nhận phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện tiếp nhận phản ánh, kiến nghị: Các bộ, ngành, địa phương thực hiện tiếp nhận, phân loại phản ánh, kiến nghị của người dân, doanh nghiệp gửi đến Hệ thống thông tin; cập nhật đầy đủ các phản ánh, kiến nghị được gửi bằng văn bản, điện thoại, fax, thư điện tử vào Hệ thống thông tin để xử lý theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đánh giá và phân loại phản ánh, kiến nghị: Các phản ánh, kiến nghị thuộc thẩm quyền quyết định của Chính phủ, Thủ tướng Chính phủ hoặc thuộc thẩm quyền của hai hay nhiều cơ quan hành chính nhà nước khác nhau nhưng các cơ quan này không thống nhất được phương án xử lý, hoặc đã được các bộ, ngành, địa phương trả lời nhưng người dân, doanh nghiệp không nhất trí và vẫn tiếp tục gửi phản ánh, kiến nghị, Văn phòng Chính phủ tiếp nhận, chủ trì, phối hợp với các bộ, ngành, địa phương, tổ chức có liên quan tổ chức nghiên cứu, đề xuất Chính phủ, Thủ tướng Chính phủ xem xét, quyết định và trả lời theo quy định của pháp luật.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các phản ánh, kiến nghị không đúng nội dung, yêu cầu quy định tại Điều 4, Điều 6 Quy chế này , trong thời hạn 02 ngày làm việc kể từ ngày nhận được phản ánh, kiến nghị, các bộ, ngành, địa phương thông tin cho người dân, doanh nghiệp việc không tiếp nhận và nêu rõ lý do."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các phản ánh, kiến nghị chưa rõ nội dung quy định tại Điều 4 Quy chế này , trong thời hạn 05 ngày làm việc kể từ ngày nhận được phản ánh, kiến nghị, các bộ, ngành, địa phương đề nghị người dân, doanh nghiệp bổ sung, làm rõ nội dung phản ánh, kiến nghị."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các phản ánh, kiến nghị đáp ứng các nội dung, yêu cầu quy định tại Điều 4, Điều 6 Quy chế này nhưng không thuộc thẩm quyền quyết định, phạm vi quản lý, trong thời hạn 05 ngày làm việc kể từ ngày nhận được phản ánh, kiến nghị, các bộ, ngành, địa phương chuyển phản ánh, kiến nghị tới cơ quan hành chính nhà nước, người có thẩm quyền để xử lý theo quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các phản ánh, kiến nghị đáp ứng các nội dung, yêu cầu quy định tại Điều 4, Điều 6 Quy chế này thuộc thẩm quyền quyết định, phạm vi quản lý, các bộ, ngành, địa phương tiếp nhận, xử lý theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Trách nhiệm của cơ quan tiếp nhận phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bố trí cán bộ, công chức, viên chức để thực hiện tiếp nhận, trả lời phản ánh, kiến nghị; phân loại, chuyển phản ánh, kiến nghị đến các cơ quan, đơn vị liên quan hoặc chuyển đến các cơ quan hành chính nhà nước, người có thẩm quyền xử lý, trả lời.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức thực hiện việc tiếp nhận phản ánh, kiến nghị theo đúng quy trình quy định tại Điều 8 Quy chế này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Trách nhiệm của cán bộ, công chức, viên chức thực hiện việc tiếp nhận phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hướng dẫn người dân, doanh nghiệp truy cập Hệ thống thông tin để gửi, tra cứu tình hình, kết quả trả lời phản ánh, kiến nghị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Liên hệ, hướng dẫn người dân, doanh nghiệp cập nhật đầy đủ nội dung có liên quan đến phản ánh, kiến nghị trong trường hợp các phản ánh, kiến nghị của người dân, doanh nghiệp chưa rõ ràng hoặc thiếu nội dung cần thiết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tuân thủ đúng quy trình, thời hạn tiếp nhận, phân loại xử lý, cập nhật, đăng tải kết quả xử lý phản ánh, kiến nghị.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "XỬ LÝ, TRẢ LỜI PHẢN ÁNH, KIẾN NGHỊ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Quy trình xử lý phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trên cơ sở các phản ánh, kiến nghị được Văn phòng Chính phủ, các bộ, ngành, địa phương chuyển thông qua Hệ thống thông tin, cơ quan hành chính nhà nước có trách nhiệm nghiên cứu, xử lý hoặc phối hợp xử lý phản ánh, kiến nghị theo quy trình được quy định tại Điều 14 Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính (sau đây viết tắt là Nghị định số 20/2008/NĐ-CP ).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp phản ánh, kiến nghị liên quan tới nhiều bộ, ngành, địa phương thì bộ, ngành, địa phương tiếp nhận cần xác định các cơ quan liên quan để phối hợp xử lý.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Thời hạn xử lý và trả lời phản ánh, kiến nghị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thời hạn xử lý, trả lời phản ánh, kiến nghị là 20 ngày kể từ ngày nhận được phản ánh, kiến nghị, trường hợp hết thời hạn này mà chưa xử lý xong, định kỳ cứ sau 07 ngày các bộ, ngành, địa phương cập nhật tình hình xử lý vào Hệ thống thông tin để thông tin cho người dân, doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với các phản ánh, kiến nghị có kết quả xử lý, trong thời hạn 02 ngày làm việc các bộ, ngành, địa phương cập nhật kết quả vào Hệ thống thông tin để trả lời cho người dân, doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trường hợp các phản ánh, kiến nghị có nội dung liên quan đến bảo vệ bí mật nhà nước hoặc trong quá trình xử lý có các thông tin thuộc bảo vệ bí mật nhà nước thì quy trình trả lời phải được thực hiện và quản lý theo chế độ mật, không cập nhật thông tin trên Hệ thống thông tin.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Công khai kết quả trả lời phản ánh, kiến nghị",
+                    "noi_dung_chung": "Văn phòng Chính phủ, các cơ quan hành chính nhà nước được phân công xử lý, trả lời phản ánh, kiến nghị của người dân, doanh nghiệp có trách nhiệm cập nhật, đăng tải công khai kết quả trả lời trên Hệ thống thông tin theo các hình thức được quy định tại Điều 19 Nghị định số 20/2008/NĐ-CP .",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "TỔ CHỨC THỰC HIỆN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh trong xử lý, trả lời phản ánh, kiến nghị",
+                    "noi_dung_chung": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm thực hiện các quy định tại Điều 16, Điều 17, Điều 18 Nghị định số 20/2008/NĐ-CP và các quy định tại Quy chế này.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Xây dựng quản lý, vận hành Hệ thống thông tin tiếp nhận, trả lời phản ánh, kiến nghị của người dân, doanh nghiệp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn phòng Chính phủ có trách nhiệm;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng, quản lý, vận hành Hệ thống thông tin thống nhất trên toàn quốc; thường xuyên nghiên cứu, tổng hợp khó khăn, vướng mắc của các bộ, ngành, địa phương trong quá trình khai thác, sử dụng để kịp thời điều chỉnh, bổ sung, nâng cấp chức năng của Hệ thống thông tin."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bảo đảm hạ tầng công nghệ thông tin để vận hành, khai thác Hệ thống thông tin; ứng dụng chữ ký số và cải tiến quy trình xử lý phản ánh, kiến nghị để rút ngắn thời gian xử lý, giải quyết công việc, giảm văn bản giấy, tạo thuận lợi tối đa cho người dân, doanh nghiệp."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Giúp Thủ tướng Chính phủ đôn đốc các bộ, ngành, địa phương xử lý trả lời đúng thời hạn và đúng thẩm quyền các phản ánh, kiến nghị."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Cấp tài khoản, hướng dẫn các bộ, ngành, địa phương khai thác, sử dụng các chức năng của Hệ thống thông tin để tiếp nhận, xử lý và trả lời phản ánh kiến nghị của người dân, doanh nghiệp."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Phối hợp với Bộ Công an, Bộ Thông tin và Truyền thông bảo đảm an toàn, an ninh cho Hệ thống thông tin."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Phối hợp với các cơ quan thông tấn, báo chí tăng cường truyền thông đối với công tác tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Hệ thống thông tin."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Công an và Bộ Thông tin và Truyền thông có trách nhiệm phối hợp với Văn phòng Chính phủ thực hiện các biện pháp bảo đảm an ninh, an toàn thông tin cho Hệ thống thông tin; kịp thời phòng, chống tấn công mạng, ứng cứu khẩn cấp Hệ thống thông tin trong trường hợp xảy ra các sự cố về an toàn thông tin mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các bộ, ngành, địa phương có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bố trí nhân sự, trang thiết bị, đường truyền; quản lý tài khoản an toàn để phục vụ khai thác, sử dụng Hệ thống thông tin theo hướng dẫn của Văn phòng Chính phủ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ứng dụng chữ ký số trong các văn bản điện tử để chuyển xử lý, trả lời phản ánh, kiến nghị của người dân, doanh nghiệp."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng chuyên mục tiếp nhận, xử lý phản ánh, kiến nghị trên Cổng thông tin điện tử của bộ, ngành, địa phương liên kết, tích hợp với Hệ thống thông tin."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Chế độ thông tin báo cáo",
+                    "noi_dung_chung": "Định kỳ hàng quý hoặc đột xuất theo yêu cầu của Thủ tướng Chính phủ, Văn phòng Chính phủ tổng hợp, báo tình hình, kết quả tiếp nhận, xử lý, trả lời phản ánh, kiến nghị và mức độ hài lòng của người dân, doanh nghiệp đối với bộ, ngành, địa phương trong việc tiếp nhận, xử lý, trả lời phản ánh, kiến nghị.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Khen thưởng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người dân, doanh nghiệp có những phản ánh, kiến nghị đem lại hiệu quả thiết thực, giúp cơ quan hành chính nhà nước sửa đổi, bổ sung, hủy bỏ, bãi bỏ những quy định tại khoản 2, Điều 4 Quy chế này thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng. Thủ trưởng cơ quan hành chính nhà nước thực hiện tiếp nhận, trả lời phản ánh, kiến nghị có trách nhiệm đề xuất hình thức khen thưởng cho người dân, doanh nghiệp có phản ánh, kiến nghị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cán bộ, công chức, viên chức, người đứng đầu cơ quan, tổ chức được giao nhiệm vụ tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp hoàn thành tốt nhiệm vụ theo quy định của Quy chế này được khen thưởng theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Xử lý vi phạm",
+                    "noi_dung_chung": "Cán bộ, công chức, viên chức, Thủ trưởng cơ quan hành chính nhà nước được giao nhiệm vụ tiếp nhận, xử lý và trả lời các phản ánh, kiến nghị của người dân, doanh nghiệp nếu vi phạm hoặc không thực hiện đầy đủ trách nhiệm theo quy định pháp luật về tiếp nhận, xử lý phản ánh, kiến nghị và quy định tại Quy chế này thì tùy theo tính chất, mức độ sẽ bị xử lý theo quy định của pháp luật.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Kinh phí thực hiện",
+                    "noi_dung_chung": "Công tác tiếp nhận, trả lời phản ánh, kiến nghị của các cơ quan hành chính nhà nước được ngân sách nhà nước bảo đảm trong dự toán chi ngân sách thường xuyên theo quy định tại Điều 21 Nghị định số 20/2008/NĐ-CP .",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Điều khoản thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn phòng Chính phủ chủ trì tổ chức, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Quy chế này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trong quá trình thực hiện, nếu có những vấn đề phát sinh cần xử lý khác với các quy định của pháp luật hiện hành, Văn phòng Chính phủ chủ trì, phối hợp với các cơ quan liên quan báo cáo Thủ tướng Chính phủ xem xét, quyết định./. Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Kênh thông tin tiếp nhận phản ánh của người dân đến Chính phủ Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 574/QĐ-TTg năm 2017 về quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng Thông tin điện tử Chính phủ do Thủ tướng Chính phủ ban hành Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Kênh thông tin tiếp nhận phản ánh của người dân đến Chính phủ Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Kênh thông tin tiếp nhận phản ánh của người dân đến Chính phủ Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Quyết định 574/QĐ-TTg năm 2017 về quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng Thông tin điện tử Chính phủ do Thủ tướng Chính phủ ban hành MỤC LỤC VĂN BẢN In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh MỤC LỤC VĂN BẢN In mục lục In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Quyết định 574/QĐ-TTg ngày 25/04/2017 về quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng Thông tin điện tử Chính phủ do Thủ tướng Chính phủ ban hành Tải Văn bản tiếng Việt Tải Văn bản tiếng Việt (docx) Tải Văn bản gốc Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây 574/QĐ-TTg , Quyết định 574/QĐ-TTg Công văn 344/VTLTNN-VP năm 2023 về trả lời ý kiến phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng Thông tin điện tử của Bộ Nội vụ do Cục Văn thư và Lưu trữ nhà nước ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 17/04/2023 Hiệu lực: Đã biết Cập nhật: 22/04/2023 Quyết định 852/QĐ-BNV năm 2018 về Quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng thông tin điện tử Bộ Nội vụ Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 22/05/2018 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 24/05/2018 Công văn 5473/VPCP-KTTH năm 2017 xử lý kiến nghị của doanh nghiệp về Thông tư 305/2016/TT-BTC do Văn phòng Chính phủ ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 26/05/2017 Hiệu lực: Đã biết Cập nhật: 01/06/2017 Công văn 6751/BTC-TCHQ năm 2017 trả lời kiến nghị của doanh nghiệp trên địa bàn tỉnh Đồng Nai do Bộ Tài chính ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 24/05/2017 Hiệu lực: Đã biết Cập nhật: 03/06/2017 Công văn 3181/BNN-VP năm 2017 xử lý phản ánh, kiến nghị của người dân, doanh nghiệp do Bộ Nông nghệp và Phát triển nông thôn ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 17/04/2017 Hiệu lực: Đã biết Cập nhật: 09/06/2017 Nghị định 150/2016/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Chính phủ Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 11/11/2016 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 15/11/2016 Công văn 8961/BCT-XTTM năm 2016 xây dựng cổng thông tin điện tử Hà Nội xúc tiến đầu tư phát triển công nghiệp Việt Nam do Bộ Công thương ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 23/09/2016 Hiệu lực: Đã biết Cập nhật: 03/06/2017 Nghị quyết 19/2016/NQ-CP về nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia hai năm 2016-2017, định hướng đến năm 2020 do Chính phủ ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 28/04/2016 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 29/04/2016 Luật tổ chức Chính phủ 2015 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 19/06/2015 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 16/07/2015 Công văn 12577/BGTVT-VT năm 2013 trả lời phản ánh của Báo Đất Việt ra ngày 19/11/2013 do Bộ Giao thông vận tải ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 21/11/2013 Hiệu lực: Đã biết Cập nhật: 28/11/2013 Thư mục cha: Chọn thư mục cha Tạo thư mục",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "852 Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu muốn làm Thành Viên Basic / Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Nếu muốn làm Thành Viên Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Quyết định 574/QĐ-TTg quy chế tiếp nhận xử lý trả lời phản ánh kiến ... Chọn văn bản so sánh thay thế: NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN Văn bản bị thay thế Văn bản thay thế Chú thích Văn bản bị thay thế Văn bản thay thế Nội dung gốc Nội dung sửa đổi, hướng dẫn Nội dung gốc Nội dung sửa đổi, hướng dẫn Tải biểu mẫu Chú thích: Rà chuột vào nội dụng văn bản để sử dụng. <Nội dung> = Nội dung hai văn bản đều có; <Nội dung> = Nội dung văn bản cũ có, văn bản mới không có; <Nội dung> = Nội dung văn bản cũ không có, văn bản mới có; <Nội dung> = Nội dung được sửa đổi, bổ sung. Click trái để xem cụ thể từng nội dung cần so sánh và cố định bảng so sánh. Click phải để xem những nội dung sửa đổi, bổ sung. Double click để xem tất cả nội dung không có thay thế tương ứng. Tắt so sánh [X] để trở về trạng thái rà chuột ban đầu. FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN FILE ATTACHED TO DOCUMENT Thư mục cha: Chọn thư mục cha Tạo thư mục Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Xin chúc mừng thành viên acb đã đăng ký sử dụng thành công www.thuvienphapluat.vn THƯ VIỆN PHÁP LUẬT giúp thành viên tìm kiếm văn bản chính xác, nhanh chóng theo nhu cầu và cung cấp nhiều tiện ích, tính năng hiệu quả:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tra cứu và xem trực tiếp hơn 437.000 Văn bản luật, Công văn, hơn 200.000 Bản án Online;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tải về đa dạng văn bản gốc, văn bản file PDF/Word, văn bản Tiếng Anh, bản án, án lệ Tiếng Anh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các nội dung của văn bản này được văn bản khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc ; các quan hệ của các văn bản thông qua tiện ích Lược đồ và nhiều tiện ích khác;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được hỗ trợ pháp lý sơ bộ qua Điện thoại, Email và Zalo nhanh chóng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhận thông báo văn bản mới qua Email để cập nhật các thông tin, văn bản về pháp luật một cách nhanh chóng và chính xác nhất;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trang cá nhân: Quản lý thông tin cá nhân và cài đặt lưu trữ văn bản quan tâm theo nhu cầu. Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây. Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích miễn phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích MIỄN PHÍ nổi bật trên www.thuvienphapluat.vn : Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích có phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích CÓ PHÍ khi xem văn bản trên www.thuvienphapluat.vn : Xin chào Quý khách hàng - ! Để trải nghiệm lại nội dung hướng dẫn tiện ích, Bạn vui lòng vào Trang Hướng dẫn sử dụng . Bên cạnh những tiện ích vừa giới thiệu, Bạn có thể xem thêm Video/Bài viết hướng dẫn sử dụng để biết cách tra cứu, sử dụng toàn bộ các tính năng, tiện ích trên website. Ngoài ra, Bạn có thể nhấn vào đây để trải nghiệm MIỄN PHÍ các tiện ích khi xem văn bản dành cho thành viên CÓ PHÍ . 👉 Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây . 👉 Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Cảm ơn Bạn đã quan tâm và sử dụng dịch vụ của chúng tôi. Trân trọng, THƯ VIỆN PHÁP LUẬT TP. HCM, ngày 31/0 5/2021 Thưa Quý khách, Đúng 14 tháng trước, ngày 31/3/2020, THƯ VIỆN PHÁP LUẬT đã bậ t Thông báo này, và nay 31/5/2021 xin bật lại. Hơn 1 năm qua, dù nhiều khó khăn, chúng ta cũng đã đánh thắng Covid 19 trong 3 trận đầu. Trận 4 này , với chỉ đạo quyết liệt của Chính phủ, chắc chắn chúng ta lại thắng . Là sản phẩm online, nên 25 0 nhân sự chúng tôi vừa làm việc tại trụ sở, vừa làm việc từ xa qua Internet ngay từ đầu tháng 5/2021 . S ứ mệnh của THƯ VIỆN PHÁP LUẬT là:  s ử dụng công nghệ cao để tổ chức lại hệ thống văn bản pháp luật ,  v à kết nối cộng đồng Dân L uật Việt Nam, nhằm :  G iúp công chúng “…loại rủi ro pháp lý, nắm cơ hội làm giàu…” ,  v à cùng công chúng xây dựng, thụ hưởng một xã hội pháp quyền trong tương lai gần; Chúng tôi cam kết dịch vụ sẽ được cung ứng bình thường trong mọi tình huống. THÔNG BÁO về Lưu trữ, Sử dụng Thông tin Khách hàng Kính gửi: Quý Thành viên, Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hiệu lực từ ngày 01/07/2023) yêu cầu xác nhận sự đồng ý của thành viên khi thu thập, lưu trữ, sử dụng thông tin mà quý khách đã cung cấp trong quá trình đăng ký, sử dụng sản phẩm, dịch vụ của THƯ VIỆN PHÁP LUẬT . Quý Thành viên xác nhận giúp THƯ VIỆN PHÁP LUẬT được tiếp tục lưu trữ, sử dụng những thông tin mà Quý Thành viên đã, đang và sẽ cung cấp khi tiếp tục sử dụng dịch vụ. Thực hiện Nghị định 13/2023/NĐ-CP, chúng tôi cập nhật Quy chế và Thỏa thuận Bảo về Dữ liệu cá nhân bên dưới. Trân trọng cảm ơn Quý Thành viên. Tôi đã đọc và đồng ý Quy chế bảo vệ dữ liệu cá nhân Tiếp tục sử dụng Cảm ơn đã dùng ThuVienPhapLuat.vn Bạn vừa bị Đăng xuất khỏi Tài khoản . Hiện tại có đủ người dùng cùng lúc, nên khi người thứ vào thì bạn bị Đăng xuất. Có phải do Tài khoản của bạn bị lộ mật khẩu nên nhiều người khác vào dùng? Hỗ trợ: (028) 3930.3279 _ 0906.229966 Xin lỗi Quý khách vì sự bất tiện này! Tài khoản hiện đã đủ người dùng cùng thời điểm. Quý khách Đăng nhập vào thì sẽ có 1 người khác bị Đăng xuất. Tài khoản của Quý Khách đẵ đăng nhập quá nhiều lần trên nhiều thiết bị khác nhau, Quý Khách có thể vào đây để xem chi tiết lịch sử đăng nhập Có thể tài khoản của bạn đã bị rò rỉ mật khẩu và mất bảo mật, xin vui lòng đổi mật khẩu tại đây để tiếp tục sử dụng Hãy để chúng tôi hỗ trợ bạn! Họ & Tên: Email: Điện thoại: Nội dung: Bạn hãy nhập mật khẩu đang sử dụng và nhập mật khẩu mới 2 lần để chắc rằng bạn nhập đúng. Tên truy cập hoặc Email: Mật khẩu cũ: Mật khẩu mới: Bạn hãy nhập e-mail đã sử dụng để đăng ký thành viên. E-mail: Email người nhận: Tiêu đề Email: Nội dung: Họ & Tên: Email: Điện thoại: Nội dung: Thông báo cho tôi khi Văn bản bị sửa đổi, bổ sung, có hoặc hết hiệu lực. Email nhận thông báo: Thông báo cho tôi khi Văn bản có nội dung. Email nhận thông báo: Ghi chú cho Văn bản .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

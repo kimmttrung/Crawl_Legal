@@ -1,0 +1,1514 @@
+{
+    "ten_luat": "Nghị định 95/2025/NĐ-CP tổ chức và hoạt động của Ngân hàng Phát triển Việt Nam",
+    "so_hieu": "95/2025/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạm vi điều chỉnh Nghị định này quy định về tổ chức và hoạt động của Ngân hàng Phát triển Việt Nam (sau đây viết tắt là Ngân hàng Phát triển).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối tượng áp dụng",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cơ quan quản lý nhà nước;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các tổ chức, cá nhân khác có liên quan."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, những thuật ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người điều hành Ngân hàng Phát triển bao gồm Tổng giám đốc, Phó tổng giám đốc, Kế toán trưởng, Trưởng các đơn vị trực thuộc và các chức danh tương đương do Hội đồng quản trị quy định tại quy chế nội bộ của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đơn vị thuộc Ngân hàng Phát triển bao gồm các ban, trung tâm, văn phòng, bộ phận tại trụ sở chính Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đơn vị trực thuộc Ngân hàng Phát triển bao gồm các sở giao dịch, chi nhánh tại một số tỉnh, thành phố trực thuộc trung ương và khu vực; đơn vị trực thuộc khác.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Tên gọi, trụ sở hoạt động của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tên gọi:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên tiếng Việt: Ngân hàng Phát triển Việt Nam;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tên giao dịch quốc tế: Vietnam Development Bank;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tên viết tắt: VDB."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trụ sở hoạt động: Ngân hàng Phát triển có trụ sở chính đặt tại Thủ đô Hà Nội; có sở giao dịch, chi nhánh tại một số tỉnh, thành phố trực thuộc trung ương và khu vực; đơn vị trực thuộc khác. Website: www.vdb.gov.vn",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Địa vị pháp lý, tư cách pháp nhân, đại diện pháp luật",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển là ngân hàng chính sách do Thủ tướng Chính phủ thành lập, hoạt động theo quy định tại Luật Các tổ chức tín dụng, Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển có tư cách pháp nhân, có vốn điều lệ, có con dấu theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người đại diện theo pháp luật của Ngân hàng Phát triển là Tổng giám đốc.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Nguyên tắc, mục tiêu hoạt động và bảo đảm hoạt động",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nguyên tắc, mục tiêu hoạt động Ngân hàng Phát triển hoạt động không vì mục tiêu lợi nhuận nhằm thực hiện chính sách kinh tế - xã hội của Nhà nước theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bảo đảm hoạt động",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ngân hàng Phát triển được Nhà nước bảo đảm khả năng thanh toán; được cấp bù chênh lệch lãi suất và phí quản lý, được miễn nộp thuế và các khoản nộp ngân sách nhà nước khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ngân hàng Phát triển không phải thực hiện dự trữ bắt buộc, không phải tham gia bảo hiểm tiền gửi."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Chủ sở hữu và đại diện chủ sở hữu nhà nước của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhà nước là chủ sở hữu của Ngân hàng Phát triển. Chính phủ thống nhất quản lý việc thực hiện nhiệm vụ, quyền hạn của chủ sở hữu nhà nước đối với Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thủ tướng Chính phủ trực tiếp thực hiện quyền, trách nhiệm của chủ sở hữu Nhà nước theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Tài chính thực hiện một số quyền, trách nhiệm của chủ sở hữu theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng quản trị là cơ quan đại diện trực tiếp của chủ sở hữu nhà nước tại Ngân hàng Phát triển, thực hiện nhiệm vụ, quyền hạn của chủ sở hữu nhà nước theo quy định tại Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Vốn điều lệ của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Vốn điều lệ của Ngân hàng Phát triển do ngân sách nhà nước cấp và được bổ sung từ ngân sách nhà nước, các nguồn tài chính hợp pháp khác theo quy định pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc bổ sung vốn điều lệ của Ngân hàng Phát triển thực hiện theo quy định của pháp luật về cơ chế quản lý tài chính của Ngân hàng Phát triển.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Trách nhiệm của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quản lý, sử dụng vốn và tài sản của Nhà nước giao cho Ngân hàng Phát triển; đảm bảo an toàn, bảo toàn vốn và tài sản theo quy định tại Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hoàn trả đầy đủ, đúng hạn nợ gốc và lãi đối với các khoản vốn mà Ngân hàng Phát triển huy động theo đúng cam kết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tuân thủ các quy định về kiểm tra, thanh tra, kiểm toán của các cơ quan quản lý nhà nước có thẩm quyền theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tổ chức hoạt động theo đúng chiến lược hoạt động, kế hoạch hoạt động hằng năm, trung và dài hạn được cấp có thẩm quyền phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thực hiện báo cáo công khai, minh bạch về hoạt động và tài chính; chấp hành chế độ báo cáo thống kê với các cơ quan có thẩm quyền theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thực hiện các biện pháp bảo đảm an toàn vốn, tài sản theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thực hiện các trách nhiệm khác theo quy định tại Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Quyền hạn của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Được mở tài khoản thanh toán và thực hiện nghiệp vụ gửi tiền tại Ngân hàng Nhà nước Việt Nam, Kho bạc Nhà nước, các ngân hàng thương mại trong nước và nước ngoài theo quy định của pháp luật; được mở tài khoản cho khách hàng trong nước và nước ngoài theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Được vay tái cấp vốn Ngân hàng Nhà nước Việt Nam theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Được góp vốn thành lập doanh nghiệp trên cơ sở phê duyệt chủ trương của Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được yêu cầu khách hàng cung cấp tài liệu liên quan đến việc vay vốn, tình hình sử dụng vốn, bảo đảm thực hiện nghĩa vụ cho Ngân hàng Phát triển để thẩm định dự án, phương án tài chính, phương án kinh doanh, phương án trả nợ, năng lực của khách hàng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Được cho thuê, thế chấp, cầm cố các tài sản thuộc quyền sử dụng, quyền sở hữu của Ngân hàng Phát triển theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Được đề nghị cơ quan thuế, cơ quan hải quan, các tổ chức tín dụng và các cơ quan, đơn vị có chức năng quản lý, thu thập thông tin, cung cấp những thông tin theo quy định của pháp luật liên quan đến khách hàng có quan hệ với Ngân hàng Phát triển trong các hoạt động ngân hàng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Được kiểm tra, giám sát việc sử dụng vốn vay và trả nợ của khách hàng. Được quyền chấm dứt thực hiện các cam kết với khách hàng, thu hồi nợ trước thời hạn, đồng thời yêu cầu khách hàng bồi thường các thiệt hại phát sinh (nếu có) trường hợp phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm hợp đồng, vi phạm pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Được khởi kiện khách hàng hoặc bên đảm bảo vi phạm hợp đồng theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Khi đến hạn trả nợ, nếu các bên không có thỏa thuận khác mà khách hàng không trả được nợ thì Ngân hàng Phát triển được quyền xử lý tài sản bảo đảm thực hiện nghĩa vụ để thu hồi nợ theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Được xử lý rủi ro trong quá trình hoạt động theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Các quyền khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Tổ chức lại, giải thể Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển tổ chức lại dưới hình thức chia, tách, hợp nhất, sáp nhập, chuyển đổi hình thức pháp lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển giải thể khi hết thời hạn hoạt động quy định tại quyết định của Thủ tướng Chính phủ thành lập Ngân hàng Phát triển mà không được Thủ tướng Chính phủ cho gia hạn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hồ sơ, thủ tục tổ chức lại, giải thể Ngân hàng Phát triển được áp dụng theo quy định đối với tổ chức tín dụng theo quy định tại Luật Các tổ chức tín dụng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Hoạt động của các tổ chức chính trị, tổ chức chính trị - xã hội trong Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức Đảng Cộng sản Việt Nam trong Ngân hàng Phát triển hoạt động theo Hiến pháp, pháp luật của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam và các quy định của Đảng Cộng sản Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức công đoàn và các tổ chức chính trị - xã hội khác trong Ngân hàng Phát triển hoạt động theo Hiến pháp, pháp luật của nước Cộng hòa xã hội chủ nghĩa Việt Nam và Điều lệ của các tổ chức đó, phù hợp với quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân hàng Phát triển tạo điều kiện thuận lợi để các tổ chức Đảng, tổ chức chính trị - xã hội hoạt động tại Ngân hàng Phát triển; tôn trọng và tạo điều kiện để người lao động tham gia hoạt động trong các tổ chức này.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "CƠ CẤU TỔ CHỨC QUẢN LÝ CỦA NGÂN HÀNG PHÁT TRIỂN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Cơ cấu tổ chức quản lý",
+                    "noi_dung_chung": "Cơ cấu tổ chức quản lý của Ngân hàng Phát triển bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổng giám đốc. Mục 1. HỘI ĐỒNG QUẢN TRỊ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Hội đồng quản trị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ cấu Hội đồng quản trị",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ tịch và các thành viên Hội đồng quản trị, số thành viên của Hội đồng quản trị tối đa là 05 người, làm việc theo chế độ chuyên trách. Tổng giám đốc Ngân hàng phát triển là thành viên Hội đồng quản trị;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ tịch Hội đồng quản trị, Tổng giám đốc Ngân hàng Phát triển do Thủ tướng Chính phủ bổ nhiệm, miễn nhiệm; các thành viên Hội đồng quản trị còn lại do Bộ trưởng Bộ Tài chính bổ nhiệm, miễn nhiệm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm thành viên Hội đồng quản trị theo quy định đối với tổ chức tín dụng tại các Điều 41, Điều 42, Điều 43 , Điều 45, Điều 46, Điều 47 Luật Các tổ chức tín dụng và các văn bản sửa đổi, bổ sung, thay thế (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhiệm kỳ của thành viên Hội đồng quản trị",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nhiệm kỳ của thành viên Hội đồng quản trị là 05 năm và có thể được bổ nhiệm lại;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thành viên Hội đồng quản trị có thể bị miễn nhiệm, bãi nhiệm hoặc được bổ nhiệm bổ sung hoặc thay thế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hội đồng quản trị chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ và các cơ quan nhà nước có thẩm quyền trong việc thực hiện nhiệm vụ, quyền hạn được giao theo quy định tại Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng quản trị sử dụng con dấu của Ngân hàng Phát triển để thực hiện nhiệm vụ của mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của Hội đồng quản trị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình Bộ Tài chính để báo cáo Thủ tướng Chính phủ xem xét, quyết định các nội dung quy định tại Điều 34 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình Bộ Tài chính các nội dung quy định tại khoản 2 Điều 35 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ban hành quy chế nội bộ liên quan đến tổ chức, quản trị và hoạt động của Ngân hàng Phát triển bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quy chế tổ chức và hoạt động của Hội đồng quản trị, các đơn vị thuộc và trực thuộc Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các Quy chế hoạt động nghiệp vụ và các quy chế, quy định nội bộ khác thuộc thẩm quyền của Hội đồng quản trị."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Ban hành kế hoạch triển khai thực hiện chiến lược hoạt động, kế hoạch hoạt động trung và dài hạn của Ngân hàng Phát triển sau khi được Thủ tướng Chính phủ phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quyết định kế hoạch hoạt động, kế hoạch tài chính hằng năm của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quyết định hoặc phân cấp hoặc ủy quyền theo quy định của pháp luật các nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cho vay, bảo lãnh tín dụng, hoạt động huy động vốn và các hoạt động khác theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Xử lý rủi ro, tổn thất trong việc cho vay vốn tín dụng chính sách của Nhà nước, các khoản cho vay khác và bảo lãnh tín dụng thuộc thẩm quyền của Hội đồng quản trị theo quy định của pháp luật và cơ chế xử lý rủi ro tại Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đầu tư xây dựng cơ bản, mua, bán, thuê, cho thuê và cải tạo sửa chữa tài sản của Ngân hàng Phát triển theo quy định của pháp luật và quy định về cơ chế quản lý tài chính đối với Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Điều chuyển vốn để đầu tư xây dựng cơ bản và mua sắm tài sản cố định; điều chuyển tài sản giữa các đơn vị trong hệ thống Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Các nội dung khác thuộc thẩm quyền của Hội đồng quản trị Ngân hàng Phát triển theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phê duyệt: Báo cáo tình hình hoạt động, báo cáo quyết toán tài chính, phân phối kết quả tài chính, trích lập, sử dụng các quỹ và công bố báo cáo thường niên của Ngân hàng Phát triển theo quy định về cơ chế quản lý tài chính đối với Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Quyết định lựa chọn tổ chức kiểm toán độc lập để kiểm toán báo cáo tài chính hằng năm của Ngân hàng Phát triển theo đề nghị của Tổng giám đốc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện quyền hạn và trách nhiệm trong quản lý tiền lương, tiền thưởng đối với Ngân hàng Phát triển theo quy định của Chính phủ đối với ngân hàng chính sách.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Quyết định góp vốn thành lập doanh nghiệp; việc tăng, giảm vốn góp của Ngân hàng Phát triển tại doanh nghiệp trên cơ sở phê duyệt chủ trương của Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Quyết định các vấn đề thuộc thẩm quyền của đại diện chủ sở hữu đối với phần vốn góp của Ngân hàng Phát triển tại doanh nghiệp theo quy định của pháp luật và quy định nội bộ của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Quyết định biên chế cho trụ sở chính và các đơn vị trực thuộc trong phạm vi tổng biên chế được giao tại khoản 2 Điều 35 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Quyết định số lượng, cơ cấu, thành lập, tổ chức lại, giải thể các đơn vị thuộc và trực thuộc Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Quyết định quy hoạch, điều động, luân chuyển, bổ nhiệm, bổ nhiệm lại, miễn nhiệm, chấp thuận từ chức, khen thưởng, kỷ luật, cho thôi việc, nghỉ hưu và thực hiện các công tác cán bộ khác đối với: Phó Tổng giám đốc, Kế toán trưởng, các chức danh thuộc bộ máy giúp việc cho Hội đồng quản trị, Trưởng các đơn vị thuộc và trực thuộc, người đại diện quản lý phần vốn góp của Ngân hàng Phát triển tại doanh nghiệp theo đề nghị của Tổng Giám đốc; bộ phận kiểm toán nội bộ và bộ phận giúp việc của Ban kiểm soát theo đề nghị của Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "15",
+                            "noi_dung_khoan": "Đánh giá mức độ hoàn thành nhiệm vụ hằng năm đối với các thành viên Hội đồng quản trị và báo cáo Bộ Tài chính để đánh giá theo quy định tại khoản 2 Điều 35 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "16",
+                            "noi_dung_khoan": "Đánh giá mức độ hoàn thành nhiệm vụ hằng năm đối với chức danh Phó Tổng giám đốc, Kế toán trưởng và các chức danh thuộc thẩm quyền quản lý của Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "17",
+                            "noi_dung_khoan": "Quyết định cử các thành viên Hội đồng quản trị (trừ Chủ tịch Hội đồng quản trị và Tổng giám đốc), Phó Tổng giám đốc, Kế toán trưởng, Trưởng các đơn vị thuộc và trực thuộc Ngân hàng Phát triển đi công tác, học tập trong nước; đi công tác, học tập, giải quyết việc riêng tại nước ngoài.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "18",
+                            "noi_dung_khoan": "Giám sát toàn diện hoạt động của Ngân hàng Phát triển; giám sát việc thực hiện các nghị quyết, quyết định và các văn bản khác của Hội đồng quản trị. Đình chỉ, hủy bỏ, bãi bỏ các văn bản, quy định của Ngân hàng Phát triển (trừ những văn bản do Ban kiểm soát ban hành) trái với nghị quyết, quyết định và các văn bản hiện hành khác của Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "19",
+                            "noi_dung_khoan": "Giám sát, chỉ đạo Tổng giám đốc trong việc thực hiện nhiệm vụ được phân công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "20",
+                            "noi_dung_khoan": "Thực hiện nhiệm vụ và quyền hạn khác của cơ quan đại diện trực tiếp của chủ sở hữu nhà nước tại Ngân hàng Phát triển theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của Chủ tịch Hội đồng quản trị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ban hành chương trình, kế hoạch hoạt động của Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phân công nhiệm vụ cho các thành viên Hội đồng quản trị. Chỉ đạo, giám sát các thành viên Hội đồng quản trị trong việc thực hiện các công việc được phân công và các nhiệm vụ, quyền hạn được giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Triệu tập và chủ tọa các cuộc họp Hội đồng quản trị theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thay mặt Hội đồng quản trị ký các nghị quyết, quyết định của Hội đồng quản trị; ký các văn bản trình cấp có thẩm quyền và xử lý công việc thuộc nhiệm vụ, quyền hạn của Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trường hợp vắng mặt, ủy quyền bằng văn bản cho một thành viên Hội đồng quản trị thực hiện các quyền và nhiệm vụ của Chủ tịch Hội đồng quản trị theo cơ chế phân công, ủy quyền do Hội đồng quản trị quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước pháp luật và trước Hội đồng quản trị về những quyết định của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Các nhiệm vụ và quyền hạn khác theo quy định tại Nghị định này và pháp luật có liên quan và phân cấp, ủy quyền của Hội đồng quản trị.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của thành viên Hội đồng quản trị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ và quyền hạn của thành viên Hội đồng quản trị theo đúng quy chế tổ chức và hoạt động của Hội đồng quản trị và sự phân công của Chủ tịch Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghiên cứu, đánh giá tình hình, kết quả hoạt động và đóng góp vào việc định hướng phát triển, phương án, kế hoạch hoạt động của Ngân hàng Phát triển trong từng thời kỳ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tham dự các cuộc họp của Hội đồng quản trị, thảo luận và biểu quyết về tất cả các vấn đề thuộc nội dung cuộc họp, trừ trường hợp không được biểu quyết vì vấn đề xung đột lợi ích với thành viên đó. Chịu trách nhiệm trước pháp luật và trước Hội đồng quản trị về những quyết định của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đề nghị Chủ tịch Hội đồng quản trị triệu tập họp Hội đồng quản trị bất thường theo quy định tại khoản 2 Điều 17 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thực hiện các quyết định, nghị quyết của Hội đồng quản trị phù hợp theo quy định tại Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Báo cáo trước Hội đồng quản trị về việc thực hiện nhiệm vụ được giao khi có yêu cầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Các nhiệm vụ và quyền hạn khác theo quy định tại Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Chế độ làm việc, điều kiện và thể thức tiến hành họp Hội đồng quản trị",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng quản trị làm việc theo chế độ tập thể, quyết định theo đa số; ít nhất một tháng họp một lần do Chủ tịch Hội đồng quản trị (hoặc người được ủy quyền) triệu tập và chủ trì để xem xét và quyết định những vấn đề thuộc thẩm quyền và trách nhiệm của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng quản trị họp bất thường khi có đề nghị của một trong các trường hợp sau đây: Đề nghị Hội đồng quản trị họp bất thường phải lập bằng văn bản, trong đó nêu rõ mục đích họp, vấn đề cần thảo luận và quyết định thuộc thẩm quyền của Hội đồng quản trị. Người có thẩm quyền triệu tập họp Hội đồng quản trị có quyền từ chối đề nghị nêu trên nếu vấn đề cần thảo luận và quyết định không thuộc thẩm quyền của Hội đồng quản trị nhưng phải thông báo cho người đề nghị và các thành viên Hội đồng quản trị biết.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ tịch Hội đồng quản trị;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổng giám đốc hoặc Trưởng Ban kiểm soát;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Ít nhất hai thành viên của Hội đồng quản trị."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ tịch Hội đồng quản trị hoặc thành viên Hội đồng quản trị được Chủ tịch Hội đồng quản trị ủy quyền triệu tập họp trong vòng 5 ngày làm việc, kể từ ngày nhận được đề nghị triệu tập nêu tại điểm b và điểm c khoản 2 Điều này. Trường hợp Chủ tịch Hội đồng quản trị hoặc người được ủy quyền không chấp nhận triệu tập cuộc họp, Chủ tịch Hội đồng quản trị hoặc người được ủy quyền phải chịu trách nhiệm về những thiệt hại xảy ra đối với Ngân hàng Phát triển, trừ trường hợp không thể triệu tập họp được vì lý do bất khả kháng. Trong trường hợp bất khả kháng nêu trên, người đề nghị nêu tại điểm b và điểm c khoản 2 Điều này có thể thay thế Chủ tịch Hội đồng quản trị triệu tập họp Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chủ tịch Hội đồng quản trị hoặc người triệu tập họp Hội đồng quản trị gửi thông báo mời họp chậm nhất 3 ngày làm việc trước ngày họp. Thông báo mời họp làm bằng văn bản, trong đó nêu rõ chương trình, thời gian và địa điểm họp, các vấn đề thảo luận và quyết định. Hình thức họp trực tuyến có thể được áp dụng khi cần thiết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cuộc họp Hội đồng quản trị được tiến hành khi có ít nhất 2/3 tổng số thành viên Hội đồng quản trị có mặt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Nghị quyết, quyết định của Hội đồng quản trị có hiệu lực khi có trên 50% số thành viên Hội đồng quản trị dự họp biểu quyết tán thành hoặc có ý kiến tán thành bằng văn bản, trường hợp ngang nhau thì quyết định theo ý kiến của người chủ trì cuộc họp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đối với những công việc có liên quan đến chức năng quản lý nhà nước của các bộ, ngành, chính quyền địa phương, các tổ chức kinh tế, tổ chức chính trị - xã hội, các hội, các hiệp hội, các tổ chức phi Chính phủ thì có thể mời đại diện có thẩm quyền của các tổ chức, cơ quan đó tham dự phiên họp. Các phiên họp có nội dung công việc liên quan trực tiếp đến quyền lợi và nghĩa vụ của người lao động trong Ngân hàng Phát triển thì phải mời đại diện Công đoàn Ngân hàng Phát triển tham dự.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thẩm quyền và thể thức lấy ý kiến thành viên Hội đồng quản trị bằng văn bản:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ tịch Hội đồng quản trị quyết định việc lấy ý kiến thành viên Hội đồng quản trị bằng văn bản;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự, thủ tục lấy ý kiến thành viên Hội đồng quản trị do Hội đồng quản trị quy định trên cơ sở phù hợp với quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Biên bản họp Hội đồng quản trị:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các cuộc họp của Hội đồng quản trị được ghi biên bản, trường hợp cần thiết có thể ghi âm. Biên bản được lập bằng tiếng Việt theo thể thức và các nội dung chủ yếu theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Biên bản họp Hội đồng quản trị và các tài liệu sử dụng trong cuộc họp phải được lưu giữ tại Trụ sở chính của Ngân hàng Phát triển."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Giúp việc cho Hội đồng quản trị",
+                    "noi_dung_chung": "Hội đồng quản trị được thành lập các bộ phận chuyên môn để giúp việc Hội đồng quản trị. Chức năng, nhiệm vụ cụ thể của các bộ phận chuyên môn do Hội đồng quản trị quyết định. Mục 2. BAN KIỂM SOÁT",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Ban kiểm soát",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ban kiểm soát thực hiện giám sát, đánh giá việc chấp hành quy định của pháp luật; quy định nội bộ, nghị quyết, quyết định và các văn bản chỉ đạo khác của Chính phủ, Thủ tướng Chính phủ, các bộ, ngành thực hiện chức năng quản lý nhà nước đối với Ngân hàng Phát triển và của Hội đồng quản trị Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ban kiểm soát có 03 thành viên do Bộ Tài chính bổ nhiệm, làm việc theo chế độ chuyên trách, trong đó có 01 thành viên làm Trưởng ban kiểm soát. Tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm thành viên Ban kiểm soát theo quy định đối với tổ chức tín dụng tại các Điều 41, Điều 42, Điều 43 , Điều 45, Điều 46, Điều 47 Luật Các tổ chức tín dụng và các văn bản sửa đổi, bổ sung, thay thế (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhiệm kỳ của thành viên Ban kiểm soát là 05 năm và có thể được bổ nhiệm lại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trường hợp Ban kiểm soát có số thành viên ít hơn số thành viên quy định tại khoản 2 Điều này, trong thời hạn tối đa 90 ngày làm việc kể từ ngày không đủ số thành viên theo quy định, Ban Kiểm soát phải đề nghị Bộ Tài chính bổ sung đủ số lượng thành viên Ban kiểm soát theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Ban kiểm soát hoạt động theo quy chế do Bộ Tài chính ban hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của Ban kiểm soát",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giám sát hoạt động quản trị, điều hành Ngân hàng Phát triển trong việc tuân thủ pháp luật, quy định nội bộ, nghị quyết của Hội đồng quản trị, quyết định, văn bản chỉ đạo của các cấp có thẩm quyền; chịu trách nhiệm trước pháp luật, trước Bộ Tài chính và cơ quan có thẩm quyền trong việc thực hiện nhiệm vụ và quyền hạn được giao quy định tại Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ban hành, sửa đổi, bổ sung quy định nội bộ của Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Giám sát việc chấp hành chế độ, thực trạng tài chính; chế độ kế toán; việc tuân thủ các giới hạn, tỷ lệ đảm bảo an toàn trong hoạt động của Ngân hàng Phát triển; giám sát hoạt động hệ thống kiểm soát nội bộ; tổ chức thực hiện kiểm toán nội bộ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thẩm định kế hoạch tài chính hằng năm; thẩm định báo cáo tình hình hoạt động, báo cáo tài chính 06 tháng đầu năm và hằng năm; đánh giá tính hợp lý, hợp pháp, trung thực và mức độ cẩn trọng trong công tác kế toán, thống kê và lập báo cáo tài chính; kiểm tra từng nội dung cụ thể liên quan đến hoạt động của Ngân hàng Phát triển khi xét thấy cần thiết trước khi báo cáo Bộ Tài chính và các cơ quan có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Kịp thời thông báo cho Hội đồng quản trị và báo cáo Bộ Tài chính khi phát hiện thành viên Hội đồng quản trị, người điều hành Ngân hàng Phát triển có hành vi vi phạm quy định tại Nghị định này và pháp luật có liên quan; yêu cầu người vi phạm chấm dứt ngay hành vi vi phạm và có giải pháp khắc phục hậu quả (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Được tiếp cận, cung cấp đầy đủ, chính xác, kịp thời các thông tin, tài liệu liên quan đến hoạt động quản lý, điều hành Ngân hàng Phát triển để thực hiện nhiệm vụ, quyền hạn được giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Được tham dự các cuộc họp giao ban, họp Hội đồng quản trị, họp do Tổng giám đốc chủ trì, họp chuyên đề có liên quan đến việc thực hiện nhiệm vụ của Ban kiểm soát. Ban kiểm soát tham dự các cuộc họp có quyền phát biểu ý kiến nhưng không có quyền biểu quyết. Được yêu cầu ghi lại ý kiến của mình trong biên bản cuộc họp nếu ý kiến đó khác với nghị quyết, quyết định của Hội đồng quản trị và báo cáo Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Được sử dụng các nguồn lực của Ngân hàng Phát triển, được thuê chuyên gia và tổ chức bên ngoài để thực hiện nhiệm vụ nhưng vẫn phải chịu trách nhiệm về việc thực hiện nhiệm vụ của mình. Được sử dụng con dấu của Ngân hàng Phát triển để thực hiện chức năng, nhiệm vụ của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thành viên Ban kiểm soát được đào tạo nghiệp vụ kiểm soát. Trường hợp cần thiết, được quyền yêu cầu tư vấn của các chuyên gia, tổ chức chuyên ngành để phục vụ công tác sau khi được sự đồng ý bằng văn bản của Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Các nhiệm vụ và quyền hạn khác do Bộ Tài chính giao.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của Trưởng ban kiểm soát",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chỉ đạo, tổ chức triển khai việc thực hiện nhiệm vụ, quyền hạn của Ban kiểm soát theo quy định tại Nghị định này và pháp luật liên quan; chịu trách nhiệm về việc thực hiện quyền, nghĩa vụ của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Triệu tập và làm chủ tọa các cuộc họp Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thay mặt Ban kiểm soát ký các văn bản thuộc thẩm quyền của Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chuẩn bị kế hoạch làm việc và phân công nhiệm vụ cho các thành viên Ban kiểm soát theo quy định nội bộ của Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bảo đảm thành viên Ban kiểm soát nhận được thông tin đầy đủ, khách quan, chính xác và có đủ thời gian thảo luận các vấn đề mà Ban kiểm soát phải xem xét.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Giám sát, chỉ đạo các thành viên Ban kiểm soát trong việc thực hiện các công việc được phân công và quyền, nghĩa vụ của Ban kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Chỉ được ủy quyền bằng văn bản cho một thành viên khác của Ban kiểm soát thực hiện quyền, nghĩa vụ của Trưởng ban kiểm soát trong thời gian vắng mặt hoặc không thể thực hiện nhiệm vụ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Đề nghị Hội đồng quản trị họp bất thường theo quy định tại Nghị định này. Tham dự các cuộc họp của Hội đồng quản trị, họp do Tổng giám đốc chủ trì, họp chuyên đề có liên quan đến việc thực hiện nhiệm vụ của Ban kiểm soát, tham gia ý kiến và đưa ra kiến nghị, nhưng không được biểu quyết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện nhiệm vụ và quyền hạn khác theo quy định tại Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của thành viên Ban kiểm soát",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ và quyền hạn của thành viên Ban kiểm soát theo đúng quy định tại Nghị định này, pháp luật có liên quan và quy định nội bộ của Ban kiểm soát một cách trung thực, thận trọng vì lợi ích của Ngân hàng Phát triển và của Nhà nước; chịu trách nhiệm về việc thực hiện quyền, nghĩa vụ của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đề nghị Trưởng Ban kiểm soát triệu tập họp Ban kiểm soát bất thường.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm soát các hoạt động, kiểm tra sổ sách kế toán, tài sản, các báo cáo tài chính của Ngân hàng Phát triển và kiến nghị khắc phục các sai phạm (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được quyền yêu cầu cán bộ của Ngân hàng Phát triển cung cấp số liệu và giải trình các hoạt động để thực hiện nhiệm vụ được phân công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Báo cáo Trưởng Ban kiểm soát về các hoạt động tài chính bất thường, chịu trách nhiệm cá nhân về những đánh giá và kết luận của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tham dự các cuộc họp của Ban kiểm soát, thảo luận và biểu quyết về các vấn đề thuộc nhiệm vụ, quyền hạn của Ban kiểm soát, trừ những vấn đề có xung đột lợi ích.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Tham dự các cuộc họp của Hội đồng quản trị, họp do Tổng giám đốc chủ trì, họp chuyên đề có liên quan đến việc thực hiện nhiệm vụ của Ban kiểm soát, tham gia ý kiến và đưa ra kiến nghị, nhưng không được biểu quyết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thực hiện nhiệm vụ khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Bộ phận kiểm toán nội bộ và bộ phận giúp việc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ban kiểm soát có bộ phận kiểm toán nội bộ và bộ phận giúp việc để thực hiện nhiệm vụ của mình. Trên cơ sở đề nghị của Ban Kiểm soát, Hội đồng quản trị thành lập bộ phận kiểm toán nội bộ và bộ phận giúp việc cho Ban Kiểm soát.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quy chế hoạt động của bộ phận kiểm toán nội bộ, bộ phận giúp việc do Ban kiểm soát quyết định. Mục 3. TỔNG GIÁM ĐỐC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Tổng giám đốc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng giám đốc là người điều hành hoạt động hằng ngày của Ngân hàng Phát triển, chịu trách nhiệm trước Hội đồng quản trị và trước pháp luật về việc thực hiện nhiệm vụ và quyền hạn của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhiệm kỳ của Tổng giám đốc là 05 năm và có thể được bổ nhiệm lại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm Tổng Giám đốc áp dụng theo quy định đối với tổ chức tín dụng tại các Điều 41, Điều 42, Điều 43 , Điều 45, Điều 46, Điều 47 Luật Các tổ chức tín dụng và các văn bản sửa đổi, bổ sung, thay thế (nếu có).",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Nhiệm vụ và quyền hạn của Tổng giám đốc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tuân thủ thực hiện theo quy định của các nghị quyết, quyết định và các văn bản chỉ đạo của Hội đồng quản trị, Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình Hội đồng quản trị các nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chiến lược hoạt động, kế hoạch hoạt động hằng năm, trung và dài hạn; kế hoạch tài chính hằng năm;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lựa chọn tổ chức kiểm toán độc lập để kiểm toán báo cáo tài chính hằng năm của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các nội dung khác theo phân công của Hội đồng quản trị, theo quy định tại Nghị định này và pháp luật liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ban hành, hướng dẫn triển khai các quy chế, quy định nội bộ, quy trình, thủ tục tác nghiệp để điều hành hoạt động hằng ngày của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quyết định các vấn đề thuộc thẩm quyền liên quan đến điều hành công việc hằng ngày của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thiết lập, duy trì hệ thống kiểm soát nội bộ có hiệu quả.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tổ chức thực hiện kế hoạch hoạt động, kế hoạch tài chính của Ngân hàng Phát triển, các nghị quyết, quyết định và các văn bản chỉ đạo của Hội đồng quản trị và các cấp có thẩm quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Tổ chức tuyển dụng, sử dụng lao động theo biên chế được giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Quyết định hoặc phân cấp, ủy quyền cho các đơn vị thuộc và trực thuộc Ngân hàng Phát triển cấp tín dụng, ký kết hợp đồng, huy động vốn, đầu tư, thanh lý, bán tài sản của Ngân hàng Phát triển, điều chuyển vốn, tài sản giữa các đơn vị trực thuộc và các công việc khác theo quy định của pháp luật và phù hợp với thẩm quyền được Hội đồng quản trị phân cấp, ủy quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Được quyết định các biện pháp vượt thẩm quyền của mình quy định tại Nghị định này và pháp luật liên quan trong trường hợp khẩn cấp khi có thiên tai, chiến tranh, hỏa hoạn, dịch bệnh, sự cố và chịu trách nhiệm toàn diện trước pháp luật và các cơ quan có thẩm quyền về quyết định đó; kịp thời báo cáo Hội đồng quản trị sau khi thực hiện theo quy định nội bộ của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Quyết định quy hoạch, điều động, luân chuyển, bổ nhiệm, bổ nhiệm lại, miễn nhiệm, chấp thuận từ chức, khen thưởng, kỷ luật, cho thôi việc, nghỉ hưu và thực hiện các công tác cán bộ khác đối với các chức danh quản lý trong Ngân hàng Phát triển theo quy định nội bộ do Hội đồng quản trị ban hành, trừ các chức danh thuộc thẩm quyền của Thủ tướng Chính phủ, Bộ Tài chính và Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Đề nghị triệu tập họp Hội đồng quản trị bất thường theo quy định của pháp luật và Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Báo cáo Hội đồng quản trị, Ban kiểm soát và cơ quan có thẩm quyền về kết quả hoạt động của Ngân hàng Phát triển theo quy định tại Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Chịu sự giám sát của Hội đồng quản trị, Ban kiểm soát và các cơ quan nhà nước có thẩm quyền đối với việc thực hiện nhiệm vụ, quyền hạn của mình theo quy định tại Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Đại diện pháp nhân cho Ngân hàng Phát triển trước pháp luật trong việc tố tụng, tranh chấp, thanh lý, giải thể và trong công tác đối nội, đối ngoại liên quan đến hoạt động của Ngân hàng Phát triển theo quy chế phân công, ủy quyền của Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "15",
+                            "noi_dung_khoan": "Ký các văn bản, thỏa ước, hợp đồng, chứng thư của Ngân hàng Phát triển trong công tác đối nội, đối ngoại theo quy định tại Nghị định này và pháp luật liên quan, phù hợp với phân công, phân cấp, ủy quyền của Hội đồng quản trị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "16",
+                            "noi_dung_khoan": "Các nhiệm vụ và quyền hạn khác theo quy định tại Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Giúp việc cho Tổng giám đốc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giúp việc cho Tổng giám đốc là các Phó Tổng giám đốc, Kế toán trưởng, các đơn vị thuộc và trực thuộc Ngân hàng Phát triển (trừ bộ phận giúp việc cho Hội đồng quản trị, Ban kiểm soát, Đảng, đoàn thể).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phó Tổng giám đốc",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phó Tổng giám đốc đảm nhiệm phụ trách một hoặc một số lĩnh vực hoạt động của Ngân hàng Phát triển theo phân công của Tổng giám đốc và chịu trách nhiệm trước Tổng giám đốc, Hội đồng quản trị và pháp luật về việc thực hiện nhiệm vụ được phân công;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Số lượng Phó Tổng giám đốc do Hội đồng quản trị quyết định, tối đa không quá 05 người. Nhiệm kỳ của Phó Tổng giám đốc là 05 năm và có thể được bổ nhiệm lại;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm Phó Tổng giám đốc theo quy định của Luật Các tổ chức tín dụng và quy định pháp luật có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kế toán trưởng",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kế toán trưởng có nhiệm vụ giúp Tổng giám đốc chỉ đạo thực hiện công tác kế toán, tài chính của Ngân hàng Phát triển; chịu trách nhiệm trước Tổng Giám đốc, Hội đồng quản trị và pháp luật về việc thực hiện nhiệm vụ được phân công;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm Kế toán trưởng theo quy định của Luật Các tổ chức tín dụng và quy định pháp luật có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các đơn vị thuộc và trực thuộc",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các đơn vị thuộc và trực thuộc Ngân hàng Phát triển có chức năng tham mưu, giúp việc cho Tổng giám đốc trong điều hành công việc theo quy định của Ngân hàng Phát triển; chịu trách nhiệm trước Tổng Giám đốc, Hội đồng quản trị và pháp luật về việc thực hiện nhiệm vụ được phân công;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện bổ nhiệm, miễn nhiệm trưởng các đơn vị thuộc và trực thuộc theo quy định đối với chức danh giám đốc chi nhánh của tổ chức tín dụng tại Luật Các tổ chức tín dụng và quy định pháp luật có liên quan."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Hệ thống kiểm soát nội bộ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hệ thống kiểm soát nội bộ là tập hợp các cơ chế, chính sách, quy trình, quy định nội bộ, cơ cấu tổ chức của Ngân hàng Phát triển và được tổ chức thực hiện nhằm bảo đảm phòng ngừa, phát hiện, xử lý kịp thời rủi ro.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hoạt động của hệ thống kiểm soát nội bộ được áp dụng theo quy định của Ngân hàng Nhà nước Việt Nam về hệ thống kiểm soát nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, quy định của Hội đồng quản trị và pháp luật có liên quan. Mục 4. MỐI QUAN HỆ GIỮA HỘI ĐỒNG QUẢN TRỊ, TỔNG GIÁM ĐỐC VÀ BAN KIỂM SOÁT",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Quan hệ giữa Hội đồng quản trị, Tổng giám đốc và Ban kiểm soát trong quản lý, điều hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trong quá trình quản lý, điều hành hoạt động của Ngân hàng Phát triển, Hội đồng quản trị, Tổng giám đốc, Ban kiểm soát có trách nhiệm thực hiện nhiệm vụ, quyền hạn theo quy định tại Nghị định này và pháp luật liên quan, thường xuyên cung cấp thông tin, trao đổi tham vấn ý kiến trước khi quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng giám đốc có trách nhiệm tổ chức thực hiện nghị quyết, quyết định của Hội đồng quản trị, Chủ tịch Hội đồng quản trị và báo cáo Hội đồng quản trị, Chủ tịch Hội đồng quản trị về kết quả thực hiện. Nếu phát hiện vấn đề không phù hợp với lợi ích chính đáng của Ngân hàng Phát triển hoặc trái với quy định của pháp luật về trách nhiệm, quyền hạn của Ngân hàng Phát triển thì Tổng giám đốc phải báo cáo ngay với Hội đồng quản trị để xem xét điều chỉnh lại. Trường hợp Hội đồng quản trị không điều chỉnh lại nghị quyết, quyết định thì Tổng giám đốc vẫn phải thực hiện nhưng có quyền bảo lưu ý kiến để kiến nghị lên các cơ quan có thẩm quyền quyết định. Trường hợp quyết định của Tổng giám đốc không đúng với quy định của pháp luật hoặc không phù hợp với lợi ích chính đáng của Ngân hàng Phát triển, Hội đồng quản trị có quyền yêu cầu Tổng giám đốc điều chỉnh lại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ban kiểm soát thực hiện chức năng giám sát hoạt động của Ngân hàng Phát triển theo quy định tại Nghị định này và Quy chế hoạt động của Ban kiểm soát do Bộ Tài chính ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các quy định khác về mối quan hệ giữa Hội đồng quản trị, Tổng giám đốc và Ban kiểm soát Ngân hàng Phát triển thực hiện theo quy định nội bộ của Ngân hàng Phát triển và pháp luật liên quan.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "HOẠT ĐỘNG CỦA NGÂN HÀNG PHÁT TRIỂN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Hoạt động nghiệp vụ của Ngân hàng Phát triển",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hoạt động huy động vốn:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phát hành trái phiếu được Chính phủ bảo lãnh theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phát hành trái phiếu, giấy tờ có giá bằng đồng Việt Nam của Ngân hàng Phát triển theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Vay Bảo hiểm xã hội Việt Nam; vay của các tổ chức tài chính, tín dụng trong nước và nước ngoài theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Vay tái cấp vốn Ngân hàng Nhà nước Việt Nam theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Huy động vốn của các tổ chức khác trong và ngoài nước theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Nhận tiền gửi ủy thác của các tổ chức, cá nhân trong và ngoài nước theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Huy động các nguồn vốn khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hoạt động tín dụng:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cho vay theo chính sách tín dụng đầu tư của Nhà nước theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bảo lãnh tín dụng cho các doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại theo quyết định của Thủ tướng Chính phủ ban hành quy chế bảo lãnh cho doanh nghiệp nhỏ và vừa vay vốn tại ngân hàng thương mại;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cho vay lại vốn vay ODA, vay ưu đãi nước ngoài của Chính phủ theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện các hoạt động tín dụng khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hoạt động ủy thác và nhận ủy thác: Thực hiện các hoạt động cho vay theo ủy quyền/ủy thác, cấp phát vốn theo ủy thác; bảo lãnh theo ủy quyền/ủy thác; ủy thác, nhận ủy thác cung ứng các dịch vụ tài chính, ngân hàng cho khách hàng theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tham gia thị trường liên ngân hàng, thị trường mở, tổ chức thanh toán nội bộ; cung cấp các dịch vụ thanh toán, các dịch vụ ngân hàng khác cho khách hàng; thực hiện hoạt động ngoại hối; được tham gia hệ thống thanh toán trong nước và quốc tế theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thực hiện các hoạt động nghiệp vụ khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Vốn hoạt động và sử dụng vốn của Ngân hàng Phát triển",
+                    "noi_dung_chung": "Vốn hoạt động và việc sử dụng vốn của Ngân hàng Phát triển thực hiện theo quy định về cơ chế quản lý tài chính, tín dụng của Ngân hàng Phát triển, Nghị định này và pháp luật có liên quan.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Chế độ tài chính",
+                    "noi_dung_chung": "Cơ chế quản lý tài chính của Ngân hàng Phát triển thực hiện theo quy định của Chính phủ.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Chế độ kế toán, thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện chế độ kế toán, thống kê theo quy định của pháp luật và hướng dẫn của Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Năm tài chính của Ngân hàng Phát triển bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Báo cáo tài chính, kiểm toán báo cáo tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện báo cáo tài chính theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tài chính hằng năm của Ngân hàng Phát triển được kiểm toán theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ngân hàng Phát triển thực hiện công khai báo cáo tài chính theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng quản trị, Ban kiểm soát, Tổng giám đốc Ngân hàng Phát triển chịu trách nhiệm về tính chính xác, trung thực của các báo cáo.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "QUYỀN HẠN VÀ TRÁCH NHIỆM CỦA THỦ TƯỚNG CHÍNH PHỦ VÀ CÁC CƠ QUAN QUẢN LÝ ĐỐI VỚI NGÂN HÀNG PHÁT TRIỂN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Thủ tướng Chính phủ",
+                    "noi_dung_chung": "Thủ tướng Chính phủ quyết định các nội dung sau trên cơ sở đề nghị của Bộ Tài chính:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều động, luân chuyển, bổ nhiệm, bổ nhiệm lại, miễn nhiệm, chấp thuận từ chức, khen thưởng, kỷ luật, cho thôi việc, nghỉ hưu và thực hiện các công tác cán bộ khác đối với Chủ tịch Hội đồng quản trị và Tổng giám đốc của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức lại, cơ cấu lại, chuyển đổi sở hữu, giải thể Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chiến lược hoạt động của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kế hoạch hoạt động trung và dài hạn của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chủ trương góp vốn thành lập doanh nghiệp, việc tăng, giảm vốn góp của Ngân hàng Phát triển tại doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các nhiệm vụ và quyền hạn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Bộ Tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình Thủ tướng Chính phủ quyết định các nội dung tại Điều 34 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quyết định các nội dung sau trên cơ sở đề nghị của Hội đồng quản trị Ngân hàng Phát triển:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổng biên chế của Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quy hoạch các chức danh Chủ tịch Hội đồng quản trị, Tổng giám đốc, các thành viên Hội đồng quản trị khác và thành viên Ban kiểm soát;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Điều động, luân chuyển, bổ nhiệm, bổ nhiệm lại, miễn nhiệm, chấp thuận từ chức, khen thưởng, kỷ luật, cho thôi việc, nghỉ hưu và thực hiện các công tác cán bộ khác đối với các thành viên Hội đồng quản trị (không bao gồm Chủ tịch Hội đồng quản trị và Tổng giám đốc), thành viên Ban kiểm soát;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đánh giá hiệu quả hoạt động và xếp loại Ngân hàng Phát triển;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đánh giá mức độ hoàn thành nhiệm vụ của các thành viên Hội đồng quản trị, các thành viên Ban kiểm soát Ngân hàng Phát triển theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Chấp thuận cử Chủ tịch Hội đồng quản trị, Tổng giám đốc và các thành viên Ban kiểm soát Ngân hàng Phát triển đi công tác, học tập, giải quyết việc riêng ở nước ngoài."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trình cấp có thẩm quyền bố trí kinh phí cấp bù lãi suất và phí quản lý; cấp vốn điều lệ trong kế hoạch hằng năm, kế hoạch đầu tư công trung hạn và nguồn vốn khác (nếu có) cho Ngân hàng Phát triển theo quy định của pháp luật về ngân sách nhà nước, đầu tư công và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trình cấp có thẩm quyền giao kế hoạch vốn tín dụng đầu tư của Nhà nước hằng năm cho Ngân hàng Phát triển trước năm kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thực hiện quyền hạn và trách nhiệm trong quản lý tiền lương, tiền thưởng đối với Ngân hàng Phát triển theo quy định của Chính phủ đối với ngân hàng chính sách.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Bộ Nội vụ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hướng dẫn Ngân hàng Phát triển thực hiện các chính sách về lao động, tiền lương, tiền thưởng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Ngân hàng Nhà nước Việt Nam",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hướng dẫn Ngân hàng Phát triển phân loại nợ và các quy định đảm bảo an toàn trong hoạt động phù hợp với tính chất và hoạt động của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn Ngân hàng Phát triển tham gia hoạt động thanh toán, tham gia thị trường mở, thị trường liên ngân hàng và vay tái cấp vốn Ngân hàng Nhà nước theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quyết định việc cấp giấy phép hoạt động quản lý ngoại hối phù hợp với hoạt động của Ngân hàng Phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, chính quyền địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện chức năng thanh tra, kiểm tra, giám sát và quản lý nhà nước khác đối với hoạt động của Ngân hàng Phát triển theo chức năng, nhiệm vụ được Chính phủ giao và quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "THÔNG TIN VÀ BẢO MẬT CỦA NGÂN HÀNG PHÁT TRIỂN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Trao đổi thông tin",
+                    "noi_dung_chung": "Ngân hàng Phát triển và tổ chức tín dụng được trao đổi với nhau thông tin về hoạt động của Ngân hàng Phát triển và tổ chức tín dụng.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Bảo mật thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thành viên Hội đồng quản trị, người điều hành, người lao động của Ngân hàng Phát triển không được tiết lộ thông tin khách hàng, bí mật các thông tin về hoạt động của Ngân hàng Phát triển theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ngân hàng Phát triển được quyền từ chối yêu cầu của tổ chức, cá nhân về cung cấp thông tin liên quan đến tiền gửi, tài sản của khách hàng và hoạt động của Ngân hàng Phát triển, trừ trường hợp có yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật hoặc được sự chấp thuận của khách hàng.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VI",
+            "tieu_de_chuong": "TỔ CHỨC THỰC HIỆN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều lệ tổ chức và hoạt động của Ngân hàng Phát triển Việt Nam ban hành kèm theo Quyết định số 1515/QĐ-TTg ngày 03 tháng 9 năm 2015 của Thủ tướng Chính phủ hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương; Chủ tịch Hội đồng quản trị, Tổng giám đốc Ngân hàng Phát triển và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ngân hàng Phát triển Việt Nam; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (2b). TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Hồ Đức Phớc Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Các hoạt động nghiệp vụ của Ngân hàng Phát triển Việt Nam Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 95/2025/NĐ-CP quy định về tổ chức và hoạt động của Ngân hàng Phát triển Việt Nam Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Các hoạt động nghiệp vụ của Ngân hàng Phát triển Việt Nam Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Các hoạt động nghiệp vụ của Ngân hàng Phát triển Việt Nam Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 95/2025/NĐ-CP quy định về tổ chức và hoạt động của Ngân hàng Phát triển Việt Nam MỤC LỤC VĂN BẢN In mục lục In mục lục GOVERNMENT OF VIETNAM -------- THE SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom – Happiness --------------- No. 95/2025/ND-CP Hanoi, April 29, 2025 DECREE ON ORGANIZATION AND OPERATION VIETNAM DEVELOPMENT BANK",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

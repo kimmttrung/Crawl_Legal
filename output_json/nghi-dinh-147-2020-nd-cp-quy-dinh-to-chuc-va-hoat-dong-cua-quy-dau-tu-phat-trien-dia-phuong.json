@@ -1,0 +1,2046 @@
+{
+    "ten_luat": "Nghị định 147/2020/NĐ-CP quy định tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương",
+    "so_hieu": "147/2020/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương do tỉnh, thành phố trực thuộc trung ương thành lập (sau đây gọi tắt là Quỹ đầu tư phát triển địa phương hoặc Quỹ); hoạt động huy động vốn, cho vay, đầu tư, ủy thác và nhận ủy thác để thực hiện chức năng Quỹ đầu tư phát triển địa phương của Công ty Đầu tư Tài chính Nhà nước Thành phố Hồ Chí Minh (sau đây gọi tắt là HFIC).",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "“Vốn hoạt động” là tổng số vốn chủ sở hữu và vốn huy động của Quỹ đầu tư phát triển địa phương tại một thời điểm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "“Người quản lý Quỹ đầu tư phát triển địa phương” là người giữ các chức danh, chức vụ bao gồm: Chủ tịch, Phó Chủ tịch, thành viên Hội đồng quản lý, Trưởng Ban Kiểm soát, Tổng Giám đốc/Giám đốc (sau đây gọi tắt là Giám đốc), Phó Tổng Giám đốc/Phó Giám đốc (sau đây gọi tắt là Phó Giám đốc), Kế toán trưởng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Địa vị pháp lý và tư cách pháp nhân của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương là quỹ tài chính nhà nước ngoài ngân sách do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh) thành lập, hoạt động không vì mục tiêu lợi nhuận, bảo toàn và phát triển vốn; thực hiện chức năng cho vay và đầu tư tại địa phương theo quy định tại Nghị định này. Ủy ban nhân dân cấp tỉnh thực hiện chức năng đại diện chủ sở hữu nhà nước đối với Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương có tư cách pháp nhân, có vốn điều lệ, có con dấu, được mở tài khoản tại Kho bạc Nhà nước và các ngân hàng thương mại hoạt động hợp pháp tại Việt Nam theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tên gọi của Quỹ đầu tư phát triển địa phương: Quỹ đầu tư phát triển, ghép với tên tỉnh, thành phố trực thuộc trung ương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "HFIC thành lập theo quy định của Luật Doanh nghiệp và quy định của pháp luật có liên quan. Hoạt động huy động vốn, cho vay, đầu tư, ủy thác và nhận ủy thác để thực hiện chức năng Quỹ đầu tư phát triển địa phương của HFIC thực hiện theo quy định tại Nghị định này và các văn bản hướng dẫn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc và phạm vi hoạt động của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nguyên tắc hoạt động của Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tự chủ về tài chính, không vì mục tiêu lợi nhuận, bảo toàn và phát triển vốn; hoạt động độc lập với ngân sách nhà nước."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chịu trách nhiệm hữu hạn trong phạm vi vốn điều lệ."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thực hiện cho vay, đầu tư đúng đối tượng và điều kiện theo quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạm vi hoạt động của Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Huy động vốn trung, dài hạn từ các tổ chức trong và ngoài nước theo quy định của Nghị định này và pháp luật có liên quan."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cho vay các dự án thuộc danh mục lĩnh vực đầu tư, cho vay của Quỹ theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đầu tư các dự án, đầu tư thành lập tổ chức kinh tế, đầu tư góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế thuộc danh mục lĩnh vực đầu tư, cho vay của Quỹ theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Ủy thác cho vay, đầu tư; nhận ủy thác quản lý các quỹ tài chính nhà nước tại địa phương, các tổ chức, cá nhân trong nước và ngoài nước theo quy định của pháp luật và Nghị định này."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thực hiện nghiệp vụ phát hành trái phiếu chính quyền địa phương theo ủy quyền của Ủy ban nhân dân cấp tỉnh theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Trách nhiệm và quyền hạn của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trách nhiệm của Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện đầu tư, cho vay theo danh mục lĩnh vực đầu tư, cho vay được Ủy ban nhân dân cấp tỉnh ban hành theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện chế độ tài chính, kế toán, kiểm toán và báo cáo theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tuân thủ Điều lệ tổ chức và hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chịu sự thanh tra, kiểm tra, kiểm toán của các cơ quan quản lý nhà nước có thẩm quyền theo quy định; cung cấp số liệu, công bố công khai về tình hình tài chính theo quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Tuân thủ quy định tại Nghị định này và các quy định của pháp luật có liên quan đến hoạt động của Quỹ đầu tư phát triển địa phương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quyền hạn của Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức hoạt động theo quy định của Nghị định này, Điều lệ tổ chức và hoạt động của Quỹ và quy định của pháp luật có liên quan."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Được lựa chọn các dự án đáp ứng đủ điều kiện để đầu tư, cho vay theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Được tuyển chọn, bố trí, đào tạo và sử dụng lao động theo quy định tại Nghị định này, Điều lệ tổ chức và hoạt động của Quỹ và các quy định của pháp luật có liên quan."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Được từ chối yêu cầu cung cấp thông tin hoặc sử dụng nguồn lực của Quỹ, nếu yêu cầu đó trái với quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Được liên hệ, phối hợp với các cơ quan chức năng, các đơn vị có liên quan trên địa bàn để tìm kiếm, xây dựng các dự án đầu tư."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "THÀNH LẬP, CƠ CẤU TỔ CHỨC CỦA QUỸ ĐẦU TƯ PHÁT TRIỂN ĐỊA PHƯƠNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Điều kiện thành lập mới Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có vốn điều lệ thực có tại thời điểm thành lập không thấp hơn 300 tỷ đồng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Có đề án thành lập Quỹ đầu tư phát triển địa phương được Hội đồng nhân dân cấp tỉnh thông qua.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Có dự thảo Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương phù hợp với quy định tại Điều 8 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Quy trình thành lập mới Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khi có nhu cầu thành lập Quỹ đầu tư phát triển địa phương, Ủy ban nhân dân cấp tỉnh xây dựng đề án thành lập Quỹ và trình Hội đồng nhân dân cấp tỉnh thông qua. Đề án thành lập Quỹ gồm các nội dung cơ bản sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Mục tiêu, sự cần thiết và tính khả thi của việc thành lập Quỹ, nhu cầu đầu tư các dự án kinh tế - xã hội tại địa phương, quy mô, phạm vi, nội dung hoạt động và tác động của việc thành lập Quỹ đến sự phát triển kinh tế - xã hội tại địa phương."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phương án bố trí vốn điều lệ dự kiến của Quỹ đảm bảo mức vốn điều lệ thực có tại thời điểm thành lập theo quy định tại khoản 1 Điều 6 Nghị định này . Khi sử dụng vốn ngân sách nhà nước để cấp vốn điều lệ cho Quỹ, đề án phải nêu rõ số tiền, việc bố trí nguồn vốn trong kế hoạch đầu tư công trung hạn của địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phương án và nguồn vốn hoạt động của Quỹ đầu tư phát triển địa phương, trong đó dự kiến khả năng huy động vốn của Quỹ trong 03 năm từ thời điểm thành lập."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Dự thảo Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương phù hợp với quy định tại Điều 8 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thuyết minh cụ thể về cơ cấu tổ chức, bộ máy hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Danh sách dự kiến các nhân sự gồm: Chủ tịch, Phó Chủ tịch và thành viên Hội đồng quản lý Quỹ, Ban Kiểm soát, Giám đốc và các nhân sự chủ chốt khác của Quỹ đáp ứng theo các tiêu chuẩn, điều kiện theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Phương thức tổ chức điều hành Quỹ theo quy định tại khoản 1 Điều 14 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Dự kiến phương án hoạt động và tài chính của Quỹ đầu tư phát triển địa phương trong vòng 03 năm sau khi thành lập kèm theo danh mục các dự án dự kiến cho vay, đầu tư và hiệu quả kinh tế - xã hội."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng nhân dân cấp tỉnh xem xét thông qua đề án thành lập Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh ban hành Quyết định thành lập trên cơ sở đề án thành lập Quỹ đầu tư phát triển địa phương đã được Hội đồng nhân dân cấp tỉnh thông qua; đồng thời gửi văn bản thông báo đến Bộ Tài chính về việc thành lập Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh có trách nhiệm cấp đủ vốn điều lệ cho Quỹ đầu tư phát triển địa phương theo quy định tại khoản 1 Điều 6 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trong thời hạn 30 ngày kể từ ngày ban hành Quyết định thành lập Quỹ đầu tư phát triển địa phương, Quỹ có trách nhiệm thông báo công khai việc thành lập Quỹ trên các phương tiện thông tin đại chúng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương bao gồm các nội dung cơ bản sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên gọi và nơi đặt trụ sở chính."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Địa vị pháp lý, tư cách pháp nhân, người đại diện pháp luật."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nguyên tắc và phạm vi hoạt động."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Vốn điều lệ của Quỹ."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Cơ cấu tổ chức và quản lý của Quỹ."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Chức năng, nhiệm vụ của Quỹ."
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Chức năng, nhiệm vụ của Hội đồng quản lý, Ban điều hành và Ban Kiểm soát."
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện các chức danh Chủ tịch và thành viên Hội đồng quản lý Quỹ, Ban Kiểm soát, Giám đốc, Phó Giám đốc và Kế toán trưởng Quỹ."
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Việc tuyển dụng lao động, quy hoạch và bổ nhiệm các chức danh lãnh đạo khác của Quỹ."
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Chế độ kế toán, tài chính và kiểm toán của Quỹ."
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Quy trình sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "m",
+                                    "noi_dung": "Mối quan hệ và trách nhiệm giữa Quỹ với các cơ quan quản lý nhà nước, các doanh nghiệp vay và nhận vốn đầu tư của Quỹ."
+                                },
+                                {
+                                    "id_diem": "n",
+                                    "noi_dung": "Xử lý tranh chấp, cơ cấu lại, giải thể đối với Quỹ."
+                                },
+                                {
+                                    "id_diem": "o",
+                                    "noi_dung": "Các nội dung khác theo yêu cầu quản lý của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều lệ của Quỹ đầu tư phát triển địa phương do Ủy ban nhân dân cấp tỉnh quyết định ban hành trên cơ sở đề nghị của Hội đồng quản lý Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Cơ cấu tổ chức của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ cấu tổ chức của Quỹ đầu tư phát triển địa phương gồm có:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hội đồng quản lý."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ban Kiểm soát."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Ban điều hành gồm Giám đốc Quỹ, các Phó Giám đốc Quỹ, Kế toán trưởng và bộ máy giúp việc."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thẩm quyền quyết định việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với người quản lý Quỹ theo quy định tại Điều 10, Điều 11 , Điều 12 và Điều 13 Nghị định này và Điều lệ tổ chức và hoạt động của Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Hội đồng quản lý của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng quản lý Quỹ đầu tư phát triển địa phương có tối đa 05 người, bao gồm Chủ tịch, Phó Chủ tịch và các thành viên. Nhiệm kỳ hoạt động của Hội đồng quản lý Quỹ không quá 05 năm. Giám đốc Quỹ đầu tư phát triển địa phương có thể kiêm Phó Chủ tịch hoặc thành viên Hội đồng quản lý Quỹ. Các thành viên khác của Hội đồng quản lý có thể hoạt động kiêm nhiệm nhưng không được kiêm nhiệm bất kỳ chức vụ quản lý khác tại Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh quyết định về số lượng thành viên và nhiệm kỳ hoạt động của Hội đồng quản lý theo nguyên tắc số lượng thành viên của Hội đồng quản lý Quỹ là số lẻ; quyết định việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với Chủ tịch, Phó Chủ tịch và thành viên Hội đồng quản lý Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện được bổ nhiệm, bổ nhiệm lại Chủ tịch Hội đồng quản lý Quỹ:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Là công dân Việt Nam, thường trú tại Việt Nam, có đầy đủ năng lực hành vi dân sự."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có trình độ đại học trở lên, có kinh nghiệm ít nhất 05 năm là người quản lý, điều hành về một trong các lĩnh vực kinh tế, tài chính, ngân hàng, quản trị kinh doanh, luật, kế toán, kiểm toán."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không phải là vợ hoặc chồng, cha đè, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh chị em ruột, anh rể, em rể, chị dâu, em dâu của người quản lý Quỹ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Ủy ban nhân dân cấp tỉnh quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phó Chủ tịch và thành viên Hội đồng quản lý Quỹ phải có trình độ đại học trở lên, có năng lực quản lý và kinh nghiệm về một trong các lĩnh vực kinh tế, tài chính, ngân hàng, quản trị kinh doanh, luật, kế toán, kiểm toán. Tiêu chuẩn, điều kiện cụ thể của Phó Chủ tịch và thành viên Hội đồng quản lý Quỹ được quy định tại Điều lệ tổ chức và hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chế độ làm việc của Hội đồng quản lý được quy định cụ thể tại Điều lệ tổ chức và hoạt động của Quỹ đảm bảo một số nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các cuộc họp của Hội đồng quản lý Quỹ chỉ có hiệu lực khi có ít nhất 2/3 số thành viên tham dự. Trường hợp không tổ chức họp, việc lấy ý kiến thành viên Hội đồng quản lý được thực hiện bằng văn bản."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các kết luận của Hội đồng quản lý Quỹ được thể hiện bằng Nghị quyết và quyết định của Hội đồng quản lý."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hội đồng quản lý Quỹ quyết định các vấn đề theo nguyên tắc đa số bằng biểu quyết, mỗi thành viên Hội đồng quản lý có một phiếu biểu quyết với quyền biểu quyết ngang nhau. Nghị quyết, quyết định của Hội đồng quản lý có hiệu lực khi có trên 50% trong tổng số thành viên Hội đồng quản lý Quỹ biểu quyết hoặc lấy ý kiến bằng văn bản có ý kiến tán thành. Trường hợp số phiếu bằng nhau thì quyết định cuối cùng thuộc về phía có ý kiến của Chủ tịch Hội đồng quản lý Quỹ hoặc người chủ trì cuộc họp Hội đồng quản lý."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Nhiệm vụ, quyền hạn của Hội đồng quản lý bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiếp nhận, quản lý và sử dụng vốn của Quỹ theo đúng quy định của pháp luật và Điều lệ tổ chức và hoạt động của Quỹ; bảo toàn và phát triển vốn của Quỹ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thông qua kế hoạch hoạt động 05 năm và kế hoạch tài chính hàng năm của Quỹ đầu tư phát triển địa phương để trình Ủy ban nhân dân cấp tỉnh phê duyệt."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Ban hành hoặc sửa đổi quy chế hoạt động nghiệp vụ và các quy chế khác theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Giám sát, kiểm tra bộ máy điều hành của Quỹ đầu tư phát triển địa phương trong việc chấp hành các chính sách và pháp luật và việc thực hiện các quyết định của Hội đồng quản lý."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thông qua danh mục lĩnh vực đầu tư, cho vay và mức lãi suất cho vay tối thiểu của Quỹ đầu tư phát triển địa phương để trình Ủy ban nhân dân cấp tỉnh quyết định theo quy định tại Nghị định này."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Quyết định hoạt động cho vay, đầu tư, phương án huy động vốn và xử lý rủi ro thuộc thẩm quyền."
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Thông qua báo cáo tài chính, phân phối chênh lệch thu chi, trích lập các quỹ hằng năm của Quỹ đầu tư phát triển địa phương sau khi có ý kiến thẩm định của Ban Kiểm soát để trình Ủy ban nhân dân cấp tỉnh phê duyệt."
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Trình Ủy ban nhân dân cấp tỉnh quyết định ban hành sửa đổi, bổ sung Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Quyết định việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với các chức danh theo thẩm quyền quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Ban hành hoặc sửa đổi Quy chế hoạt động, phân công nhiệm vụ đối với các thành viên của Hội đồng quản lý Quỹ."
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Các nhiệm vụ, quyền hạn khác theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Ban Kiểm soát Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ban Kiểm soát Quỹ đầu tư phát triển địa phương giúp Ủy ban nhân dân cấp tỉnh và Hội đồng quản lý Quỹ kiểm soát việc tổ chức thực hiện quyền chủ sở hữu và việc quản lý điều hành tại Quỹ. Ban Kiểm soát có tối đa 03 thành viên, trong đó có 01 trưởng ban phụ trách hoạt động của Ban Kiểm soát. Số lượng thành viên Ban Kiểm soát do Ủy ban nhân dân cấp tỉnh quyết định căn cứ vào quy mô, tính chất và thực tế hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh quyết định việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với Trưởng Ban Kiểm soát Quỹ. Việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với thành viên Ban Kiểm soát theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện được bổ nhiệm, bổ nhiệm lại Trưởng Ban Kiểm soát Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Là công dân Việt Nam, thường trú tại Việt Nam, có đầy đủ năng lực hành vi dân sự."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có trình độ đại học trở lên, có kinh nghiệm ít nhất 03 năm về một trong các lĩnh vực kế toán, kiểm toán, tài chính, ngân hàng."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Ủy ban nhân dân cấp tỉnh quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Ban Kiểm soát có nhiệm vụ và quyền hạn sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm tra, giám sát việc chấp hành các chính sách chế độ, Điều lệ tổ chức hoạt động và các quy chế hoạt động, nhằm bảo đảm hiệu quả hoạt động và an toàn tài sản của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kiểm tra, giám sát tính hợp pháp, trung thực, cẩn trọng của Hội đồng quản lý, Giám đốc Quỹ trong việc quản lý, điều hành hoạt động của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thẩm định báo cáo hoạt động, báo cáo tài chính, phân phối chênh lệch thu chi và việc trích lập các quỹ, báo cáo tình hình thực hiện tiền lương và tiền thưởng theo quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Lập kế hoạch thực hiện; báo cáo định kỳ hoặc đột xuất về công tác giám sát, kiểm tra; thực hiện nhiệm vụ khác do Hội đồng quản lý và Ủy ban nhân dân cấp tỉnh giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chế độ hoạt động của Ban Kiểm soát; trách nhiệm, quyền hạn; việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu; mối quan hệ giữa Ban Kiểm soát Quỹ với các tổ chức, cá nhân có liên quan và các nội dung khác thực hiện theo Quy chế hoạt động của Ban Kiểm soát do Ủy ban nhân dân cấp tỉnh ban hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Giám đốc Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giám đốc Quỹ đầu tư phát triển địa phương là người đại diện theo pháp luật của Quỹ, chịu trách nhiệm trước Ủy ban nhân dân cấp tỉnh, Hội đồng quản lý và trước pháp luật về toàn bộ hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh quyết định việc quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với Giám đốc Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiêu chuẩn, điều kiện được bổ nhiệm, bổ nhiệm lại Giám đốc Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Là công dân Việt Nam, thường trú tại Việt Nam, có đầy đủ năng lực hành vi dân sự."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có trình độ đại học trở lên, có năng lực quản lý và kinh nghiệm ít nhất 05 năm về một trong các lĩnh vực kinh tế, tài chính, ngân hàng, đầu tư, quản trị kinh doanh, luật, kế toán, kiểm toán."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các tiêu chuẩn và điều kiện khác theo yêu cầu quản lý của Ủy ban nhân dân cấp tỉnh quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nhiệm vụ, quyền hạn của Giám đốc Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức điều hành hoạt động của Quỹ đầu tư phát triển địa phương theo quy định tại Nghị định này, Điều lệ tổ chức và hoạt động của Quỹ, và các quyết định của Hội đồng quản lý Quỹ, Ủy ban nhân dân cấp tỉnh."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình Hội đồng quản lý ban hành các quy chế hoạt động nghiệp vụ của Quỹ theo thẩm quyền."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quyết định quy hoạch, bổ nhiệm, bổ nhiệm lại, từ chức, miễn nhiệm, điều động, luân chuyển, khen thưởng, kỷ luật, thôi việc, nghỉ hưu đối với các chức danh của bộ máy giúp việc (trưởng hoặc phó phòng/ban nghiệp vụ) và người lao động theo quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trực tiếp quản lý tài sản, vốn hoạt động và chịu trách nhiệm về các quyết định của mình trước Ủy ban nhân dân cấp tỉnh và Hội đồng quản lý Quỹ theo quy định của pháp luật và Điều lệ tổ chức và hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thực hiện các quyền hạn và nhiệm vụ khác theo yêu cầu của Hội đồng quản lý và Điều lệ tổ chức và hoạt động của Quỹ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Phó Giám đốc, Kế toán trưởng Quỹ đầu tư phát triển địa phương và bộ máy giúp việc",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phó Giám đốc Quỹ đầu tư phát triển địa phương",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phó Giám đốc Quỹ đầu tư phát triển địa phương có nhiệm vụ giúp Giám đốc Quỹ điều hành hoạt động của Quỹ theo phân công và ủy quyền; chịu trách nhiệm trước Giám đốc và trước pháp luật về nhiệm vụ được phân công và ủy quyền."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiêu chuẩn, điều kiện, thẩm quyền bổ nhiệm, nhiệm kỳ và số lượng của Phó Giám đốc Quỹ đầu tư phát triển địa phương quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kế toán trưởng Quỹ đầu tư phát triển địa phương",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kế toán trưởng Quỹ đầu tư phát triển địa phương có trách nhiệm tổ chức thực hiện công tác kế toán của Quỹ, giúp Hội đồng quản lý và Giám đốc Quỹ giám sát tài chính tại Quỹ theo quy định của pháp luật về tài chính, kế toán; chịu trách nhiệm trước Hội đồng quản lý, Giám đốc Quỹ và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn được phân công hoặc ủy quyền, thực hiện các chức năng và nhiệm vụ khác được quy định theo Luật Kế toán và văn bản sửa đổi, bổ sung, thay thế và các văn bản hướng dẫn (nếu có)."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kế toán trưởng Quỹ đầu tư phát triển địa phương phải đáp ứng tiêu chuẩn, điều kiện theo quy định tại Luật Kế toán , các văn bản hướng dẫn, văn bản sửa đổi, bổ sung, thay thế (nếu có). Tiêu chuẩn, điều kiện cụ thể và thẩm quyền bổ nhiệm Kế toán trưởng Quỹ đầu tư phát triển địa phương quy định tại Điều lệ tổ chức và hoạt động của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ máy giúp việc của Quỹ đầu tư phát triển địa phương gồm các phòng, ban chuyên môn, nghiệp vụ có chức năng tham mưu, giúp việc Hội đồng quản lý và Giám đốc Quỹ điều hành, quản lý Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Tổ chức điều hành hoạt động Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương được tổ chức điều hành theo một trong hai phương thức sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thành lập bộ máy tổ chức quản lý điều hành độc lập tại địa phương."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ủy thác cho tổ chức tài chính khác tại địa phương quản lý, điều hành hoạt động."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng nhân dân cấp tỉnh quyết định phương thức tổ chức điều hành của Quỹ đầu tư phát triển địa phương theo đề nghị của Ủy ban nhân dân cấp tỉnh căn cứ vào tình hình thực tế của địa phương và quy mô hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trường hợp ủy thác Quỹ đầu tư phát triển địa phương cho tổ chức tài chính khác tại địa phương quản lý, việc ủy thác được thực hiện theo văn bản ủy thác do Ủy ban nhân dân cấp tỉnh ban hành bao gồm các nội dung cơ bản về phạm vi ủy thác, nội dung và quy trình ủy thác, trách nhiệm, nghĩa vụ và quyền hạn đối với rủi ro phát sinh và các nội dung khác có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "HOẠT ĐỘNG CỦA QUỸ ĐẦU TƯ PHÁT TRIỂN ĐỊA PHƯƠNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Xây dựng danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ vào chiến lược phát triển kinh tế - xã hội, kế hoạch phát triển kinh tế - xã hội 05 năm, tình hình thực tế của địa phương và quy mô hoạt động của Quỹ đầu tư phát triển địa phương, hàng năm hoặc trong từng thời kỳ, Quỹ đầu tư phát triển địa phương đề xuất danh mục lĩnh vực đầu tư, cho vay nhằm góp phần thúc đẩy phát triển kinh tế - xã hội của địa phương bao gồm: giáo dục, y tế, công nghiệp, nông nghiệp, ngư nghiệp, môi trường, năng lượng, nhà ở, văn hóa, du lịch, giao thông, các lĩnh vực khuyến khích xã hội hóa và các lĩnh vực ưu tiên phát triển khác theo định hướng phát triển kinh tế - xã hội của địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trên cơ sở danh mục đề xuất của Quỹ đầu tư phát triển địa phương, Ủy ban nhân dân cấp tỉnh rà soát, báo cáo Hội đồng nhân dân cấp tỉnh thông qua danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Ban hành danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ Nghị quyết của Hội đồng nhân dân cấp tỉnh về danh mục lĩnh vực đầu tư, cho vay của Quỹ, Ủy ban nhân dân cấp tỉnh ban hành quyết định danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp có nhu cầu bổ sung hoặc điều chỉnh danh mục lĩnh vực đầu tư, cho vay của Quỹ, Ủy ban nhân dân cấp tỉnh ban hành quyết định sửa đổi, bổ sung theo quy định tại Điều 15 và khoản 1 Điều này. Mục 2. HOẠT ĐỘNG ĐẦU TƯ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Nguyên tắc và hình thức đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc sử dụng vốn và tài sản của Quỹ đầu tư phát triển địa phương để đầu tư phải tuân thủ theo quy định tại Nghị định này và không thuộc phạm vi đầu tư công. Ngoài các quy định tại Nghị định này, hoạt động đầu tư của Quỹ tuân thủ quy định của pháp luật về đầu tư, pháp luật về đất đai, pháp luật khác có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương lựa chọn các hình thức đầu tư theo quy định của pháp luật về đầu tư bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đầu tư thành lập tổ chức kinh tế."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đầu tư góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đầu tư theo hình thức hợp đồng (hợp đồng đầu tư theo phương thức đối tác công tư - PPP và hợp đồng hợp tác kinh doanh - BCC) hoặc thực hiện dự án đầu tư."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các hình thức đầu tư khác theo quy định của pháp luật về đầu tư."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương không được đầu tư trong các trường hợp sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Góp vốn, mua cổ phần, mua toàn bộ doanh nghiệp, thực hiện hợp đồng hợp tác kinh doanh với doanh nghiệp mà người quản lý, người đại diện tại doanh nghiệp đó là vợ hoặc chồng, cha đẻ, cha nuôi, mẹ đẻ, mẹ nuôi, con đẻ, con nuôi, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu của người quản lý Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Góp vốn cùng công ty con để đầu tư thành lập tổ chức kinh tế hoặc đầu tư theo hình thức hợp đồng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Đối tượng đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối tượng đầu tư của Quỹ là các dự án, doanh nghiệp có ngành, nghề kinh doanh chính thuộc danh mục lĩnh vực đầu tư, cho vay được Ủy ban nhân dân cấp tỉnh ban hành theo quy định tại Điều 16 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ vào danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương, Quỹ lựa chọn, thẩm định, quyết định đầu tư hoặc trình cấp có thẩm quyền quyết định đầu tư vào các dự án, doanh nghiệp đáp ứng đầy đủ điều kiện đầu tư quy định tại Điều 19 và Điều 20 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Đầu tư thành lập tổ chức kinh tế, đầu tư góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc đầu tư thành lập tổ chức kinh tế, đầu tư góp vốn, mua cổ phần, phần vốn góp của tổ chức kinh tế của Quỹ đầu tư phát triển địa phương phải đáp ứng các điều kiện sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phương án đầu tư, góp vốn, mua cổ phần, phần vốn góp được đánh giá có hiệu quả và có khả năng thu hồi vốn đầu tư."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổ chức kinh tế được đầu tư, góp vốn có ngành, nghề kinh doanh chính thuộc danh mục lĩnh vực đầu tư, cho vay của Quỹ được Ủy ban nhân dân cấp tỉnh ban hành theo quy định tại Điều 16 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương quản lý, chuyển nhượng phần vốn góp tại các tổ chức kinh tế theo quy định của pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Đầu tư theo hình thức hợp đồng và thực hiện dự án đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc đầu tư dự án của Quỹ đầu tư phát triển địa phương phải đáp ứng các điều kiện sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Dự án được đánh giá có hiệu quả và có khả năng thu hồi vốn đầu tư."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dự án thuộc danh mục lĩnh vực đầu tư, cho vay của Quỹ được Ủy ban nhân dân cấp tỉnh ban hành theo quy định tại Điều 16 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Dự án tuân thủ quy định của pháp luật về đầu tư."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương có thể trực tiếp quản lý dự án đầu tư hoặc thành lập doanh nghiệp dự án để quản lý dự án đầu tư theo quy định tại khoản 1 Điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương triển khai thực hiện dự án đầu tư, chuyển nhượng dự án đầu tư, tạm ngừng, ngừng hoạt động, chấm dứt hoạt động của dự án đầu tư theo quy định của pháp luật đầu tư và quy định của pháp luật quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Thẩm quyền quyết định đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương quyết định mức vốn đầu tư vào một doanh nghiệp hoặc mức vốn đầu tư vào một dự án có giá trị đến 10% vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính gần nhất tại thời điểm quyết định đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh quyết định mức vốn đầu tư vào một doanh nghiệp hoặc mức vốn đầu tư vào một dự án có giá trị trên 10% vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính gần nhất tại thời điểm quyết định đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cấp có thẩm quyền quyết định đầu tư theo quy định tại khoản 1 và khoản 2 Điều này có thẩm quyền quyết định việc chuyển nhượng dự án đầu tư, tạm ngừng, ngừng hoạt động, chấm dứt hoạt động của dự án đầu tư; quyết định chuyển nhượng cổ phần, phần vốn góp của tổ chức kinh tế.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Giới hạn đầu tư",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng giá trị giải ngân các khoản đầu tư theo quy định tại Điều 19 Nghị định này tối đa bằng 20% vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính gần nhất tại thời điểm giải ngân vốn đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng giá trị giải ngân các khoản đầu tư theo quy định tại Điều 20 Nghị định này tối đa bằng 50% vốn chủ sở hữu của Quỹ đầu tư phát triển địa phương được ghi trên báo cáo tài chính gần nhất tại thời điểm giải ngân vốn đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với dự án sử dụng nguồn vốn hỗ trợ của các nhà tài trợ quốc tế có quy định về giới hạn đầu tư khác với quy định của Nghị định này thì thực hiện theo thỏa thuận đã ký kết với nhà tài trợ. Mục 3. HOẠT ĐỘNG CHO VAY",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Đối tượng và điều kiện cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ đầu tư thuộc đối tượng cho vay của Quỹ đầu tư phát triển địa phương phải đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có dự án thuộc danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương đã được Ủy ban nhân dân cấp tỉnh ban hành theo quy định tại Điều 16 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không là công ty con của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chủ đầu tư là pháp nhân có năng lực pháp luật dân sự theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện cho vay:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ đầu tư thuộc đối tượng cho vay quy định tại khoản 1 Điều này."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dự án vay vốn được Quỹ đầu tư phát triển địa phương thẩm định, đánh giá là dự án có hiệu quả, chủ đầu tư có khả năng trả được nợ vay."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Dự án vay vốn tuân thủ quy định của pháp luật đầu tư."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chủ đầu tư mua bảo hiểm tài sản tại một doanh nghiệp bảo hiểm hoạt động hợp pháp tại Việt Nam đối với tài sản bảo đảm tiền vay thuộc đối tượng bắt buộc mua bảo hiểm."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Thời hạn cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương quyết định thời hạn cho vay đối với từng dự án trên cơ sở kết quả thẩm định, khả năng thu hồi vốn của dự án, khả năng trả nợ của chủ đầu tư nhưng tối đa là 15 năm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp cho vay vượt quá thời hạn cho vay tối đa theo quy định tại khoản 1 Điều này, Quỹ đầu tư phát triển địa phương thẩm định, trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Lãi suất cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Lãi suất cho vay tối thiểu của Quỹ đầu tư phát triển địa phương được xác định theo nguyên tắc không thấp hơn lãi suất huy động bình quân của các nguồn vốn huy động, có tính đến chi phí cơ hội của nguồn vốn chủ sở hữu, đảm bảo bù đắp chi phí quản lý, chi phí trích lập dự phòng rủi ro cho vay và các chi phí khác có liên quan đến hoạt động cho vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Định kỳ hàng năm hoặc trong từng thời kỳ, căn cứ nguyên tắc xác định lãi suất cho vay tối thiểu quy định tại khoản 1 Điều này, Giám đốc Quỹ tính toán, trình Hội đồng quản lý Quỹ thông qua để báo cáo Ủy ban nhân dân cấp tỉnh ra quyết định ban hành mức lãi suất cho vay tối thiểu của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương quyết định mức lãi suất cho vay đối với từng dự án cụ thể, nhưng không thấp hơn mức lãi suất cho vay tối thiểu do Ủy ban nhân dân cấp tỉnh quyết định theo quy định tại khoản 2 Điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đối với dự án sử dụng nguồn vốn của nhà tài trợ quốc tế có quy định về lãi suất cho vay khác với quy định tại Nghị định này thì thực hiện theo thỏa thuận đã ký kết với nhà tài trợ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Bảo đảm tiền vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tùy thuộc vào từng dự án cụ thể, Quỹ đầu tư phát triển địa phương xem xét, sử dụng các biện pháp đảm bảo tiền vay theo quy định của pháp luật về bảo đảm tiền vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ được xử lý tài sản bảo đảm để thu hồi nợ theo quy định của pháp luật và hợp đồng tín dụng ký giữa Quỹ đầu tư phát triển địa phương và chủ đầu tư vay vốn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Quy định về cho vay hợp vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ được làm đầu mối hoặc tham gia cho vay hợp vốn với các Quỹ đầu tư phát triển địa phương khác, với tổ chức tín dụng hoặc tổ chức khác để cho vay dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Dự án cho vay phải thuộc đối tượng cho vay của các Quỹ đầu tư phát triển địa phương tham gia, đồng thời đáp ứng các điều kiện cho vay và giới hạn cho vay theo quy định tại Điều 23 và Điều 29 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc cho vay hợp vốn được thực hiện theo hợp đồng ký kết giữa các bên, trong đó nêu rõ điều kiện, điều khoản cho vay, thẩm quyền cho vay, việc xử lý rủi ro theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Lãi suất cho vay do các bên tham gia cho vay quyết định, được ghi trong hợp đồng và không thấp hơn mức lãi suất cho vay tối thiểu của từng Quỹ đầu tư phát triển địa phương theo quy định tại Điều 25 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Thẩm quyền quyết định cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương quyết định đối với dự án cho vay có giá trị không quá 15% vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính gần nhất tại thời điểm quyết định cho vay.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh quyết định đối với dự án cho vay có giá trị lớn hơn mức quy định tại khoản 1 Điều này, đảm bảo đáp ứng quy định về giới hạn cho vay quy định tại Điều 29 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Giới hạn cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Giới hạn cho vay đối với một dự án tại thời điểm giải ngân không vượt quá 20% vốn chủ sở hữu của Quỹ đầu tư phát triển địa phương được ghi trên báo cáo tài chính gần nhất tại thời điểm giải ngân vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng mức dư nợ cho vay đối với một khách hàng của Quỹ đầu tư phát triển địa phương không được vượt quá 25% vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính gần nhất tại thời điểm giải ngân vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với một dự án, trường hợp Quỹ vừa cho vay vừa đầu tư thì tổng giới hạn đầu tư và cho vay tại thời điểm giải ngân không vượt quá 30% vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính gần nhất tại thời điểm giải ngân vốn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đối với dự án sử dụng nguồn vốn của các nhà tài trợ quốc tế có quy định về giới hạn cho vay khác với quy định của Nghị định này thì thực hiện theo thỏa thuận đã ký kết với nhà tài trợ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Phân loại nợ, trích lập quỹ dự phòng rủi ro và xử lý rủi ro trong hoạt động cho vay",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương thực hiện phân loại nợ, trích lập quỹ dự phòng rủi ro và xử lý rủi ro trong hoạt động cho vay theo quy định của pháp luật đối với ngân hàng thương mại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các trường hợp xem xét xử lý rủi ro:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ đầu tư bị thiệt hại về tài chính, tài sản do thiên tai, mất mùa, dịch bệnh, hỏa hoạn, rủi ro chính trị, chiến tranh gây ra ảnh hưởng đến hoạt động sản xuất kinh doanh, dẫn đến chủ đầu tư không trả được nợ (lãi, gốc) đúng hạn theo hợp đồng cho vay đã ký."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chủ đầu tư bị phá sản theo quy định của pháp luật hiện hành."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nhà nước thay đổi chính sách làm ảnh hưởng đến hoạt động sản xuất kinh doanh của chủ đầu tư, dẫn đến chủ đầu tư không trả được nợ (lãi, gốc) đúng hạn theo hợp đồng cho vay đã ký."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chủ đầu tư gặp rủi ro do nguyên nhân khách quan ảnh hưởng trực tiếp đến hoạt động sản xuất kinh doanh, dẫn đến chủ đầu tư không trả được nợ (lãi, gốc) đúng hạn theo hợp đồng cho vay đã ký."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Chủ đầu tư có khoản nợ xấu theo kết quả phân loại nợ của Quỹ đầu tư phát triển địa phương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỷ đầu tư phát triển địa phương thành lập Hội đồng để xử lý rủi ro. Thành phần Hội đồng xử lý rủi ro bao gồm 01 thành viên Hội đồng quản lý Quỹ làm Chủ tịch, 01 thành viên là Giám đốc Quỹ, 01 thành viên là Trưởng bộ phận có chức năng quản lý rủi ro và tối thiểu 02 thành viên khác do Hội đồng quản lý Quỹ quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trường hợp sử dụng dự phòng để xử lý rủi ro, tối thiểu sau 05 năm, kể từ ngày sử dụng dự phòng để xử lý rủi ro và đã thực hiện tất cả các biện pháp xử lý rủi ro để thu hồi nợ nhưng không thu hồi được, Quỹ đầu tư phát triển địa phương được xuất toán nợ đã xử lý rủi ro ra khỏi ngoại bảng nếu có đủ hồ sơ chứng minh đã thực hiện mọi biện pháp thu hồi nợ nhưng không thu được nợ và được Ủy ban nhân dân cấp tỉnh chấp thuận trên cơ sở đề nghị của Hội đồng quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương xây dựng quy chế xử lý rủi ro và trình Hội đồng quản lý Quỹ ban hành sau khi có ý kiến chấp thuận của Ủy ban nhân dân cấp tỉnh. Quy chế xử lý rủi ro bao gồm các nội dung cơ bản sau: nguyên tắc xử lý rủi ro; các trường hợp, biện pháp xử lý rủi ro; hồ sơ, trình tự thủ tục sử dụng dự phòng rủi ro; quy trình xử lý rủi ro và thẩm quyền quyết định xử lý rủi ro.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Cơ cấu lại thời hạn trả nợ và bán nợ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương xem xét, quyết định việc cơ cấu lại thời hạn trả nợ gồm điều chỉnh kỳ hạn trả nợ và gia hạn nợ trên cơ sở đề nghị của chủ đầu tư, khả năng tài chính của Quỹ và kết quả đánh giá của Quỹ về khả năng trả nợ của chủ đầu tư. Việc cơ cấu lại thời hạn trả nợ phải đảm bảo thời hạn cho vay sau khi cơ cấu lại đáp ứng quy định về thời hạn cho vay theo quy định tại Điều 24 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương được bán nợ phát sinh từ nghiệp vụ cho vay. Ủy ban nhân dân cấp tỉnh quyết định trường hợp bán nợ với giá thấp hơn giá trị ghi sổ của khoản nợ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc cơ cấu lại thời hạn trả nợ và bán nợ của Quỹ đầu tư phát triển địa phương theo quy định tại khoản 1 và khoản 2 Điều này thực hiện theo quy định của Ngân hàng Nhà nước Việt Nam đối với tổ chức tín dụng. Quỹ đầu tư phát triển địa phương ban hành quy chế nội bộ, trong đó quy định rõ về quy trình, thẩm quyền, các trường hợp cơ cấu lại thời hạn trả nợ và bán nợ. Mục 4. HOẠT ĐỘNG NHẬN ỦY THÁC VÀ ỦY THÁC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Nhận ủy thác",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương được nhận ủy thác quản lý nguồn vốn đầu tư; cho vay và thu hồi nợ; cấp phát vốn đầu tư cho các công trình, dự án từ ngân sách nhà nước, từ các ngân hàng chính sách, từ các doanh nghiệp và các tổ chức, cá nhân trong và ngoài nước; nhận ủy thác quản lý nguồn vốn, hoạt động của các quỹ tài chính nhà nước tại địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc nhận ủy thác của Quỹ đầu tư phát triển địa phương thực hiện theo quyết định của Ủy ban nhân dân cấp tỉnh hoặc hợp đồng nhận ủy thác ký kết giữa Quỹ với tổ chức, cá nhân ủy thác. Quyết định/hợp đồng nhận ủy thác bao gồm các nội dung cơ bản sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên, địa chỉ, tư cách pháp nhân, người đại diện pháp luật của bên ủy thác (nếu có) và bên nhận ủy thác (Quỹ đầu tư phát triển địa phương)."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mục đích ủy thác; nội dung ủy thác."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Số vốn ủy thác; thời hạn ủy thác; chi phí ủy thác."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đối tượng thụ hưởng; trách nhiệm thẩm định và giám sát hoạt động ủy thác; trách nhiệm xử lý rủi ro của bên ủy thác."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Quyền và nghĩa vụ của các bên; xử lý các trường hợp chấm dứt văn bản ủy thác trước thời hạn; điều khoản về xử lý vi phạm (nếu có)."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các nội dung khác do các bên thỏa thuận phù hợp với quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương có trách nhiệm hạch toán tách bạch vốn nhận ủy thác và tài sản hình thành từ vốn nhận ủy thác (nếu có) với nguồn vốn hoạt động và tài sản của Quỹ. Hoạt động nhận ủy thác của Quỹ phải đảm bảo không ảnh hưởng đến các hoạt động khác theo chức năng, nhiệm vụ của Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Ủy thác",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương được ủy thác hoạt động nghiệp vụ cho các tổ chức tín dụng và các ngân hàng chính sách thực hiện. Việc ủy thác phải được thực hiện bằng văn bản ủy thác giữa Quỹ với tổ chức nhận ủy thác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các tổ chức nhận ủy thác được trả chi phí dịch vụ ủy thác theo mức ghi tại văn bản ủy thác.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "CHẾ ĐỘ TÀI CHÍNH, KẾ TOÁN, KIỂM TOÁN , BÁO CÁO VÀ GIÁM SÁT, ĐÁNH GIÁ HIỆU QUẢ HOẠT ĐỘNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Chế độ tài chính, kế toán và kiểm toán",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Năm tài chính của Quỹ đầu tư phát triển địa phương bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo tài chính năm của Quỹ đầu tư phát triển địa phương phải được kiểm toán độc lập theo quy định của pháp luật hiện hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ chế tiền lương, thù lao, tiền thưởng, phụ cấp của người quản lý, người lao động Quỹ đầu tư phát triển địa phương thực hiện theo quy định áp dụng đối với công ty trách nhiệm hữu hạn một thành viên do Nhà nước sở hữu 100% vốn và hướng dẫn của Bộ Lao động - Thương binh và Xã hội. Việc xếp hạng Quỹ đầu tư phát triển địa phương thực hiện theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kết quả hoạt động của Quỹ đầu tư phát triển địa phương là khoản chênh lệch giữa tổng doanh thu, thu nhập khác và tổng chi phí hợp lý, hợp lệ. Sau khi nộp thuế và các khoản nộp ngân sách nhà nước theo quy định của pháp luật về thuế, phần chênh lệch này được phân phối như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bù đắp khoản chênh lệch thu chi âm đến thời điểm quyết toán."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trích 30% vào quỹ đầu tư phát triển."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trích 10% vào quỹ dự phòng tài chính; khi số dư quỹ bằng 25% vốn điều lệ của Quỹ đầu tư phát triển địa phương thì không trích nữa."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trích tối đa không quá 03 tháng lương thực hiện của người lao động vào quỹ khen thưởng và quỹ phúc lợi; trích tối đa không quá 1,5 tháng lương thực hiện của người quản lý vào quỹ thưởng người quản lý."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Phần chênh lệch còn lại được tiếp tục bổ sung vào quỹ đầu tư phát triển để bổ sung vốn điều lệ cho Quỹ đầu tư phát triển địa phương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hàng năm, Ủy ban nhân dân cấp tỉnh phê duyệt báo cáo quyết toán chênh lệch thu chi của Quỹ đầu tư phát triển địa phương. Báo cáo quyết toán chênh lệch thu chi của Quỹ đầu tư phát triển địa phương phải kèm theo thuyết minh đánh giá kết quả, hiệu quả thực hiện nhiệm vụ của Quỹ theo quy định tại Điều 65 Luật Ngân sách nhà nước và các văn bản sửa đổi, bổ sung, thay thế (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương thực hiện chế độ tài chính, kế toán, chế độ báo cáo theo quy định của Nghị định này và hướng dẫn của Bộ Tài chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Vốn chủ sở hữu",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Vốn chủ sở hữu của Quỹ đầu tư phát triển địa phương bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Vốn điều lệ do chủ sở hữu cấp."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quỹ đầu tư phát triển."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các nguồn vốn khác của chủ sở hữu theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thay đổi mức vốn điều lệ của Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trường hợp thay đổi mức vốn điều lệ ghi tại Quyết định thành lập, Ủy ban nhân dân cấp tỉnh báo cáo Hội đồng nhân dân cấp tỉnh xem xét, quyết định, đảm bảo mức vốn tối thiểu theo quy định tại khoản 1 Điều 6 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp cấp bổ sung vốn điều lệ từ quỹ đầu tư phát triển, Ủy ban nhân dân cấp tỉnh xem xét, quyết định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phương thức xác định mức vốn điều lệ điều chỉnh của Quỹ áp dụng theo quy định của pháp luật đối với doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ. Bộ Tài chính hướng dẫn cụ thể phương thức xác định mức vốn điều lệ điều chỉnh của Quỹ phù hợp với tính chất hoạt động của Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Huy động vốn",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương được huy động các nguồn vốn trung và dài hạn theo các hình thức sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Vay các tổ chức trong và ngoài nước theo quy định của pháp luật. Việc vay vốn nước ngoài thực hiện theo quy định của pháp luật về vay nợ nước ngoài."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phát hành trái phiếu Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các hình thức huy động vốn trung và dài hạn khác theo quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương được nhận các khoản đặt cọc và ký cược theo quy định của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổng mức vốn huy động của Quỹ đầu tư phát triển địa phương theo quy định tại khoản 1 và khoản 2 Điều này tối đa bằng 06 lần vốn chủ sở hữu của Quỹ được ghi trên báo cáo tài chính năm hoặc báo cáo tài chính bán niên tại thời điểm gần nhất.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Phát hành trái phiếu Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương phát hành trái phiếu theo hình thức riêng lẻ tại thị trường trong nước theo nguyên tắc tự vay, tự trả, tự chịu trách nhiệm về hiệu quả sử dụng vốn và đảm bảo khả năng trả nợ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện chào bán trái phiếu riêng lẻ của Quỹ đầu tư phát triển địa phương:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ có thời gian hoạt động tối thiểu từ 01 năm kể từ ngày Ủy ban nhân dân cấp tỉnh ban hành Quyết định thành lập Quỹ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quỹ được Ủy ban nhân dân cấp tỉnh đánh giá xếp loại hoạt động có hiệu quả năm trước liền kề của năm phát hành theo quy định tại Nghị định này và hướng dẫn của Bộ Tài chính."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đảm bảo tuân thủ quy định về nhà đầu tư mua và giao dịch trái phiếu doanh nghiệp riêng lẻ theo quy định của pháp luật về chào bán trái phiếu doanh nghiệp riêng lẻ."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có phương án phát hành trái phiếu riêng lẻ được Ủy ban nhân dân cấp tỉnh phê duyệt trong đó nêu cụ thể về mục đích sử dụng vốn từ phát hành trái phiếu và nguồn bố trí trả nợ gốc, lãi trái phiếu khi đến hạn."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thanh toán đủ cả gốc và lãi của trái phiếu đã phát hành hoặc thanh toán đủ các khoản nợ đến hạn trong 03 năm liên tiếp trước đợt phát hành trái phiếu (nếu có), trừ trường hợp phát hành trái phiếu cho các chủ nợ là tổ chức tài chính được lựa chọn."
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Đáp ứng các giới hạn đầu tư, cho vay, huy động vốn theo quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện, điều khoản cơ bản của trái phiếu, đối tượng mua và giao dịch trái phiếu, quy trình, hồ sơ, phương án phát hành, phương thức phát hành, việc đăng ký, lưu ký trái phiếu, công bố thông tin thực hiện theo quy định của pháp luật về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Vốn nhận ủy thác",
+                    "noi_dung_chung": "Vốn nhận ủy thác theo quy định tại Điều 32 Nghị định này không thuộc vốn hoạt động của Quỹ đầu tư phát triển địa phương và được hạch toán, quản lý tách bạch với vốn hoạt động của Quỹ.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Bảo toàn an toàn vốn của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương có trách nhiệm bảo toàn và sử dụng vốn đúng mục đích, đảm bảo an toàn vốn và tài sản theo quy định tại Nghị định này; báo cáo Ủy ban nhân dân cấp tỉnh về biến động vốn chủ sở hữu của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc bảo toàn vốn được thực hiện bằng các biện pháp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quản lý, sử dụng vốn, tài sản, phân phối chênh lệch thu chi, chế độ quản lý tài chính, chế độ kế toán, kiểm toán theo quy định tại Nghị định này và hướng dẫn của Bộ Tài chính."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trích lập dự phòng rủi ro đối với hoạt động cho vay theo quy định tại Điều 30 Nghị định này và trích lập dự phòng khác theo quy định đối với doanh nghiệp. Chi phí trích lập dự phòng được hạch toán vào chi phí hoạt động của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Mua bảo hiểm tài sản theo quy định của pháp luật."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các biện pháp khác về bảo toàn vốn theo quy định của pháp luật đối với doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Kế hoạch hoạt động, kế hoạch tài chính hàng năm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Căn cứ vào kế hoạch hoạt động 05 năm được Ủy ban nhân dân cấp tỉnh phê duyệt, Quỹ đầu tư phát triển địa phương xây dựng kế hoạch hoạt động, kế hoạch tài chính hàng năm để Hội đồng quản lý Quỹ trình Ủy ban nhân dân cấp tỉnh xem xét, phê duyệt. Kế hoạch tài chính hàng năm bao gồm: kế hoạch thu nhập, chi phí, kế hoạch mua sắm tài sản cố định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quy trình phê duyệt và ban hành kế hoạch hàng năm như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trước ngày 31 tháng 7 hàng năm, Hội đồng quản lý Quỹ báo cáo Ủy ban nhân dân cấp tỉnh về kế hoạch hoạt động, kế hoạch tài chính năm tiếp theo."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trước ngày 30 tháng 4 năm kế hoạch, Ủy ban nhân dân cấp tỉnh xem xét, phê duyệt kế hoạch hoạt động, kế hoạch tài chính năm để Quỹ đầu tư phát triển địa phương triển khai, thực hiện."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Chế độ báo cáo của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương lập và gửi báo cáo tài chính, báo cáo hoạt động, công bố thông tin theo quy định của pháp luật và hướng dẫn của Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ đầu tư phát triển địa phương chịu trách nhiệm về tính chính xác, trung thực của các báo cáo này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Giám sát và đánh giá hiệu quả hoạt động của Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh có trách nhiệm giám sát và đánh giá toàn diện hiệu quả hoạt động của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hàng năm, Quỹ đầu tư phát triển địa phương đánh giá hiệu quả hoạt động theo các chỉ tiêu bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ tiêu 1: Doanh thu và thu nhập khác."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chỉ tiêu 2: Chênh lệch thu - chi và tỷ suất chênh lệch thu - chi trên vốn chủ sở hữu."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chỉ tiêu 3: Tỷ lệ nợ xấu trên tổng dư nợ cho vay (bao gồm trực tiếp cho vay và hợp vốn cho vay) và tỷ lệ các khoản nợ phải thu khó đòi trên tổng số vốn đầu tư."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chỉ tiêu 4: Chấp hành pháp luật về đầu tư, quản lý và sử dụng vốn, nghĩa vụ với ngân sách nhà nước, quy định về chế độ báo cáo tài chính và báo cáo để thực hiện giám sát tài chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các chỉ tiêu quy định tại khoản 2 Điều này được xác định và tính toán trên cơ sở báo cáo tài chính năm đã được kiểm toán và các báo cáo định kỳ theo quy định của pháp luật. Khi tính toán các chỉ tiêu quy định tại khoản 2 Điều này được xem xét, loại trừ các yếu tố tác động:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Do thiên tai, hỏa hoạn, dịch bệnh, chiến tranh và các nguyên nhân bất khả kháng khác."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Do Nhà nước điều chỉnh chính sách hoặc biến động của thị trường làm ảnh hưởng lớn đến doanh thu và tình hình hoạt động của Quỹ."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Do Quỹ thực hiện các mục tiêu kinh tế - xã hội theo quyết định của cấp có thẩm quyền."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nhà nước khoanh nợ, giãn nợ, xóa nợ cho các đối tượng vay; điều chỉnh lãi suất cho vay tối thiểu của Quỹ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đánh giá hiệu quả hoạt động của người quản lý của Quỹ đầu tư phát triển địa phương theo các tiêu chí sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kết quả việc thực hiện mục tiêu, nhiệm vụ được giao."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả đánh giá hiệu quả hoạt động của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Việc chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước; việc thực hiện Điều lệ tổ chức và hoạt động và các quy chế hoạt động Quỹ đầu tư phát triển địa phương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ Tài chính hướng dẫn cách thức giám sát và đánh giá hiệu quả hoạt động của Quỹ đầu tư phát triển địa phương, đánh giá hiệu quả hoạt động người quản lý của Quỹ đầu tư phát triển địa phương phù hợp với hoạt động của Quỹ.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "GIẢI THỂ QUỸ ĐẦU TƯ PHÁT TRIỂN ĐỊA PHƯƠNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 43",
+                    "tieu_de": "Các trường hợp giải thể Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "Quỹ đầu tư phát triển địa phương bị giải thể khi thuộc một trong các trường hợp sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quỹ đã thành lập và hoạt động nhưng sau thời hạn 03 năm kể từ ngày Nghị định này có hiệu lực thi hành vốn điều lệ thực có thấp hơn 300 tỷ đồng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quỹ bị đánh giá không hoàn thành nhiệm vụ và có tỷ lệ giá trị dư nợ cho vay và đầu tư (không bao gồm các khoản nhận ủy thác cho vay) trên vốn chủ sở hữu thấp hơn 20% trong 05 năm liên tiếp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tỷ lệ nợ xấu trên tổng dư nợ cho vay cao hơn 50% hoặc tỷ lệ các khoản nợ phải thu khó đòi trên tổng số vốn đầu tư cao hơn 80% và lũy kế chênh lệch thu - chi âm lớn hơn hoặc bằng 75% số vốn điều lệ thực có của Quỹ đầu tư phát triển địa phương trong 05 năm liên tiếp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Các trường hợp Quỹ hoạt động không hiệu quả hoặc không cần thiết phải duy trì Quỹ theo đánh giá của Ủy ban nhân dân cấp tỉnh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 44",
+                    "tieu_de": "Hội đồng giải thể Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh thành lập Hội đồng giải thể để tham mưu cho Ủy ban nhân dân cấp tỉnh về phương án và tổ chức thực hiện giải thể Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thành phần của Hội đồng giải thể bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Lãnh đạo Ủy ban nhân dân cấp tỉnh."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đại diện lãnh đạo các Sở: Tài chính, Kế hoạch và Đầu tư, Nội vụ và Lao động - Thương binh và Xã hội."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đại diện lãnh đạo Chi nhánh Ngân hàng Nhà nước Việt Nam tại địa phương."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hội đồng quản lý Quỹ, Ban Kiểm soát Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đại diện của các cơ quan liên quan (nếu cần thiết) theo quyết định của địa phương."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 45",
+                    "tieu_de": "Quy trình giải thể Quỹ đầu tư phát triển địa phương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng giải thể xây dựng phương án giải thể, báo cáo Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân thông qua. Phương án giải thể bao gồm các nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đánh giá của tổ chức kiểm toán độc lập về thực trạng tài chính và xác định giá trị thực của vốn điều lệ của Quỹ đầu tư phát triển địa phương, trừ trường hợp Quỹ đã có báo cáo tài chính được kiểm toán độc lập trong vòng 06 tháng trước thời điểm quyết định giải thể Quỹ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phương án thanh lý tài sản, xử lý nguồn vốn điều lệ, các khoản cho vay và đầu tư đang thực hiện và thanh toán các khoản nợ của Quỹ đầu tư phát triển địa phương."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phương án chuyển giao các khoản nhận ủy thác của các tổ chức ủy thác."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Phương án xử lý các nghĩa vụ phát sinh từ hợp đồng lao động."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Điều khoản chấm dứt toàn bộ quyền, lợi ích của Quỹ đầu tư phát triển địa phương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sau khi phương án giải thể được Hội đồng nhân dân cấp tỉnh thông qua, Ủy ban nhân dân cấp tỉnh quyết định giải thể Quỹ đầu tư phát triển địa phương, đồng thời báo cáo Bộ Tài chính và công bố việc giải thể trên các phương tiện thông tin đại chúng ở địa phương và trung ương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong vòng 10 ngày làm việc kể từ ngày quyết định giải thể có hiệu lực:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Quỹ đầu tư phát triển địa phương có trách nhiệm thực hiện các quy định tại Điều 46 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hội đồng giải thể có trách nhiệm thực hiện các quy định tại Điều 47 Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng giải thể tự động chấm dứt hoạt động khi Quỹ đầu tư phát triển địa phương đã hoàn tất các thủ tục giải thể theo quy định tại Nghị định này và các quy định của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thời gian giải thể Quỹ đầu tư phát triển địa phương không quá 02 năm kể từ ngày quyết định giải thể có hiệu lực. Trường hợp cần thiết theo yêu cầu thực tiễn của địa phương, Ủy ban nhân dân cấp tỉnh quyết định gia hạn thời gian giải thể nhưng tối đa không quá 01 năm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 46",
+                    "tieu_de": "Trách nhiệm của Quỹ đầu tư phát triển địa phương sau khi có quyết định giải thể",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chấm dứt ngay hoạt động huy động vốn, cho vay, đầu tư và các hoạt động có liên quan khi quyết định giải thể có hiệu lực.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trong vòng 10 ngày làm việc kể từ khi quyết định giải thể có hiệu lực, Quỹ đầu tư phát triển địa phương phải thực hiện:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khóa sổ kế toán; kiểm kê tài sản; đối chiếu công nợ phải thu, phải trả; lập báo cáo tài chính đến thời điểm quyết định giải thể có hiệu lực."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lập danh sách các khoản tiền gửi của Quỹ tại các tổ chức tín dụng; danh sách nợ phải trả, bao gồm các khoản vốn huy động; danh sách khách hàng cho vay và số nợ gốc, lãi phải thu (chia ra nợ có khả năng thu hồi và nợ không có khả năng thu hồi); danh sách các dự án đầu tư, các khoản vốn góp tại tổ chức kinh tế và số vốn phải thu hồi từ các dự án này; danh sách các khoản ủy thác và nhận ủy thác."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Gửi văn bản đề nghị cơ quan thuế xác nhận việc thực hiện nghĩa vụ thuế của Quỹ (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong thời hạn 30 ngày làm việc kể từ khi quyết định giải thể có hiệu lực, Quỹ đầu tư phát triển địa phương phải bàn giao cho Hội đồng giải thể:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Báo cáo tài chính, sổ sách kế toán và các tài liệu liên quan đến việc giải thể của Quỹ; danh sách các khoản cho vay, đầu tư, các khoản ủy thác và nhận ủy thác của Quỹ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Toàn bộ tài sản thuộc quyền sở hữu, quản lý, sử dụng hợp pháp của Quỹ đầu tư phát triển địa phương (kể cả tài sản chưa thu hồi được)."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 47",
+                    "tieu_de": "Trách nhiệm của Hội đồng giải thể sau khi có quyết định giải thể",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trong vòng 05 ngày làm việc kể từ ngày quyết định giải thể có hiệu lực, Hội đồng giải thể có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thu hồi con dấu của Quỹ đầu tư phát triển địa phương để phục vụ việc giải thể."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổ chức giải thể Quỹ đầu tư phát triển địa phương theo phương án được duyệt."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc việc giải thể, Hội đồng giải thể báo cáo Ủy ban nhân dân cấp tỉnh về kết quả giải thể."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng giải thể được sử dụng con dấu của Quỹ đầu tư phát triển địa phương để phục vụ công tác giải thể và yêu cầu các cơ quan nhà nước có liên quan hỗ trợ việc thu hồi tài sản.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VI",
+            "tieu_de_chuong": "TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC CÓ LIÊN QUAN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 48",
+                    "tieu_de": "Trách nhiệm của Hội đồng nhân dân cấp tỉnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thông qua Đề án thành lập Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quyết định phương thức tổ chức, điều hành của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thông qua phương án cấp, bổ sung vốn điều lệ cho Quỹ đầu tư phát triển địa phương từ nguồn ngân sách cấp tỉnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thông qua danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương đảm bảo tuân thủ quy định tại Điều 15 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thực hiện giám sát hoạt động của Quỹ đầu tư phát triển địa phương theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thông qua phương án cơ cấu lại, giải thể Quỹ đầu tư phát triển địa phương trên cơ sở đề nghị của Ủy ban nhân dân cấp tỉnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 49",
+                    "tieu_de": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện chức năng đại diện chủ sở hữu nhà nước tại Quỹ đầu tư phát triển địa phương theo quy định tại Nghị định này và Điều lệ tổ chức, hoạt động của Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xây dựng Đề án thành lập Quỹ đầu tư phát triển địa phương trình Hội đồng nhân dân cấp tỉnh thông qua theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quyết định việc thành lập, cơ cấu lại và giải thể Quỹ đầu tư phát triển địa phương theo quy định tại Nghị định này và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trình Hội đồng nhân dân cấp tỉnh thông qua phương án cấp, bổ sung vốn điều lệ từ ngân sách nhà nước; bố trí nguồn để cấp, bổ sung vốn điều lệ cho Quỹ đầu tư phát triển địa phương theo phương án đã được Hội đồng nhân dân thông qua.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Phê duyệt điều lệ hoạt động của Quỹ đầu tư phát triển địa phương hoặc phê duyệt điều lệ sửa đổi, bổ sung trên cơ sở đề nghị của Hội đồng quản lý Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quyết định mô hình tổ chức của Quỹ đầu tư phát triển địa phương, số lượng thành viên Hội đồng quản lý Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phê duyệt tổ chức bộ máy của Quỹ đầu tư phát triển địa phương trên cơ sở đề nghị của Hội đồng quản lý Quỹ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Ban hành danh mục lĩnh vực đầu tư, cho vay của Quỹ đầu tư phát triển địa phương theo quy định tại Điều 16 Nghị định này sau khi được Hội đồng nhân dân cấp tỉnh thông qua.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Có ý kiến chấp thuận đối với quy chế xử lý rủi ro của Quỹ đầu tư phát triển địa phương theo quy định tại Điều 30 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Quyết định mức lãi suất cho vay tối thiểu của Quỹ đầu tư phát triển địa phương trong từng thời kỳ theo quy định tại Điều 25 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Quyết định phê duyệt đầu tư, cho vay theo thẩm quyền quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Quản lý, kiểm tra, giám sát toàn diện tình hình hoạt động và tài chính của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Phê duyệt kế hoạch hoạt động 05 năm và kế hoạch tài chính hàng năm của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Phê duyệt báo cáo tài chính, phân phối chênh lệch thu chi, trích lập các quỹ hàng năm của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "15",
+                            "noi_dung_khoan": "Thực hiện các nhiệm vụ khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 50",
+                    "tieu_de": "Trách nhiệm của Bộ Tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với các bộ, ngành xây dựng, trình Chính phủ ban hành cơ chế chính sách về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương; phối hợp với Ngân hàng Nhà nước Việt Nam thực hiện quản lý hoạt động cho vay của Quỹ đầu tư phát triển địa phương theo quy định tại Nghị định này trong phạm vi chức năng, nhiệm vụ được giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kiểm tra tình hình thực hiện quy định tại Nghị định này của các Quỹ đầu tư phát triển địa phương để đánh giá, hoàn thiện cơ chế chính sách.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Ban hành văn bản hướng dẫn thực hiện Nghị định này về cơ chế quản lý tài chính, chế độ kế toán, giám sát, đánh giá hiệu quả hoạt động của Quỹ và việc thực hiện chức năng Quỹ đầu tư phát triển địa phương của HFIC.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 51",
+                    "tieu_de": "Trách nhiệm của Ngân hàng Nhà nước Việt Nam",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phối hợp với Bộ Tài chính để thực hiện quản lý hoạt động cho vay của Quỹ đầu tư phát triển địa phương trong phạm vi chức năng, nhiệm vụ được giao.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp với Bộ Tài chính xây dựng chính sách, theo dõi, đánh giá tình hình thực hiện cho vay của Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 52",
+                    "tieu_de": "Trách nhiệm của Bộ Lao động - Thương binh và Xã hội",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện chức năng quản lý nhà nước về quản lý lao động, tiền lương, thù lao, tiền thưởng, xếp hạng và xếp lương đối với Quỹ đầu tư phát triển địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao, tiền thương, xếp hạng và xếp lương đối với Quỹ đầu tư phát triển địa phương phù hợp với hoạt động của Quỹ đầu tư phát triển địa phương quy định tại Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương VII",
+            "tieu_de_chuong": "TỔ CHỨC THỰC HIỆN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 53",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "Nghị định này có hiệu lực thi hành từ ngày 05 tháng 02 năm 2021 và thay thế Nghị định số 138/2007/NĐ-CP ngày 28 tháng 8 năm 2007 về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương và Nghị định số 37/2013/NĐ-CP ngày 22 tháng 4 năm 2013 sửa đổi, bổ sung một số điều của Nghị định số 138/2007/NĐ-CP ngày 28 tháng 8 năm 2007.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 54",
+                    "tieu_de": "Điều khoản chuyển tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các dự án cho vay, đầu tư đã được ký kết trước khi Nghị định này có hiệu lực thi hành được tiếp tục thực hiện theo hợp đồng đã ký kết theo giới hạn cho vay, đầu tư quy định tại Nghị định số 138/2007/NĐ-CP và Nghị định số 37/2013/NĐ-CP cho đến hết thời hạn hợp đồng. Trường hợp sửa đổi, bổ sung các hợp đồng này thì thực hiện theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trong thời hạn 06 tháng kể từ khi Nghị định này có hiệu lực thi hành, Ủy ban nhân dân cấp tỉnh ban hành mức lãi suất cho vay tối thiểu theo quy định tại Điều 25 Nghị định này . Lãi suất cho vay của Quỹ đầu tư phát triển địa phương tiếp tục được thực hiện theo quy định tại Nghị định số 138/2007/NĐ-CP và Nghị định số 37/2013/NĐ-CP cho đến khi Ủy ban nhân dân cấp tỉnh ban hành mức lãi suất cho vay tối thiểu theo quy định tại Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 55",
+                    "tieu_de": "Tổ chức thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với HFIC:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hoạt động huy động vốn của HFIC thực hiện theo quy định tại Điều 36 Nghị định này ; riêng đối với phát hành trái phiếu và hình thức huy động vốn khác (gồm cả vay lại vốn vay ODA, vốn vay ưu đãi nước ngoài của Chính phủ) thực hiện theo quy định của pháp luật đối với doanh nghiệp. Tổng mức vốn huy động của HFIC áp dụng như đối với Quỹ đầu tư phát triển địa phương quy định tại khoản 3 Điều 36 Nghị định này ."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hoạt động cho vay, đầu tư, ủy thác và nhận ủy thác của HFIC thực hiện theo quy định tại Nghị định này và các văn bản hướng dẫn."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đối với các hoạt động khác, HFIC thực hiện theo quy định của pháp luật đối với doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ và pháp luật có liên quan."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "HFIC thực hiện chế độ tài chính, kế toán, kiểm toán, báo cáo, giám sát, đánh giá hiệu quả hoạt động theo quy định của pháp luật đối với doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ và quy định tại điểm a, điểm b, điểm c khoản này; Bộ Tài chính hướng dẫn quy định tại điểm này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (2b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Xuân Phúc Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Điều kiện thành lập mới Quỹ đầu tư phát triển địa phương Điều kiện chào bán trái phiếu Quỹ đầu tư phát triển địa phương Hình thức đầu tư của Quỹ đầu tư phát triển địa phương từ 05/2/2021 Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 147/2020/NĐ-CP quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Điều kiện thành lập mới Quỹ đầu tư phát triển địa phương Điều kiện chào bán trái phiếu Quỹ đầu tư phát triển địa phương Hình thức đầu tư của Quỹ đầu tư phát triển địa phương từ 05/2/2021 Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Điều kiện thành lập mới Quỹ đầu tư phát triển địa phương Điều kiện chào bán trái phiếu Quỹ đầu tư phát triển địa phương Hình thức đầu tư của Quỹ đầu tư phát triển địa phương từ 05/2/2021 Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 147/2020/NĐ-CP quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương MỤC LỤC VĂN BẢN In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh MỤC LỤC VĂN BẢN In mục lục In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Nghị định 147/2020/NĐ-CP ngày 18/12/2020 quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương Tải Văn bản tiếng Việt Tải Văn bản tiếng Việt (docx) Tải Văn bản gốc Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Nghị định 138/2007/NĐ-CP , Nghị định 37/2013/NĐ-CP , Nghị định 147/2020/NĐ-CP Thông tư 86/2021/TT-BTC hướng dẫn Nghị định 147/2020/NĐ-CP quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương do Bộ trưởng Bộ Tài chính ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 06/10/2021 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 09/10/2021 Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 22/11/2019 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 12/12/2019 Luật Đầu tư công 2019 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 13/06/2019 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 04/07/2019 Công văn 8387/BTC-TCNH năm 2018 trả lời kiến nghị về Quỹ đầu tư phát triển địa phương do Bộ Tài chính ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 13/07/2018 Hiệu lực: Đã biết Cập nhật: 17/09/2018 Luật Các tổ chức tín dụng sửa đổi 2017 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 20/11/2017 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 12/12/2017 Công văn 5335/VPCP-KTTH năm 2017 tổng kết tình hình hoạt động Quỹ đầu tư phát triển địa phương và sửa đổi khung khổ pháp lý do Văn phòng Chính phủ ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 24/05/2017 Hiệu lực: Đã biết Cập nhật: 21/06/2017 Công văn 5769/BTC-TCNH năm 2017 rà soát mô hình hoạt động của Quỹ Đầu tư phát triển địa phương do Bộ Tài chính ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 04/05/2017 Hiệu lực: Đã biết Cập nhật: 05/06/2017 Luật kế toán 2015 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 20/11/2015 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 19/12/2015 Luật ngân sách nhà nước 2015 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 25/06/2015 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 13/07/2015 Luật tổ chức Chính phủ 2015 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 19/06/2015 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 16/07/2015 Thư mục cha: Chọn thư mục cha Tạo thư mục",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "61",
+                            "noi_dung_khoan": "063 Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu muốn làm Thành Viên Basic / Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Nếu muốn làm Thành Viên Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Nghị định 147/2020/NĐ-CP quy định tổ chức và hoạt động của Quỹ đầu tư ... Chọn văn bản so sánh thay thế: Nghị định 138/2007/NĐ-CP về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương - Nghị định 147/2020/NĐ-CP quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN Văn bản bị thay thế Văn bản thay thế Chú thích Văn bản bị thay thế Văn bản thay thế Nội dung gốc Nội dung sửa đổi, hướng dẫn Nội dung gốc Nội dung sửa đổi, hướng dẫn Tải biểu mẫu Chú thích: Rà chuột vào nội dụng văn bản để sử dụng. <Nội dung> = Nội dung hai văn bản đều có; <Nội dung> = Nội dung văn bản cũ có, văn bản mới không có; <Nội dung> = Nội dung văn bản cũ không có, văn bản mới có; <Nội dung> = Nội dung được sửa đổi, bổ sung. Click trái để xem cụ thể từng nội dung cần so sánh và cố định bảng so sánh. Click phải để xem những nội dung sửa đổi, bổ sung. Double click để xem tất cả nội dung không có thay thế tương ứng. Tắt so sánh [X] để trở về trạng thái rà chuột ban đầu. FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN FILE ATTACHED TO DOCUMENT Thư mục cha: Chọn thư mục cha Tạo thư mục Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Xin chúc mừng thành viên acb đã đăng ký sử dụng thành công www.thuvienphapluat.vn THƯ VIỆN PHÁP LUẬT giúp thành viên tìm kiếm văn bản chính xác, nhanh chóng theo nhu cầu và cung cấp nhiều tiện ích, tính năng hiệu quả:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tra cứu và xem trực tiếp hơn 437.000 Văn bản luật, Công văn, hơn 200.000 Bản án Online;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tải về đa dạng văn bản gốc, văn bản file PDF/Word, văn bản Tiếng Anh, bản án, án lệ Tiếng Anh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các nội dung của văn bản này được văn bản khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc ; các quan hệ của các văn bản thông qua tiện ích Lược đồ và nhiều tiện ích khác;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được hỗ trợ pháp lý sơ bộ qua Điện thoại, Email và Zalo nhanh chóng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhận thông báo văn bản mới qua Email để cập nhật các thông tin, văn bản về pháp luật một cách nhanh chóng và chính xác nhất;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trang cá nhân: Quản lý thông tin cá nhân và cài đặt lưu trữ văn bản quan tâm theo nhu cầu. Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây. Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích miễn phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích MIỄN PHÍ nổi bật trên www.thuvienphapluat.vn : Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích có phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích CÓ PHÍ khi xem văn bản trên www.thuvienphapluat.vn : Xin chào Quý khách hàng - ! Để trải nghiệm lại nội dung hướng dẫn tiện ích, Bạn vui lòng vào Trang Hướng dẫn sử dụng . Bên cạnh những tiện ích vừa giới thiệu, Bạn có thể xem thêm Video/Bài viết hướng dẫn sử dụng để biết cách tra cứu, sử dụng toàn bộ các tính năng, tiện ích trên website. Ngoài ra, Bạn có thể nhấn vào đây để trải nghiệm MIỄN PHÍ các tiện ích khi xem văn bản dành cho thành viên CÓ PHÍ . 👉 Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây . 👉 Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Cảm ơn Bạn đã quan tâm và sử dụng dịch vụ của chúng tôi. Trân trọng, THƯ VIỆN PHÁP LUẬT TP. HCM, ngày 31/0 5/2021 Thưa Quý khách, Đúng 14 tháng trước, ngày 31/3/2020, THƯ VIỆN PHÁP LUẬT đã bậ t Thông báo này, và nay 31/5/2021 xin bật lại. Hơn 1 năm qua, dù nhiều khó khăn, chúng ta cũng đã đánh thắng Covid 19 trong 3 trận đầu. Trận 4 này , với chỉ đạo quyết liệt của Chính phủ, chắc chắn chúng ta lại thắng . Là sản phẩm online, nên 25 0 nhân sự chúng tôi vừa làm việc tại trụ sở, vừa làm việc từ xa qua Internet ngay từ đầu tháng 5/2021 . S ứ mệnh của THƯ VIỆN PHÁP LUẬT là:  s ử dụng công nghệ cao để tổ chức lại hệ thống văn bản pháp luật ,  v à kết nối cộng đồng Dân L uật Việt Nam, nhằm :  G iúp công chúng “…loại rủi ro pháp lý, nắm cơ hội làm giàu…” ,  v à cùng công chúng xây dựng, thụ hưởng một xã hội pháp quyền trong tương lai gần; Chúng tôi cam kết dịch vụ sẽ được cung ứng bình thường trong mọi tình huống. THÔNG BÁO về Lưu trữ, Sử dụng Thông tin Khách hàng Kính gửi: Quý Thành viên, Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hiệu lực từ ngày 01/07/2023) yêu cầu xác nhận sự đồng ý của thành viên khi thu thập, lưu trữ, sử dụng thông tin mà quý khách đã cung cấp trong quá trình đăng ký, sử dụng sản phẩm, dịch vụ của THƯ VIỆN PHÁP LUẬT . Quý Thành viên xác nhận giúp THƯ VIỆN PHÁP LUẬT được tiếp tục lưu trữ, sử dụng những thông tin mà Quý Thành viên đã, đang và sẽ cung cấp khi tiếp tục sử dụng dịch vụ. Thực hiện Nghị định 13/2023/NĐ-CP, chúng tôi cập nhật Quy chế và Thỏa thuận Bảo về Dữ liệu cá nhân bên dưới. Trân trọng cảm ơn Quý Thành viên. Tôi đã đọc và đồng ý Quy chế bảo vệ dữ liệu cá nhân Tiếp tục sử dụng Cảm ơn đã dùng ThuVienPhapLuat.vn Bạn vừa bị Đăng xuất khỏi Tài khoản . Hiện tại có đủ người dùng cùng lúc, nên khi người thứ vào thì bạn bị Đăng xuất. Có phải do Tài khoản của bạn bị lộ mật khẩu nên nhiều người khác vào dùng? Hỗ trợ: (028) 3930.3279 _ 0906.229966 Xin lỗi Quý khách vì sự bất tiện này! Tài khoản hiện đã đủ người dùng cùng thời điểm. Quý khách Đăng nhập vào thì sẽ có 1 người khác bị Đăng xuất. Tài khoản của Quý Khách đẵ đăng nhập quá nhiều lần trên nhiều thiết bị khác nhau, Quý Khách có thể vào đây để xem chi tiết lịch sử đăng nhập Có thể tài khoản của bạn đã bị rò rỉ mật khẩu và mất bảo mật, xin vui lòng đổi mật khẩu tại đây để tiếp tục sử dụng Hãy để chúng tôi hỗ trợ bạn! Họ & Tên: Email: Điện thoại: Nội dung: Bạn hãy nhập mật khẩu đang sử dụng và nhập mật khẩu mới 2 lần để chắc rằng bạn nhập đúng. Tên truy cập hoặc Email: Mật khẩu cũ: Mật khẩu mới: Bạn hãy nhập e-mail đã sử dụng để đăng ký thành viên. E-mail: Email người nhận: Tiêu đề Email: Nội dung: Họ & Tên: Email: Điện thoại: Nội dung: Thông báo cho tôi khi Văn bản bị sửa đổi, bổ sung, có hoặc hết hiệu lực. Email nhận thông báo: Thông báo cho tôi khi Văn bản có nội dung. Email nhận thông báo: Ghi chú cho Văn bản .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

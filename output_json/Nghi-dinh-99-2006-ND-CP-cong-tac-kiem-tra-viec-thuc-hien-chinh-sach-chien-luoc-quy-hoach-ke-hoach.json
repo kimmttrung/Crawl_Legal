@@ -1,0 +1,868 @@
+{
+    "ten_luat": "Nghị định 99/2006/NĐ-CP công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch kế hoạch",
+    "so_hieu": "99/2006/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Đối tượng và phạm vi điều chỉnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này quy định về công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch đã có hiệu lực thi hành thuộc trách nhiệm tổ chức thực hiện hoặc thẩm quyền quyết định của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, ủy ban nhân dân và Chủ tịch ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghị định này áp dụng với Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chính sách, chiến lược, quy hoạch, kế hoạch quy định tại khoản 1 Điều này được hiểu là chính sách, chiến lược, quy hoạch, kế hoạch được thể chế hoá trong văn bản quy phạm pháp luật của Quốc hội, ủy ban Thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Hội đồng nhân dân, ủy ban nhân dân cấp tỉnh; trong văn bản cá biệt, văn bản chỉ đạo, điều hành của Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân cấp tỉnh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Mục đích kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bảo đảm hiệu lực, hiệu quả của chính sách, chiến lược, quy hoạch, kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tăng cường kỷ luật, kỷ cương hành chính trong việc tổ chức thực hiện chính sách, chiến lược, quy hoạch, kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khen thưởng cơ quan, tổ chức, cá nhân có thành tích trong việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phát hiện điểm bất hợp lý, sai trái trong việc tổ chức thực hiện để kịp thời điều chỉnh hoặc kiến nghị việc điều chỉnh chính sách, chiến lược, quy hoạch, kế hoạch và xử lý vi phạm theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bảo đảm thực hành tiết kiệm, chống lãng phí trong quá trình thực hiện chính sách, chiến lược, quy hoạch, kế hoạch.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Nguyên tắc kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện đúng thẩm quyền, trình tự, thủ tục và trên cơ sở quy định pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Không chồng chéo, trùng lắp, phát huy phối hợp trong kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kịp thời, khách quan, chính xác và nghiêm minh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Dân chủ, công khai, không gây cản trở, ảnh hưởng xấu đến hoạt động của các cơ quan, tổ chức được kiểm tra. Điều 4 . Cách thức kiểm tra",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tuỳ theo nội dung, tính chất của chính sách, chiến lược, quy hoạch, kế hoạch và tình hình thực tế, cơ quan có thẩm quyền thực hiện kiểm tra định kỳ hoặc kiểm tra đột xuất bằng các cách thức sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông qua báo cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thông qua sơ kết, tổng kết;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Họp, giao ban;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Làm việc với cơ quan được kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Tổ chức đoàn kiểm tra."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kiểm tra định kỳ được tiến hành trên cơ sở kế hoạch kiểm tra hàng năm được cơ quan có thẩm quyền phê duyệt. Kiểm tra đột xuất được tiến hành trên cơ sở yêu cầu quản lý và tình hình thực tế hoặc trên cơ sở đề nghị, phản ánh của cơ quan, tổ chức, cá nhân về những yếu kém, sai trái trong quá trình tổ chức thực hiện chính sách, chiến lược, quy hoạch, kế hoạch. Chương 2: KIỂM TRA VIỆC THỰC HIỆN CHÍNH SÁCH, CHIẾN LƯỢC, QUY HOẠCH, KẾ HOẠCH MỤC 1: THẨM QUYỀN, NỘI DUNG VÀ KẾ HOẠCH KIỂM TRA",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Thẩm quyền kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Theo sự phân công của Thủ tướng Chính phủ, Văn phòng Chính phủ và các cơ quan chức năng kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc trách nhiệm tổ chức thực hiện hoặc thẩm quyền quyết định của Chính phủ, Thủ tướng Chính phủ, trừ trường hợp Thủ tướng Chính phủ trực tiếp thực hiện việc kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ kiểm tra việc thực hiện chính sách, chiến lược quy hoạch, kế hoạch thuộc trách nhiệm tổ chức thực hiện hoặc thẩm quyền quyết định. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ trực tiếp kiểm tra hoặc giao nhiệm vụ kiểm tra cho các cơ quan, đơn vị trực thuộc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ tịch ủy ban nhân dân cấp tỉnh kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc trách nhiệm tổ chức thực hiện hoặc thẩm quyền quyết định của ủy ban nhân dân, Chủ tịch ủy ban nhân dân cấp tỉnh. Chủ tịch ủy ban nhân dân cấp tỉnh trực tiếp kiểm tra hoặc giao nhiệm vụ kiểm tra cho Văn phũng ủy ban nhõn dân và các cơ quan chức năng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đối với những chính sách, chiến lược, quy hoạch, kế hoạch liên quan đến nhiều ngành, lĩnh vực, cơ quan nào được giao chủ trì thực hiện thì người đứng đầu cơ quan đó chủ trì việc kiểm tra thực hiện.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Nội dung kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nội dung kiểm tra việc thực hiện chính sách:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kế hoạch thực hiện chính sách;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiến độ tổ chức thực hiện các giải pháp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Những sai phạm, yếu kém trong thực hiện chính sách;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Kết quả thực hiện chính sách; những hạn chế, nguyên nhân của việc không thực hiện hoặc thực hiện không tốt chính sách;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trách nhiệm của các cơ quan, tổ chức, người có thẩm quyền trong tổ chức thực hiện chính sách (bao gồm trách nhiệm của cơ quan chủ trì và trách nhiệm của các cơ quan có liên quan);"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Sự phù hợp của chính sách với điều kiện kinh tế - xã hội."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung kiểm tra việc thực hiện chiến lược:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kế hoạch thực hiện chiến lược;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Việc thực hiện các mục tiêu chủ yếu của chiến lược;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tiến độ và mức độ thực hiện các giải pháp chiến lược bao gồm cả biện pháp tổ chức thực hiện chiến lược;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Những sai phạm, yếu kém trong thực hiện chiến lược;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Kết quả thực hiện chiến lược; những hạn chế, nguyên nhân của việc không thực hiện hoặc thực hiện không tốt chiến lược;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Trách nhiệm của cơ quan, tổ chức, người có thẩm quyền trong tổ chức thực hiện chiến lược (bao gồm trách nhiệm của cơ quan chủ trì và trách nhiệm của các cơ quan có liên quan);"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Sự phù hợp của chiến lược với điều kiện kinh tế - xã hội."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nội dung kiểm tra việc thực hiện quy hoạch:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kế hoạch thực hiện quy hoạch;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả, tiến độ thực hiện các chương trình, dự án đầu tư trọng điểm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kết quả, tiến độ thực hiện các mục tiêu và sản phẩm chủ lực của quy hoạch;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Kết quả, tiến độ thực hiện giải pháp, cơ chế thực hiện mục tiêu quy hoạch;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Những sai phạm, yếu kém trong thực hiện quy hoạch;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Kết quả thực hiện quy hoạch; những hạn chế, nguyên nhân của việc không thực hiện hoặc thực hiện không tốt quy hoạch;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Trách nhiệm của cơ quan, tổ chức, người có thẩm quyền trong tổ chức thực hiện quy hoạch (bao gồm trách nhiệm của cơ quan chủ trì và trách nhiệm của các cơ quan có liên quan);"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Sự phù hợp của quy hoạch với chiến lược làm căn cứ xây dựng quy hoạch và với điều kiện kinh tế - xã hội."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nội dung kiểm tra việc thực hiện kế hoạch: ­c) Kết quả và tiến độ thực hiện các chỉ tiêu bắt buộc, các biện pháp tổ chức thực hiện kế hoạch;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kế hoạch thực hiện kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả, tiến độ thực hiện các mục tiêu của kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Kết quả, tiến độ thực hiện các công trình, dự án trọng điểm của kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Những sai phạm, yếu kém trong thực hiện kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Kết quả thực hiện kế hoạch; hạn chế, nguyên nhân của việc không thực hiện hoặc thực hiện không tốt kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Trách nhiệm của cơ quan, tổ chức, người có thẩm quyền trong việc thực hiện các nhiệm vụ tổ chức triển khai kế hoạch (bao gồm trách nhiệm của cơ quan chủ trì và trách nhiệm của các cơ quan có liên quan);"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Sự phù hợp của kế hoạch với quy hoạch làm căn cứ xây dựng kế hoạch và với điều kiện kinh tế - xã hội."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Lập kế hoạch kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm tra định kỳ phải có kế hoạch. Kế hoạch kiểm tra có thể được xây dựng thành văn bản riêng hoặc đưa vào nội dung của chương trình công tác của cơ quan hành chính nhà nước hoặc được xác định ngay trong chính sách, chiến lược, quy hoạch, kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan, đơn vị chủ trì kiểm tra lập kế hoạch kiểm tra, trong đó xác định rõ thời gian, địa điểm, nội dung kiểm tra, cơ quan phối hợp kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kế hoạch kiểm tra hàng năm phải được cơ quan có thẩm quyền phê duyệt trước ngày 15 tháng 12 của năm trước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trong trường hợp cần thiết, cơ quan, đơn vị chủ trì kiểm tra trình cấp có thẩm quyền điều chỉnh kế hoạch kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Văn phòng Chính phủ có trách nhiệm chủ trì, phối hợp với các cơ quan chức năng xây dựng và trình Thủ tướng Chính phủ phê duyệt hoặc điều chỉnh kế hoạch kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc trách nhiệm tổ chức thực hiện hoặc thẩm quyền quyết định của Chính phủ, Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ chủ trì, phối hợp với đơn vị chức năng xây dựng và trình Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ phê duyệt hoặc điều chỉnh kế hoạch kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc thẩm quyền kiểm tra của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Văn phòng ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với cơ quan chức năng xây dựng và trình Chủ tịch ủy ban nhân dân cấp tỉnh phê duyệt hoặc điều chỉnh kế hoạch kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc thẩm quyền kiểm tra của Chủ tịch ủy ban nhân dân cấp tỉnh. MỤC 2: CÁCH THỨC KIỂM TRA",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Kiểm tra thông qua báo cáo",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm tra thông qua báo cáo được tiến hành định kỳ hoặc đột xuất theo yêu cầu của người có thẩm quyền kiểm tra hoặc cơ quan được giao nhiệm vụ kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung báo cáo và thời hạn gửi báo cáo phải bảo đảm đúng yêu cầu của người có thẩm quyền kiểm tra hoặc cơ quan được giao nhiệm vụ kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người có thẩm quyền kiểm tra hoặc cơ quan được giao nhiệm vụ kiểm tra xem xét báo cáo, xử lý thông tin, yêu cầu thẩm định thông tin và có kết luận kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thời gian cho cơ quan được kiểm tra chuẩn bị báo cáo ít nhất là 05 ngày làm việc, kể từ ngày nhận được yêu cầu của người có thẩm quyền kiểm tra hoặc cơ quan được giao nhiệm vụ kiểm tra. Trong trường hợp đặc biệt, thời gian cho cơ quan được kiểm tra chuẩn bị báo cáo do người có thẩm quyền kiểm tra quyết định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Kiểm tra thông qua sơ kết, tổng kết",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sơ kết, tổng kết việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch do người có thẩm quyền kiểm tra quyết định hoặc được xác định ngay trong chính sách, chiến lược, quy hoạch, kế hoạch. Việc kiểm tra thông qua sơ kết, tổng kết phải tuân thủ theo nguyên tắc dưới đây: Việc tổng kết để kiểm tra chỉ áp dụng đối với chính sách, chiến lược, quy hoạch, kế hoạch quan trọng, có quy mô lớn.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sơ kết, tổng kết việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch phải bảo đảm tiết kiệm, chống lãng phí;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Sơ kết thực hiện chính sách, chiến lược, quy hoạch, kế hoạch được tiến hành ít nhất là một năm kể từ khi chính sách, chiến lược, quy hoạch, kế hoạch được ban hành hoặc phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tổng kết thực hiện chính sách, chiến lược, quy hoạch, kế hoạch được tiến hành ít nhất là hai năm kể từ khi có hiệu lực thi hành hoặc khi kết thúc một giai đoạn thực hiện để chuyển sang giai đoạn khác hoặc khi đã hoàn thành việc thực hiện."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sơ kết, tổng kết việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch có thể tiến hành thông qua hội nghị hoặc báo cáo sơ kết, tổng kết.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sơ kết, tổng kết bao gồm các nội dung về thực hiện chính sách, chiến lược, quy hoạch, kế hoạch, nhưng tập trung vào các vấn đề sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các mục tiêu, nhiệm vụ đã hoàn thành;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các mục tiêu, nhiệm vụ chưa hoàn thành, lý do;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kết quả và tiến độ thực hiện;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Sai phạm, yếu kém trong quá trình thực hiện;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Trách nhiệm thực hiện của cơ quan chủ trì và các cơ quan có liên quan trong việc thực hiện;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Sự không phù hợp của chính sách, chiến lược, quy hoạch, kế hoạch và những kiến nghị sửa đổi, bổ sung."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Kiểm tra thông qua họp, giao ban",
+                    "noi_dung_chung": "Kiểm tra thông qua họp, giao ban do người có thẩm quyền kiểm tra quyết định. Tại cuộc họp, hội nghị giao ban, cơ quan, đơn vị được kiểm tra báo cáo tình hình việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch theo yêu cầu của người có thẩm quyền kiểm tra.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Kiểm tra thông qua làm việc với các cơ quan được kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp cần làm việc trực tiếp với cơ quan được kiểm tra, người có thẩm quyền kiểm tra hoặc cơ quan được giao nhiệm vụ kiểm tra, mời đại diện cơ quan được kiểm tra làm việc tại trụ sở cơ quan mình hoặc cử đại diện của cơ quan mình đến làm việc tại cơ quan được kiểm tra. Văn phòng Chính phủ có trách nhiệm tổ chức việc kiểm tra của Thủ tướng, các Phó Thủ tướng thông qua làm việc trực tiếp với Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân cấp tỉnh. Trường hợp được Thủ tướng giao, Văn phòng chính phủ và các cơ quan chức năng được quyền làm việc trực tiếp với người đứng đầu cơ quan được kiểm tra. Văn phòng ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức việc kiểm tra của Chủ tịch, các Phó Chủ tịch ủy ban nhân dân cấp tỉnh thông qua làm việc trực tiếp với người đứng đầu cơ quan chuyên môn thuộc ủy ban nhân dân cấp tỉnh và Chủ tịch ủy ban nhân dân các cấp. Trường hợp được ủy ban nhân dân cấp tỉnh giao, Văn phòng ủy ban nhân dân cấp tỉnh và các cơ quan chức năng được quyền làm việc trực tiếp với người đứng đầu các cơ quan được kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Người có thẩm quyền kiểm tra và cơ quan được giao nhiệm vụ kiểm tra có quyền tham khảo ý kiến của các chuyên gia về những vấn đề chuyên môn liên quan đến nội dung kiểm tra, nhưng phải chịu trách nhiệm về kết luận kiểm tra của mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Tổ chức đoàn kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thành lập đoàn kiểm tra:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm tra thông qua thành lập đoàn kiểm tra được ghi vào kế hoạch kiểm tra của cơ quan hành chính nhà nước, trừ trường hợp kiểm tra đột xuất. Đoàn kiểm tra được thành lập trên cơ sở quyết định của người có thẩm quyền kiểm tra hoặc cơ quan được giao nhiệm vụ kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp kiểm tra đột xuất, đoàn kiểm tra phải có trách nhiệm thông báo thời gian, nội dung kiểm tra cho cơ quan được kiểm tra chậm nhất là 01 ngày làm việc trước ngày kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đối với đoàn kiểm tra do Thủ tướng hoặc Phó Thủ tướng chủ trì, Văn phòng Chính phủ có trách nhiệm chuẩn bị nội dung; tổng hợp và thông báo ý kiến kết luận kiểm tra của Thủ tướng Chính phủ hoặc Phó Thủ tướng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hoạt động của đoàn kiểm tra: MỤC 3: BÁO CÁO KẾT QUẢ KIỂM TRA, TRÁCH NHIỆM TRONG KIỂM TRA VÀ XỬ LÝ KẾT QUẢ KIỂM TRA",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đoàn kiểm tra hoạt động theo kế hoạch do cấp có thẩm quyền phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đoàn kiểm tra có quyền làm việc trực tiếp với cơ quan được kiểm tra; yêu cầu cơ quan được kiểm tra báo cáo và cung cấp thông tin, tài liệu phục vụ cho việc kiểm tra; đề nghị cơ quan nhà nước có liên quan hoặc chuyên gia đánh giá về các báo cáo, thông tin, tài liệu do cơ quan được kiểm tra cung cấp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thời gian hoạt động của đoàn kiểm tra do người ra quyết định thành lập đoàn kiểm tra quyết định."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Báo cáo kết quả kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khi kết thúc kiểm tra cơ quan kiểm tra phải lập báo cáo về kết quả kiểm tra. Trường hợp người có thẩm quyền kiểm tra trực tiếp kiểm tra thì người có thẩm quyền chỉ định cơ quan, tổ chức, cá nhân lập báo cáo kết quả kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung báo cáo bao gồm các vấn đề sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Căn cứ tiến hành kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thời gian, địa điểm kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thành phần tham gia kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nội dung kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Kết quả đạt được và những sai phạm, yếu kém trong thực hiện chính sách, chiến lược, quy hoạch, kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "ý kiến của các cơ quan tham gia kiểm tra và đề xuất của cơ quan chủ trì về xử lý kết quả kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Kiến nghị của cơ quan được kiểm tra về việc sửa đổi, bổ sung chính sách, chiến lược, quy hoạch, kế hoạch không phù hợp;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Kết luận xử lý theo thẩm quyền hoặc đề xuất, kiến nghị cấp có thẩm quyền việc xử lý, khắc phục những sai trái, yếu kém trong thực hiện, cũng như việc kiến nghị sửa đổi, bổ sung hoặc bãi bỏ một phần hoặc toàn bộ chính sách, chiến lược, quy hoạch, kế hoạch không phù hợp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Dự thảo báo cáo kết quả kiểm tra phải được gửi lấy ý kiến của các cơ quan tham gia kiểm tra, trước khi trình cấp có thẩm quyền quyết định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Trách nhiệm của các cơ quan trong kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trách nhiệm của cơ quan kiểm tra:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông báo cho cơ quan được kiểm tra về thời gian, nội dung kiểm tra, gửi kết luận kiểm tra cho cơ quan được kiểm tra; báo cáo cơ quan có thẩm quyền về kết quả kiểm tra và đề xuất phương án xử lý;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khen thưởng theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền khen thưởng kịp thời đối với các cơ quan, tổ chức, cá nhân thực hiện tốt chính sách, chiến lược, quy hoạch, kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xử lý theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền xử lý kịp thời đối với các cơ quan, tổ chức, cá nhân không thực hiện hoặc thực hiện không tốt chính sách, chiến lược, quy hoạch, kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Trường hợp phát hiện chính sách, chiến lược, quy hoạch, kế hoạch không phù hợp, thiếu khả thi hoặc có sai trái thì xử lý theo thẩm quyền hoặc kịp thời kiến nghị cơ quan nhà nước có thẩm quyền xem xét, xử lý."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trách nhiệm của cơ quan được kiểm tra:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phối hợp và tạo điều kiện cho cơ quan kiểm tra trong quá trình kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thực hiện nghiêm túc chế độ thông tin, báo cáo theo yêu cầu của cơ quan kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo, cung cấp thông tin, tài liệu trung thực; chịu trách nhiệm trước pháp luật về nội dung của báo cáo, thông tin và tài liệu cung cấp;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chấp hành quyết định của cơ quan kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Có quyền kiến nghị, giải trình về kết luận của cơ quan kiểm tra, người có thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Chịu trách nhiệm về việc không thực hiện hoặc thực hiện không đúng chính sách, chiến lược, quy hoạch, kế hoạch."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Xử lý kết quả kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, người có thẩm quyền phải có trách nhiệm xử lý kết quả kiểm tra khi nhận được báo cáo kết quả kiểm tra. Trường hợp vượt quá thẩm quyền thì đề nghị cấp có thẩm quyền xem xét, quyết định. Thời hạn xem xét, xử lý kết quả kiểm tra tối đa không quá 30 ngày, kể từ thời điểm nhận được báo cáo kết quả kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân chậm trễ hoặc gây khó khăn cho các cơ quan trong quá trình kiểm tra và việc xử lý kết quả kiểm tra phải chịu trách nhiệm trước pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc xử lý kết quả kiểm tra phải bảo đảm đúng quy định của pháp luật. Chương 3: ĐIỀU PHỐI CÔNG TÁC KIỂM TRA VIỆC THỰC HIỆN CHÍNH SÁCH, CHIẾN LƯỢC, QUY HOẠCH, KẾ HOẠCH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Nội dung điều phối công tác kiểm tra",
+                    "noi_dung_chung": "Điều phối công tác kiểm tra bao gồm các nội dung sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Theo dõi, đôn đốc việc thực hiện kế hoạch kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sơ kết, tổng kết công tác kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Theo dõi, đôn đốc việc xử lý kết quả kiểm tra.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Theo dõi, đôn đốc việc thực hiện kế hoạch kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn phòng Chính phủ giúp Thủ tướng Chính phủ theo dõi, đôn đốc, kiểm tra các Bộ, ngành, địa phương thực hiện kế hoạch kiểm tra của Thủ tướng Chính phủ. Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, ủy ban nhân dân cấp tỉnh có trách nhiệm gửi kế hoạch kiểm tra của Bộ, ngành, địa phương mình về Văn phòng Chính phủ để theo dõi, đôn đốc, kiểm tra việc thực hiện. Văn phòng Chính phủ có quyền yêu cầu Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, ủy ban nhân dân cấp tỉnh báo cáo về việc thực hiện trách nhiệm kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ theo dõi, đôn đốc, kiểm tra các đơn vị chức năng thực hiện kế hoạch kiểm tra của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ. Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có quyền yêu cầu các đơn vị chức năng báo cáo về việc thực hiện trách nhiệm kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Văn phòng ủy ban nhân dân cấp tỉnh giúp Chủ tịch ủy ban nhân dân cấp tỉnh theo dõi, đôn đốc, kiểm tra các cơ quan chức năng thực hiện kế hoạch kiểm tra của Chủ tịch ủy ban nhân dân cấp tỉnh. Các cơ quan chuyên môn có trách nhiệm gửi kế hoạch kiểm tra về Văn phòng ủy ban nhân dân cấp tỉnh để theo dõi, đôn đốc, kiểm tra việc thực hiện. Văn phòng ủy ban nhân dân cấp tỉnh có quyền yêu cầu các cơ quan chuyên môn báo cáo về việc thực hiện trách nhiệm kiểm tra.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Sơ kết, tổng kết công tác kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc sơ kết, tổng kết công tác kiểm tra đối với việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch do người có thẩm quyền kiểm tra quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung sơ kết, tổng kết bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiến độ thực hiện kế hoạch, chương trình kiểm tra thuộc chương trình công tác của cơ quan hành chính nhà nước;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Việc thực hiện trách nhiệm kiểm tra của cơ quan, đơn vị;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Việc thực hiện trách nhiệm của cơ quan chỉ đạo, điều phối công tác kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Kiến nghị về kế hoạch, chương trình kiểm tra và định hướng, cách thức kiểm tra."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Văn phòng Chính phủ, Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Văn phòng ủy ban nhân dân cấp tỉnh có trách nhiệm giúp Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân cấp tỉnh sơ kết, tổng kết công tác kiểm tra.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Theo dõi, đôn đốc việc xử lý kết quả kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn phòng Chính phủ giúp Thủ tướng Chính phủ tiếp nhận và đôn đốc xử lý kết quả kiểm tra thuộc thẩm quyền xem xét, quyết định của Chính phủ, Thủ tướng Chính phủ; yêu cầu các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, ủy ban nhân dân cấp tỉnh giải trình về việc không thực hiện trách nhiệm xử lý kết quả kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ tiếp nhận và đôn đốc xử lý kết quả kiểm tra thuộc thẩm quyền xem xét, quyết định của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ; yêu cầu các đơn vị chức năng giải trình về việc không thực hiện trách nhiệm xử lý kết quả kiểm tra.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Văn phũng Ủy ban nhân dân cấp tỉnh giúp Chủ tịch Ủy ban nhân dân tiếp nhận và đụn đốc xử lý kết quả kiểm tra thuộc thẩm quyền xem xét, quyết định của Ủy ban nhân dân và Chủ tịch Ủy ban nhân dân cấp tỉnh; yêu cầu các cơ quan chức năng giải trình về việc không thực hiện trách nhiệm xử lý kết quả kiểm tra. Chương 4: BÁO CÁO CÔNG TÁC KIỂM TRA VÀ KHEN THƯỞNG, XỬ LÝ VI PHẠM",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Báo cáo về công tác kiểm tra",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Định kỳ một năm 2 lần, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân cấp tỉnh báo cáo Thủ tướng Chính phủ tình hình và kết quả thực hiện công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc thẩm quyền. Báo cáo được gửi về Văn phòng Chính phủ trước ngày 20 của tháng cuối quý II và quý IV để tổng hợp, báo cáo Thủ tướng Chính phủ. Trường hợp đột xuất, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm báo cáo theo yêu cầu của Văn phòng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Định kỳ một năm 2 lần, người đứng đầu cơ quan, tổ chức thuộc Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ báo cáo Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ tình hình và kết quả thực hiện công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch. Báo cáo được gửi về Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trước ngày 15 của tháng cuối quý II và quý IV để tổng hợp, báo cáo Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ. Trường hợp đột xuất các đơn vị thuộc Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm báo cáo theo yêu cầu của Văn phòng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Định kỳ một năm 2 lần, người đứng đầu cơ quan chuyên môn thuộc ủy ban nhân dân cấp tỉnh báo cáo Chủ tịch ủy ban nhân dân tình hình và kết quả thực hiện công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thuộc thẩm quyền. Báo cáo được gửi về Văn phòng ủy ban nhân dân cấp tỉnh trước ngày 15 của tháng cuối quý II và quý IV để tổng hợp, báo cáo Chủ tịch ủy ban nhân dân cấp tỉnh. Trường hợp đột xuất, các cơ quan thuộc chuyên môn thuộc ủy ban nhân dân cấp tỉnh có trách nhiệm báo cáo theo yêu cầu của Văn phòng ủy ban nhân dân cấp tỉnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Báo cáo công tác kiểm tra bao gồm các nội dung chủ yếu sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tình hình và kết quả thực hiện công tác kiểm tra;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổng hợp tình hình vi phạm và kết quả xử lý vi phạm của cán bộ, công chức trong việc tổ chức thực hiện chính sách, chiến lược, quy hoạch, kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tổng hợp kiến nghị về việc sửa đổi, bổ sung chính sách, chiến lược, quy hoạch, kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Những kiến nghị, đề xuất."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan tiếp nhận báo cáo có trách nhiệm tập hợp, báo cáo Thủ trưởng cơ quan hành chính nhà nước có thẩm quyền.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Khen thưởng và xử lý vi phạm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, người có thẩm quyền thực hiện tốt công tác kiểm tra theo quy định tại Nghị định này sẽ được xem xét khen thưởng theo quy định của pháp luật về thi đua khen thưởng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm các quy định của Nghị định này sẽ bị xem xét, xử lý theo quy định của pháp luật. Chương 5: CÁC ĐIỀU KIỆN BẢO ĐẢM",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Bảo đảm về kinh phí",
+                    "noi_dung_chung": "Kinh phí bảo đảm cho công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch do ngân sách nhà nước cấp, được dự toán chung trong kinh phí hoạt động thường xuyên của các cơ quan hành chính nhà nước. ­Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, quản lý và sử dụng kinh phí cho công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch theo quy định tại Nghị định này.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Bảo đảm về biên chế",
+                    "noi_dung_chung": "Bộ trưởng Bộ Nội vụ, Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân cấp tỉnh chịu trách nhiệm bảo đảm đủ biên chế cho công tác điều phối hoạt động kiểm tra và bố trí cán bộ có phẩm chất, năng lực chuyên môn tham gia hoạt động kiểm tra theo quy định tại Nghị định này.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Bảo đảm về thông tin",
+                    "noi_dung_chung": "Trong quá trình kiểm tra, cơ quan kiểm tra có quyền yêu cầu cơ quan được kiểm tra và các cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu phục vụ cho công tác kiểm tra. Các cơ quan, tổ chức, cá nhân được yêu cầu phải cung cấp thông tin. Trường hợp thông tin thuộc bí mật nhà nước thì việc từ chối cung cấp thông tin phải được thể hiện bằng văn bản. Thông tin, phản ánh của các phương tiện thông tin đại chúng và cơ quan, tổ chức, cá nhân về việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch là căn cứ để người có thẩm quyền kiểm tra quyết định tiến hành công tác kiểm tra. Tên của cá nhân cung cấp thông tin được giữ bí mật theo yêu cầu của người đó. Trường hợp cung cấp thông tin và phản ánh đúng sự thật về những sai trái, yếu kém của cơ quan, tổ chức, cá nhân trong việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch thì sẽ được xem xét khen thưởng theo quy định của pháp luật. Trường hợp cung cấp thông tin và phản ánh sai sự thật về những sai trái, yếu kém của cơ quan, tổ chức, cá nhân trong việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch, gây ảnh hưởng đến hoạt động quản lý và uy tín của cơ quan, tổ chức, cá nhân thì sẽ bị xem xét, xử lý theo quy định của pháp luật.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Bảo đảm về thời gian",
+                    "noi_dung_chung": "Việc thông báo về công tác kiểm tra, chế độ thông tin, báo cáo về kiểm tra phải tuân thủ quy định về thời gian theo quy định của Nghị định này. Chương 6: ĐIỀU KHOẢN THI HÀNH",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch ủy ban nhân dân cấp tỉnh chịu trách nhiệm thi hành Nghị định này. Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ đôn đốc, kiểm tra việc thực hiện Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; - Văn phũng Trung ương và các Ban của Đảng; - Văn phũng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phũng Quốc hội; - Toà ỏn nhân dân tối cao; - Viện Kiểm sỏt nhân dân tối cao; - Cơ quan Trung ương của các đoàn thể; - Học viện Hành chớnh quốc gia; - VPCP: BTCN, các PCN, Website Chính phủ, Ban Điều hành 112, Người phát ngôn của Thủ tướng Chính phủ, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, CCHC (5b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 99/2006/NĐ-CP về công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 99/2006/NĐ-CP về công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch MỤC LỤC VĂN BẢN In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh MỤC LỤC VĂN BẢN In mục lục In mục lục Văn bản này chưa cập nhật nội dung Tiếng Anh Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Nghị định 99/2006/NĐ-CP ngày 15/09/2006 về công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch Tải Văn bản tiếng Việt Tải Văn bản tiếng Việt (docx) Tải Văn bản gốc Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Nghị định 99/2006/NĐ-CP Quyết định 34/2007/QĐ-BCN phê duyệt Quy hoạch phát triển công nghiệp hỗ trợ đến năm 2010, tầm nhìn đến năm 2020 do Bộ trưởng Bộ Công nghiệp ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 31/07/2007 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 04/08/2007 Thông tư 06/2007/TT-BTC hướng dẫn lập dự toán, quản lý và sử dụng kinh phí bảo đảm cho công tác kiểm tra việc thực hiện chính sách, chiến lược, quy hoạch, kế hoạch do Bộ Tài chính ban hành Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 26/01/2007 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 03/02/2007 Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 26/11/2003 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 17/09/2012 Luật Tổ chức Chính phủ 2001 Tiếng Anh | Lược đồ | Liên quan hiệu lực | Tải về Ban hành: 25/12/2001 Hiệu lực: Đã biết Tình trạng: Đã biết Cập nhật: 04/04/2013 Thư mục cha: Chọn thư mục cha Tạo thư mục",
+                    "khoan": [
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "832 Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Chưa Đăng Nhập Thành Viên! Vì chưa Đăng Nhập nên Bạn chỉ xem được Thuộc tính của văn bản. Bạn chưa xem được Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu chưa là Thành Viên, mời Bạn Đăng ký Thành viên tại đây Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Bạn Đang Đăng Nhập Thành Viên Free! Vì Đăng Nhập Thành Viên Free nên Bạn chỉ xem được Thuộc tính và Nội dung của văn bản. Bạn chưa xem được Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc , Văn bản tiếng Anh ,... Nếu muốn làm Thành Viên Basic / Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Bạn Đang Đăng Nhập Thành Viên Basic ! Vì Đăng Nhập Thành Viên Basic nên Bạn chỉ xem được Thuộc tính, Nội dung của văn bản, Nội dung toàn văn , Hiệu lực của Văn bản , Văn bản liên quan , Văn bản thay thế , Văn bản gốc . Bạn chưa xem được Văn bản tiếng Anh , ... Nếu muốn làm Thành Viên Pro , mời Bạn Chuyển Đổi loại Thành Viên tại đây. Nghị định 99/2006/NĐ-CP công tác kiểm tra việc thực hiện chính sách, ... Chọn văn bản so sánh thay thế: NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN NỘI DUNG GỐC NỘI DUNG SỬA ĐỔI, HƯỚNG DẪN Văn bản bị thay thế Văn bản thay thế Chú thích Văn bản bị thay thế Văn bản thay thế Nội dung gốc Nội dung sửa đổi, hướng dẫn Nội dung gốc Nội dung sửa đổi, hướng dẫn Tải biểu mẫu Chú thích: Rà chuột vào nội dụng văn bản để sử dụng. <Nội dung> = Nội dung hai văn bản đều có; <Nội dung> = Nội dung văn bản cũ có, văn bản mới không có; <Nội dung> = Nội dung văn bản cũ không có, văn bản mới có; <Nội dung> = Nội dung được sửa đổi, bổ sung. Click trái để xem cụ thể từng nội dung cần so sánh và cố định bảng so sánh. Click phải để xem những nội dung sửa đổi, bổ sung. Double click để xem tất cả nội dung không có thay thế tương ứng. Tắt so sánh [X] để trở về trạng thái rà chuột ban đầu. FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN FILE ATTACHED TO DOCUMENT Thư mục cha: Chọn thư mục cha Tạo thư mục Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Trang chủ Các Gói Dịch Vụ Online Đăng ký Thành viên Hướng Dẫn Sử Dụng Giới Thiệu Liên Hệ Quy Chế Hoạt Động Thỏa Ước Dịch Vụ PM TVPL trực tuyến Tra cứu Pháp Luật mới Tra cứu Công văn Tra cứu Tiêu Chuẩn Việt Nam Quy chế bảo vệ dữ liệu cá nhân Xin chúc mừng thành viên acb đã đăng ký sử dụng thành công www.thuvienphapluat.vn THƯ VIỆN PHÁP LUẬT giúp thành viên tìm kiếm văn bản chính xác, nhanh chóng theo nhu cầu và cung cấp nhiều tiện ích, tính năng hiệu quả:",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tra cứu và xem trực tiếp hơn 437.000 Văn bản luật, Công văn, hơn 200.000 Bản án Online;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tải về đa dạng văn bản gốc, văn bản file PDF/Word, văn bản Tiếng Anh, bản án, án lệ Tiếng Anh;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các nội dung của văn bản này được văn bản khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc ; các quan hệ của các văn bản thông qua tiện ích Lược đồ và nhiều tiện ích khác;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được hỗ trợ pháp lý sơ bộ qua Điện thoại, Email và Zalo nhanh chóng;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhận thông báo văn bản mới qua Email để cập nhật các thông tin, văn bản về pháp luật một cách nhanh chóng và chính xác nhất;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Trang cá nhân: Quản lý thông tin cá nhân và cài đặt lưu trữ văn bản quan tâm theo nhu cầu. Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây. Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích miễn phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích MIỄN PHÍ nổi bật trên www.thuvienphapluat.vn : Quý khách chưa đăng nhập, vui lòng Đăng nhập để trải nghiệm những tiện ích có phí. Xin chào Quý khách hàng - ! Mời Bạn trải nghiệm những tiện ích CÓ PHÍ khi xem văn bản trên www.thuvienphapluat.vn : Xin chào Quý khách hàng - ! Để trải nghiệm lại nội dung hướng dẫn tiện ích, Bạn vui lòng vào Trang Hướng dẫn sử dụng . Bên cạnh những tiện ích vừa giới thiệu, Bạn có thể xem thêm Video/Bài viết hướng dẫn sử dụng để biết cách tra cứu, sử dụng toàn bộ các tính năng, tiện ích trên website. Ngoài ra, Bạn có thể nhấn vào đây để trải nghiệm MIỄN PHÍ các tiện ích khi xem văn bản dành cho thành viên CÓ PHÍ . 👉 Xem thông tin chi tiết về gói dịch vụ và báo giá: Tại đây . 👉 Xem thêm Sơ đồ website THƯ VIỆN PHÁP LUẬT Cảm ơn Bạn đã quan tâm và sử dụng dịch vụ của chúng tôi. Trân trọng, THƯ VIỆN PHÁP LUẬT TP. HCM, ngày 31/0 5/2021 Thưa Quý khách, Đúng 14 tháng trước, ngày 31/3/2020, THƯ VIỆN PHÁP LUẬT đã bậ t Thông báo này, và nay 31/5/2021 xin bật lại. Hơn 1 năm qua, dù nhiều khó khăn, chúng ta cũng đã đánh thắng Covid 19 trong 3 trận đầu. Trận 4 này , với chỉ đạo quyết liệt của Chính phủ, chắc chắn chúng ta lại thắng . Là sản phẩm online, nên 25 0 nhân sự chúng tôi vừa làm việc tại trụ sở, vừa làm việc từ xa qua Internet ngay từ đầu tháng 5/2021 . S ứ mệnh của THƯ VIỆN PHÁP LUẬT là:  s ử dụng công nghệ cao để tổ chức lại hệ thống văn bản pháp luật ,  v à kết nối cộng đồng Dân L uật Việt Nam, nhằm :  G iúp công chúng “…loại rủi ro pháp lý, nắm cơ hội làm giàu…” ,  v à cùng công chúng xây dựng, thụ hưởng một xã hội pháp quyền trong tương lai gần; Chúng tôi cam kết dịch vụ sẽ được cung ứng bình thường trong mọi tình huống. THÔNG BÁO về Lưu trữ, Sử dụng Thông tin Khách hàng Kính gửi: Quý Thành viên, Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hiệu lực từ ngày 01/07/2023) yêu cầu xác nhận sự đồng ý của thành viên khi thu thập, lưu trữ, sử dụng thông tin mà quý khách đã cung cấp trong quá trình đăng ký, sử dụng sản phẩm, dịch vụ của THƯ VIỆN PHÁP LUẬT . Quý Thành viên xác nhận giúp THƯ VIỆN PHÁP LUẬT được tiếp tục lưu trữ, sử dụng những thông tin mà Quý Thành viên đã, đang và sẽ cung cấp khi tiếp tục sử dụng dịch vụ. Thực hiện Nghị định 13/2023/NĐ-CP, chúng tôi cập nhật Quy chế và Thỏa thuận Bảo về Dữ liệu cá nhân bên dưới. Trân trọng cảm ơn Quý Thành viên. Tôi đã đọc và đồng ý Quy chế bảo vệ dữ liệu cá nhân Tiếp tục sử dụng Cảm ơn đã dùng ThuVienPhapLuat.vn Bạn vừa bị Đăng xuất khỏi Tài khoản . Hiện tại có đủ người dùng cùng lúc, nên khi người thứ vào thì bạn bị Đăng xuất. Có phải do Tài khoản của bạn bị lộ mật khẩu nên nhiều người khác vào dùng? Hỗ trợ: (028) 3930.3279 _ 0906.229966 Xin lỗi Quý khách vì sự bất tiện này! Tài khoản hiện đã đủ người dùng cùng thời điểm. Quý khách Đăng nhập vào thì sẽ có 1 người khác bị Đăng xuất. Tài khoản của Quý Khách đẵ đăng nhập quá nhiều lần trên nhiều thiết bị khác nhau, Quý Khách có thể vào đây để xem chi tiết lịch sử đăng nhập Có thể tài khoản của bạn đã bị rò rỉ mật khẩu và mất bảo mật, xin vui lòng đổi mật khẩu tại đây để tiếp tục sử dụng Hãy để chúng tôi hỗ trợ bạn! Họ & Tên: Email: Điện thoại: Nội dung: Bạn hãy nhập mật khẩu đang sử dụng và nhập mật khẩu mới 2 lần để chắc rằng bạn nhập đúng. Tên truy cập hoặc Email: Mật khẩu cũ: Mật khẩu mới: Bạn hãy nhập e-mail đã sử dụng để đăng ký thành viên. E-mail: Email người nhận: Tiêu đề Email: Nội dung: Họ & Tên: Email: Điện thoại: Nội dung: Thông báo cho tôi khi Văn bản bị sửa đổi, bổ sung, có hoặc hết hiệu lực. Email nhận thông báo: Thông báo cho tôi khi Văn bản có nội dung. Email nhận thông báo: Ghi chú cho Văn bản .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

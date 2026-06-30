@@ -1,0 +1,1803 @@
+{
+    "ten_luat": "Nghị định 63/2010/NĐ-CP kiểm soát thủ tục hành chính",
+    "so_hieu": "63/2010/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này quy định về kiểm soát việc quy định, thực hiện, rà soát, đánh giá thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghị định này không điều chỉnh:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thủ tục hành chính trong nội bộ của từng cơ quan hành chính nhà nước, giữa cơ quan hành chính nhà nước với nhau không liên quan đến việc giải quyết thủ tục hành chính cho cá nhân, tổ chức;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thủ tục xử lý vi phạm hành chính; thủ tục thanh tra và thủ tục hành chính có nội dung bí mật nhà nước."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "Nghị định này áp dụng đối với cơ quan hành chính nhà nước, người có thẩm quyền, tổ chức, cá nhân trong hoạt động kiểm soát thủ tục hành chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "“Thủ tục hành chính” là trình tự, cách thức thực hiện, hồ sơ và yêu cầu, điều kiện do cơ quan nhà nước, người có thẩm quyền quy định để giải quyết một công việc cụ thể liên quan đến cá nhân, tổ chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "“Trình tự thực hiện” là thứ tự các bước tiến hành của đối tượng và cơ quan thực hiện thủ tục hành chính trong giải quyết một công việc cụ thể cho cá nhân, tổ chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "“ Hồ sơ ” là những loại giấy tờ mà đối tượng thực hiện thủ tục hành chính cần phải nộp hoặc xuất trình cho cơ quan, tổ chức có thẩm quyền giải quyết thủ tục hành chính trước khi cơ quan thực hiện thủ tục hành chính giải quyết một công việc cụ thể cho cá nhân, tổ chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "“Yêu cầu, điều kiện” là những đòi hỏi mà đối tượng thực hiện thủ tục hành chính phải đáp ứng hoặc phải làm khi thực hiện một thủ tục hành chính cụ thể.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "“ Kiểm soát thủ tục hành chính ” là việc xem xét, đánh giá, theo dõi nhằm bảo đảm tính khả thi của quy định về thủ tục hành chính, đáp ứng yêu cầu công khai, minh bạch trong quá trình tổ chức thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "“Cơ sở dữ liệu quốc gia về thủ tục hành chính” là tập hợp thông tin về thủ tục hành chính và các văn bản quy phạm pháp luật có quy định về thủ tục hành chính được xây dựng, cập nhật và duy trì trên Trang thông tin điện tử về thủ tục hành chính của Chính phủ nhằm đáp ứng yêu cầu công khai, minh bạch trong quản lý hành chính nhà nước, tạo thuận lợi cho tổ chức, cá nhân truy nhập và sử dụng thông tin chính thức về thủ tục hành chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc kiểm soát thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kiểm soát thủ tục hành chính phải bảo đảm thực hiện có hiệu quả mục tiêu cải cách thủ tục hành chính, cải cách hành chính; bảo đảm điều phối, huy động sự tham gia tích cực, rộng rãi của tất cả các cơ quan, tổ chức, cá nhân vào quá trình kiểm soát thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kịp thời phát hiện để loại bỏ hoặc chỉnh sửa thủ tục hành chính không phù hợp, phức tạp, phiền hà; bổ sung thủ tục hành chính cần thiết, đáp ứng nhu cầu thực tế; bảo đảm quy định thủ tục hành chính đơn giản, dễ hiểu, dễ thực hiện, tiết kiệm thời gian, chi phí, công sức của đối tượng và cơ quan thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm soát thủ tục hành chính được thực hiện ngay khi dự thảo quy định về thủ tục hành chính và được tiến hành thường xuyên, liên tục trong quá trình tổ chức thực hiện thủ tục hành chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Cơ quan, đơn vị kiểm soát thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan kiểm soát thủ tục hành chính trực thuộc Văn phòng Chính phủ có trách nhiệm tổ chức thực hiện kiểm soát thủ tục hành chính và quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính trong phạm vi cả nước theo quy định tại Nghị định này. Thủ trưởng Cơ quan kiểm soát thủ tục hành chính do Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ bổ nhiệm, miễn nhiệm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Văn phòng Bộ, cơ quan ngang Bộ có trách nhiệm tổ chức thực hiện kiểm soát thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ, cơ quan ngang Bộ theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức thực hiện kiểm soát thủ tục hành chính trên địa bàn tỉnh, thành phố trực thuộc Trung ương theo quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thủ tướng Chính phủ quy định cụ thể chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Cơ quan kiểm soát thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ chủ trì, phối hợp với Bộ trưởng Bộ Nội vụ hướng dẫn chức năng, nhiệm vụ, biên chế của bộ phận kiểm soát thủ tục hành chính thuộc Văn phòng Bộ, cơ quan ngang Bộ, Văn phòng Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Các hành vi bị nghiêm cấm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghiêm cấm cán bộ, công chức được phân công thực hiện thủ tục hành chính thực hiện các hành vi sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiết lộ thông tin về hồ sơ tài liệu và các thông tin liên quan đến bí mật kinh doanh, bí mật cá nhân của đối tượng thực hiện thủ tục hành chính mà mình biết được khi thực hiện thủ tục hành chính, trừ trường hợp được đối tượng thực hiện thủ tục hành chính đồng ý bằng văn bản hoặc pháp luật có quy định khác; sử dụng thông tin đó để xâm hại quyền, lợi ích hợp pháp của người khác;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Từ chối thực hiện, kéo dài thời gian thực hiện hoặc tự ý yêu cầu bổ sung thêm hồ sơ, giấy tờ ngoài quy định mà không nêu rõ lý do bằng văn bản;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hách dịch, cửa quyền, sách nhiễu, gây phiền hà, gây khó khăn cho đối tượng thực hiện thủ tục hành chính; lợi dụng các quy định, các vướng mắc về thủ tục hành chính để trục lợi;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nhận tiền hoặc quà biếu dưới bất cứ hình thức nào từ đối tượng thực hiện thủ tục hành chính khi tiếp nhận, giải quyết thủ tục hành chính ngoài phí, lệ phí thực hiện thủ tục hành chính đã được quy định và công bố công khai;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đùn đẩy trách nhiệm, thiếu hợp tác, chậm trễ, gây cản trở trong thực hiện nhiệm vụ được giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nghiêm cấm đối tượng thực hiện thủ tục hành chính cản trở hoạt động của cơ quan nhà nước, người có thẩm quyền; đưa hối lộ hoặc dùng các thủ đoạn khác để lừa dối cơ quan nhà nước, người có thẩm quyền trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nghiêm cấm cơ quan, tổ chức, cá nhân có hành vi cản trở hoạt động kiểm soát thủ tục hành chính. Chương 2. QUY ĐỊNH THỦ TỤC HÀNH CHÍNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Nguyên tắc quy định thủ tục hành chính",
+                    "noi_dung_chung": "Thủ tục hành chính được quy định phải bảo đảm các nguyên tắc sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đơn giản, dễ hiểu và dễ thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phù hợp với mục tiêu quản lý hành chính nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bảo đảm quyền bình đẳng của các đối tượng thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tiết kiệm thời gian và chi phí của cá nhân, tổ chức và cơ quan hành chính nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đảm bảo tính hợp hiến, hợp pháp, thống nhất, đồng bộ, hiệu quả của các quy định về thủ tục hành chính; thủ tục hành chính phải được cơ quan nhà nước có thẩm quyền quy định trên cơ sở bảo đảm tính liên thông giữa các thủ tục hành chính liên quan, thực hiện phân công, phân cấp rõ ràng, minh bạch, hợp lý; dự án, dự thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính thuộc thẩm quyền của cơ quan nào, cơ quan đó phải có trách nhiệm hoàn chỉnh.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Yêu cầu của việc quy định thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thủ tục hành chính theo quy định của Nghị định này phải được quy định trong văn bản quy phạm pháp luật do Chính phủ ban hành hoặc trình Quốc hội, Ủy ban Thường vụ Quốc hội ban hành; do Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc quy định một thủ tục hành chính cụ thể chỉ hoàn thành khi đáp ứng đầy đủ các bộ phận tạo thành cơ bản sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trình tự thực hiện;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cách thức thực hiện;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hồ sơ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thời hạn giải quyết;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Đối tượng thực hiện thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Cơ quan thực hiện thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Kết quả thực hiện thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Trường hợp thủ tục hành chính phải có mẫu đơn, mẫu tờ khai hành chính; mẫu kết quả thực hiện thủ tục hành chính; yêu cầu, điều kiện; phí, lệ phí thì mẫu đơn, mẫu tờ khai hành chính; mẫu kết quả thực hiện thủ tục hành chính; yêu cầu, điều kiện; phí, lệ phí là bộ phận tạo thành của thủ tục hành chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Một thủ tục hành chính cụ thể được quy định tại văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Chính phủ, Thủ tướng Chính phủ phải bảo đảm đầy đủ các bộ phận tạo thành quy định tại các điểm a, b, d, đ, e, g, h khoản 2 Điều này. Trường hợp thủ tục hành chính có yêu cầu, điều kiện quy định tại điểm i khoản 2 Điều này, thì yêu cầu, điều kiện phải được quy định trong các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Chính phủ, Thủ tướng Chính phủ. Đối với yêu cầu, điều kiện thể hiện dưới dạng quy chuẩn kỹ thuật phải được quy định trong văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng, Thủ trưởng cơ quan ngang bộ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Một thủ tục hành chính cụ thể được quy định tại các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương phải quy định rõ ràng, cụ thể các bộ phận còn lại của thủ tục hành chính. Trường hợp thủ tục hành chính có đơn, tờ khai hành chính thì mẫu đơn, mẫu tờ khai hành chính phải được quy định trong các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng, Thủ trưởng cơ quan ngang bộ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Khi được Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ phân cấp hoặc ủy quyền về việc quy định hoặc hướng dẫn quy định về thủ tục hành chính, Bộ, cơ quan ngang Bộ và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương phải bảo đảm quy định đầy đủ, hướng dẫn rõ ràng, chi tiết, cụ thể về các bộ phận tạo thành của thủ tục hành chính theo quy định tại khoản 2 Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Lấy ý kiến đối với quy định về thủ tục hành chính trong dự án, dự thảo văn bản quy phạm pháp luật",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trước khi gửi thẩm định, cơ quan được giao chủ trì soạn thảo phải gửi lấy ý kiến cơ quan, đơn vị kiểm soát thủ tục hành chính theo quy định sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Lấy ý kiến Cơ quan kiểm soát thủ tục hành chính đối với thủ tục hành chính quy định trong dự án văn bản quy phạm pháp luật do Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội, dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Chính phủ, Thủ tướng Chính phủ, dự thảo thông tư liên tịch của các Bộ, cơ quan ngang Bộ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lấy ý kiến Văn phòng Bộ, cơ quan ngang Bộ đối với thủ tục hành chính quy định trong dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Lấy ý kiến của Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương đối với thủ tục hành chính quy định trong dự thảo văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ gửi lấy ý kiến bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Văn bản đề nghị góp ý kiến, trong đó nêu rõ vấn đề cần xin ý kiến đối với quy định về thủ tục hành chính, xác định rõ các tiêu chí đã đạt được của thủ tục hành chính nêu tại khoản 2, 3 Điều 10 của Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dự án, dự thảo văn bản có quy định về thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bản đánh giá tác động theo quy định tại Điều 10 của Nghị định này ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan, đơn vị thực hiện kiểm soát thủ tục hành chính quy định tại Điều 5 của Nghị định này có trách nhiệm tổ chức lấy ý kiến cơ quan, tổ chức hữu quan và đối tượng chịu sự tác động của quy định về thủ tục hành chính thông qua việc tham vấn, hội nghị, hội thảo hoặc biểu mẫu lấy ý kiến do Cơ quan kiểm soát thủ tục hành chính xây dựng và đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính để tổng hợp ý kiến tham gia gửi cơ quan chủ trì soạn thảo. Thời hạn góp ý kiến đối với quy định về thủ tục hành chính được thực hiện theo quy định sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kể từ ngày nhận đủ hồ sơ gửi lấy ý kiến, chậm nhất là 20 (hai mươi) ngày làm việc, Cơ quan kiểm soát thủ tục hành chính có trách nhiệm tổ chức lấy ý kiến, tổng hợp ý kiến và gửi văn bản tham gia ý kiến cho cơ quan chủ trì soạn thảo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kể từ ngày nhận đủ hồ sơ gửi lấy ý kiến, chậm nhất là 10 (mười) ngày làm việc, Văn phòng Bộ, cơ quan ngang Bộ, Văn phòng Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức lấy ý kiến, tổng hợp ý kiến và gửi văn bản tham gia ý kiến cho cơ quan chủ trì soạn thảo."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan chủ trì soạn thảo có trách nhiệm nghiên cứu, tiếp thu ý kiến góp ý của cơ quan cho ý kiến quy định tại khoản 1 Điều này. Trường hợp không tiếp thu ý kiến góp ý, cơ quan chủ trì soạn thảo phải giải trình cụ thể. Việc tiếp thu, giải trình ý kiến góp ý đối với quy định về thủ tục hành chính trong các dự án, dự thảo phải được thể hiện thành một phần riêng trong văn bản tiếp thu, giải trình. Văn bản tiếp thu, giải trình phải được gửi đến cơ quan cho ý kiến quy định tại khoản 1 Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Đánh giá tác động của thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan được phân công chủ trì soạn thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính phải tổ chức đánh giá tác động của quy định về thủ tục hành chính theo các tiêu chí sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sự cần thiết của thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tính hợp lý của thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tính hợp pháp của thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các chi phí tuân thủ thủ tục hành chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc đánh giá tác động của thủ tục hành chính thực hiện theo biểu mẫu ban hành tại Phụ lục I , II và III của Nghị định này và được cơ quan kiểm soát thủ tục hành chính đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính. Cơ quan kiểm soát thủ tục hành chính có trách nhiệm hướng dẫn điền biểu mẫu đánh giá tác động và việc tính toán chi phí tuân thủ thủ tục hành chính. Trường hợp cần thiết, Cơ quan kiểm soát thủ tục hành chính bổ sung thêm các tiêu chí đánh giá để bảo đảm chất lượng các quy định về thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trường hợp thủ tục hành chính được sửa đổi, bổ sung, ngoài đánh giá các nội dung quy định khoản 2 Điều này, cơ quan chủ trì soạn thảo phải thuyết minh rõ tính đơn giản cũng như những ưu điểm của thủ tục hành chính được sửa đổi, bổ sung.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Thẩm định quy định về thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan thẩm định văn bản quy phạm pháp luật có trách nhiệm thẩm định và bổ sung trong Báo cáo thẩm định phần kết quả thẩm định về thủ tục hành chính quy định trong dự án, dự thảo văn bản quy phạm pháp luật theo quy định về trách nhiệm thẩm định của pháp luật về ban hành văn bản quy phạm pháp luật. Trường hợp cần thiết, cơ quan thẩm định văn bản quy phạm pháp luật mời cơ quan, đơn vị kiểm soát thủ tục hành chính cùng cấp tham gia để thẩm định nội dung thủ tục hành chính quy định trong dự án, dự thảo văn bản quy phạm pháp luật .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung thẩm định quy định về thủ tục hành chính tập trung xem xét các vấn đề được quy định tại các điều 7, 8 của Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hồ sơ gửi thẩm định, bao gồm: ngoài thành phần hồ sơ theo quy định của pháp luật về ban hành văn bản quy phạm pháp luật, cơ quan gửi thẩm định phải có thêm bản đánh giá tác động về thủ tục hành chính theo quy định tại Điều 10 của Nghị định này và báo cáo giải trình về việc tiếp thu ý kiến góp ý của các cơ quan, đơn vị, tổ chức, cá nhân, trong đó có ý kiến góp ý của Cơ quan, đơn vị kiểm soát thủ tục hành chính. Cơ quan thẩm định không tiếp nhận hồ sơ gửi thẩm định nếu dự án, dự thảo văn bản quy phạm pháp luật có quy định về thủ tục hành chính chưa có bản đánh giá tác động về thủ tục hành chính và ý kiến góp ý của Cơ quan, đơn vị kiểm soát thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thẩm quyền, trình tự và thời hạn thẩm định thực hiện theo quy định của pháp luật về ban hành văn bản quy phạm pháp luật. Chương 3. THỰC HIỆN THỦ TỤC HÀNH CHÍNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Nguyên tắc thực hiện thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bảo đảm công khai, minh bạch các thủ tục hành chính đang được thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bảo đảm khách quan, công bằng trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bảo đảm tính liên thông, kịp thời, chính xác, không gây phiền hà trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảo đảm quyền được phản ánh, kiến nghị của các cá nhân, tổ chức đối với các thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đề cao trách nhiệm của cán bộ, công chức trong giải quyết công việc cho cá nhân, tổ chức.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Thẩm quyền công bố thủ tục hành chính",
+                    "noi_dung_chung": "Để giải quyết công việc cho cá nhân, tổ chức, thủ tục hành chính phải được công bố dưới hình thức quyết định theo quy định sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ công bố thủ tục hành chính được quy định trong văn bản quy phạm pháp luật về ngành, lĩnh vực thuộc phạm vi chức năng quản lý của Bộ, cơ quan ngang Bộ;",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương công bố thủ tục hành chính thuộc thẩm quyền giải quyết của các cấp chính quyền trên địa bàn tỉnh, thành phố trực thuộc Trung ương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan, đơn vị được cơ quan nhà nước cấp trên giao nhiệm vụ hoặc ủy quyền ban hành văn bản hướng dẫn thực hiện thủ tục giải quyết công việc cho cá nhân, tổ chức công bố thủ tục thuộc thẩm quyền giải quyết của cơ quan, đơn vị.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Phạm vi công bố thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tất cả các thủ tục hành chính sau khi ban hành, sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ phải được công bố công khai.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc công bố công khai thủ tục hành chính, bao gồm: công bố thủ tục hành chính mới ban hành; công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế và công bố thủ tục hành chính bị hủy bỏ hoặc bãi bỏ.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Công bố thủ tục hành chính mới ban hành là việc cung cấp các thông tin về thủ tục hành chính theo quy định tại khoản 1 Điều 15 của Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế là việc cung cấp các thông tin liên quan đến việc sửa đổi, bổ sung, thay thế của thủ tục hành chính theo quy định tại khoản 2 Điều 15 của Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Công bố thủ tục hành chính bị hủy bỏ hoặc bãi bỏ là việc xóa bỏ nội dung thông tin về thủ tục hành chính đã được đưa vào Cơ sở dữ liệu quốc gia về thủ tục hành chính theo quy định khoản 3 Điều 15 của Nghị định này ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Quyết định công bố thủ tục hành chính",
+                    "noi_dung_chung": "Quyết định công bố thủ tục hành chính phải được ban hành chậm nhất trước 10 (mười) ngày làm việc tính đến ngày văn bản quy phạm pháp luật có quy định về thủ tục hành chính có hiệu lực thi hành. Nội dung quyết định công bố thủ tục hành chính theo quy định sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với quyết định công bố thủ tục hành chính mới ban hành, nội dung quyết định bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các bộ phận tạo thành thủ tục hành chính quy định tại khoản 2 Điều 8 của Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Văn bản quy phạm pháp luật quy định về thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Địa điểm, thời gian thực hiện thủ tục hành chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với quyết định công bố thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế, ngoài việc chứa đựng thông tin quy định tại khoản 1 Điều này, nội dung quyết định phải xác định rõ bộ phận nào của thủ tục hành chính được sửa đổi, bổ sung hoặc thay thế; văn bản quy phạm pháp luật có quy định việc sửa đổi, bổ sung hoặc thay thế thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với quyết định công bố thủ tục hành chính bị hủy bỏ hoặc bãi bỏ, nội dung quyết định phải xác định rõ tên thủ tục hành chính bị hủy bỏ hoặc bãi bỏ; trường hợp thủ tục hành chính đã được đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính, quyết định phải ghi rõ số, ký hiệu của hồ sơ thủ tục hành chính; văn bản quy phạm pháp luật có quy định việc hủy bỏ hoặc bãi bỏ thủ tục hành chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Công khai thủ tục hành chính",
+                    "noi_dung_chung": "Thông tin về thủ tục hành chính đã được người có thẩm quyền công bố theo quy định tại Điều 15 của Nghị định này phải được công khai đầy đủ, thường xuyên, rõ ràng, đúng địa chỉ, dễ tiếp cận, dễ khai thác, sử dụng và phải được đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Hình thức công khai",
+                    "noi_dung_chung": "Ngoài hình thức công khai bắt buộc trên Cơ sở dữ liệu quốc gia về thủ tục hành chính và niêm yết tại trụ sở cơ quan, đơn vị trực tiếp giải quyết thủ tục hành chính cho cá nhân, tổ chức, việc công khai thủ tục hành chính có thể thực hiện theo một hoặc các hình thức sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đăng tải trên cổng thông tin điện tử của Chính phủ hoặc trang thông tin điện tử của cơ quan ban hành văn bản có quy định về thủ tục hành chính và cơ quan thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thông báo trên các phương tiện thông tin đại chúng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các hình thức khác.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Trách nhiệm của cơ quan thực hiện thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sử dụng, bố trí cán bộ, công chức có phẩm chất đạo đức tốt, văn hóa giao tiếp chuẩn mực, đủ trình độ về chuyên môn, nghiệp vụ và năng lực phù hợp để thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn, giải thích, cung cấp thông tin chính xác, đầy đủ, kịp thời về thủ tục hành chính cho cá nhân, tổ chức có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cấp giấy biên nhận hồ sơ, tài liệu theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảo quản và giữ bí mật về hồ sơ tài liệu và các thông tin liên quan đến bí mật cá nhân trong quá trình giải quyết theo quy định của pháp luật, trừ trường hợp phải thu thập, công bố thông tin, tư liệu theo quyết định của cơ quan, tổ chức nhà nước có thẩm quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nêu rõ lý do bằng văn bản trong trường hợp từ chối thực hiện hoặc có yêu cầu bổ sung giấy tờ trong thời hạn giải quyết theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Không tự đặt ra thủ tục hành chính, hồ sơ, giấy tờ ngoài quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phối hợp và chia sẻ thông tin trong quá trình giải quyết công việc của cá nhân, tổ chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Hỗ trợ người có công, người cao tuổi, người tàn tật, người nghèo, phụ nữ mang thai, trẻ mồ côi và người thuộc diện bảo trợ xã hội khác trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện cơ chế một cửa, một cửa liên thông trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Tiếp nhận, xử lý các phản ánh, kiến nghị của cá nhân, tổ chức trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Ứng dụng công nghệ thông tin và các tiến bộ khoa học kỹ thuật trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Thực hiện quy định khác của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Trách nhiệm người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chịu trách nhiệm công bố, tổ chức nhập dữ liệu về thủ tục hành chính đã công bố trên Cơ sở dữ liệu quốc gia về thủ tục hành chính theo quy định tại các điều 13, 14, 15 và 24 của Nghị định này ; tổ chức thực hiện nghiêm túc các thủ tục hành chính đã công bố công khai trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kiểm tra, đôn đốc cán bộ, công chức thuộc quyền trong việc thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khen thưởng cán bộ, công chức có thành tích trong thực hiện thủ tục hành chính, kiểm soát thủ tục hành chính hoặc có sáng kiến cải cách thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Xử lý nghiêm minh, kịp thời cán bộ, công chức khi có vi phạm trong thực hiện và kiểm soát thủ tục hành chính theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cải tiến cách thức, phương pháp thực hiện thủ tục hành chính; kịp thời kiến nghị với cơ quan cấp trên các biện pháp cải cách thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thực hiện quy định khác của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Trách nhiệm của cán bộ, công chức được phân công thực hiện thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện nghiêm túc, đầy đủ nhiệm vụ được giao trong quá trình thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phải tạo thuận lợi cho đối tượng thực hiện thủ tục hành chính; có tác phong, thái độ lịch sự, nghiêm túc, khiêm tốn; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tiếp nhận và giải quyết hồ sơ của cá nhân, tổ chức theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hướng dẫn tổ chức, cá nhân thực hiện trình tự, hồ sơ hành chính đầy đủ, rõ ràng, chính xác không để tổ chức, cá nhân phải đi lại bổ sung hồ sơ quá hai lần cho một vụ việc, trừ trường hợp tổ chức, cá nhân thực hiện không đúng theo hướng dẫn của cán bộ, công chức được phân công thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chấp hành nghiêm túc các quy định của cấp có thẩm quyền về thủ tục hành chính đã được người đứng đầu Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương công bố.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Chủ động tham mưu, đề xuất, sáng kiến cải tiến việc thực hiện thủ tục hành chính; kịp thời phát hiện, kiến nghị với cơ quan, người có thẩm quyền để sửa đổi, bổ sung, thay đổi hoặc hủy bỏ, bãi bỏ các quy định về thủ tục hành chính không phù hợp, thiếu khả thi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phối hợp với các cơ quan, tổ chức có liên quan trong việc thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thực hiện quy định khác của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Quyền và nghĩa vụ của đối tượng thực hiện thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện đầy đủ các quy định về thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Từ chối thực hiện những yêu cầu không được quy định trong thủ tục hành chính hoặc chưa được công khai theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chịu trách nhiệm về tính hợp pháp, chính xác của các giấy tờ có trong hồ sơ và cung cấp đầy đủ thông tin có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Không được cản trở hoạt động thực hiện thủ tục hành chính của cơ quan nhà nước, người có thẩm quyền.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Không hối lộ hoặc dùng các thủ đoạn khác để lừa dối cơ quan nhà nước, người có thẩm quyền trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Giám sát việc thực hiện thủ tục hành chính; phản ánh, kiến nghị với cơ quan nhà nước, người có thẩm quyền về những bất hợp lý của thủ tục hành chính và các hành vi vi phạm của cán bộ, công chức trong thực hiện thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Khiếu nại, tố cáo, khởi kiện các quyết định hành chính và hành vi hành chính theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Trực tiếp hoặc ủy quyền cho người đại diện hợp pháp của mình tham gia thực hiện thủ tục hành chính theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thực hiện quy định khác của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Phản ánh, kiến nghị về thủ tục hành chính trong quá trình thực hiện",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mọi cá nhân, tổ chức có quyền phản ánh, kiến nghị về thủ tục hành chính và việc thực hiện thủ tục hành chính. Việc tiếp nhận, xử lý phản ánh, kiến nghị về thủ tục hành chính được thực hiện theo quy định tại pháp luật về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Văn phòng Chính phủ chịu trách nhiệm thiết lập, duy trì hoạt động của cổng thông tin phản ánh, kiến nghị, kết quả giải quyết về thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính và chủ động tổ chức lấy ý kiến cá nhân, tổ chức về thủ tục hành chính quy định trong các dự thảo văn bản quy phạm pháp luật do cơ quan chủ trì soạn thảo gửi lấy ý kiến Cơ quan kiểm soát thủ tục hành chính quy định tại khoản 1 Điều 9 của Nghị định này . Chương 4. CƠ SỞ DỮ LIỆU QUỐC GIA VỀ THỦ TỤC HÀNH CHÍNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Điều kiện đăng tải thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính",
+                    "noi_dung_chung": "Thủ tục hành chính được đăng tải trên Cơ sở dữ liệu quốc gia là các thủ tục hành chính được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương công bố theo quy định tại các Điều 13, 14 và 15 của Nghị định này .",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Nhập dữ liệu thủ tục hành chính đã công bố",
+                    "noi_dung_chung": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức việc nhập các thủ tục hành chính và văn bản quy định về thủ tục hành chính đã được công bố vào Cơ sở dữ liệu quốc gia về thủ tục hành chính và gửi Cơ quan kiểm soát thủ tục hành chính chậm nhất trong thời hạn 05 (năm) ngày làm việc kể từ ngày ký quyết định công bố; đồng thời chịu trách nhiệm về tính chính xác của thủ tục hành chính và văn bản quy định về thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Giá trị của thủ tục hành chính và văn bản quy phạm pháp luật có quy định về thủ tục hành chính trên Cơ sở dữ liệu quốc gia",
+                    "noi_dung_chung": "Thủ tục hành chính và các văn bản quy định về thủ tục hành chính hoặc văn bản có liên quan về thủ tục hành chính được đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính có giá trị thi hành và được bảo đảm thi hành. Mẫu đơn, mẫu tờ khai hành chính đăng tải kèm theo thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính có giá trị ngang bằng với mẫu đơn, mẫu tờ khai hành chính do cơ quan thực hiện thủ tục hành chính cung cấp trực tiếp.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Trách nhiệm quản lý Cơ sở dữ liệu quốc gia về thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn phòng Chính phủ có trách nhiệm chủ trì, phối hợp với Bộ Công an, Bộ Thông tin và Truyền thông và các Bộ, ngành, địa phương xây dựng và duy trì Cơ sở dữ liệu quốc gia về thủ tục hành chính; hướng dẫn việc nhập và gửi dữ liệu thủ tục hành chính để đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan kiểm soát thủ tục hành chính có trách nhiệm đăng tải dữ liệu về thủ tục hành chính đã được bộ, ngành, địa phương gửi theo quy định tại Điều 24 của Nghị định này trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được các dữ liệu về thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo việc tạo đường kết nối giữa trang tin điện tử của Bộ, cơ quan ngang Bộ và Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương với Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ sở dữ liệu quốc gia về thủ tục hành chính bao gồm các nội dung cơ bản sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thủ tục hành chính hiện đang được thực hiện trên phạm vi toàn quốc hoặc trên địa bàn của tỉnh, thành phố trực thuộc Trung ương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thủ tục hành chính đã bị hủy bỏ hoặc bãi bỏ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các văn bản quy định về thủ tục hành chính và các văn bản quy định có liên quan đến thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Cổng tham vấn về thủ tục hành chính và việc thực hiện thủ tục hành chính quy định tại khoản 2 Điều 22 của Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Nội dung khác theo quyết định của Thủ tướng Chính phủ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ sở dữ liệu quốc gia về thủ tục hành chính phải bảo đảm dễ dàng, tiện lợi cho người sử dụng trong việc tìm kiếm, tra cứu, khai thác. Chương 5. RÀ SOÁT, ĐÁNH GIÁ THỦ TỤC HÀNH CHÍNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Trách nhiệm rà soát, đánh giá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ chịu trách nhiệm rà soát, đánh giá thủ tục hành chính thuộc phạm vi chức năng quản lý ngành, lĩnh vực được quy định trong các văn bản quy phạm pháp luật của Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm rà soát, đánh giá thủ tục hành chính thuộc thẩm quyền giải quyết của các cấp chính quyền trên địa bàn tỉnh, thành phố trực thuộc Trung ương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan kiểm soát thủ tục hành chính chịu trách nhiệm rà soát, đánh giá độc lập thủ tục hành chính trong các trường hợp sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thủ tục hành chính có liên quan chặt chẽ với nhau, kết quả thực hiện thủ tục hành chính này là tiền đề để thực hiện thủ tục hành chính tiếp theo;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thủ tục hành chính, qua phát hiện hoặc theo thông tin phản ánh của cá nhân, tổ chức, còn rườm rà, khó thực hiện, gây cản trở hoạt động sản xuất, kinh doanh của tổ chức kinh tế và đời sống của nhân dân."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Nội dung rà soát, đánh giá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sự cần thiết của thủ tục hành chính và các quy định có liên quan đến thủ tục hành chính được rà soát, đánh giá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sự phù hợp của thủ tục hành chính và các quy định có liên quan đến thủ tục hành chính được rà soát, đánh giá với mục tiêu quản lý nhà nước và những thay đổi về kinh tế - xã hội, công nghệ và các điều kiện khách quan khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các nguyên tắc nêu tại Điều 7 và Điều 12 của Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Cách thức rà soát, đánh giá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc rà soát, đánh giá phải được tiến hành trên cơ sở thống kê, tập hợp đầy đủ các thủ tục hành chính, các quy định có liên quan đến thủ tục hành chính cần rà soát, đánh giá để xem xét theo những nội dung quy định tại Điều 28 của Nghị định này . Trong quá trình rà soát, đánh giá phải chú trọng tới đối tượng chịu sự tác động của thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với các thủ tục hành chính quy định tại điểm b khoản 3 Điều 27 của Nghị định này , thì việc rà soát, đánh giá cần tiến hành theo nhóm các quy định của thủ tục hành chính và nhóm các quy định có liên quan đến thủ tục hành chính được rà soát, đánh giá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Cơ quan kiểm soát thủ tục hành chính rà soát, đánh giá thủ tục hành chính theo kế hoạch hoặc theo sự chỉ đạo của Chính phủ, Thủ tướng Chính phủ. Kết quả rà soát, đánh giá thủ tục hành chính của các cơ quan này là cơ sở để thực hiện đơn giản hóa thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Huy động sự tham gia rà soát của các đối tượng chịu sự tác động trực tiếp của thủ tục hành chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan kiểm soát thủ tục hành chính thực hiện việc rà soát, đánh giá độc lập thủ tục hành chính thông qua việc chủ trì tổ chức rà soát, đánh giá thủ tục hành chính hoặc xem xét kết quả rà soát, đánh giá thủ tục hành chính của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Kế hoạch rà soát, đánh giá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kế hoạch rà soát, đánh giá thủ tục hành chính được xây dựng dựa trên một trong các căn cứ sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ đạo của Chính phủ, Thủ tướng Chính phủ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lựa chọn của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phản ánh, kiến nghị của cá nhân, tổ chức về thủ tục hành chính."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung kế hoạch phải xác định rõ thủ tục hành chính cần rà soát, đánh giá, cơ quan thực hiện, thời gian thực hiện, căn cứ lựa chọn và dự kiến sản phẩm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chủ động xây dựng kế hoạch hàng năm về rà soát, đánh giá thủ tục hành chính thuộc phạm vi chức năng quản lý, gửi Kế hoạch rà soát, đánh giá thủ tục hành chính đã được Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương phê duyệt đến Cơ quan kiểm soát thủ tục hành chính trước ngày 31 tháng 01 của năm kế hoạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trên cơ sở chỉ đạo của Chính phủ, Thủ tướng Chính phủ và kế hoạch rà soát, đánh giá của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Cơ quan kiểm soát thủ tục hành chính xây dựng kế hoạch rà soát độc lập của cơ quan mình trình Thủ tướng Chính phủ phê duyệt.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Xử lý kết quả rà soát, đánh giá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trên cơ sở kết quả rà soát, đánh giá thủ tục hành chính của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ thủ tục hành chính và quy định có liên quan đến thủ tục hành chính không đáp ứng quy định tại Điều 28 của Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trên cơ sở kết quả rà soát, đánh giá tổng thể hoặc kết quả rà soát, đánh giá độc lập, Văn phòng Chính phủ trình Chính phủ, Thủ tướng Chính phủ quyết định phương án sửa đổi, bổ sung, thay thế, hủy bỏ hoặc bãi bỏ thủ tục hành chính và các quy định có liên quan đến thủ tục hành chính không đáp ứng quy định tại Điều 28 của Nghị định này ; theo dõi, đôn đốc kiểm tra các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương trong việc thực hiện các quyết định này của Chính phủ, Thủ tướng Chính phủ. Chương 6. KHEN THƯỞNG, KINH PHÍ THỰC HIỆN, THÔNG TIN, BÁO CÁO",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Khen thưởng trong thực hiện kiểm soát thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan, cán bộ, công chức có thành tích trong thực hiện kiểm soát thủ tục hành chính thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cán bộ, công chức được khen thưởng trong thực hiện kiểm soát thủ tục hành chính do có thành tích xuất sắc hoặc công trạng thì được nâng lương trước thời hạn, được ưu tiên khi xem xét bổ nhiệm chức vụ cao hơn nếu cơ quan, tổ chức, đơn vị có nhu cầu.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Xử lý vi phạm",
+                    "noi_dung_chung": "Cơ quan, tổ chức, cá nhân vi phạm các quy định của Nghị định này, thì tùy theo tính chất, mức độ vi phạm mà bị xử lý theo quy định của pháp luật.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Điều kiện đảm bảo về kinh phí thực hiện kiểm soát thủ tục hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kinh phí thực hiện kiểm soát thủ tục hành chính quy định tại Nghị định này do ngân sách nhà nước bảo đảm. Kinh phí thực hiện hoạt động kiểm soát thủ tục hành chính của Bộ, cơ quan trung ương do ngân sách trung ương bảo đảm. Kinh phí thực hiện hoạt động kiểm soát thủ tục hành chính của các tỉnh, thành phố trực thuộc trung ương do ngân sách địa phương bảo đảm. Ngoài kinh phí do ngân sách nhà nước bảo đảm, Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương được huy động và sử dụng các nguồn lực hợp pháp khác để tăng cường thực hiện kiểm soát thủ tục hành chính thuộc phạm vi quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Tài chính hướng dẫn việc quản lý và sử dụng kinh phí cho hoạt động kiểm soát thủ tục hành chính theo quy định của Luật Ngân sách nhà nước và văn bản hướng dẫn thi hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm bố trí kinh phí cho hoạt động kiểm soát thủ tục hành chính trong dự toán ngân sách của cấp mình theo quy định của Luật Ngân sách nhà nước và văn bản hướng dẫn thi hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Chế độ thông tin, báo cáo",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương định kỳ hàng quý báo cáo Thủ tướng Chính phủ về tình hình và kết quả thực hiện hoạt động kiểm soát thủ tục hành chính trước ngày 15 của tháng thứ ba của mỗi quý hoặc báo cáo đột xuất theo yêu cầu của Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan kiểm soát thủ tục hành chính chịu trách nhiệm tổng hợp báo cáo của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương quy định tại khoản 1 Điều này để trước ngày 30 của tháng thứ ba của mỗi quý báo cáo Thủ tướng Chính phủ về tình hình, kết quả thực hiện hoạt động kiểm soát thủ tục hành chính của các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương hoặc báo cáo đột xuất theo yêu cầu của Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nội dung báo cáo hàng quý, chủ yếu bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tình hình kiểm soát quy định về thủ tục hành chính, trong đó nêu rõ tổng số thủ tục hành chính được đánh giá tác động và tổng số văn bản quy phạm pháp luật quy định về thủ tục hành chính được ban hành trong quý;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tình hình công bố thủ tục hành chính và số lượng thủ tục hành chính được công bố;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tình hình thực hiện thủ tục hành chính tại cơ quan hoặc tại địa phương, trong đó nêu rõ việc khen thưởng, xử lý cán bộ, công chức vi phạm quy định về kiểm soát thực hiện thủ tục hành chính (nếu có)"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Việc rà soát, đơn giản hóa thủ tục hành chính (nếu có);"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Vướng mắc, khó khăn trong quá trình thực hiện kiểm soát thủ tục hành chính (nếu có);"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Tình hình tiếp nhận và kết quả xử lý phản ánh, kiến nghị về thủ tục hành chính;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Nội dung khác theo yêu cầu của Cơ quan kiểm soát thủ tục hành chính hoặc theo chỉ đạo của Thủ tướng Chính phủ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan kiểm soát thủ tục hành chính chịu trách nhiệm xây dựng mẫu báo cáo quy định tại khoản 3 Điều này và đăng tải trên Cơ sở dữ liệu quốc gia về thủ tục hành chính để thống nhất thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Tình hình, kết quả hoạt động kiểm soát thủ tục hành chính phải được thông tin kịp thời, trung thực và thường xuyên trên Trang tin thủ tục hành chính của Chính phủ và các phương tiện thông tin đại chúng khác. Chương 7. ĐIỀU KHOẢN THI HÀNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Văn phòng Chính phủ có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày 14 tháng 10 năm 2010. Bãi bỏ quy định tại Điều 2 của Quyết định số 1699/QĐ-TTg ngày 20 tháng 10 năm 2009 của Thủ tướng Chính phủ về việc thiết lập Cơ sở dữ liệu quốc gia về thủ tục hành chính kể từ thời điểm Nghị định này có hiệu lực thi hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thủ tục hành chính quy định tại các văn bản quy phạm pháp luật đã được cơ quan nhà nước có thẩm quyền ban hành trước khi Nghị định này có hiệu lực thi hành thì vẫn tiếp tục có hiệu lực thi hành cho đến khi được sửa đổi, bổ sung, thay thế hoặc bị bãi bỏ, hủy bỏ. Trước ngày 31 tháng 12 năm 2010, cơ quan đã ban hành văn bản sử dụng phương pháp dùng một văn bản quy phạm pháp luật để sửa đổi, bổ sung, thay thế, hủy bỏ, bãi bỏ thủ tục hành chính quy định trong nhiều văn bản quy phạm pháp luật do chính cơ quan đó ban hành nhằm bảo đảm đơn giản hóa thủ tục hành chính theo yêu cầu của Đề án đơn giản hóa thủ tục hành chính trên các lĩnh vực quản lý nhà nước giai đoạn 2007 - 2010 được phê duyệt kèm theo Quyết định số 30/QĐ-TTg ngày 10 tháng 01 năm 2007 của Thủ tướng Chính phủ. Sau ngày 31 tháng 12 năm 2010, việc sửa đổi, bổ sung, thay thế hoặc bãi bỏ, hủy bỏ thủ tục hành chính được áp dụng theo đúng quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc quy định mới về thủ tục hành chính trong các văn bản quy phạm pháp luật được áp dụng theo đúng quy định tại Nghị định này kể từ ngày Nghị định này có hiệu lực thi hành./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - VP BCĐ TW về phòng, chống tham nhũng; - HĐND, UBND các tỉnh, thành phố trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Ủy ban Giám sát tài chính Quốc gia; - Kiểm toán Nhà nước; - Ngân hàng Chính sách Xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, TCCV (5b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng PHỤ LỤC I BIỂU MẪU ĐÁNH GIÁ THỦ TỤC HÀNH CHÍNH (Ban hành kèm theo Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ) I. Về sự cần thiết của thủ tục hành chính",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thủ tục hành chính được đặt ra nhằm đạt được mục tiêu gì? ................................................................................................................... Có £ Không £ Đề nghị giải thích lý do đối với câu trả lời...................................................... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thủ tục hành chính được đặt ra nhằm đạt được mục tiêu:........................."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mục tiêu nêu trên có cần thiết hay không?"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thủ tục hành chính dự kiến khi được thực hiện có đáp ứng được mục tiêu đặt ra hay không? Đề nghị giải thích lý do đối với câu trả lời...................................................... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Có biện pháp khác để thay thế thủ tục hành chính này mà vẫn đảm bảo mục tiêu đặt ra hay không? Nếu chọn câu trả lời a, đề nghị cho biết lý do và nêu rõ biện pháp thay thế?.... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Với câu trả lời đối với các câu hỏi từ câu 1 – 3 trên đây thì thủ tục này có cần thiết hay không? Nếu chọn câu trả lời a, đề nghị tiếp tục trả lời các câu hỏi ở các phần sau. Nếu chọn câu trả lời b, không phải trả lời các câu hỏi tại phần II, III, IV. II. Về tính hợp lý của thủ tục hành chính",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thủ tục hành chính này có đồng bộ, thống nhất với các thủ tục hành chính khác hay không? Nếu chọn câu trả lời b, đề nghị giải thích và ghi rõ tên của thủ tục hành chính cũng như văn bản quy định thủ tục hành chính mà thủ tục hành chính này không đồng bộ, thống nhất .......................................................................... ................................................................................................................... Nếu chọn câu trả lời b, đề nghị đề xuất phương án xử lý................................ ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Thủ tục hành chính có xác định rõ cơ quan, tổ chức có trách nhiệm giải quyết thủ tục hành chính hay không? Nếu chọn câu trả lời b, thủ tục hành chính phải được sửa đổi để xác định rõ cơ quan, tổ chức có trách nhiệm giải quyết thủ tục hành chính. Đề nghị nêu rõ phương án sửa đổi...................................................................................... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thủ tục hành chính có xác định rõ trình tự, cách thức thực hiện hay không? Nếu chọn câu trả lời b, đề nghị nêu lý do và phương án sửa đổi..................... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Quy định về thành phần hồ sơ, số lượng hồ sơ có rõ ràng và hợp lý hay không? Nếu chọn câu trả lời b, đề nghị nêu rõ lý do và đề xuất phương án kiến nghị về thành phần, số lượng hồ sơ để giảm gánh nặng cho cá nhân, tổ chức............ ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thủ tục hành chính này có quy định cụ thể thời gian giải quyết từ phía các cơ quan thực hiện thủ tục hành chính hay không? ................................................................................................................... Có £ Không £ Nếu câu trả lời c là CÓ, thì thời gian là bao lâu là phù hợp? tại sao?............... ................................................................................................................... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £ Không £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, thời hạn giải quyết là bao lâu?..............................."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có thể rút ngắn thời hạn này không?"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nếu câu trả lời a là KHÔNG, thủ tục phải quy định thời hạn trả kết quả. Đề nghị nêu rõ thời hạn trả kết quả là bao lâu là phù hợp:..................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Kết quả của việc thực hiện thủ tục hành chính này có quy định thời hạn có hiệu lực hay không? ................................................................................................................... Có £ Không £ ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £ Không £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, thời hạn có giá trị là bao nhiêu?............................."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, thì quy định này có hợp lý không?"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nếu câu trả lời c là KHÔNG, đề nghị cho biết lý do và đề xuất phương án sửa đổi......................................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Thủ tục hành chính này có đòi hỏi kết quả của việc giải quyết các thủ tục hành chính khác hoặc thủ tục hành chính này là kết quả để giải quyết thủ tục hành chính khác hay không? Có £ Không £ ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £ Không £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, có thể áp dụng cơ chế liên thông trong giải quyết thủ tục hành chính hay không để giảm gánh nặng về thủ tục cho cá nhân và doanh nghiệp?"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nếu câu trả lời b là CÓ, đề nghị nêu rõ các thủ tục hành chính có thể áp dụng cơ chế liên thông, cách thức áp dụng và đề xuất cơ quan đầu mối tiếp nhận ..........................................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Với câu trả lời đối với các câu hỏi từ câu 5 – 11 trên đây thì thủ tục hành chính này có hợp lý/phù hợp hay không? III. Về tính hợp pháp của thủ tục hành chính",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Thủ tục hành chính có được quy định đúng thẩm quyền không? Nếu câu trả lời là b, đề nghị xác định rõ nội dung nào của thủ tục hành chính không được quy định đúng thẩm quyền ▪ Trình tự, cách thức thực hiện £ ▪ Hồ sơ £ ▪ Thời hạn giải quyết thủ tục hành chính £ ▪ Cơ quan thực hiện thủ tục hành chính £ ▪ Khác ........................................................................................................ Đề nghị nêu rõ lý do đối với các câu trả lời a, b, c.......................................... ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thủ tục hành chính quy định đúng thẩm quyền £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Một phần của thủ tục hành chính quy định không đúng thẩm quyền £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thủ tục hành chính quy định không đúng thẩm quyền £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Nội dung thủ tục hành chính có trái với các quy định trong văn bản của cơ quan cấp trên hay không? ▪ Trình tự, cách thức thực hiện £ ▪ Hồ sơ £ ▪ Thời hạn giải quyết thủ tục hành chính £ ▪ Cơ quan thực hiện thủ tục hành chính £ ▪ Khác ........................................................................................................ ...................................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £ Không £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu chọn câu trả lời a là CÓ, đề nghị xác định rõ nội dung nào trái với các quy định trong văn bản của cơ quan cấp trên:"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đề nghị cho biết lý do đối với các nội dung lựa chọn tại câu b và ghi rõ điều khoản và tên, số ký hiệu, ngày, tháng, năm ban hành văn bản của cơ quan cấp trên tương ứng:..........................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "15",
+                            "noi_dung_khoan": "Với câu trả lời đối với các câu hỏi từ câu 13 – 14 trên đây thì thủ tục hành chính này có hợp pháp hay không? IV. Về chi phí thực hiện thủ tục hành chính",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "16",
+                            "noi_dung_khoan": "Có các khoản phí, lệ phí được thu khi thực hiện thủ tục hành chính này không? Có £ Không £ ................................................................................................................... PHỤ LỤC II BIỂU MẪU ĐÁNH GIÁ MẪU ĐƠN, MẪU TỜ KHAI HÀNH CHÍNH (Ban hành kèm theo Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ)",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £ Không £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, nêu rõ mức phí, lệ phí là bao nhiêu? ....................."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Với câu trả lời b, Mức thu đó có hợp lý hay không?"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nếu câu trả lời c là KHÔNG, xin đề xuất mức thu cụ thể? Tại sao?............."
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, đề nghị cho biết tổng mức thu của quý cơ quan (nếu có) khi thực hiện thủ tục hành chính trong một năm sẽ là bao nhiêu?"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mẫu đơn, mẫu tờ khai này có cần thiết trong thực hiện thủ tục hành chính hay không? Nếu chọn câu trả lời a, đề nghị nêu khái quát sự cần thiết của mẫu đơn, tờ khai.................................................................................................... Nếu chọn câu trả lời là b đề nghị nêu rõ lý do ..........................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung mẫu đơn, mẫu tờ khai có dễ hiểu, dễ thực hiện không? Có £ Không £ Nếu chọn câu trả lời là KHÔNG, đề nghị nêu cụ thể: Nêu rõ ............................................................................................... .......................................................................................................... Nêu rõ ............................................................................................... .......................................................................................................... Nêu rõ................................................................................................ Đề xuất hướng làm rõ:........................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin yêu cầu không rõ ràng £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thông tin yêu cầu không cần thiết £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thông tin yêu cầu không thực tế £"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khác.............................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Mẫu đơn, mẫu tờ khai có phải xin xác nhận hay không? Có £ Không £ Nếu câu trả lời là CÓ, đề nghị trả lời các câu hỏi 3.1, 3.2, 3.3:............... ..........................................................................................................",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "1. Yêu cầu việc xác nhận vào mẫu đơn, mẫu tờ khai có cần thiết không? Có £ Không £ Nếu câu trả lời là KHÔNG, đề nghị nêu rõ lý do và đề xuất hình thức thay thế hoặc loại bỏ:................................................................................. ..........................................................................................................",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "2. Quy định về việc xác nhận vào mẫu đơn, tờ khai có phù hợp không? Có £ Không £ Nếu câu trả lời là KHÔNG, đề nghị nêu rõ lý do và đề xuất hình thức thay thế phù hợp: .......................................................................................................... Lý do lựa chọn một trong các phương án trên:...................................... ..........................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khu phố £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ủy ban nhân dân các cấp £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nơi làm việc hoặc học tập £"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khác:............................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "3. Nội dung yêu cầu xác nhận vào mẫu đơn, mẫu tờ khai có rõ ràng không? Có £ Không £ Nếu câu trả lời là KHÔNG, đề nghị nêu rõ lý do: .......................................................................................................... Đề xuất hướng làm rõ: ....................................................................... ..........................................................................................................",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thể thức của mẫu đơn, mẫu tờ khai có thuận lợi cho người sử dụng không? Có £ Không £ Nếu chọn câu trả lời là KHÔNG, đề nghị nêu rõ những yếu tố không phù hợp: Nêu rõ:............................................................................................... Nêu rõ:............................................................................................... Nêu rõ:............................................................................................... .......................................................................................................... Đề xuất hướng thay đổi phù hợp:........................................................ ..........................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kích cỡ chữ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bố cục mẫu đơn, tờ khai £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khổ giấy in £"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khác: ............................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Ngôn ngữ yêu cầu trong mẫu đơn, mẫu tờ khai có hợp lý không? Có £ Không £ Nếu câu trả lời là KHÔNG, đề nghị nêu rõ lý do.................................... .......................................................................................................... Đề xuất ngôn ngữ hợp lý: Lý do lựa chọn một trong các phương án trên:...................................... ..........................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiếng Việt £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiếng Anh £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cả Tiếng Việt và Tiếng Anh £"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khác.............................................................................................."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Mẫu đơn, mẫu tờ khai có dễ tiếp cận không? Có £ Không £ Nếu câu trả lời là KHÔNG, đề nghị nêu phương pháp tiếp cận phù hợp:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trực tiếp tại cơ quan HCNN có thẩm quyền £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "In từ trang web của cơ quan HCNN có thẩm quyền £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "In từ cơ sở dữ liệu quốc gia về TTHC £"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khác.............................................................................................. £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phạm vi áp dụng của mẫu đơn, mẫu tờ khai? PHỤ LỤC III BIỂU MẪU ĐÁNH GIÁ YÊU CẦU, ĐIỀU KIỆN (Ban hành kèm theo Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ) I. Về sự cần thiết của yêu cầu, điều kiện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Toàn quốc £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Địa phương £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khác: ………………………………………………………. £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện này được đặt ra nhằm đạt được mục tiêu gì? ................................................................................................",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện khi được thực hiện có đáp ứng được mục tiêu đặt ra hay không? Nếu chọn câu trả lời a) hoặc b), đề nghị nêu rõ các yêu cầu, điều kiện đáp ứng được mục tiêu đặt ra tương ứng với các mục tiêu cụ thể............................................................................................ ................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện có gây trở ngại cho hoạt động kinh tế do chứa đựng một trong số những hạn chế sau đây hay không? ................................................................................................ Nếu chọn một hoặc nhiều các hạn chế trong câu trả lời trên, đề nghị giải thích tại sao yêu cầu, điều kiện này vẫn cần thiết và trích dẫn tên, số ký hiệu, ngày tháng năm, cơ quan ban hành và kèm theo văn bản quy định hạn chế đó:............................................. ................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Kiểm soát giá cả đối với hàng hóa không độc quyền £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hạn chế gia nhập hoạt động (giấy phép/xác nhận hành chính) ngoài các lý do về an toàn, sức khỏe hoặc môi trường £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hạn chế thuê mướn lao động £"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hạn chế quảng cáo thương mại £"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Hạn chế di chuyển sản phẩm và dịch vụ bên trong Việt Nam £"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Hạn chế khác (ghi cụ thể): ....................................................."
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Có biện pháp khác để thay thế yêu cầu, điều kiện này mà vẫn đảm bảo mục tiêu đặt ra hay không? Nếu chọn câu trả lời a), đề nghị nêu rõ biện pháp thay thế........... ................................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Với câu trả lời đối với các câu hỏi từ câu 1 – 4 trên đây thì các nội dung yêu cầu, điều kiện này có cần thiết hay không? Nếu chọn câu a) và b), tiếp tục trả lời các câu hỏi trong phần II (tính hợp lý) và phần III (tính hợp pháp) đối với các yêu cầu, điều kiện được cho là cần thiết. Nếu chọn câu b) liệt kê rõ các yêu cầu, điều kiện không cần thiết. ............................................................................................................................................ Nếu chọn câu c), không phải trả lời các câu hỏi trong phần II (tính hợp lý) và phần III (tính hợp pháp). II. Về tính hợp lý của yêu cầu, điều kiện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £ (kết thúc)"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các nội dung yêu cầu, điều kiện này có mâu thuẫn, chồng chéo, thiếu thống nhất với các yêu cầu, điều kiện khác có liên quan không? Nếu chọn câu trả lời a) hoặc b), đề nghị nêu rõ: Yêu cầu, điều kiện đang rà soát mâu thuẫn, chồng chéo, thiếu thống nhất với nội dung yêu cầu, điều kiện nào cũng như văn bản quy định yêu cầu, điều kiện đó (nêu rõ tên, số ký hiệu, ngày tháng năm, cơ quan ban hành văn bản) ............................................................................................. Đồng thời, đề xuất phương án xử lý........................................ .............................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Nội dung yêu cầu, điều kiện này có đơn giản, dễ hiểu, dễ thực hiện đối với cá nhân, tổ chức và công chức thực thi không? Nếu chọn câu trả lời b) và c), đề nghị nêu rõ cách đơn giản hóa yêu cầu, điều kiện:.................................................................. ..............................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện này được áp dụng trên phạm vi toàn quốc hay trên địa bàn địa phương? Toàn quốc £ Địa phương £ Đề nghị nêu rõ lý do nếu câu trả lời là ĐỊA PHƯƠNG............... .............................................................................................",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện này khi áp dụng có tạo ra sự phân biệt giữa cá nhân, doanh nghiệp nước ngoài với cá nhân, doanh nghiệp Việt Nam không? Có £ Không £ ............................................................................................. ............................................................................................. .............................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có £ Không £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nếu câu trả lời a là CÓ, thì có miễn trừ cụ thể nào đối với hoạt động hoặc sản phẩm theo các điều ước quốc tế mà Việt Nam tham gia không?"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nếu câu trả lời b) là CÓ, đề nghị nêu rõ nội dung miễn trừ, tên, số ký hiệu điều ước quốc tế đó:........................................"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nếu câu trả lời b) là KHÔNG, nêu lý do yêu cầu, điều kiện phù hợp với điều ước quốc tế đó.................................................."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nếu câu trả lời a) là CÓ, đề nghị tóm tắt nội dung ý kiến......."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Với câu trả lời đối với các câu hỏi từ câu 6 – 9 trên đây thì yêu cầu, điều kiện này có hợp lý đối với hoạt động của tổ chức, cá nhân không? Nếu chọn câu trả lời b) nêu rõ các yêu cầu, điều kiện không hợp lý.......................................... ............................................................................................................................................ III. Về tính hợp pháp của yêu cầu, điều kiện",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện này có được ban hành đúng thẩm quyền hay không? Nếu chọn câu trả lời b) hoặc c), đề nghị ghi rõ tên, số ký hiệu, ngày tháng năm, cơ quan ban hành văn bản quy định yêu cầu, điều kiện không đúng thẩm quyền và tên yêu cầu, điều kiện tương ứng.............................................................................. ..............................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ đúng thẩm quyền £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần đúng thẩm quyền £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không, toàn bộ không đúng thẩm quyền £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Nội dung của yêu cầu, điều kiện này có trái với các văn bản cấp trên hay không? Nếu chọn câu trả lời a) hoặc b) đề nghị nêu rõ: - Nội dung yêu cầu, điều kiện trái với văn bản cấp trên - Tên điều khoản; tên, số ký hiệu, ngày tháng năm, cơ quan ban hành văn bản quy định các yêu cầu, điều kiện đó .............................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ trái £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần trái £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Yêu cầu, điều kiện này có hạn chế các quyền hợp pháp của công dân không? Nếu chọn câu trả lời a) hoặc b) đề nghị nêu rõ tên nội dung yêu cầu, điều kiện và tương ứng với yêu cầu, điều kiện đó hạn chế quyền gì của công dân, quyền đó được quy định tại văn bản nào (nêu rõ tên, số ký hiệu, ngày tháng năm, cơ quan ban hành)? .......................................................................................",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Với câu trả lời đối với các câu hỏi từ câu 11 – 13 trên đây thì nội dung các yêu cầu, điều kiện này có hợp pháp hay không? Nếu chọn câu trả lời b), nêu rõ các yêu cầu, điều kiện không hợp pháp. ...................................................................................................................................... Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: 04 quy định về kiểm soát thủ tục hành chính Thủ tục hành chính là gì? Các hình thức công khai thủ tục hành chính Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 63/2010/NĐ-CP về kiểm soát thủ tục hành chính Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: 04 quy định về kiểm soát thủ tục hành chính Thủ tục hành chính là gì? Các hình thức công khai thủ tục hành chính Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: 04 quy định về kiểm soát thủ tục hành chính Thủ tục hành chính là gì? Các hình thức công khai thủ tục hành chính Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 63/2010/NĐ-CP về kiểm soát thủ tục hành chính MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- SOCIALIST REPUBLIC OF VIET NAM Independence - Freedom – Happiness --------- No. 63/2010/ND-CP Hanoi, June 8, 2010 DECREE ON CONTROLLING ADMINISTRATIVE PROCEDURES THE GOVERNMENT",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có, toàn bộ £"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có, một phần £"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không £"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

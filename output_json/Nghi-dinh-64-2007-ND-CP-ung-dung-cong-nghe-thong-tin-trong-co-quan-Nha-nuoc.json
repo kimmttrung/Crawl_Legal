@@ -1,0 +1,1494 @@
+{
+    "ten_luat": "Nghị định 64/2007/NĐ-CP ứng dụng công nghệ thông tin trong cơ quan Nhà nước",
+    "so_hieu": "64/2007/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "Nghị định này áp dụng đối với cơ quan nhà nước bao gồm các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và các đơn vị sự nghiệp sử dụng ngân sách nhà nước.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ứng dụng công nghệ thông tin hoạt động của cơ quan nhà nước: là việc sử dụng công nghệ thông tin vào các hoạt động của cơ quan nhà nước nhằm nâng cao chất lượng, hiệu quả trong hoạt động nội bộ của cơ quan nhà nước và giữa các cơ quan nhà nước, trong giao dịch của cơ quan nhà nước với tổ chức và các nhân, hỗ trợ đẩy mạnh cải cách hành chính vào bảo đảm công khai, minh bạch.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "An toàn thông tin: bao gồm các hoạt động quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông tin nhằm bảo vệ, khôi phục các hệ thống, các dịch vụ và nội dung thông tin đối với nguy cơ tự nhiên hoặc do con người gây ra. Việc bảo vệ thông tin, tài sản và con người trong hệ thống thông tin nhằm bảo đảm cho các hệ thống thực hiện đúng chức năng, phục vụ đúng đối tượng một cách sẵn sàng, chính xác và tin cậy. An toàn, thông tin bao hàm các nội dung bảo vệ và bảo mật thông tin, an toàn dữ liệu, an toàn máy tính và an toàn mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Dữ liệu đặc tả (Metadata) : là những thông tin mô tả các đặc tính của dữ liệu như nội dung, định dạng, chất lượng, điều kiện và các đặc tính khác nhằm tạo thuận lợi cho quá trình tìm kiếm, truy nhập, quản lý và lưu trữ dữ liệu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Giải pháp, sản phẩm (phần cứng, phần mềm, thông tin số) dùng chung : là giải pháp, sản phẩm được tạo ra để có thể ứng dụng trong nhiều cơ quan nhà nước khác nhau. Giải pháp, sản phẩm chỉ được coi là dùng chung khi được cơ quan nhà nước có thẩm quyền quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thông tin cá nhân: là thông tin đủ để xác định chính xác danh tính một cá nhân, bao gồm ít nhất nội dung trong những thông tin sau đây: họ tên, ngày sinh, nghề nghiệp, chức danh, địa chỉ liên hệ, địa chỉ thư điện tử, số điện thoại, số chứng minh nhân dân, số hộ chiếu. Những thông tin thuộc bí mật cá nhân gồm có hồ sơ y tế, hồ sơ nộp thuế, số thẻ bảo hiểm xã hội, số thẻ tín dụng và những bí mật cá nhân khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Dịch vụ hành chính công: là những dịch vụ liên quan đến hoạt động thực thi pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước (hoặc tổ chức, doanh nghiệp được ủy quyền) có thẩm quyền cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các lĩnh vực mà cơ quan nhà nước đó quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Hạ tầng kỹ thuật: là tập hợp thiết bị tính toán (máy chủ, máy trạm), thiết bị ngoại vi, thiết bị kết nối mạng, thiết bị phụ trợ, mạng nội bộ, mạng diện rộng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Văn bản điện tử: là văn bản được thể hiện dưới dạng thông điệp dữ liệu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Gói thầu EPC: là gói thầu bao gồm toàn bộ các công việc thiết kế, cung cấp thiết bị, vật tư và xây lắp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Công khai, minh bạch thông tin trên môi trường mạng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm cung cấp công khai, minh bạch, kịp thời, đầy đủ và chính xác trên môi trường mạng những thông tin theo quy định của khoản 2 Điều 28 của Luật Công nghệ thông tin ; pháp luật về phòng chống tham nhũng và thực hiện tiết kiệm, chống lãng phí và các quy định khác của pháp luật về công khai, minh bạch thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc cung cấp, trao đổi, chia sẻ thông tin thuộc danh mục bí mật nhà nước, bí mật kinh doanh và bí mật cá nhân phải tuân thủ các quy định của pháp luật có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Bảo vệ thông tin cá nhân do cơ quan nhà nước nắm giữ trên môi trường mạng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước thu nhập, xử lý và sử dụng thông tin cá nhân trên môi trường mạng phải thực hiện theo quy định tại Điều 21 của Luật Công nghệ thông tin .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các biện pháp bảo vệ thông tin cá nhân bao gồm: thông báo mục đích sử dụng thông tin cá nhân; giám sát quá trình xử lý thông tin cá nhân; ban hành thủ tục kiểm tra, đính chính hoặc hủy bỏ thông tin cá nhân; các biện pháp kỹ thuật khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước nắm giữ thông tin thuộc bí mật cá nhân phải có trách nhiệm bảo vệ những thông tin đó và chỉ được phép cung cấp, chia sẻ cho bên thứ ba có thẩm quyền trong những trường hợp nhất định theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Số hóa thông tin và lưu trữ dữ liệu",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thông tin do các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) tạo ra đều phải ở dạng số và lưu trữ theo tiêu chuẩn, quy chuẩn kỹ thuật quy định để bảo đảm an toàn, dễ dàng quản lý, truy nhập, tìm kiếm thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thông tin số phải được định kỳ sao chép và lưu trữ theo quy định do cơ quan nhà nước có thẩm quyền tại Điều 49 Nghị định này ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước có kế hoạch số hóa những nguồn thông tin chưa ở dạng số theo thức tự ưu tiên về thời gian và tầm quan trọng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh quy định trách nhiệm số hóa thông tin và lưu trữ dữ liệu của các đơn vị, tổ chức trực thuộc tùy theo tình hình thực tế của ngành hoặc địa phương mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Chia sẻ thông tin số",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm ban hành quy chế về chia sẻ thông tin số nhằm bảo đảm sử dụng chung thông tin về quản lý, điều hành, phối hợp công tác và những thông tin khác một cách đồng bộ, thông suốt giữa các cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quy chế về chia sẻ thông tin số giữa các cơ quan nhà nước cần thực hiện theo các nguyên tắc chính sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bảo đảm các yêu cầu về an toàn thông tin theo quy định của Điều 41 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đồng bộ với quy chế về xây dựng, quản lý khai thác, bảo vệ và duy trì cơ sở dữ liệu quốc gia, cơ sở dữ liệu của các Bộ, cơ quang ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không thu nhập lại những thông tin số đã được cơ quan nhà nước khác cung cấp, chia sẻ nếu nội dung thông tin số đó là chính xác, đáng tin cậy, trừ trường hợp pháp luật có quy định khác;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Bảo vệ bí mật cá nhân, quyền sở hữu trí tuệ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Tăng cường sử dụng văn bản điện tử",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người đứng đầu cơ quan nhà nước ở các cấp có trách nhiệm chỉ đạo việc ứng dụng công nghệ thông tin vào xử lý công việc, tăng cường sử dụng văn bản điện tử, từng bước thay thế văn bản giấy trong quản lý, điều hành và trao đổi thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các loại biểu mẫu hành chính cần thiết giải quyết công việc cho người dân, tổ chức từng bước được chuẩn hóa theo quy định tại Điều 19 Nghị định này và công bố công khai trên trang thông tin điện tử của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trừ trường hợp có quy định khác của pháp luật, mạng nội bộ của cơ quan nhà nước phải kết nối với cơ sở hạ tầng thông tin của Chính phủ để thực hiện việc gửi, trao đổi, xử lý văn bản hành chính trong cơ quan hoặc với các cơ quan, tổ chức khác thông qua môi trường mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan nhà nước phải xây dựng và ban hành quy chế sử dụng mạng nội bộ, bảo đảm khai thác hiệu quả các giao dịch điện tử trong xử lý công việc của mọi cán bộ, công chức, viên chức, đồng thời bảo đảm an toàn thông tin theo quy định tại Điều 41 Nghị định này ; tập huấn cho cán bộ, công chức, viên chức kiến thức, kỹ năng ứng dụng công nghệ thông tin trong công việc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ sở dữ liệu của cơ quan nhà nước phải cập nhật đầy đủ hoặc có đường liên kết đến các văn bản quy phạm pháp luật, văn bản chỉ đạo của cấp trên phục vụ cho việc tra cứu trên môi trường mạng của cán bộ, công chức, viên chức nhằm hạn chế việc sao chụp văn bản giấy nhận được từ cơ quan cấp trên để gửi cho các cơ quan, tổ chức trực thuộc.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Bảo đảm hiệu quả, tiết kiệm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hoạt động ứng dụng công nghệ thông tin phải gắn với việc nâng cao hiệu quả hoạt động của cơ quan nhà nước và tuân thủ các quy định của pháp luật về đầu tư và thực hành tiết kiệm, chống lãng phí trong đầu tư các dự án ứng dụng công nghệ thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp đồng bộ các nội dung về đầu tư, quy mô và thời gian triển khai giữa các dự án ứng dụng công nghệ thông tin, tránh đầu tư trùng lặp. Khuyến khích việc đầu tư và các giải pháp và sản phẩm dùng chung.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ đầu tư có trách nhiệm báo cáo về dự án ứng dụng công nghệ thông tin của mình tới cơ quan quản lý nhà nước về công nghệ thông tin. Những thông tin này được lưu trữ vào cơ sở dữ liệu quốc gia hoặc cơ sở dữ liệu của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh theo tính chất và quy mô dự án. Nội dung thông tin báo cáo bao gồm: nội dung, kết quả thực hiện các dự án ứng dụng công nghệ thông tin đã và đang triển khai; giải pháp và sản phẩm dùng chung; công nghệ, kinh nghiệm tích lũy được trong quá trình thực hiện các dự án đó. Chương 2: NỘI DUNG VÀ ĐIỀU KIỆN BẢO ĐẢM ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC MỤC 1: XÂY DỰNG CƠ SỞ HẠ TẦNG THÔNG TIN",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông chủ trì, phối hợp với các cơ quan liên quan tổ chức xây dựng mạng chuyên dùng; tồng hợp dự toán kinh phí đầu tư xây dựng, khai thác, duy trì và nâng cấp cơ sở hạ tầng thông tin phục vụ cơ quan nhà nước từ ngân sách nhà nước và các nguồn khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh tổ chức xây dựng, khai thác, duy trì và nâng cấp cơ sở hạ tầng thông tin trong phạm vi ngành hoặc địa phương mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm đầu tư xây dựng khai thác, duy trì và nâng cấp cơ sở hạ tầng thông tin của cơ quan mình theo tiêu chuẩn, quy chuẩn kỹ thuật quy định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Xây dựng cơ sở dữ liệu quốc gia",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ sở dữ liệu quốc gia là tập hợp thông tin của một hoặc một số lĩnh vực kinh tế - xã hội được xây dựng, cập nhật và duy trì đáp ứng yêu cầu truy nhập và sử dụng thông tin của các ngành kinh tế và phục vụ lợi ích xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông chủ trì, phối hợp với các cơ quan liên quan xây dựng, trình Thủ trướng Chính phủ ban hành danh mục cơ sở dữ liệu quốc gia và quy định trách nhiệm của các cơ quan nhà nước trong việc xây dựng cơ sở dữ liệu quốc gia theo quy định tại khoản 3 Điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước được giao nhiệm vụ chủ trì xây dựng và duy trì cơ sở dữ liệu quốc gia chịu trách nhiệm ban hành Quy chế xây dựng, quản lý, khai thác, bảo vệ và duy trì cơ sở dữ liệu quốc gia đó.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Xây dựng cơ sở dữ liệu của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ sở dữ liệu của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh là tập hợp thông tin được xây dựng, cập nhật và duy trì đáp ứng yêu cầu truy nhập, sử dụng thông tin của mình và phục vụ lợi ích xã hội.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Kinh phí xây dựng và duy trì cơ sở dữ liệu của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh được tổng hợp vào dự toán chi ngân sách của ngành hoặc địa phương đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh quy định danh mục cơ sở dữ liệu; xây dựng, cập nhật và duy trì cơ sở dữ liệu; ban hành Quy chế xây dựng, quản lý khai thác, bảo vệ và duy trì cơ sở dữ liệu của mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Nguyên tắc xây dựng, quản lý, khai thác, bảo vệ và duy trì cở sở dữ liệu.",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tuân thủ các tiêu chuẩn, quy chuẩn kỹ thuật quy định bảo đảm sự tương thích, thông suốt và an toàn giữa các cơ quan nhà nước trong quá trình chia sẻ, trao đổi thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Lập kế hoạch trước khi tạo ra hoặc thu nhập dữ liệu mới với mục đích sử dụng rõ ràng. Quá trình tạo ra hoặc thu nhập dữ liệu phải bảo đảm các yêu cầu sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nội dung phù hợp, chính xác, kịp thời, hiệu quả;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hạn chế tối đa việc thu thập lại cùng một nguồn dữ liệu;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tận dụng nguồn dữ liệu sẵn có;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Ưu tiên mục tiêu sử dụng dài hạn;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Ưu tiên dữ liệu có thể dùng cho nhiều mục đích sử dụng khác nhau."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quy định rõ các điều kiện truy nhập, cập nhật dữ liệu và bảo đảm việc quản lý, truy nhập, cập nhật và tìm kiếm dữ liệu dễ dàng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Áp dụng các mức bảo vệ phù hợp theo đúng phân loại thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Quy định rõ các điều kiện duy trì dữ liệu bao gồm cả việc thay đổi, hủy bỏ dữ liệu. Thường xuyên đánh giá các điều kiện bảo đảm an toàn cho dữ liệu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Cơ sở dữ liệu của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh được xây dựng và tổ chức phù hợp với cơ sở dữ liệu quốc gia.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Bảo đảm truy nhập thông tin và khai thác dịch vụ hành chính công",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh có chính sách khuyến khích các tổ chức, cá nhân triển khai rộng khắp các điểm truy nhập Internet công cộng; đồng thời tăng cường hướng dẫn phương pháp truy nhập và sử dụng thông tin, dịch vụ hành chính công trên môi trường mạng theo đúng quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ sở hạ tầng thông tin của cơ quan nhà nước cần đáp ứng giao dịch điện tử qua các phương tiện truy nhập thông tin Internet thông dụng của xã hội, trừ trường hợp pháp luật có quy định khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm tạo các điều kiện thuận lợi để tổ chức, cá nhân dễ dàng truy nhập thông tin và dịch vụ hành chính công trên môi trường mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Khuyến khích áp dụng các giải pháp kỹ thuật hỗ trợ người khuyết tật truy nhập thông tin và sử dụng dịch vụ hành chính công trên mạng Internet được dễ dàng hơn.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Bảo đảm tương thích về công nghệ trong hệ thống thông tin của các cơ quan nhà nước",
+                    "noi_dung_chung": "Bộ Bưu chính, Viễn thông chủ trì xây dựng kiến trúc chuẩn hệ thống thông tin các quốc gia với các nội dung chủ yếu sau đây:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quy định áp dụng thống nhất các tiêu chuẩn quốc tế phổ biến, tiêu chuẩn mở về kết nối mạng, trao đổi, lưu trữ dữ liệu và thông tin trong hệ thống thông tin của các cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ban hành các quy chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước, bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cơ sở dữ liệu, dữ liệu đặc tả;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khuôn dạng biểu mẫu, văn bản, hình ảnh, âm thanh số;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trang thông tin điện tử của cơ quan nhà nước trên nền tảng công nghệ Internet;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thông tin số sử dụng ngôn ngữ tiếng Việt (phông chữ, thuật ngữ hành chính, thuật ngữ chuyên ngành)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Ban Cơ yếu Chính phủ, Bộ Công an và các cơ quan liên quan xây dựng và ban hành các quy chuẩn kỹ thuật bảo đảm an toàn, bảo mật thông tin số và các hệ thống thông tin số trong hoạt động của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tổ chức được ủy quyền cung cấp dịch vụ hành chính công phải áp dụng các tiêu chuẩn, quy chuẩn kỹ thuật quy định tại khoản 1, 2 và 3 Điều này đối với giao diện giữa hệ thống thông tin của tổ chức đó với hệ thống thông tin của cơ quan nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Thông báo về việc tạm ngừng cung cấp thông tin, dịch vụ trên môi trường mạng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trừ trường hợp bất khả kháng, cơ quan nhà nước phải thông báo công khai chậm nhất là 07 ngày làm việc trước khi chủ động tạm ngừng cung cấp thông tin và dịch vụ trên mạng để sửa chữa, khắc phục các sự cố hoặc nâng cấp, mở rộng cơ sở hạ tầng thông tin;",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông báo công khai bằng hình thức phù hợp, trừ trường hợp bất khả kháng, và tiến hành các biện pháp khắc phục sự cố ngay sau khi hệ thống thông tin của cơ quan nhà nước bị lỗi trong quá trình hoạt động làm ảnh hưởng nghiêm trọng hoặc gây ngừng cung cấp thông tin và dịch vụ của cơ quan đó trên môi trường mạng."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nội dung thông báo phải nêu rõ khoảng thời gian dự kiến phục hồi các hoạt động cung cấp thông tin và dịch vụ trên môi trường mạng của cơ quan đó."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm chuẩn bị và triển khai các phương án sử dụng cơ sở hạ tầng thông tin dự phòng để tiếp tục cung cấp thông tin và dịch vụ cần thiết nhất ở mức độ phù hợp trong thời gian tạm ngừng cung cấp thông tin, dịch vụ trên môi trường mạng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Kết nối cơ sở hạ tầng thông tin của cơ quan nhà nước với mạng Internet.",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm kết nối hạ tầng kỹ thuật của mình với mạng Internet để cung cấp thông tin và dịch vụ hành chính công theo chức năng, nhiệm vụ của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc kết nối Internet phảo đảm bảo an toàn thông tin theo quy định tại Điều 41 Nghị định này và các quy định khác của pháp luật. MỤC 2: CUNG CẤP NỘI DUNG THÔNG TIN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Trách nhiệm cung cấp, tiếp nhận thông tin trên môi trường mạng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm cung cấp trên môi trường mạng những thông tin theo quy định tại Điều 4 Nghị định này do cơ quan đó nắm giữ để phục vụ lợi ích hợp pháp của người dân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc cung cấp thông tin được thực hiện theo nguyên tắc tạo điều kiện cho người dân tiếp cận nhanh chóng, dễ dàng, tránh phải cung cấp nhiều lần cùng một nội dung thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm tạo thuận lợi cho các hoạt động trên môi trường mạng.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tiếp nhận ý kiến góp ý, khiếu nại, tố cáo, yêu cầu cung cấp thông tin của tổ chức, cá nhân;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lưu trữ, xử lý, cập nhật, cung cấp thông tin, trả lời các yêu cầu;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chuyển yêu cầu cung cấp thông tin đến đúng cơ quan có liên quan nếu nội dung yêu cầu cung cấp thông tin vượt quá chức năng, nhiệm vụ hoặc quyền hạn của cơ quan mình."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan nhà nước, người đứng đầu cơ quan nhà nước, tổ chức, cá nhân thực hiện các quyền và nghĩa vụ khác theo quy định của pháp luật về cung cấp thông tin.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Xây dựng thống nhất biểu mẫu điện tử",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Biểu mẫu điện tử trong giao dịch giữa các cơ quan nhà nước, tổ chức và cá nhân phải tuân theo các quy định của pháp luật và đáp ứng các yêu cầu sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin đơn giản, dễ hiểu, không chồng chéo và phù hợp với quy trình công việc liên quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khuôn dạng theo tiêu chuẩn, quy chuẩn kỹ thuật quy định để dễ dàng tải xuống, hiển thị và in ấn bằng các phương tiện điện tử phổ biến;"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Danh sách các biểu mẫu điện tử phải được tổ chức khoa học, phân nhóm hợp lý, cập nhật kịp thời để giúp các tổ chức, cá nhân có thể tìm chính xác các biểu mẫu cần thiết dễ dàng và nhanh chóng trên trang thông tin điện tự của cơ quan đó.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các biểu mẫu điện tử riêng theo đặc thù của từng Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ do cơ quan đó tự quy định theo nguyên tắc chung tại khoản 1 và 2 Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Trang thông tin điện tử của cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh chịu trách nhiệm xây dựng, duy trì, nâng cấp và cập nhật trang thông tin điện tử của cơ quan mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trang thông tin điện tử của cơ quan nhà nước phải tuân thủ quy định tại Điều 28 của Luật Công nghệ thông tin và đáp ứng các yêu cầu sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Áp dụng các tiêu chuẩn, quy chuẩn kỹ thuật quy định;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hiển thị thông tin nhanh chóng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có công cụ tìm kiếm thông tin dễ sử dụng và cho kết quả đúng nội dung cần tìm kiếm;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Quy định rõ thời hạn tồn tại trực tuyến của từng loại thông tin."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Danh mục dịch vụ hành chính công",
+                    "noi_dung_chung": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh có trách nhiệm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Công bố danh mục, lộ trình cung cấp các dịch vụ hành chính công trên môi trường mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn tổ chức, cá nhân tham gia giao dịch với cơ quan nhà nước khi thực hiện các dịch vụ hành chính công trên môi trường mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thực hiện việc tuyên truyền, quảng bá để thu hút người dân tham gia giao dịch với cơ quan nhà nước trên môi trường mạng. MỤC 3: PHÁT TRIỀN VÀ SỬ DỤNG NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Chính sách phát triển nguồn nhân lực công nghê thông tin của cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhà nước có chính sách phát triển quy mô và tăng cường chất lượng đào tạo nguồn nhân lực công nghệ thông tin của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông phối hợp với các cơ quan liên quan xây dựng quy hoạch phát triển nguồn nhân lực công nghệ thông tin trong cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tạo điều kiện cho Giám đốc công nghệ thông tin, cán bộ chuyên trách về công nghệ thông tin được học tập, nâng cao trình độ quản lý, kỹ thuật nghiệp vụ ở trong và ngoài nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Tạo điều kiện cho cán bộ, công chức, viên chức được đào tạo về kỹ năng ứng dụng công nghệ thông tin trong xử lý công việc. Điêu 23. Ưu đãi nhân lực công nghệ thông tin trong cơ quan nhà nước",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cán bộ chuyên trách về công nghệ thông tin trong các cơ quan nhà nước được hưởng chế độ ưu đãi về điều kiện làm việc, bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ưu đãi về sử dụng cơ sở hạ tầng thông tin và trang thiết bị;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Ưu đãi về đào tạo, nâng cao trình độ công nghệ thông tin;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Ưu đãi khác phù hợp với quy định của pháp luật."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cán bộ, công chức, viên chức được truy nhập Internet miễn phí tại các cơ quan nhà nước mà mình công tác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Khuyến khích các cơ quan nhà nước ban hành quy định ưu đãi về thu nhập cho nhân lực công nghệ thông tin trong cơ quan mình; quy định về tiêu chuẩn, trách nhiệm, quyền lợi, yêu cầu đánh giá mức độ hoàn thành nhiệm vụ của cán bộ, công chức, viên chức đối với việc ứng dụng công nghệ thông tin trong công việc của mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Biên chế cán bộ chuyên trách về công nghệ thông tin",
+                    "noi_dung_chung": "Cơ quan nhà nước có trách nhiệm bố trí đủ cán bộ chuyên trách về công nghệ thông tin, phù hợp với kế hoạch ứng dụng công nghệ thông tin trong cơ quan mình. MỤC 4: ĐẦU TƯ CHO ỨNG DỤNG CÔNG NGHỆ THÔNG TIN",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Xây dựng kế hoạch ứng dụng công nghệ thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng kế hoạch 5 năm về ứng dụng công nghệ thông tin trong hoạt động của cơ quan mình (sau đây gọi là kế hoạch 5 năm), trình Thủ tướng Chính phủ phê duyệt hoặc đề nghị Thủ tướng Chính phủ ủy quyền cho cơ quan có thẩm quyền phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông có trách nhiệm hướng dẫn xây dựng và thẩm định kế hoạch 5 năm đối với các nội dung quy định tại khoản 3 Điều này trước khi trình Thủ tướng Chính phủ phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kế hoạch 5 năm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh bao gồm những nội dung sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Mục tiêu tổng quát và mục tiêu cụ thể;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hiện trạng, nội dung, giải pháp và lộ trình thực hiện;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nội dung về đầu tư theo quy định tại khoản 2 Điều 27 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Dự toán kinh phí;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Các điều kiện bảo đảm việc triển khai kế hoạch;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Dự kiến hiệu quả của kế hoạch."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính hướng dẫn các điều kiện và thủ tục điều chỉnh mục tiêu, nội dung trong quá trình thực hiện kế hoạch 5 năm. Việc điều chỉnh kế hoạch 5 năm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh phải được Thủ tướng Chính phủ phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Căn cứ vào kế hoạch 5 năm được Thủ tướng Chính phủ phê duyệt, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh xây dựng kế hoạch hàng năm và triển khai thực hiện. Bộ Bưu chính, Viễn thông phối hợp với Bộ Kế hoạch Đầu tư hướng dẫn và tổng hợp kế hoạch hàng năm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Ưu tiên bố trí ngân sách cho ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đầu tư cho ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước là đầu tư phát triển.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Kế hoạch và Đầu tư, Bộ Tài chính ưu tiên bố trí ngân sách cho ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hàng năm, cơ quan nhà nước có thẩm quyền cấp đủ kinh phí và đúng thời hạn cho ứng dụng công nghệ thông tin theo kế hoạch được phê duyệt.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Đầu tư cho ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Kinh phí đầu tư cho ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước bao gồm kinh phí ngân sách nhà nước (chi đầu tư phát triển, chi thường xuyên) và các nguồn kinh phí hợp pháp khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung đầu tư thực hiện theo khoản 1 Điều 63 của Luật Công nghệ thông tin và bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xây dựng mới, bảo trì, nâng cấp hạ tầng kỹ thuật;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Xây dựng mới, mua sắm, bảo trì, nâng cấp phần mềm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng, cập nhật, duy trì và sao lưu cơ sở dữ liệu, các hệ thống thông tin quản lý;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tích hợp hệ thống;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Xây dựng, duy trì, nâng cấp hệ thống kỹ thuật và nghiệp vụ bảo đảm an toàn thông tin;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Xây dựng và duy trì trang thông tin điện tử;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Xây dựng và duy trì các dịch vụ hành chính công trên môi trường mạng;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Xây dựng, bổ sung quy định, quy chế về quản lý, khai thác và bảo trì các hệ thống thông tin;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Đào tạo và đào tạo lại cán bộ, công chức, viên chức kỹ năng ứng dụng công nghệ thông tin trong xử lý công; cán bộ chuyên trách về công nghệ thông tin;"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Các hạng mục đầu tư khác cho ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Tài chính chủ trì, phối hợp với Bộ Bưu chính, Viễn thông và các cơ quan liên quan xây dựng định mức chỉ sự nghiệp ứng dụng công nghệ thông tin trong cơ quan nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Tiêu chí ưu tiên đầu tư dự án ứng dụng công nghệ thông tin",
+                    "noi_dung_chung": "Việc ưu tiên đầu tư dự án ứng dụng công nghệ thông tin trong cơ quan nhà nước phải đáp ứng ít nhất một trong các tiêu chí sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phổ cập ứng dụng công nghệ thông tin, cung cấp thông tin dịch vụ hành chính công.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sử dụng chung cơ sở hạ tầng thông tin cho nhiều cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hỗ trợ chương trình cải cách hành chính.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Quy định đầu tư cho dự án phần mềm",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng mức đầu tư của dự án phần mềm ứg dụng nếu không thể xác định được theo các quy định hiện hành thì có thể được xác định bằng các phương pháp định cỡ và ước lượng chi phí phần mềm theo thông lệ quốc tế, cơ sở dữ liệu quy định tại khoản 3 Điều 9 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khuyến khích thực hiện dự án phần mềm ứng dụng theo hinh thức gói thầu EPC.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư và các cơ quan liên quan xây dựng và trình Chính phủ ban hành Quy chế quản lý đầu tư các dự án ứng dụng công nghệ thông tin sử dụng vốn đầu tư có nguồn gốc từ ngân sách nhà nước; ban hành định mức kinh tế kỹ thuật về tư vấn và thiết kế dự án phần mềm.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Khuyến khích đầu tư ứng dụng công nghệ thông tin",
+                    "noi_dung_chung": "Nhà nước khuyến khích đầu tư ứng dụng công nghệ thông tin từ các nguồn vốn không phải ngân sách nhà nước cho hoạt động của các cơ quan nhà nước, địa phương ở nông thôn, vùng sâu, vùng xa, miền núi, hải đảo và các vùng khó khăn.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Quyền sở hữu trí tuệ đối với giải pháp, phần mềm, cơ sở dữ liệu",
+                    "noi_dung_chung": "Quyền sở hữu trí tuệ, phát triển giải pháp, phần mềm, cơ sở dữ liệu trong các dự án ứng công nghệ thông tin trong hoạt động của cơ quan nhà nước phải thực hiện theo quy định của pháp luật về sở hữu trí tuệ và được xác định rõ trong hợp đồng.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Đánh giá mức độ ứng dụng công nghệ thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước ứng dụng công nghệ thông tin định kỳ đánh giá mức độ ứng dụng công nghệ thông tin trong hoạt động của cơ quan mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông chịu trách nhiệm hướng dẫn các cơ quan nhà nước thực hiện việc đánh giá mức độ ứng dụng công nghệ thông tin. Chương 3: HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC TRÊN MÔI TRƯỜNG MẠNG MỤC 1: QUY TRÌNH CÔNG VIỆC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Chuẩn hóa quy trình công việc của cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm cải tiến và chuẩn hóa các quy định công việc theo hướng phù hợp với chương trình cải cách hành chính đồng thời phát huy tối đa khả năng ứng dụng công nghệ thông tin trong xử lý các quy trình sau đây:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hoạt động nội bộ và giao dịch với các cơ quan nhà nước khác;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Giao dịch với tổ chức, cá nhân, đặc biệt trong hoạt động cung cấp các dịch vụ hành chính công;"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn quy định trong các hoạt động của cơ quan mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Yêu cầu đồng bộ quy trình công việc giữa các cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các quy trình công việc chung phải được chuẩn hóa và áp dụng vào các cơ quan nhà nước có quy trình công việc tương ứng theo lộ trình thích hợp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm ứng dụng công nghệ thông tin để tăng cường khả năng liên thông giữa các quy trình công việc, cải tiến các quy trình công việc đòi hỏi có sự phối hợp của nhiều cơ quan nhà nước nhằm giảm tối đa thời gian xử lý. MỤC 2: QUẢN LÝ VĂN BẢN ĐIỆN TỬ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Giá trị pháp lý của văn bản điện tử",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn bản điện tử phù hợp với pháp luật về giao dịch điện tử có giá trị pháp lý tương đương với văn bản giấy trong giao dịch giữa các cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Văn bản điện tử gửi đến cơ quan nhà nước không nhất thiết phải sử dụng chữ ký điện tử nếu văn bản đó có thông tin về người gửi, bảo đảm tính xác thực về nguồn gốc và sự toàn vẹn của văn bản.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Thời điểm gửi, nhận văn bản điện tử",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thời điểm gửi một văn bản điện tử tới cơ quan nhà nước là thời điểm văn bản điện tử này nhập vào hệ thống thông tin nằm ngoài sự kiểm soát của người khởi tạo.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan nhà nước được Chính phủ giao trách nhiệm có nhiệm vụ xây dựng hệ thống thông tin bảo đảm xác định thời điểm nhận và gửi văn bản điện tử. Thời điểm nhận là thời điểm văn bản điện tử nhập vào hệ thống thông tin được chỉ định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Thông báo nhận được văn bản điện tử",
+                    "noi_dung_chung": "Cơ quan nhà nước có trách nhiệm thông báo ngay bằng phương tiện điện tử cho người gửi về việc đã nhận văn bản điện tử sau khi xác nhận được tính hợp lệ của văn bản đó.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Tiếp nhận văn bản điện tử và lập hồ sơ lưu trữ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Văn bản điện tử gửi đến cơ quan nhà nước phải được sao lưu trong hệ thống lưu trữ điện tử.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc sao lưu hoặc biện pháp tiếp nhận khác phải chỉ ra được thời gian gửi và kiểm tra được tính toàn vẹn của văn bản điện tử.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Văn bản điện tử của cơ quan nhà nước phải được đưa vào hồ sơ lưu trữ theo cách bảo đảm chính xác thực, an toàn và khả năng truy nhập văn bản điện tử đó.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Xử lý văn bản điện tử",
+                    "noi_dung_chung": "Cơ quan nhà nước có quyền sử dụng các biện pháp kỹ thuật đối với văn bản điện tử nếu thấy cần thiết để làm cho văn bản điện tử đó dễ đọc, dễ lưu trữ và để phân loại nhưng bảo đảm không thay đổi nội dung văn bản điện tử đó.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Sử dụng chữ ký điện tử",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan nhà nước có trách nhiệm sử dụng chữ ký điện tử để xác nhận văn bản điện tử cuối cùng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chữ ký điện tử của cơ quan nhà nước phải đáp ứng các yêu cầu của pháp luật về giao dịch điện tử. MỤC 3: BẢO ĐẢM AN TOÀN THÔNG TIN TRÊN MÔI TRƯỜNG MẠNG",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Nguyên tắc bảo đảm an toàn thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc bảo đảm thông tin là yêu cầu bắt buộc trong quá trình thiết kế, xây dựng, vận hành, nâng cấp và hủy bỏ các hạ tầng kỹ thuật của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thông tin số thuộc quy định danh mục bí mật nhà nước của các cơ quan nhà nước phải được phân loại, lưu trữ, bảo vệ trên cơ sở quy định của pháp luật về bảo vệ bí mật nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan nhà nước phải xây dựng nội quy bảo đảm an toàn thông tin; có cán bộ phụ trách quản lý an toàn thông tin; áp dụng, hướng dẫn và kiểm tra định kỳ việc thực hiện các biện pháp bảo đảm cho hệ thống thông tin trên mạng đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Áp dụng quy trình bảo đảm an toàn dữ liệu bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Lưu trữ dự phòng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Sử dụng mật mã để bảo đảm an toàn và bảo mật dữ liệu trong lưu trữ và giao dịch theo quy định của Nhà nước về mật mã;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Quản lý chặt chẽ việc di chuyển các trang thiết bị công nghệ thông tin lưu trữ các thông tin thuộc danh mục bí mật nhà nước;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Giám sát các khâu tạo lập, xử lý và hủy bỏ dữ liệu;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Các quy trình bảo đảm an toàn dữ liệu khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Áp dụng quy trình quản lý an toàn hạ tầng kỹ thuật bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các giải pháp bảo vệ nhằm ngăn chặn và phát hiện sớm việc truy cập trái phép vào mạng máy tính hay thiết bị lưu trữ dữ liệu;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Áp dụng các công nghệ xác thực, cơ chế quản lý quyền truy cập và cơ chế ghi biên bản hoạt động của hệ thống để quản lý và kiểm tra việc truy cập mạng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Kiểm soát chặt chẽ việc cài đặt các phần mềm mới lên máy chủ và máy trạm;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Theo dõi thường xuyên tình trạng lây nhiễm và thực hiện loại bỏ phần mềm độc hại khỏi hệ thống;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Các quy trình quản lý an toàn hạ tầng kỹ thuật khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Điều kiện bảo đảm thực hiện an toàn thông tin:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cán bộ, công chức, viên chức phải nắm vững các quy định của pháp luật và nội quy của cơ quan về an toàn thông tin;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cán bộ kỹ thuật về an toàn thông tin phải được tuyển chọn, đào tạo, huấn luyện, thường xuyên bồi dưỡng nghiệp vụ phù hợp với nhiệm vụ được giao và được tạo điều kiện làm việc phù hợp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cơ quan nhà nước ưu tiên sử dụng lực lượng kỹ thuật về an toàn thông tin của mình; khi cần thiết có thể sử dụng dịch vụ của các tổ chức bảo đảm an toàn thông tin đủ năng lực được Nhà nước công nhận;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hạ tầng kỹ thuật phải được định kỳ kiểm tra, đánh giá hoặc kiểm định về mặt an toàn thông tin phù hợp các tiêu chuẩn, quy chuẩn kỹ thuật quy định."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Trách nhiệm giải quyết và khắc phục sự cố an toàn thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trách nhiệm của cơ quan nhà nước có hạ tầng kỹ thuật bị sự cố:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Áp dụng mọi biện pháp để khắc phục và hạn chế thiệt hại do sự cố xảy ra, lập biên bảo báo cáo cho cơ quan cấp trên quản lý trực tiếp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp có sự cố nghiêm trọng vượt quá khả năng khắc phục của đơn vị, phải báo cáo ngay cho cơ quan quản lý nhà nước có thẩm quyền quy định tại Điều 43 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tạo điều kiện thuận lợi cho cơ quan chức năng tham gia khắc phục sự cố và thực hiện theo đúng hướng dẫn;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Cung cấp đầy đủ, chính xác, kịp thời những thông tin cần thiết cho cơ quan cấp trên quản lý trực tiếp;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Báo cáo bằng văn bản về sự cố cho cơ quan cấp trên quản lý trực tiếp và cơ quan quản lý nhà nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trách nhiệm của cơ quan cấp trên quản lý trực tiếp:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tùy theo mức độ của sự cố, hướng dẫn hoặc cử cán bộ có thẩm quyền đến cơ sở để hướng dẫn, giúp đỡ khắc phục sự cố."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Huy động các phương tiện cần thiết để khắc phục sự cố."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trách nhiệm của cơ quan quản lý nhà nước:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tùy theo mức độ sự cố, cơ quan quản lý nhà nước hướng dẫn hoặc điều phối lực lượng ứng cứu để tham gia khắc phục sự cố;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phối hợp với các Bộ, cơ quan ngang Bộ để điều tra khắc phục sự cố;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Thực hiện cam kết trong Điều ước quốc tế có liên quan đến sự cố mà Việt Nam là thành viên."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 43",
+                    "tieu_de": "Tổ chức điều phối các hoạt động ứng cứu khẩn cấp, chống tấn công và chống khủng bố trên mạng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông đảm nhiệm chức năng điều phối hoạt động ứng cứu máy tính tại Việt Nam và là đầu mối hợp tác quốc tế của Việt Nam để ngăn chặn các sự cố và các cuộc tấn công trên mạng. Căn cứ vào thông lệ quốc tế và các quy định về bảo đảm an toàn thông tin, cơ quan quản lý nhà nước quy định hoạt động điều phối an toàn thông tin để phối hợp trong việc phòng, chống, đối phó, khắc phục sự cố về các vấn đề an toàn thông tin trên môi trường mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan điều phối có thẩm quyền yêu cầu các đơn vị hay bộ phận an toàn thông tin trong các cơ quan nhà nước, các tổ chức cung cấp dịch vụ an toàn thông tin, các doanh nghiệp cung cấp dịch vụ Internet và doanh nghiệp cung cấp dịch vụ hạ tầng mạng hợp tác tham gia ngăn chặn các nguồn tấn công gây sự cố trên mạng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan điều phối có trách nhiệm thông báo danh sách các nguồn tấn công trên mạng Internet, nguy cơ và nguồn gốc phát sinh sự cố mạng, trên cơ sở đó điều phối lực lượng phản ứng khẩn cấp để ngăn chặn và khắc phục sự cố.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trong trường hợp khẩn cấp có thể gây sự cố nghiêm trọng hay khủng bố mạng, các cơ quan chức năng có quyền tổ chức ngăn chặn các nguồn tấn công trước khi có thông báo, sau đó lập biên bản báo cáo cho cơ quan điều phối.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan, tổ chức, cá nhân có nghĩa vụ cung cấp thông tin và tạo điều kiện cho các cơ quan chức năng nghiên cứu, điều tra để nhanh chóng ngăn chặn sự cố và khắc phục hậu quả khi xảy ra tấn công, khủng bố trên môi trường mạng. Chương 4: TỔ CHỨC THỰC HIỆN ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG HOẠT ĐỘNG CỦA CƠ QUAN NHÀ NƯỚC",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 44",
+                    "tieu_de": "Trách nhiệm người đứng đầu cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trực tiếp chỉ đạo và chịu trách nhiệm về hoạt động ứng dụng công nghệ thông tin trong lĩnh vực, địa phương và tổ chức, cơ quan của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chỉ đạo xây dựng kế hoạch 5 năm, phê duyệt kế hoạch hàng năm về ứng dụng công nghệ thông tin trong lĩnh vực, địa phương và tổ chức, cơ quan của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Quyết định các biện pháp nhằm tổ chức thực hiện có hiệu quả kế hoạch ứng dụng công nghệ thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quyết định về tổ chức bộ máy, cán bộ và hoạt động của đơn vị chuyên trách công nghệ thông tin trong hệ thống tổ chức, cơ quan của mình.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 45",
+                    "tieu_de": "Hệ thống chuyên trách về công nghệ thông tin trong cơ quan nhà nước",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có trách nhiệm chỉ định một đơn vị trực thuộc làm nhiệm vụ chuyên trách về công nghệ thông tin trong ngành mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cơ quan quản lý nhà nước về công nghệ thông tin ở các tỉnh, thành phố trực thuộc Trung ương là đơn vị chuyên trách về công nghệ thông tin trong địa phương mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh quy định cụ thể chức năng, nhiệm vụ, tổ chức bộ máy và hoạt động của các đơn vị chuyên trách công nghệ thông tin thuộc ngành hoặc địa phương mình căn cứ theo quy định tại Điều 46 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 46",
+                    "tieu_de": "Chức năng, nhiệm vụ chính của đơn vị chuyên trách về công nghệ thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đề xuất, xây dựng, tổ chức thực hiện kế hoạch 5 năm và hàng năm về ứng dụng công nghệ thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xây dựng quy chế, quy định và tổ chức hoạt động ứng dụng công nghệ thông tin trong ngành hoặc địa phương trình Thủ trưởng cơ quan xem xét, quyết định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thu nhập, lưu trữ, xử lý thông tin phục vụ sự chỉ đạo, điều hành của lãnh đạo.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Quản lý, vận hành, hướng dẫn sử dụng cơ sở hạ tầng thông tin phục vụ hoạt động chỉ đạo, điều hành, tác nghiệp của ngành hoặc địa phương; bảo đảm kỹ thuật, an toàn thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Xây dựng và duy trì hoạt động trang thông tin điện tử của ngành hoặc địa phương; tổ chức triểnkhai bảo đảm kỹ thuật cho việc cung cấp dịch vụ hành chính công.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 47",
+                    "tieu_de": "Giám đốc công nghệ thông tin",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thủ trưởng đơn vị chuyên trách về công nghệ thông tin trong cơ quan nhà nước đảm nhận chức danh Giám đốc công nghệ thông tin, chịu trách nhiệm tổ chức và điều hành hoạt động ứng dụng công nghệ thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhiệm vụ, quyền hạn chính của Giám đốc công nghệ thông tin:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trực tiếp tham mưu, giúp lãnh đạo cơ quan xây dựng chiến lược, chính sách, kế hoạch ứng dụng công nghệ thông tin trong ngành hoặc địa phương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tổ chức, điều hành việc triển khai kế hoạch ứng dụng công nghệ thông tin được phê duyệt."
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chỉ đạo xây dựng các quy định, hướng dẫn quản lý kỹ thuật, nghiệp vụ trong ứng dụng công nghệ thông tin phù hợp với các tiêu chuẩn, quy chuẩn kỹ thuật quy định; đề xuất và tham gia chỉ đạo xây dựng các tiêu chuẩn, quy chuẩn kỹ thuật về công nghệ thông tin;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tham gia chỉ đạo công tác phối hợp với các cơ quan nhà nước khác trong việc xây dựng và tổ chức thực hiện các dự án ứng dụng công nghệ thông tin mang tính liên ngành."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 48",
+                    "tieu_de": "Trách nhiệm của Bộ Bưu chính, Viễn thông",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chịu trách nhiệm trước Chính phủ trong việc chủ trì, phối hợp với các Bộ, cơ quan ngang Bộ liên quan trong việc tổ chức thực hiện ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình Thủ tướng Chính phủ ban hành Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xây dựng tiêu chuẩn nghiệp vụ các ngạch công chức chuyên ngành công nghệ thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chủ trì xây dựng kiến trúc chuẩn hệ thống thông tin quốc gia.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Phối hợp với các cơ quan liên quan hướng dẫn xây dựng, triển khai hiệu quả các dự án ứng dụng công nghệ thông tin trong cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các nhiệm vụ khác quy định trong Nghị định này và pháp luật liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 49",
+                    "tieu_de": "Trách nhiệm của Bộ Nội vụ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Bưu chính, Viễn thông hướng dẫn chức năng, nhiệm vụ, quyền hạn và biên chế của đơn vị chuyên trách về công nghệ thông tin trong cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xây dựng, ban hành tiêu chuẩn, chức danh Giám đốc công nghệ thông tin và hướng dẫn các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh thực hiện thống nhất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xây dựng, ban hành quy định về lưu trữ thông tin số của các cơ quan nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 50",
+                    "tieu_de": "Trách nhiệm của Văn phòng Chính phủ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Nội vụ và các cơ quan liên quan thống nhất các biểu mẫu điện tử chung cho giao dịch giữa các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Nội vụ và các cơ quan liên quan hướng dẫn việc cải tiến, chuẩn hóa và áp dụng các quy trình công việc chung, bảo đảm đồng bộ quy trình công việc giữa các cơ quan nhà nước.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 51",
+                    "tieu_de": "Trách nhiệm của Ban Cơ yếu Chính phủ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ trì xây dựng và đề xuất ban hành các văn bản quy phạm pháp luật về mật mã trong an toàn và bảo mật thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Xây dựng và đề xuất ban hành các tiêu chuẩn và quy chuẩn kỹ thuật về mật mã trong an toàn và bảo mật thông tin.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tổ chức kiểm định, đánh giá và cấp chứng nhận các sản phẩm mật mã trong hoạt động của cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Triển khai các hệ thống bảo vệ thông tin thuộc phạm vị bí mật nhà nước dùng mật mã.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 52",
+                    "tieu_de": "Trách nhiệm của Bộ Công an",
+                    "noi_dung_chung": "Bộ Công an chịu trách nhiệm bảo đảm an ninh trong hoạt động ứng dụng công nghệ thông tin; điều tra và xử lý tội phạm trong lĩnh vực công nghệ thông tin.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 53",
+                    "tieu_de": "Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh",
+                    "noi_dung_chung": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp tỉnh có trách nhiệm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Xây dựng, tổ chức thực hiện kế hoạch 5 năm, kế hoạch hàng năm về ứng dụng công nghệ thông tin trong hoạt động của mình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thực hiện hoặc yêu cầu cơ quan có trách nhiệm thực hiện các nhiệm vụ quốc phòng, an ninh và các nhiệm vụ khẩn cấp theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đánh giá tác động của công nghệ thông tin đối với việc hoàn thành chức năng, nhiệm vụ, quyền hạn của cơ quan mình, bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Dịch vụ hành chính công;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Năng suất, hiệu quả lao động;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đổi mới tổ chức, hoạt động;"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 54",
+                    "tieu_de": "Phối hợp giữa các cơ quan nhà nước",
+                    "noi_dung_chung": "Khuyến khích các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh triển khai các sáng kiến, chương trình, dự án ứng dụng công nghệ thông tin có sự phối hợp từ hai cơ quan trở lên nhằm mục tiêu:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tăng cường sự tương thích giữa các cơ sở hạ tầng thông tin của các cơ quan nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tạo điều kiện thuận lợi cho giao dịch điện tử giữa các cơ quan nhà nước và giữa cơ quan nhà nước với tổ chức, cá nhân. Chương 5: ĐIỀU KHOẢN THI HÀNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 55",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Những quy định trước đây trái Nghị định này đều bãi bỏ.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 56",
+                    "tieu_de": "Hướng dẫn thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Bưu chính, Viễn thông trong phạm vi chức năng, quyền hạn của mình có trách nhiệm hướng dẫn thi hành Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Quốc phòng, Bộ Công an căn cứ các quy định của Luật Công nghệ thông tin và Nghị định này có quy định phù hợp trong lĩnh vực quốc phòng, an ninh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh chịu trách nhiệm thi hành Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan các cấp của Đảng, Quốc hội, Văn phòng Chủ tịch nước, Hội đồng nhân dân, Viện kiểm sát, Tòa án nhân dân và các tổ chức chính trị - xã hội khác sử dụng ngân sách nhà nước để ứng dụng công nghệ thông tin căn cứ Nghị định này để có quy định phù hợp trong cơ quan, tổ chức của mình. Nơi nhận: - Ban bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - Văn phòng BCĐTW về phòng, chống tham nhũng; - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - UBTM Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - Học viện Hành chính quốc gia; - VPCP: BTCN, các PCN, Website Chính phủ, Ban Điều hành 112, Người phát ngôn của Thủ tướng Chính phủ, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, CN (5b). TM. CHÍNH PHỦ Thủ Tướng Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước Lưu trữ Ghi chú Ý kiến Facebook Email In Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- SOCIALIST REPUBLIC OF VIET NAM Independence - Freedom - Happiness ---------- No. 64/2007/ND-CP Hanoi, April 10, 2007 DECREE ON INFORMATION TECHNOLOGY APPLICATION IN STATE AGENCIES' OPERATIONS THE GOVERNMENT",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

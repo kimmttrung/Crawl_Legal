@@ -1,0 +1,2088 @@
+{
+    "ten_luat": "Nghị định 67/2013/NĐ-CP hướng dẫn kinh doanh thuốc lá",
+    "so_hieu": "67/2013/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương mở đầu",
+            "tieu_de_chuong": "Tổng quan và phạm vi áp dụng",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Quy định chi tiết một số điều và biện pháp thi hành Luật phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá về:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều kiện sản xuất, mua bán thuốc lá, chế biến nguyên liệu thuốc lá, đầu tư vùng trồng và kinh doanh nguyên liệu thuốc lá, tiêu thụ sản phẩm thuốc lá; xuất khẩu, nhập khẩu máy móc, thiết bị, nguyên phụ liệu thuốc lá và sản phẩm thuốc lá; phòng, chống buôn lậu và gian lận thương mại.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đầu tư sản xuất sản phẩm thuốc lá, chế biến nguyên liệu thuốc lá, liên doanh sản xuất thuốc lá, chuyển nhượng quyền sở hữu công nghiệp, chuyển quyền sử dụng đối tượng sở hữu công nghiệp sản xuất thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sản xuất, gia công thuốc lá xuất khẩu; chế biến, gia công chế biến nguyên liệu thuốc lá xuất khẩu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Kiểm soát sản lượng thuốc lá tiêu thụ trong nước, công bố sản lượng thuốc lá được phép sản xuất và nhập khẩu.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này áp dụng đối với các tổ chức, cá nhân tham gia hoạt động kinh doanh thuốc lá và các hoạt động khác có liên quan đến kinh doanh thuốc lá trên lãnh thổ Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thương nhân nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài tại Việt Nam chịu sự điều chỉnh của Nghị định này và các văn bản pháp luật khác liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nghị định này không áp dụng đối với việc nhập khẩu sản phẩm thuốc lá, kinh doanh sản phẩm thuốc lá tại cửa hàng miễn thuế (Duty Free Shop). Hoạt động kinh doanh thuốc lá tại khu phi thuế quan thực hiện theo quy định riêng của Thủ tướng Chính phủ.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "“Lá thuốc lá” là lá của cây thuốc lá có tên khoa học là Nicotiana tabacum L và Nicotiana rustica L là nguyên liệu đầu vào của quá trình chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "“Sản phẩm thuốc lá” là sản phẩm được sản xuất từ toàn bộ hay một phần nguyên liệu thuốc lá và được chế biến dưới dạng thuốc điếu, xì gà, thuốc lá sợi dùng để hút tẩu và các dạng sản phẩm khác đùng để hút, nhai, ngửi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "“Sợi thuốc lá” là sản phẩm được chế biến từ lá thuốc lá sau khi đã qua các công đoạn thái thành sợi.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "“Thuốc lá sợi” là sản phẩm thuốc lá được sản xuất từ toàn bộ hoặc một phần nguyên liệu thuốc lá và được chế biến dưới dạng sợi thuốc lá dùng để hút tẩu, cuốn điếu để hút, nhai.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "“Phụ liệu thuốc lá” là tất cả các loại vật tư khác ngoài nguyên liệu thuốc lá được sử dụng để sản xuất các sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "“Thương mại nhà nước trong nhập khẩu sản phẩm thuốc lá” là cơ chế nhập khẩu trên cơ sở Nhà nước chỉ định doanh nghiệp đầu mối nhập khẩu sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "“Sản lượng thuốc lá được phép sản xuất và nhập khẩu” là sản lượng của doanh nghiệp có giấy phép sản xuất thuốc lá được phép sản xuất hoặc nhập khẩu để tiêu thụ trong nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "“Chế biến nguyên liệu thuốc lá” là hoạt động chế biến được thực hiện trên dây chuyền máy móc, thiết bị để tạo ra nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "“Nhà cung cấp sản phẩm thuốc lá” là doanh nghiệp sản xuất sản phẩm thuốc lá hoặc doanh nghiệp nhập khẩu sản phẩm thuốc lá hoặc chi nhánh, công ty trực thuộc doanh nghiệp sản xuất sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "“Thương nhân phân phối sản phẩm thuốc lá” là thương nhân mua sản phẩm thuốc lá trực tiếp từ Nhà cung cấp sản phẩm thuốc lá để bán cho các thương nhân bán buôn sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "“Thương nhân bán buôn sản phẩm thuốc lá” là thương nhân mua sản phẩm thuốc lá từ thương nhân phân phối sản phẩm thuốc lá và Nhà cung cấp sản phẩm thuốc lá để bán cho các thương nhân bán lẻ sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "“Thương nhân bán lẻ sản phẩm thuốc lá” là thương nhân mua sản phẩm thuốc lá từ thương nhân bán buôn sản phẩm thuốc lá để bán trực tiếp cho người tiêu dùng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "“Đầu tư trồng cây thuốc lá” là việc doanh nghiệp bỏ vốn, kỹ thuật để tiến hành các hoạt động trồng, chăm sóc và thu hoạch các nguyên liệu lá thuốc lá hoặc trực tiếp bỏ vốn (tiền mặt, vật tư, hàng hóa...), kỹ thuật cho người trồng cây thuốc lá để tiến hành các hoạt động trồng, chăm sóc và thu hoạch thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "“Năng lực sản xuất sản phẩm thuốc lá” là khả năng của máy móc, thiết bị đồng bộ để sản xuất sản phẩm thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc quản lý kinh doanh thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhà nước thống nhất quản lý đối với các hoạt động đầu tư, sản xuất, mua bán, xuất khẩu, nhập khẩu thuốc lá và các hoạt động khác liên quan đến kinh doanh thuốc lá và nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thuốc lá thuộc nhóm hàng hóa nhà nước hạn chế kinh doanh. Tổ chức, cá nhân sản xuất, mua bán thuốc lá; chế biến nguyên liệu thuốc lá, mua bán nguyên liệu thuốc lá và đầu tư trồng cây thuốc lá phải có giấy phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhà nước thực hiện kiểm soát về mức cung cấp thuốc lá ra thị trường (bao gồm sản lượng sản xuất và nhập khẩu thuốc lá); thực hiện thương mại nhà nước đối với nhập khẩu; kiểm soát việc tiêu thụ sản phẩm thuốc lá trên thị trường để giảm tác hại của thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nhà nước tổ chức, sắp xếp lại các doanh nghiệp sản xuất thuốc lá theo hướng sắp xếp các doanh nghiệp kinh doanh không hiệu quả thành các doanh nghiệp đủ mạnh, có khả năng cạnh tranh trong nước và quốc tế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhà nước kiểm soát chặt chẽ việc mua bán sản phẩm thuốc lá thông qua Quy hoạch hệ thống mạng lưới mua bán sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Máy móc, thiết bị chuyên ngành thuốc lá, nguyên liệu, giấy cuốn điếu, thuốc lá là hàng hóa thuộc diện quản lý chuyên ngành của Bộ Công Thương. Chương 2. ĐẦU TƯ, MUA BÁN VÀ CHẾ BIẾN NGUYÊN LIỆU THUỐC LÁ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Đầu tư trồng cây thuốc lá và sử dụng giống cây thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc đầu tư phát triển vùng trồng cây thuốc lá ở từng địa phương phải phù hợp với quy hoạch vùng nguyên liệu thuốc lá được cơ quan nhà nước có thẩm quyền phê duyệt và quy hoạch sử dụng đất ở từng địa phương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc sử dụng giống cây thuốc lá phải thực hiện theo các quy định của pháp luật về quản lý giống cây trồng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Phân cấp nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Người trồng cây thuốc lá, doanh nghiệp trồng, chế biến, kinh doanh nguyên liệu thuốc lá phải tiến hành phân cấp nguyên liệu thuốc lá theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Công Thương chủ trì, phối hợp với các Bộ, ngành có liên quan xây dựng tiêu chuẩn kỹ thuật quốc gia về phân cấp nguyên liệu thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Điều kiện cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá",
+                    "noi_dung_chung": "Điều kiện để được cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Có đăng ký kinh doanh mặt hàng nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện về quy mô đầu tư, cơ sở vật chất, trang thiết bị kỹ thuật và con người:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có quy mô đầu tư trồng cây thuốc lá tại địa phương ít nhất 100 ha mỗi năm;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Diện tích của cơ sở kinh doanh nguyên liệu bao gồm khu phân loại, đóng kiện và kho nguyên liệu phù hợp với quy mô kinh doanh;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có kho nguyên liệu thuốc lá với tổng diện tích không dưới 500m2. Kho phải có hệ thống thông gió và các trang thiết bị phù hợp yêu cầu bảo quản nguyên liệu thuốc lá bao gồm: Các nhiệt kế, ẩm kế kiểm tra nhiệt độ và độ ẩm tương đối của không khí trong kho, các phương tiện phòng, chống sâu, mối, mọt; phải có đủ các giá hoặc bục, kệ đỡ kiện nguyên liệu thuốc lá được sắp xếp cách mặt nền tối thiểu 20cm và cách tường, cột tối thiểu 50cm;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Người lao động có nghiệp vụ, chuyên môn, kinh nghiệm nghề nghiệp để quản lý đầu tư, hỗ trợ kỹ thuật và thu mua nguyên liệu, trình độ phải được đào tạo về kỹ thuật nông nghiệp từ trung cấp trở lên. Đảm bảo 01 (một) cán bộ kỹ thuật quản lý tối đa 50 ha ruộng trồng cây thuốc lá."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện về quy trình kinh doanh nguyên liệu thuốc lá. Phải có hợp đồng đầu tư trồng cây thuốc lá với người trồng cây thuốc lá phù hợp với quy mô kinh doanh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Điều kiện về bảo vệ môi trường, phòng, chống cháy nổ. Phải có đầy đủ các phương tiện, thiết bị phòng cháy, chữa cháy, bảo vệ môi trường theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bản sao Giấy chứng nhận đăng ký kinh doanh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bảng kê diện tích, sơ đồ kho tàng, nhà xưởng, văn phòng làm việc và các khu phụ trợ khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảng kê trang thiết bị: Hệ thống thông gió, phương tiện, thiết bị phòng cháy, chữa cháy, ẩm kế, nhiệt kế, các phương tiện phòng, chống sâu, mối, mọt; các giá hoặc bục, kệ đỡ kiện thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bản kê danh sách lao động, bản sao hợp đồng lao động, văn bằng chứng chỉ được đào tạo về kỹ thuật nông nghiệp từ trung cấp trở lên đối với cán bộ quản lý đầu tư, hỗ trợ kỹ thuật và thu mua nguyên liệu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Bản sao hợp đồng đầu tư trồng cây thuốc lá với người trồng cây thuốc lá và bản kê tổng hợp diện tích trồng, dự kiến sản lượng nguyên liệu lá thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Điều kiện cấp Giấy phép mua bán nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp được thành lập theo quy định của pháp luật, có đăng ký kinh doanh mặt hàng nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Có địa điểm kinh doanh cố định, địa chỉ rõ ràng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện về cơ sở vật chất, trang thiết bị con người:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có phương tiện vận tải phù hợp với quy mô kinh doanh của doanh nghiệp; đáp ứng yêu cầu bảo quản chất lượng của nguyên liệu thuốc lá trong thời gian vận chuyển;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có kho nguyên liệu thuốc lá với tổng diện tích không dưới 1.000m 2 . Kho phải có hệ thống thông gió và các trang thiết bị phù hợp yêu cầu bảo quản nguyên liệu thuốc lá bao gồm: Các nhiệt kế, ẩm kế kiểm tra nhiệt độ và độ ẩm tương đối của không khí trong kho, các phương tiện phòng, chống sâu, mối, mọt; phải có đủ các giá hoặc bục, kệ đỡ kiện nguyên liệu thuốc lá được sắp xếp cách mặt nền tối thiểu 20cm và cách tường, cột tối thiểu 50cm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Người lao động có nghiệp vụ, chuyên môn, được đào tạo về kỹ thuật nông nghiệp từ trung cấp trở lên."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Có hợp đồng nhập khẩu ủy thác nguyên liệu thuốc lá với doanh nghiệp sản xuất sản phẩm thuốc lá, doanh nghiệp chế biến nguyên liệu thuốc lá hoặc hợp đồng xuất khẩu ủy thác nguyên liệu thuốc lá với doanh nghiệp đủ điều kiện đầu tư trồng cây thuốc lá, doanh nghiệp chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Điều kiện về bảo vệ môi trường, phòng, chống cháy nổ. Phải có đầy đủ các phương tiện, thiết bị phòng cháy, chữa cháy, bảo vệ môi trường theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Hồ sơ đề nghị cấp Giấy phép mua bán nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đơn đề nghị cấp Giấy phép mua bán nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bản sao Giấy chứng nhận đăng ký kinh doanh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bảng kê diện tích, sơ đồ kho tàng, văn phòng làm việc và các khu phụ trợ khác, phương tiện vận tải.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảng kê trang thiết bị: Hệ thống thông gió, phương tiện, thiết bị phòng cháy, chữa cháy, ẩm kế, nhiệt kế, các phương tiện phòng, chống sâu, mối, mọt; các giá hoặc bục, kệ đỡ kiện thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bản kê danh sách lao động, bản sao hợp đồng lao động, văn bằng chứng chỉ được đào tạo về kỹ thuật nông nghiệp từ trung cấp trở lên đối với cán bộ thu mua nguyên liệu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Bản sao hợp đồng nhập khẩu ủy thác nguyên liệu thuốc lá với doanh nghiệp sản xuất sản phẩm thuốc lá, doanh nghiệp chế biến nguyên liệu thuốc lá hoặc hợp đồng xuất khẩu ủy thác nguyên liệu thuốc lá với doanh nghiệp đủ điều kiện đầu tư trồng cây thuốc lá, doanh nghiệp chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Thẩm quyền, trình tự cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thẩm quyền cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá. Sở Công Thương tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Sở Công Thương) là cơ quan cấp, cấp lại, sửa đổi bổ sung Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá cho doanh nghiệp có trụ sở chính đóng trên địa bàn tỉnh mình để đầu tư trồng cây thuốc lá, mua bán nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp đầu tư trồng cây thuốc lá, doanh nghiệp mua bán nguyên liệu thuốc lá nộp 01 bộ hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá cho Sở Công Thương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Công Thương xem xét và cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá. Trường hợp doanh nghiệp không đáp ứng được điều kiện theo quy định, Sở Công Thương sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Công Thương có văn bản yêu cầu doanh nghiệp bổ sung."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lập và lưu giữ Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá. Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá được lập thành 04 bản: 02 bản lưu tại Sở Công Thương, 01 bản gửi Bộ Công Thương, 01 bản gửi doanh nghiệp được cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá có thời hạn 05 năm. Trước thời điểm hết hiệu lực của giấy phép 30 ngày, tổ chức, cá nhân nộp 01 bộ hồ sơ xin cấp lại Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá trong trường hợp tiếp tục hoạt động. Hồ sơ, trình tự thủ tục cấp lại được quy định tại Điều 39 của Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Điều kiện cấp Giấy phép chế biến nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Là doanh nghiệp được thành lập theo quy định của pháp luật, có đăng ký kinh doanh chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện về cơ sở vật chất, trang thiết bị kỹ thuật và con người:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Diện tích của cơ sở chế biến nguyên liệu bao gồm khu phân loại, khu chế biến, đóng kiện và kho nguyên liệu phải phù hợp với quy mô kinh doanh, có tổng diện tích không dưới 5.000 m2;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có kho riêng cho nguyên liệu thuốc lá chưa chế biến và đã qua chế biến phù hợp với quy mô kinh doanh. Kho phải có hệ thống thông gió, các nhiệt kế, ẩm kế để kiểm tra nhiệt độ và độ ẩm tương đối của không khí trong kho, các phương tiện phòng, chống sâu, mối, mọt; phải có đủ các giá hoặc bục, kệ đỡ kiện thuốc lá được sắp xếp cách mặt nền tối thiểu 20cm và cách tường, cột tối thiểu 50cm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có dây chuyền máy móc thiết bị chuyên ngành đồng bộ tách cọng thuốc lá hoặc chế biến ra thuốc lá sợi, thuốc lá tấm và các nguyên liệu thay thế khác dùng để sản xuất ra các sản phẩm thuốc lá. Dây chuyền chế biến nguyên liệu phải được chuyên môn hóa, đáp ứng các tiêu chuẩn vệ sinh công nghiệp, an toàn lao động và vệ sinh môi trường;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có các trang thiết bị kiểm tra để thực hiện đo lường kiểm tra chất lượng nguyên liệu trước và sau chế biến;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Toàn bộ máy móc thiết bị phải có nguồn gốc hợp pháp;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Có hợp đồng với người lao động có trình độ nghiệp vụ, chuyên môn về cơ khí, công nghệ, trình độ từ cao đẳng trở lên."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Có hợp đồng đầu tư trồng cây thuốc lá với người trồng cây thuốc lá hoặc hợp đồng mua bán nguyên liệu với doanh nghiệp đầu tư trồng cây thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Điều kiện về tiêu chuẩn nguyên liệu thuốc lá. Phải đáp ứng các yêu cầu về chất lượng theo tiêu chuẩn kỹ thuật quốc gia và các quy định hiện hành về chất lượng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Điều kiện về bảo vệ môi trường và phòng, chống cháy nổ. Phải có đầy đủ các phương tiện, thiết bị phòng cháy, chữa cháy và bảo vệ môi trường theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Điều kiện về địa điểm đặt cơ sở chế biến. Địa điểm đặt cơ sở chế biến phải phù hợp Chiến lược, Quy hoạch sản xuất sản phẩm thuốc lá và vùng nguyên liệu thuốc lá được cấp có thẩm quyền phê duyệt.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Hồ sơ đề nghị cấp Giấy phép chế biến nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đơn đề nghị cấp Giấy phép chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc đăng ký kinh doanh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bảng kê diện tích, sơ đồ nhà xưởng khu phân loại, khu chế biến, đóng kiện, kho tàng, văn phòng làm việc và các khu phụ trợ khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảng kê danh mục máy móc, thiết bị chuyên ngành đồng bộ của công đoạn chế biến nguyên liệu thuốc lá, thiết bị kiểm tra chất lượng nguyên liệu trước và sau chế biến, hệ thống thông gió, thiết bị phòng cháy, chữa cháy, ẩm kế, nhiệt kế, các phương tiện phòng, chống sâu, mọt; các giá hoặc bục, kệ đỡ kiện thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hồ sơ chứng minh nguồn gốc hợp pháp của máy móc thiết bị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Bảng kê danh sách lao động.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Bản sao hợp đồng lao động có kèm theo bản sao bằng cấp được đào tạo về cơ khí, công nghệ, hóa thực phẩm đối với người lao động chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Bản sao hợp đồng đầu tư trồng cây thuốc lá với người trồng cây thuốc lá, hợp đồng mua bán nguyên liệu với các doanh nghiệp đầu tư trồng cây thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Bản sao Giấy chứng nhận tiêu chuẩn sản phẩm nguyên liệu thuốc lá do cơ quan có thẩm quyền cấp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Thẩm quyền và trình tự cấp Giấy phép chế biến nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thẩm quyền cấp Giấy phép chế biến nguyên liệu thuốc lá. Bộ Công Thương là cơ quan cấp, cấp lại, sửa đổi bổ sung Giấy phép chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự cấp Giấy phép chế biến nguyên liệu thuốc lá.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp chế biến nguyên liệu thuốc lá nộp 01 bộ hồ sơ đề nghị cấp Giấy phép chế biến nguyên liệu thuốc lá cho Bộ Công Thương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Công Thương xem xét và cấp Giấy phép chế biến nguyên liệu thuốc lá. Trường hợp doanh nghiệp không đáp ứng được điều kiện theo quy định, Bộ Công Thương sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Bộ Công Thương có văn bản yêu cầu doanh nghiệp bổ sung."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lập và lưu giữ Giấy phép chế biến nguyên liệu thuốc lá. Giấy phép chế biến nguyên liệu thuốc lá được lập thành 04 bản: 02 bản lưu tại Bộ Công Thương, 01 bản gửi doanh nghiệp được cấp, 01 bản gửi Sở Công Thương nơi doanh nghiệp đóng trụ sở chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Giấy phép chế biến nguyên liệu thuốc lá có thời hạn 5 năm. Trước thời điểm hết hiệu lực của giấy phép 30 ngày, doanh nghiệp chế biến nguyên liệu thuốc lá nộp hồ sơ xin cấp lại Giấy phép chế biến nguyên liệu thuốc lá trong trường hợp tiếp tục chế biến. Hồ sơ, thủ tục cấp lại được quy định tại Điều 39 của Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Quyền và nghĩa vụ của doanh nghiệp đầu tư, mua bán nguyên liệu thuốc lá, chế biến nguyên liệu thuốc lá",
+                    "noi_dung_chung": "Ngoài các quyền và nghĩa vụ theo quy định của pháp luật về doanh nghiệp, doanh nghiệp đầu tư trồng cây thuốc lá, mua bán nguyên liệu thuốc lá, chế biến nguyên liệu thuốc lá có các quyền và nghĩa vụ sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp có Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá được phép lựa chọn vùng đầu tư và người trồng cây thuốc lá theo Quy hoạch sản xuất sản phẩm thuốc lá và vùng nguyên liệu thuốc lá. Ký hợp đồng đầu tư trồng, mua nguyên liệu thuốc lá với người trồng cây thuốc lá và bán nguyên liệu thuốc lá cho doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá, chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp có Giấy phép mua bán nguyên liệu thuốc lá chỉ được nhập khẩu ủy thác nguyên liệu thuốc lá cho các doanh nghiệp có Giấy phép sản xuất thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá; xuất khẩu ủy thác cho các doanh nghiệp có Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp có Giấy phép chế biến nguyên liệu thuốc lá được sử dụng các loại thiết bị máy móc chuyên ngành thuốc lá phù hợp các công đoạn chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp đầu tư trồng cây thuốc lá phải gắn biển hiệu ghi tên thương mại của doanh nghiệp đầu tư trồng cây thuốc lá tại địa điểm thu mua; công khai tiêu chuẩn phân cấp nguyên liệu thuốc lá theo quy định hiện hành tại điểm thu mua nguyên liệu thuốc lá kèm theo mẫu lá thuốc lá nguyên liệu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Doanh nghiệp đầu tư trồng cây thuốc lá, mua bán nguyên liệu thuốc lá, chế biến nguyên liệu thuốc lá phải duy trì các điều kiện cấp phép trong suốt quá trình hoạt động kinh doanh của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Hàng năm doanh nghiệp đầu tư trồng cây thuốc lá phải đăng ký diện tích trồng cây thuốc lá và dự kiến sản lượng nguyên liệu lá thuốc lá với chính quyền địa phương (Ủy ban nhân dân cấp xã, phường) trên địa bàn doanh nghiệp đầu tư.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Quỹ trồng và chế biến nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các doanh nghiệp đầu tư trồng cây thuốc lá được trích trong giá mua nguyên liệu thuốc lá để lập Quỹ trồng và chế biến nguyên liệu thuốc lá nhằm mục đích phát triển vùng nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc trích lập và sử dụng Quỹ trồng và chế biến nguyên liệu thuốc lá thực hiện theo quy định của Bộ Tài chính. Chương 3. SẢN XUẤT SẢN PHẨM THUỐC LÁ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Điều kiện cấp Giấy phép sản xuất sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp đang sản xuất sản phẩm thuốc lá trước thời điểm ban hành Nghị quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính phủ về Chính sách quốc gia phòng, chống tác hại thuốc lá trong giai đoạn 2000 - 2010 hoặc doanh nghiệp đã được Thủ tướng Chính phủ đồng ý về chủ trương đầu tư trong trường hợp sáp nhập, liên doanh để sản xuất thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện về đầu tư và sử dụng nguyên liệu thuốc lá được trồng trong nước:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp phải tham gia đầu tư trồng cây thuốc lá dưới hình thức đầu tư trực tiếp hoặc liên kết đầu tư với các doanh nghiệp có Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, phù hợp với quy mô sản xuất kinh doanh của doanh nghiệp và Quy hoạch vùng nguyên liệu thuốc lá được phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phải sử dụng nguyên liệu thuốc lá được trồng trong nước để sản xuất thuốc lá. Trong trường hợp không đủ nguyên liệu trong nước thì được nhập khẩu phần nguyên liệu còn thiếu theo kế hoạch nhập khẩu hàng năm do Bộ Công Thương công bố, trừ trường hợp sản xuất sản phẩm thuốc lá nhãn nước ngoài hoặc sản phẩm thuốc lá để xuất khẩu. Kế hoạch này được xác định phù hợp với Quy hoạch sản xuất sản phẩm thuốc lá và vùng nguyên liệu thuốc lá được phê duyệt."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện về máy móc thiết bị:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có máy móc thiết bị chuyên ngành gồm các công đoạn chính: Cuốn điếu, đóng bao;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong công đoạn cuốn điếu, đóng bao, đóng tút doanh nghiệp phải sử dụng các máy cuốn, máy đóng bao, đóng tút tự động, trừ trường hợp sản xuất sản phẩm thuốc lá theo phương pháp truyền thống phải thao tác bằng tay;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có các thiết bị kiểm tra để thực hiện đo lường, kiểm tra các chỉ tiêu chất lượng như: Trọng lượng điếu, chu vi điếu, độ giảm áp điếu thuốc. Đối với các chỉ tiêu lý, hóa khác và chỉ tiêu vệ sinh thuốc lá, doanh nghiệp có thể tự kiểm tra hoặc thông qua các đơn vị dịch vụ có chức năng để kiểm tra. Kết quả kiểm tra phải được lưu giữ có hệ thống, thời gian lưu giữ phải dài hơn thời hạn sử dụng của sản phẩm là 6 tháng để theo dõi;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Toàn bộ máy móc thiết bị để sản xuất sản phẩm thuốc lá phải có nguồn gốc hợp pháp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Điều kiện về tiêu chuẩn, quy chuẩn kỹ thuật đối với sản phẩm thuốc lá. Doanh nghiệp phải đáp ứng các yêu cầu về tiêu chuẩn cơ sở, quy chuẩn kỹ thuật quốc gia về sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Điều kiện về sở hữu nhãn hiệu hàng hóa. Doanh nghiệp phải có quyền sở hữu hoặc sử dụng hợp pháp nhãn hiệu hàng hóa đã được đăng ký và được bảo hộ tại Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Điều kiện về môi trường và phòng, chống cháy nổ. Có đầy đủ các phương tiện, thiết bị phòng cháy, chữa cháy và đảm bảo an toàn vệ sinh môi trường theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Hồ sơ đề nghị cấp Giấy phép sản xuất sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đơn đề nghị cấp Giấy phép sản xuất sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh phải có đăng ký ngành nghề sản xuất sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Báo cáo kết quả hoạt động sản xuất, kinh doanh của doanh nghiệp trong 03 năm gần nhất (nếu có) và dự kiến sản lượng sản xuất kinh doanh của 05 năm tiếp theo (trong đó nêu rõ chỉ tiêu sản lượng sản xuất đối với từng nhóm sản phẩm thuốc lá quy đổi ra bao 20 điếu).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bảng kê danh mục máy móc, thiết bị cuốn điếu thuốc lá và đóng bao thuốc lá (năng lực từng công đoạn quy đổi ra bao 20 điếu tính theo 03 ca/ngày).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hồ sơ chứng minh nguồn gốc hợp pháp của máy móc thiết bị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Hợp đồng gia công chế biến sợi, hợp đồng dịch vụ kiểm tra chất lượng (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Bảng kê diện tích, sơ đồ kho tàng, nhà xưởng, văn phòng làm việc và các khu phụ trợ khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Bản sao các giấy tờ xác nhận quyền sở hữu hoặc sử dụng hợp pháp nhãn hiệu hàng hóa cho các sản phẩm thuốc lá của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Bản sao công bố phù hợp với quy chuẩn kỹ thuật quốc gia về thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Bản sao hồ sơ chứng minh đầu tư phát triển vùng nguyên liệu thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Thẩm quyền, trình tự cấp Giấy phép sản xuất sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thẩm quyền cấp Giấy phép sản xuất sản phẩm thuốc lá. Bộ Công Thương là cơ quan cấp, cấp lại, sửa đổi, bổ sung Giấy phép sản xuất sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự cấp Giấy phép sản xuất sản phẩm thuốc lá.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp sản xuất thuốc lá nộp 01 bộ hồ sơ đề nghị cấp Giấy phép sản xuất sản phẩm thuốc lá cho Bộ Công Thương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Công Thương xem xét và cấp Giấy phép sản xuất sản phẩm thuốc lá. Trường hợp doanh nghiệp không đáp ứng được điều kiện theo quy định, Bộ Công Thương sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ của doanh nghiệp, Bộ Công Thương có văn bản yêu cầu doanh nghiệp bổ sung."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lập và lưu giữ Giấy phép sản xuất sản phẩm thuốc lá. Giấy phép sản xuất sản phẩm thuốc lá được lập thành 04 bản: 02 bản lưu tại Bộ Công Thương, 01 bản gửi doanh nghiệp được cấp, 01 bản gửi Sở Công Thương nơi doanh nghiệp đóng trụ sở chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Giấy phép sản xuất sản phẩm thuốc lá có thời hạn 05 năm. Trước thời điểm hết hiệu lực của giấy phép 30 ngày, doanh nghiệp sản xuất thuốc lá nộp hồ sơ xin cấp lại Giấy phép sản xuất sản phẩm thuốc lá trong trường hợp tiếp tục sản xuất. Hồ sơ, trình tự thủ tục cấp lại được quy định tại Điều 39 của Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Sản lượng sản xuất và nhập khẩu sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng sản lượng sản xuất và nhập khẩu thuốc lá hàng năm của toàn ngành để tiêu thụ trong nước không được vượt quá tổng sản lượng sản xuất của toàn ngành thuốc lá đã được Bộ Công Thương công bố trước ngày ban hành Luật phòng, chống tác hại của thuốc lá .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sản lượng sản phẩm thuốc lá sản xuất và nhập khẩu hàng năm của doanh nghiệp để tiêu thụ trong nước không được vượt quá sản lượng ghi trong Giấy phép sản xuất sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trên cơ sở kết quả kinh doanh của doanh nghiệp sản xuất thuốc lá trong 03 năm và dự kiến kế hoạch sản xuất kinh doanh của 05 năm tiếp theo, Bộ Công Thương xem xét và công bố sản lượng được phép sản xuất và nhập khẩu của từng doanh nghiệp sản xuất thuốc lá trong giai đoạn 05 năm tiếp theo trong Giấy phép sản xuất sản phẩm thuốc lá của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Đến năm 2017 sản lượng các sản phẩm thuốc lá do doanh nghiệp sản xuất được quy đổi ra thuốc lá điếu (loại 20 điếu/bao) phải đạt từ 100 triệu bao/năm (gồm sản lượng sản xuất tiêu thụ trong nước và xuất khẩu) trở lên, trường hợp không đạt được sản lượng trên sẽ phải chuyển đổi ngành nghề sản xuất, kinh doanh hoặc sáp nhập với doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá khác.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Năng lực sản xuất và điều chuyển năng lực sản xuất của doanh nghiệp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Năng lực sản xuất sản phẩm thuốc lá của từng doanh nghiệp và toàn ngành thuốc lá là năng lực máy móc thiết bị có tại thời điểm ban hành Nghị quyết số 12/2000/NQ-CP ngày 14 tháng 8 năm 2000 của Chính phủ do Bộ Công nghiệp xác định và công bố trước ngày ban hành Luật phòng, chống tác hại của thuốc lá .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Năng lực sản xuất của từng doanh nghiệp là cơ sở để quản lý đầu tư máy móc thiết bị chuyên ngành thuốc lá và sản lượng sản xuất và nhập khẩu sản phẩm thuốc lá của doanh nghiệp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp sản xuất sản phẩm thuốc lá có thị trường tiêu thụ sản phẩm thuốc lá và được Bộ Công Thương cấp phép sản xuất sản phấm thuốc lá nhưng không đủ năng lực sản xuất được phép:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Gia công sản xuất sản phẩm thuốc lá tại các doanh nghiệp còn dư năng lực sản xuất sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thuê, mượn, chuyển nhượng máy móc thiết bị chuyên ngành thuốc lá của các doanh nghiệp sản xuất còn dư năng lực sản xuất sản phẩm thuốc lá sau khi được Bộ Công Thương đồng ý bằng văn bản."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Điều chuyển năng lực sản xuất sản phẩm thuốc lá của doanh nghiệp. Bộ Công Thương sẽ điều chuyển năng lực sản xuất sản phẩm thuốc lá từ các doanh nghiệp còn dư năng lực sản xuất nhưng chưa khai thác hết năng lực và không có phương án khả thi để khai thác năng lực sản xuất sang các doanh nghiệp được cấp phép sản xuất, có thị trường phát triển nhưng đã hết năng lực sản xuất theo nguyên tắc sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có sự thỏa thuận thống nhất giữa các doanh nghiệp sản xuất sản phẩm thuốc lá trên cơ sở đảm bảo quyền lợi của doanh nghiệp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trường hợp các doanh nghiệp không thỏa thuận được theo quy định tại Khoản 3, Điều này. Việc điều chuyển nhượng máy móc thiết bị giữa các doanh nghiệp sản xuất sản phẩm thuốc lá sẽ được thực hiện theo quy định của pháp luật."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Nhãn hiệu sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sản phẩm thuốc lá chỉ được tiêu thụ tại Việt Nam khi đã được bảo hộ quyền sở hữu trí tuệ hợp pháp tại Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp sản xuất sản phẩm thuốc lá mang nhãn hiệu nước ngoài để tiêu thụ tại Việt Nam phải được Thủ tướng Chính phủ cho phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chỉ các doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá mới được phép in nhãn hoặc hợp đồng với cơ sở in để in nhãn bao bì thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Quyền và nghĩa vụ của doanh nghiệp sản xuất sản phẩm thuốc lá",
+                    "noi_dung_chung": "Ngoài các quyền và nghĩa vụ theo quy định của pháp luật, doanh nghiệp sản xuất sản phẩm thuốc lá còn có các quyền và nghĩa vụ sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Được tổ chức hệ thống phân phối, bán buôn sản phẩm thuốc lá do doanh nghiệp sản xuất và được bán lẻ sản phẩm thuốc lá trực tiếp tại hệ thống cửa hàng trực thuộc của doanh nghiệp theo đúng quy định mà không phải đề nghị cấp Giấy phép bán lẻ sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Được phân phối sản phẩm thuốc lá do doanh nghiệp sản xuất ra (trực tiếp hoặc thông qua chi nhánh hoặc công ty trực thuộc) để bán cho các doanh nghiệp có Giấy phép phân phối, bán buôn sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phải công bố tiêu chuẩn cơ sở về sản phẩm và bảo đảm sản phẩm thuốc lá của doanh nghiệp phù hợp với quy chuẩn kỹ thuật quốc gia về thuốc lá. Chương 4. ĐẦU TƯ SẢN XUẤT THUỐC LÁ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Điều kiện, trình tự thủ tục đầu tư đổi mới thiết bị, công nghệ; đầu tư sản xuất thuốc lá xuất khẩu, gia công thuốc lá xuất khẩu; di chuyển địa điểm theo quy hoạch; đầu tư chế biến nguyên liệu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Các dự án đầu tư đổi mới thiết bị, công nghệ; đầu tư sản xuất sản phẩm thuốc lá xuất khẩu, gia công thuốc lá xuất khẩu phải đảm bảo các nguyên tắc sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đầu tư sản xuất sản phẩm thuốc lá phải phù hợp với Quy hoạch sản xuất sản phẩm thuốc lá và vùng nguyên liệu thuốc lá và kế hoạch sản xuất kinh doanh của doanh nghiệp;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Không đầu tư xây mới, đầu tư mở rộng quy mô, nâng cao công suất của các cơ sở sản xuất sản phẩm thuốc lá để tiêu thụ trong nước vượt quá tổng năng lực sản xuất của toàn ngành thuốc lá được Bộ Công Thương xác định theo quy định tại Điều 21 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Việc đầu tư máy móc thiết bị, công nghệ sản xuất thuốc lá phải phù hợp với quy mô và kế hoạch sản xuất của doanh nghiệp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự, thủ tục đầu tư đổi mới thiết bị, công nghệ; đầu tư sản xuất thuốc lá xuất khẩu, gia công thuốc lá xuất khẩu; di chuyển địa điểm theo quy hoạch:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá gửi văn bản và dự án đầu tư đề nghị chấp thuận chủ trương đầu tư đến Bộ Công Thương. Nội dung văn bản đề nghị bao gồm các nội dung: Tên dự án, địa điểm, thông số kỹ thuật chủ yếu có liên quan, quy mô, sản lượng sản xuất, hiệu quả của dự án, phương án xử lý các máy móc thiết bị được thay thế (nếu đầu tư thay thế);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ của doanh nghiệp, Bộ Công Thương có văn bản trả lời. Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ của doanh nghiệp, Bộ Công Thương sẽ có văn bản yêu cầu doanh nghiệp bổ sung. Trường hợp doanh nghiệp không đáp ứng được điều kiện theo quy định, Bộ Công Thương sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sau khi có văn bản chấp thuận của Bộ Công Thương, doanh nghiệp triển khai thực hiện đầu tư theo trình tự và thủ tục về đầu tư và xây dựng cơ bản theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Doanh nghiệp phải báo cáo Bộ Công Thương kết quả xử lý máy móc thiết bị chuyên ngành thuốc lá đã thay thế trong quá trình đầu tư."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Đầu tư nước ngoài sản xuất sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều kiện đầu tư, hợp tác với nước ngoài để sản xuất thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đầu tư sản xuất sản phẩm thuốc lá phải phù hợp với Quy hoạch sản xuất sản phẩm thuốc lá và vùng nguyên liệu thuốc lá được phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đầu tư trên cơ sở liên doanh, hợp tác với doanh nghiệp đã có Giấy phép sản xuất sản phẩm thuốc lá để đổi mới công nghệ, thiết bị, chuyển đổi cơ cấu sản phẩm theo hướng nâng cao chất lượng và giá trị sản phẩm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nhà nước chiếm tỷ lệ chi phối trong vốn điều lệ của doanh nghiệp (trong trường hợp đầu tư theo hình thức liên doanh);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đáp ứng các điều kiện quy định tại Điều 17 của Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Được Thủ tướng Chính phủ cho phép trên cơ sở đề nghị của Bộ Công Thương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự, thủ tục đầu tư nước ngoài theo hình thức liên doanh sản xuất sản phẩm thuốc lá: Văn bản đề nghị bao gồm các nội dung chính: Tên dự án, địa điểm, thông số kỹ thuật chủ yếu có liên quan, phạm vi và mục tiêu hoạt động, quy mô, sản lượng sản xuất từng loại sản phẩm thuốc lá, hiệu quả của dự án, phương án đầu tư máy móc thiết bị và xử lý các máy móc thiết bị được thay thế.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các bên liên doanh gửi hồ sơ dự án thành lập liên doanh, hợp đồng liên doanh kèm theo văn bản đề nghị về Bộ Công Thương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời gian 30 ngày làm việc kể từ ngày nhận đủ hồ sơ và văn bản đề nghị của doanh nghiệp, Bộ Công Thương xem xét và trình Thủ tướng Chính phủ xem xét, quyết định. Trường hợp từ chối phải có văn bản trả lời doanh nghiệp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sau khi có văn bản chấp thuận của Thủ tướng Chính phủ, các bên liên doanh mới được triển khai đăng ký thành lập liên doanh theo quy định của pháp luật hiện hành về đầu tư."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trình tự, thủ tục đầu tư nước ngoài theo hình thức hợp đồng chuyển nhượng quyền sở hữu công nghiệp, chuyển quyền sử dụng đối tượng sở hữu công nghiệp sản xuất sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các bên gửi hồ sơ hợp đồng chuyển nhượng quyền sở hữu công nghiệp hoặc hợp đồng chuyển quyền sử dụng đối tượng sở hữu công nghiệp kèm theo văn bản đề nghị về Bộ Công Thương. Văn bản đề nghị bao gồm các nội dung chính của hợp đồng chuyển nhượng quyền sở hữu công nghiệp hoặc hợp đồng chuyển quyền sử dụng đối tượng sở hữu công nghiệp; quy mô, sản lượng sản xuất từng loại sản phẩm thuốc lá, hiệu quả của dự án, phương án đầu tư máy móc thiết bị và xử lý các máy móc thiết bị được thay thế (nếu có);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời gian 30 ngày làm việc kể từ ngày nhận đủ hồ sơ và văn bản đề nghị của doanh nghiệp, Bộ Công Thương xem xét trình Thủ tướng Chính phủ xem xét, quyết định. Trường hợp từ chối phải có văn bản trả lời doanh nghiệp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sau khi có văn bản chấp thuận của Thủ tướng Chính phủ, các bên mới được triển khai thực hiện hợp đồng chuyển nhượng quyền sở hữu công nghiệp hoặc hợp đồng chuyển quyền sử dụng đối tượng sở hữu công nghiệp."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp phải báo cáo Bộ Công Thương kết quả xử lý máy móc thiết bị chuyên ngành thuốc lá không còn sử dụng hoặc thanh lý khi đầu tư chiều sâu và chịu hoàn toàn trách nhiệm với việc xử lý này. Chương 5. MUA BÁN SẢN PHẨM THUỐC LÁ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Điều kiện cấp Giấy phép mua bán sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Điều kiện cấp Giấy phép phân phối sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Là doanh nghiệp được thành lập theo quy định của pháp luật và có đăng ký ngành nghề kinh doanh bán buôn sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có địa điểm kinh doanh cố định, địa chỉ rõ ràng, đảm bảo các yêu cầu về kỹ thuật, trang thiết bị theo quy định;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có hệ thống phân phối sản phẩm thuốc lá trên địa bàn từ 02 tỉnh trở lên (tại địa bàn mỗi tỉnh phải có tối thiểu từ 02 thương nhân bán buôn sản phẩm thuốc lá trở lên);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có văn bản giới thiệu, hợp đồng mua bán của Nhà cung cấp sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Có kho hàng (hoặc hệ thống kho hàng) thuộc sở hữu hoặc đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn; hoặc có hợp đồng thuê kho hàng phù hợp với quy mô kinh doanh của doanh nghiệp (tối thiểu tổng diện tích phải từ 100 m2 trở lên) đáp ứng yêu cầu bảo quản được chất lượng của sản phẩm thuốc lá trong thời gian lưu kho;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Có phương tiện vận tải thuộc sở hữu hoặc đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn; hoặc có hợp đồng thuê phương tiện vận tải phù hợp với quy mô kinh doanh của doanh nghiệp (tối thiểu phải có 02 xe có tải trọng từ 500 kg trở lên); đáp ứng yêu cầu bảo quản được chất lượng của sản phẩm thuốc lá trong thời gian vận chuyển;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Có năng lực tài chính bảo đảm cho toàn bộ hệ thống phân phối của doanh nghiệp hoạt động bình thường (có Giấy xác nhận của ngân hàng tối thiểu 02 tỷ Việt Nam đồng trở lên);"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Có bản cam kết của doanh nghiệp về bảo đảm tuân thủ đầy đủ các yêu cầu điều kiện về phòng cháy, chữa cháy, bảo vệ môi trường theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Phù hợp với Quy hoạch hệ thống mạng lưới mua bán sản phẩm thuốc lá được cấp có thẩm quyền phê duyệt."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Điều kiện cấp Giấy phép bán buôn sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Là doanh nghiệp được thành lập theo quy định của pháp luật và có đăng ký ngành nghề kinh doanh bán buôn sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có địa điểm kinh doanh cố định, địa chỉ rõ ràng, đảm bảo các yêu cầu về kỹ thuật, trang thiết bị theo quy định;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có hệ thống bán buôn sản phẩm thuốc lá trên địa bàn tỉnh nơi thương nhân đặt trụ sở chính (tối thiểu phải từ 02 thương nhân bán lẻ sản phẩm thuốc lá trở lên);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có văn bản giới thiệu, hợp đồng mua bán của Nhà cung cấp sản phẩm thuốc lá hoặc của các thương nhân phân phối sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Có kho hàng (hoặc hệ thống kho hàng) thuộc sở hữu hoặc đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn; hoặc có hợp đồng thuê kho hàng phù hợp với quy mô kinh doanh của doanh nghiệp (tối thiểu tổng diện tích phải từ 50 m2 trở lên) đáp ứng yêu cầu bảo quản được chất lượng của sản phẩm thuốc lá trong thời gian lưu kho;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Có phương tiện vận tải thuộc sở hữu hoặc đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn; hoặc có hợp đồng thuê phương tiện vận tải phù hợp với quy mô kinh doanh của doanh nghiệp (tối thiểu phải có 01 xe có tải trọng từ 500 kg trở lên); đáp ứng yêu cầu bảo quản được chất lượng của sản phẩm thuốc lá trong thời gian vận chuyển;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Có năng lực tài chính bảo đảm cho toàn bộ hệ thống bán buôn của doanh nghiệp hoạt động bình thường (có Giấy xác nhận của ngân hàng tối thiểu 01 tỷ Việt Nam đồng trở lên);"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Có bản cam kết của doanh nghiệp về bảo đảm tuân thủ đầy đủ các yêu cầu điều kiện về phòng cháy, chữa cháy, bảo vệ môi trường theo quy định của pháp luật;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Phù hợp với Quy hoạch hệ thống mạng lưới mua bán sản phẩm thuốc lá được cấp có thẩm quyền phê duyệt."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Điều kiện cấp Giấy phép bán lẻ sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thương nhân có đăng ký ngành nghề kinh doanh bán lẻ sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Có địa điểm kinh doanh cố định, địa chỉ rõ ràng, đảm bảo các yêu cầu về kỹ thuật, trang thiết bị theo quy định;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Diện tích điểm kinh doanh dành cho thuốc lá tối thiểu phải có từ 03 m2 trở lên;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có văn bản giới thiệu, hợp đồng mua bán của các doanh nghiệp bán buôn sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Phù hợp với Quy hoạch hệ thống mạng lưới mua bán sản phẩm thuốc lá được cấp có thẩm quyền phê duyệt."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Hồ sơ đề nghị cấp Giấy phép mua bán thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hồ sơ đề nghị cấp Giấy phép phân phối sản phẩm thuốc lá: - Địa chỉ, diện tích và mô tả khu vực kinh doanh thuốc lá; - Bản sao tài liệu chứng minh quyền sử dụng địa điểm kinh doanh (là sở hữu hoặc đồng sở hữu hoặc thuê sử dụng với thời gian tối thiểu là 01 năm); - Bảng kê thiết bị kiểm tra và điều chỉnh nhiệt độ, độ ẩm trong khu vực kinh doanh thuốc lá. - Báo cáo kết quả hoạt động kinh doanh 03 năm trước đó, kèm theo bảng kê chi tiết danh sách và bản sao hợp lệ các hợp đồng mua bán với mỗi Nhà cung cấp sản phẩm thuốc lá hoặc doanh nghiệp phân phối sản phẩm thuốc lá khác, các khoản thuế đã nộp; - Hình thức tổ chức bán hàng, phương thức quản lý hệ thống phân phối. - Tài liệu chứng minh quyền sử dụng kho (là sở hữu, đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn của doanh nghiệp hoặc thuê sử dụng với thời gian tối thiểu là 01 năm); - Bản cam kết của doanh nghiệp về bảo đảm tuân thủ đầy đủ các yêu cầu điều kiện về phòng cháy, chữa cháy, bảo vệ môi trường theo quy định của pháp luật đối với kho hàng.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đơn đề nghị cấp Giấy phép phân phối sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bản sao các văn bản giới thiệu, hợp đồng mua bán của Nhà cung cấp sản phẩm thuốc lá, trong đó ghi rõ địa bàn dự kiến kinh doanh;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hồ sơ về địa điểm kinh doanh, gồm có:"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Báo cáo kết quả kinh doanh của doanh nghiệp (trường hợp xin cấp lại giấy phép):"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Bảng kê danh sách thương nhân, bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế, Giấy phép kinh doanh sản phẩm thuốc lá (nếu đã kinh doanh) của các thương nhân đã hoặc sẽ thuộc hệ thống phân phối sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Hồ sơ về phương tiện vận tải, bao gồm: Bản sao giấy tờ chứng minh quyền sử dụng phương tiện vận tải (là sở hữu hoặc đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn; hoặc có hợp đồng thuê phương tiện vận tải phù hợp với quy mô kinh doanh của doanh nghiệp với thời gian thuê tối thiểu là 01 năm);"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Hồ sơ về năng lực tài chính: Có năng lực tài chính bảo đảm cho toàn bộ hệ thống phân phối của doanh nghiệp hoạt động bình thường (có Giấy xác nhận của ngân hàng);"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Hồ sơ về kho hàng (hoặc khu vực chứa hàng), bao gồm:"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ đề nghị cấp Giấy phép bán buôn sản phẩm thuốc lá: - Địa chỉ, diện tích và mô tả khu vực kinh doanh thuốc lá; - Bản sao tài liệu chứng minh quyền sử dụng địa điểm kinh doanh (là sở hữu hoặc đồng sở hữu hoặc thuê sử dụng với thời gian tối thiểu là 01 năm); - Bảng kê thiết bị kiểm tra và điều chỉnh nhiệt độ, độ ẩm trong khu vực kinh doanh thuốc lá. - Báo cáo kết quả hoạt động kinh doanh 03 năm trước đó, kèm theo bảng kê chi tiết danh sách và bản sao hợp lệ các hợp đồng mua bán với mỗi Nhà cung cấp sản phẩm thuốc lá hoặc doanh nghiệp phân phối sản phẩm thuốc lá hoặc doanh nghiệp bán buôn sản phẩm thuốc lá khác, các khoản thuế đã nộp; - Hình thức tổ chức bán hàng, phương thức quản lý hệ thống phân phối. - Tài liệu chứng minh quyền sử dụng kho (là sở hữu, đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn của doanh nghiệp hoặc thuê sử dụng với thời gian tối thiểu là 01 năm); - Bản tự cam kết của doanh nghiệp về bảo đảm tuân thủ đầy đủ các yêu cầu điều kiện về phòng cháy, chữa cháy, bảo vệ môi trường theo quy định của pháp luật đối với kho hàng.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đơn đề nghị cấp Giấy phép bán buôn sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bản sao các văn bản giới thiệu, hợp đồng mua bán của Nhà cung cấp sản phẩm thuốc lá hoặc của các doanh nghiệp phân phối sản phẩm thuốc lá, trong đó ghi rõ địa bàn dự kiến kinh doanh."
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hồ sơ về địa điểm kinh doanh, gồm có:"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Báo cáo kết quả kinh doanh của doanh nghiệp:"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Bảng kê danh sách thương nhân, bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế, Giấy phép kinh doanh sản phẩm thuốc lá (nếu đã kinh doanh) của các thương nhân đã hoặc sẽ thuộc hệ thống phân phối sản phẩm thuốc lá trên địa bàn;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Hồ sơ về phương tiện vận tải, bao gồm: Bản sao giấy tờ chứng minh quyền sử dụng phương tiện vận tải (là sở hữu hoặc đồng sở hữu theo hợp đồng liên doanh, liên kết góp vốn; hoặc có hợp đồng thuê phương tiện vận tải phù hợp với quy mô kinh doanh của doanh nghiệp với thời gian thuê tối thiểu là 01 năm);"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Hồ sơ về năng lực tài chính: Có năng lực tài chính bảo đảm cho toàn bộ hệ thống phân phối của doanh nghiệp hoạt động bình thường (có Giấy xác nhận của ngân hàng);"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Hồ sơ về kho hàng (hoặc khu vực chứa hàng), bao gồm:"
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hồ sơ đề nghị cấp Giấy phép bán lẻ sản phẩm thuốc lá: - Địa chỉ, diện tích và mô tả khu vực kinh doanh thuốc lá; - Bản sao tài liệu chứng minh quyền sử dụng địa điểm kinh doanh (là sở hữu hoặc đồng sở hữu hoặc thuê sử dụng với thời gian tối thiểu là 01 năm); - Bảng kê thiết bị kiểm tra và điều chỉnh nhiệt độ, độ ẩm trong khu vực kinh doanh thuốc lá.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đơn đề nghị cấp Giấy phép bán lẻ sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Bản sao các văn bản giới thiệu, hợp đồng mua bán của các doanh nghiệp bán buôn sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Hồ sơ về địa điểm kinh doanh, gồm có:"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Thẩm quyền, trình tự thủ tục cấp Giấy phép mua bán sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thẩm quyền cấp Giấy phép mua bán sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Bộ Công Thương cấp, cấp lại, sửa đổi, bổ sung Giấy phép phân phối sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Sở Công Thương cấp, cấp lại, sửa đổi, bổ sung Giấy phép bán buôn sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phòng Công Thương hoặc Phòng Kinh tế (cơ quan chuyên môn thuộc Ủy ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh - sau đây gọi chung là Phòng Công Thương) cấp, cấp lại, sửa đổi, bổ sung Giấy phép bán lẻ sản phẩm thuốc lá."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trình tự thủ tục cấp Giấp phép mua bán sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thương nhân mua bán sản phẩm thuốc lá đề nghị cấp Giấy phép mua bán sản phẩm thuốc lá lập 02 bộ hồ sơ theo quy định tại Điều 27 của Nghị định này , 01 bộ gửi cơ quan có thẩm quyền cấp phép, thương nhân lưu 01 bộ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan cấp phép xem xét và cấp giấy phép mua bán sản phẩm thuốc lá. Trường hợp thương nhân không đáp ứng được điều kiện theo quy định, cơ quan có thẩm quyền cấp phép sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ của thương nhân, cơ quan cấp phép có văn bản yêu cầu thương nhân bổ sung hồ sơ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Lập và lưu giữ Giấy phép mua bán sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giấy phép phân phối sản phẩm thuốc lá được làm thành nhiều bản: 02 bản lưu tại cơ quan cấp phép; 01 bản gửi doanh nghiệp được cấp giấy phép; 01 bản gửi Cục Quản lý thị trường; gửi mỗi Sở Công Thương có tên trong giấy phép (địa bàn kinh doanh) và nơi doanh nghiệp đặt trụ sở chính 01 bản; gửi mỗi Nhà cung cấp sản phẩm thuốc lá hoặc doanh nghiệp phân phối sản phẩm thuốc lá khác có tên trong giấy phép (bán sản phẩm cho doanh nghiệp) 01 bản;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Giấy phép bán buôn sản phẩm thuốc lá được làm thành nhiều bản: 02 bản lưu tại cơ quan cấp phép; 01 bản gửi doanh nghiệp được cấp giấy phép; 01 bản gửi Bộ Công Thương; 01 bản gửi Chi cục Quản lý thị trường; gửi mỗi Nhà cung cấp sản phẩm thuốc lá hoặc doanh nghiệp phân phối sản phẩm thuốc lá có tên trong giấy phép (bán sản phẩm cho doanh nghiệp) 01 bản;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Giấy phép bán lẻ (hoặc đại lý bán lẻ) sản phẩm thuốc lá được làm thành nhiều bản: 02 bản lưu tại cơ quan cấp phép; 01 bản gửi thương nhân được cấp giấy phép; 01 bản gửi Sở Công Thương; 01 bản gửi Chi cục Quản lý thị trường; gửi mỗi tổ chức, cá nhân sản xuất thuốc lá hoặc doanh nghiệp bán buôn sản phẩm thuốc lá khác có tên trong giấy phép (bán sản phẩm cho thương nhân) 01 bản."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Giấy phép phân phối sản phẩm thuốc lá, Giấp phép bán buôn sản phẩm thuốc lá, Giấy phép bán lẻ sản phẩm thuốc lá có thời hạn 05 năm. Trước thời điểm hết hiệu lực của giấy phép 30 ngày, thương nhân mua bán sản phẩm thuốc lá nộp hồ sơ xin cấp lại giấy phép trong trường hợp tiếp tục kinh doanh. Hồ sơ, trình tự thủ tục cấp lại được quy định tại Điều 39 của Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Quyền và nghĩa vụ của thương nhân được cấp Giấy phép mua bán sản phẩm thuốc lá",
+                    "noi_dung_chung": "Ngoài các quyền và nghĩa vụ theo quy định của pháp luật, thương nhân được cấp Giấy phép mua bán sản phẩm thuốc lá còn có các quyền và nghĩa vụ sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Mua sản phẩm thuốc lá có nguồn gốc hợp pháp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổ chức lưu thông, tiêu thụ sản phẩm thuốc lá trên thị trường theo Giấy phép mua bán sản phẩm thuốc lá được cấp.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thương nhân phân phối, thương nhân bán buôn sản phẩm thuốc lá chỉ được bán sản phẩm thuốc lá cho các thương nhân có Giấy phép mua bán sản phẩm thuốc lá thuộc hệ thống phân phối của mình trong phạm vi địa bàn được cấp phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thương nhân phân phối sản phẩm thuốc lá được mua sản phẩm thuốc lá từ các Nhà cung cấp sản phẩm thuốc lá hoặc thương nhân phân phối sản phẩm thuốc lá khác để bán cho các thương nhân bán buôn sản phẩm thuốc lá hoặc trực tiếp tổ chức bán lẻ sản phẩm thuốc lá tại các điểm bán lẻ trực thuộc của thương nhân nơi thương nhân đặt trụ sở chính và tại các điểm bán lẻ trực thuộc của thương nhân trên phạm vi địa bàn được cấp phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thương nhân bán buôn sản phẩm thuốc lá được mua sản phẩm thuốc lá từ Nhà cung cấp sản phẩm thuốc lá hoặc của thương nhân phân phối sản phẩm thuốc lá để bán cho các thương nhân bán lẻ sản phẩm thuốc lá hoặc trực tiếp tổ chức bán lẻ sản phẩm thuốc lá tại các điểm bán lẻ trực thuộc của thương nhân trên phạm vi địa bàn tỉnh.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Các địa điểm bán lẻ của thương nhân phân phối, thương nhân bán buôn phải phù hợp với Quy hoạch hệ thống mạng lưới mua bán sản phẩm thuốc lá được cấp có thẩm quyền phê duyệt và có diện tích như đối với điểm bán lẻ của thương nhân bán lẻ sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Thương nhân bán lẻ sản phẩm thuốc lá được mua sản phẩm thuốc lá từ thương nhân bán buôn sản phẩm thuốc lá để bán tại các địa điểm được cấp phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Thương nhân mua bán sản phẩm thuốc lá phải niêm yết bản sao hợp lệ Giấy phép mua bán sản phẩm thuốc lá đã được cơ quan có thẩm quyền cấp tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của thương nhân.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Mỗi thương nhân chỉ được cấp một loại Giấy phép mua bán sản phẩm thuốc lá. Thương nhân được cấp Giấy phép mua bán sản phẩm thuốc lá phải nộp phí và lệ phí theo quy định của Bộ Tài chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Báo cáo định kỳ tình hình kinh doanh theo hướng dẫn của cơ quan quản lý nhà nước có thẩm quyền đã cấp Giấy phép mua bán sản phẩm thuốc lá cho thương nhân theo đúng quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Xuất khẩu, nhập khẩu sản phẩm thuốc lá nhằm mục đích thương mại",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc nhập khẩu sản phẩm thuốc lá nhằm mục đích thương mại phải tuân thủ các nguyên tắc sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thực hiện thương mại nhà nước trong nhập khẩu sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Sản phẩm thuốc lá nhập khẩu phải được dán tem thuốc lá nhập khẩu do Bộ Tài chính phát hành;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sản phẩm thuốc lá nhập khẩu phải tuân thủ các yêu cầu quản lý được quy định tại Nghị định này và quy định của pháp luật có liên quan như đối với sản phẩm thuốc lá sản xuất trong nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bộ Công Thương chỉ định doanh nghiệp thực hiện thương mại Nhà nước nhập khẩu đối với sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Xuất khẩu sản phẩm thuốc lá phải tuân thủ theo nguyên tắc sau: Trường hợp thương nhân nhận ủy thác xuất khẩu sản phẩm thuốc lá có nguồn gốc hợp pháp từ thương nhân có Giấy phép sản xuất sản phẩm thuốc lá hoặc Giấy phép phân phối sản phẩm thuốc lá hoặc Giấy phép bán buôn sản phẩm thuốc lá thì thương nhân nhận ủy thác xuất khẩu phải có một trong ba loại giấy phép trên.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thương nhân được cấp Giấy phép sản xuất sản phẩm thuốc lá hoặc Giấy phép phân phối sản phẩm thuốc lá hoặc Giấy phép bán buôn sản phẩm thuốc lá được xuất khẩu sản phẩm thuốc lá có nguồn gốc hợp pháp theo quy định của Nghị định này và các quy định của pháp luật khác có liên quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với thương nhân có Giấy phép sản xuất sản phẩm thuốc lá, số lượng sản phẩm thuốc lá xuất khẩu không bị trừ vào hạn mức sản xuất sản phẩm thuốc lá để tiêu thụ trong nước."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Việc tạm nhập, tái xuất, tạm xuất, tái nhập sản phẩm thuốc lá, nguyên liệu thuốc lá thực hiện theo quy định hiện hành và hướng dẫn của Bộ Công Thương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ Công Thương hướng dẫn cụ thể cơ chế quản lý thương mại nhà nước đối với sản phẩm thuốc lá nhập khẩu.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Nhập khẩu thuốc lá nhằm mục đích phi thương mại",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cá nhân nhập cảnh vào lãnh thổ Việt Nam mang theo thuốc lá không vượt quá mức tiêu chuẩn hành lý cho phép theo quy định của Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế tại Việt Nam, nếu có nhu cầu được phép nhập khẩu sản phẩm thuốc lá để sử dụng phải theo đúng các quy định của pháp luật Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá nhập khẩu thuốc lá vào Việt Nam để nghiên cứu sản xuất thử phải được phép của Bộ Công Thương. Số lượng thuốc lá nhập khẩu để nghiên cứu sản xuất thử mỗi lần không quá 500 bao (quy về 20 điếu/bao) đối với thuốc lá điếu, 50 điếu đối với xì gà.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Phòng, chống buôn lậu, gian lận thương mại",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thuốc lá giả, thuốc lá không đảm bảo chất lượng theo quy định đều bị tịch thu để tiêu hủy. Thuốc lá lậu bị tịch thu và xử lý theo quy định của Thủ tướng Chính phủ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các doanh nghiệp sản xuất, mua bán thuốc lá có nghĩa vụ phối hợp với các cơ quan nhà nước có thẩm quyền trong phòng, chống buôn lậu sản phẩm thuốc lá, kinh doanh thuốc lá giả. Chương 6. QUẢN LÝ MÁY MÓC THIẾT BỊ, NGUYÊN LIỆU, GIẤY CUỐN ĐIẾU THUỐC LÁ VÀ TEM SẢN PHẨM THUỐC LÁ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Quản lý máy móc thiết bị chuyên ngành sản xuất thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức, cá nhân không có Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá không được sử dụng máy móc, thiết bị chuyên ngành thuốc lá dưới mọi hình thức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc nhượng bán, xuất khẩu, tái xuất, thanh lý máy móc thiết bị chuyên ngành thuốc lá của các doanh nghiệp sản xuất thuốc lá, chế biến nguyên liệu thuốc lá thực hiện theo các quy định pháp luật có liên quan và tuân thủ các quy định sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Doanh nghiệp chỉ được nhượng bán máy móc thiết bị còn giá trị sử dụng cho các doanh nghiệp có Giấy phép sản xuất thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá phù hợp lĩnh vực sản xuất đã được cơ quan nhà nước có thẩm quyền cấp phép hoặc xuất khẩu, tái xuất ra nước ngoài;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Máy móc, thiết bị không còn giá trị sử dụng hoặc thanh lý khi đầu tư chiều sâu phải được tiêu hủy dưới sự giám sát của Tổ giám sát tiêu hủy máy móc, thiết bị do Bộ Công Thương thành lập."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Doanh nghiệp lập hồ sơ nhượng bán, xuất khẩu, tái xuất hoặc thanh lý máy móc, thiết bị cần thanh lý và văn bản đề nghị đến Bộ Công Thương. Trong thời hạn 15 ngày kể từ ngày nhận được văn bản của doanh nghiệp, Bộ Công Thương sẽ có văn bản trả lời doanh nghiệp hoặc thành lập Tổ giám sát tiêu hủy máy móc, thiết bị trong trường hợp thanh lý tiêu hủy thiết bị.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Doanh nghiệp sau khi nhượng bán, xuất khẩu, tái xuất hoặc thanh lý máy móc, thiết bị chuyên ngành thuốc lá phải báo cáo về Bộ Công Thương kết quả thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ Công Thương chủ trì, phối hợp với các cơ quan chức năng có liên quan tổ chức kiểm tra, phát hiện và xử lý đối với máy móc thiết bị thuốc lá không có nguồn gốc hợp pháp hoặc không tiêu hủy theo quy định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Nhập khẩu máy móc, thiết bị chuyên ngành thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Doanh nghiệp nhập khẩu máy móc, thiết bị chuyên ngành thuốc lá phải đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Máy móc, thiết bị chuyên ngành thuốc lá nhập khẩu phải phù hợp với năng lực sản xuất của doanh nghiệp đã được Bộ Công Thương công bố;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Được sự đồng ý chủ trương đầu tư của Bộ Công Thương (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp gửi 01 bộ hồ sơ nhập khẩu máy móc, thiết bị chuyên ngành thuốc lá bao gồm văn bản đồng ý chủ trương đầu tư, dự án và các văn bản phê duyệt liên quan (nếu có) và văn bản đề nghị Bộ Công Thương cho phép nhập khẩu. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đủ hồ sơ của doanh nghiệp, Bộ Công Thương sẽ có văn bản trả lời doanh nghiệp, trường hợp từ chối phải nêu rõ lý do.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Công Thương lập và ban hành Danh mục máy móc, thiết bị chuyên ngành thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 35",
+                    "tieu_de": "Xử lý máy móc, thiết bị sản xuất sản phẩm thuốc lá không có nguồn gốc hợp pháp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Máy móc, thiết bị chuyên ngành thuốc lá bị coi là bất hợp pháp trong các trường hợp:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nhập khẩu trước thời điểm ban hành Chỉ thị 13/1999/CT-TTg ngày 12 tháng 5 năm 1999 của Thủ tướng Chính phủ về việc chấn chỉnh sắp xếp sản xuất, kinh doanh ngành thuốc lá không có các giấy tờ thủ tục nhập khẩu hợp lệ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nhập khẩu sau thời điểm ban hành Chỉ thị 13/1999/CT-TTg nhưng không có các giấy tờ thủ tục nhập khẩu hợp lệ và văn bản đồng ý của Bộ Công Thương (hoặc Bộ Công nghiệp trước đây)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Máy móc, thiết bị chuyên ngành thuốc lá không có nguồn gốc hợp pháp sẽ bị tịch thu và xử lý theo quy định của pháp luật. Việc xử lý máy móc, thiết bị chuyên ngành thuốc lá bị tịch thu được thực hiện theo quy định hiện hành, chỉ được phép bán lại cho các doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá phù hợp với lĩnh vực sản xuất đã được cơ quan nhà nước có thẩm quyền cấp phép hoặc tiêu hủy.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Bộ Công Thương chủ trì, phối hợp với Bộ Công an, Bộ Tài chính tổ chức kiểm tra, phát hiện và xử lý đối với những máy móc, thiết bị sản xuất sản phẩm thuốc lá không có nguồn gốc hợp pháp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 36",
+                    "tieu_de": "Quản lý nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá thuộc diện quản lý chuyên ngành của Bộ Công Thương.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Doanh nghiệp nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá để sản xuất tiêu thụ trong nước, sản xuất xuất khẩu, gia công xuất khẩu phải đáp ứng các điều kiện sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Có Giấy phép sản xuất sản phẩm thuốc lá hoặc Giấy phép chế biến nguyên liệu thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá nhập khẩu phải phù hợp với sản lượng sản xuất của doanh nghiệp (đối với trường hợp sản xuất tiêu thụ trong nước);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Có hợp đồng sản xuất xuất khẩu hoặc gia công xuất khẩu sản phẩm thuốc lá hoặc nguyên liệu thuốc lá (đối với trường hợp sản xuất xuất khẩu hoặc gia công xuất khẩu);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Được sự đồng ý của Bộ Công Thương."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá để sản xuất sản phẩm thuốc lá tiêu thụ trong nước: Báo cáo nêu rõ tình hình sản xuất kinh doanh, sản lượng sản xuất, tình hình nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá của năm báo cáo và dự kiến sản lượng sản xuất, nhu cầu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá của năm sau.",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trước ngày 15 tháng 11 hàng năm, các doanh nghiệp sản xuất sản phẩm thuốc lá, doanh nghiệp chế biến sợi thuốc lá phải gửi đăng ký báo cáo nhu cầu nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá để sản xuất sản phẩm thuốc lá tiêu thụ trong nước và chế biến sợi thuốc lá của năm sau về Bộ Công Thương;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Căn cứ sản lượng sản xuất, báo cáo của doanh nghiệp sản xuất sản phẩm thuốc lá, doanh nghiệp chế biến sợi thuốc lá và khả năng đáp ứng nguyên liệu trong nước, tổng hạn ngạch thuế quan mặt hàng nguyên liệu thuốc lá, Bộ Công Thương sẽ có văn bản thông báo chỉ tiêu nhập khẩu đến các doanh nghiệp và cơ quan có liên quan trước ngày 15 tháng 12 hàng năm;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tổng hạn ngạch thuế quan mặt hàng nguyên liệu thuốc lá và chỉ tiêu phân bổ nhập khẩu cho từng doanh nghiệp sẽ được công khai trên trang tin điện tử của Bộ Công Thương;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá nhập khẩu chỉ được sử dụng để sản xuất sản phẩm thuốc lá, sợi thuốc lá theo đúng mục đích đã đăng ký, không được bán và tiêu thụ trên thị trường."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá để sản xuất sản phẩm thuốc lá xuất khẩu hoặc gia công xuất khẩu sản phẩm thuốc lá:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ các doanh nghiệp có Giấy phép sản xuất sản phẩm thuốc lá mới được phép nhập khẩu nguyên liệu thuốc lá, giấy cuốn thuốc lá điếu để sản xuất sản phẩm thuốc lá xuất khẩu hoặc gia công xuất khẩu sản phẩm thuốc lá;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Doanh nghiệp gửi hợp đồng sản xuất xuất khẩu hoặc hợp đồng gia công xuất khẩu sản phẩm thuốc lá và văn bản đề nghị nhập khẩu nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá đến Bộ Công Thương. Trên cơ sở đề nghị của doanh nghiệp, năng lực sản xuất của doanh nghiệp và hồ sơ liên quan, trong thời hạn 07 ngày kể từ ngày nhận đủ hồ sơ và văn bản của doanh nghiệp, Bộ Công Thương sẽ có văn bản thông báo kế hoạch nhập khẩu đến các doanh nghiệp và cơ quan có liên quan."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhập khẩu nguyên liệu thuốc lá để chế biến nguyên liệu thuốc lá xuất khẩu hoặc gia công chế biến nguyên liệu thuốc lá xuất khẩu:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chỉ các doanh nghiệp có Giấy phép chế biến nguyên liệu thuốc lá mới được phép nhập khẩu nguyên liệu thuốc lá để chế biến nguyên liệu thuốc lá xuất khẩu hoặc gia công chế biến nguyên liệu thuốc lá xuất khẩu;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Doanh nghiệp gửi hợp đồng chế biến nguyên liệu thuốc lá xuất khẩu hoặc hợp đồng gia công xuất khẩu và văn bản đề nghị đến Bộ Công Thương. Trên cơ sở đề nghị của doanh nghiệp, năng lực sản xuất và hồ sơ liên quan, trong thời hạn 07 ngày kể từ ngày nhận đủ hồ sơ và văn bản của doanh nghiệp, Bộ Công Thương sẽ có văn bản chấp thuận hoặc không chấp thuận cho doanh nghiệp thực hiện hợp đồng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Bộ Công Thương ban hành mẫu biểu đăng ký nhu cầu giấy cuốn điếu thuốc lá, sợi thuốc lá và nguyên liệu lá thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 37",
+                    "tieu_de": "Tem sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sản phẩm thuốc lá sản xuất để tiêu thụ trong nước phải dán tem trên bao gói theo quy định hiện hành của Nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sản phẩm thuốc lá sản xuất để xuất khẩu, chào hàng, triển lãm ở nước ngoài không phải dán tem theo quy định của Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Tem sản phẩm thuốc lá sản xuất để tiêu thụ tại Việt Nam chỉ được cấp cho doanh nghiệp có Giấy phép sản xuất thuốc lá. Số lượng tem cấp cho doanh nghiệp hàng năm không được vượt quá sản lượng được phép sản xuất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Sản phẩm thuốc lá nhập khẩu để tiêu thụ tại Việt Nam phải được dán tem nhập khẩu trên bao gói.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Bộ Tài chính in, phát hành và tổ chức cấp tem cho doanh nghiệp theo đúng quy định. Chương 7. CẤP SỬA ĐỔI, BỔ SUNG, CẤP LẠI GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN ĐẦU TƯ TRỒNG CÂY THUỐC LÁ, GIẤY PHÉP MUA BÁN NGUYÊN LIỆU THUỐC LÁ, GIẤY PHÉP CHẾ BIẾN NGUYÊN LIỆU THUỐC LÁ, GIẤY PHÉP SẢN XUẤT SẢN PHẨM THUỐC LÁ, GIẤY PHÉP MUA BÁN SẢN PHẨM THUỐC LÁ",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 38",
+                    "tieu_de": "Cấp sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp có thay đổi các nội dung của Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá, tổ chức, cá nhân phải lập 01 bộ hồ sơ gửi về cơ quan cấp phép.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Văn bản đề nghị sửa đổi, bổ sung;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bản sao Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá đã được cấp;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trình tự, thủ tục cấp bổ sung, sửa đổi giấy phép, giấy chứng nhận:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức, cá nhân kinh doanh thuốc lá nộp 01 bộ hồ sơ xin đề nghị sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá cho cơ quan nhà nước có thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét và cấp sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá. Trường hợp tổ chức, cá nhân không đáp ứng được điều kiện theo quy định cơ quan có thẩm quyền cấp phép sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 39",
+                    "tieu_de": "Cấp lại Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trường hợp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá đã được cấp hết thời hạn hiệu lực. Trước thời hạn hết hiệu lực của giấy phép 30 ngày, tổ chức, cá nhân phải nộp hồ sơ đề nghị cấp lại giấy phép trong trường hợp tiếp tục kinh doanh. Hồ sơ, thẩm quyền, trình tự, thủ tục cấp lại như đối với trường hợp cấp mới.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trường hợp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá bị mất, bị tiêu hủy toàn bộ hoặc một phần, bị rách, nát hoặc bị cháy, tổ chức, cá nhân được cấp phép phải lập, nộp 01 bộ hồ sơ đề nghị cấp lại, bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Văn bản đề nghị cấp lại;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bản sao Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá đã được cấp (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trình tự, thủ tục cấp lại giấy phép: Chương 8. PHÍ, LỆ PHÍ CẤP GIẤY PHÉP VÀ CHẾ ĐỘ BÁO CÁO",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổ chức, cá nhân kinh doanh nộp hồ sơ xin đề nghị cấp lại Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá cho cơ quan nhà nước có thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét và cấp lại Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá. Trường hợp tổ chức, cá nhân không đáp ứng được điều kiện theo quy định cơ quan có thẩm quyền cấp phép sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 40",
+                    "tieu_de": "Phí, lệ phí cấp phép",
+                    "noi_dung_chung": "Tổ chức, cá nhân kinh doanh thuốc lá được cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá phải nộp phí, lệ phí theo quy định của Bộ Tài chính.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 41",
+                    "tieu_de": "Chế độ báo cáo",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sở Công Thương có trách nhiệm báo cáo về Bộ Công Thương cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép bán buôn sản phẩm thuốc lá, Giấy phép bán lẻ sản phẩm thuốc lá và kinh doanh sản phẩm thuốc lá của thương nhân trên địa bàn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phòng Công Thương có trách nhiệm báo cáo về Sở Công Thương tình hình kinh doanh, cấp Giấy phép bán lẻ sản phẩm thuốc lá của thương nhân trên địa bàn.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhà cung cấp sản phẩm thuốc lá phải gửi báo cáo thống kê sản lượng, loại sản phẩm thuốc lá sản xuất, kinh doanh (theo hệ thống phân phối, bán buôn, bán lẻ) của đơn vị mình về cơ quan có thẩm quyền đã cấp giấy phép và về Sở Công Thương nơi thương nhân đặt trụ sở chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thương nhân kinh doanh phân phối, bán buôn, bán lẻ sản phẩm thuốc lá báo cáo tình hình kinh doanh về cơ quan có thẩm quyền đã cấp giấy phép và về cơ quan Công Thương nơi thương nhân đặt trụ sở chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Thương nhân đầu tư trồng nguyên liệu thuốc lá, mua bán nguyên liệu thuốc lá, kinh doanh phân phối, bán buôn, bán lẻ sản phẩm thuốc lá báo cáo tình hình kinh doanh về cơ quan có thẩm quyền đã cấp giấy phép và về cơ quan Công Thương nơi thương nhân đặt trụ sở chính.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Doanh nghiệp sản xuất sản phẩm thuốc lá phải báo cáo về Bộ Công Thương và Bộ Tài chính tình hình sản xuất kinh doanh thuốc lá bao gồm: Sản lượng sản xuất, sản lượng xuất khẩu, sản lượng nhập khẩu, sản lượng tiêu thụ, giá bán, số thuế tiêu thụ đặc biệt, thuế giá trị gia tăng phải nộp theo từng nhãn sản phẩm.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Doanh nghiệp sản xuất sản phẩm thuốc lá, chế biến nguyên liệu thuốc lá phải báo cáo về Bộ Công Thương tình hình nhập khẩu và sử dụng máy móc, thiết bị chuyên ngành thuốc lá, nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá nhập khẩu trong kỳ, tình hình sản xuất kinh doanh chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Bộ Công Thương hướng dẫn cụ thể chế độ, biểu mẫu báo cáo cho Sở Công Thương, Phòng Công Thương, doanh nghiệp sản xuất sản phẩm thuốc lá, chế biến nguyên liệu thuốc lá, mua bán nguyên liệu thuốc lá, đầu tư nguyên liệu thuốc lá, các Nhà cung cấp sản phẩm thuốc lá, các thương nhân phân phối, bán buôn và bán lẻ sản phẩm thuốc lá. Chương 9. VI PHẠM VÀ XỬ LÝ VI PHẠM",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 42",
+                    "tieu_de": "Các hành vi vi phạm quy định của pháp luật về kinh doanh thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sản xuất, mua bán sản phẩm, mua bán nguyên liệu thuốc lá, chế biến nguyên liệu thuốc lá không có giấy phép; đầu tư trồng cây thuốc lá không có giấy chứng nhận đủ điều kiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sản xuất, mua bán, nhập khẩu, tàng trữ, vận chuyển sản phẩm thuốc lá nhập lậu (trừ trường hợp được cơ quan nhà nước có thẩm quyền cho phép tái xuất), thuốc lá giả, các sản phẩm thuốc lá mang nhãn hiệu không được bảo hộ tại Việt Nam, không đảm bảo chất lượng theo Quy chuẩn kỹ thuật quốc gia về thuốc lá, kém phẩm chất hoặc đã hết hạn sử dụng, ghi nhãn trên bao bì không đúng quy định, không dán tem theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sử dụng, thanh, lý, nhập khẩu, xuất khẩu, tái xuất, nhượng bán máy móc, thiết bị chuyên ngành thuốc lá không theo quy định của Nghị định này và quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Sản xuất sản phẩm thuốc lá vượt sản lượng cho phép sản xuất.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Không thực hiện các quy định của pháp luật về vệ sinh đối với sản phẩm thuốc lá, phòng, chống tác hại của thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Mua bán, chuyển nhượng tem sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Mua bán, chuyển nhượng trái phép giấy cuốn điếu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Bán thuốc lá tại khu vực công sở, trường học, bệnh viện, rạp chiếu phim, nhà biểu diễn văn hóa nghệ thuật, nhà thi đấu thể thao và tại các nơi công cộng khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Các hành vi vi phạm khác theo quy định của pháp luật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 43",
+                    "tieu_de": "Thu hồi Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức, cá nhân sẽ bị cơ quan có thẩm quyền thu hồi Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá trong trường hợp vi phạm điều kiện về đầu tư, kinh doanh, chế biến nguyên liệu thuốc lá; sản xuất, mua bán thuốc lá và vi phạm khác theo quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Trong thời hạn một năm kể từ ngày được cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá nếu không đi vào hoạt động sẽ bị thu hồi giấy chứng nhận hoặc giấy phép.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 44",
+                    "tieu_de": "Xử lý vi phạm",
+                    "noi_dung_chung": "Tổ chức, cá nhân có hành vi vi phạm các quy định của pháp luật về kinh doanh thuốc lá tùy theo tính chất và mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự, trường hợp gây thiệt hại phải bồi thường theo quy định của pháp luật. Chương 10. TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 45",
+                    "tieu_de": "Trách nhiệm của Bộ Công Thương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trình Chính phủ, Thủ tướng Chính phủ ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật về kinh doanh thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn mẫu đơn đề nghị, mẫu Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá; hướng dẫn chế độ, biểu mẫu báo cáo; Danh mục thiết bị chuyên ngành thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với các Bộ, ngành, địa phương liên quan xây dựng Đề án tổ chức sắp xếp ngành thuốc lá; quản lý việc thành lập, chia, tách, sáp nhập, giải thể các doanh nghiệp sản xuất sản phẩm thuốc lá, chế biến nguyên liệu và phụ liệu thuốc lá theo đúng các quy định của pháp luật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thực hiện trách nhiệm quản lý nhà nước đối với ngành thuốc lá trong đầu tư xây dựng theo các quy định của pháp luật và của Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Xây dựng và ban hành Tiêu chuẩn kỹ thuật quốc gia về nguyên liệu thuốc lá; hướng dẫn và kiểm tra tiêu chuẩn cơ sở về chất lượng thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Tổ chức quản lý chuyên ngành, quản lý nhập khẩu máy móc thiết bị sản xuất thuốc lá, nguyên liệu thuốc lá, giấy cuốn điếu thuốc lá và nhập khẩu sản phẩm thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Quy định sản lượng sản xuất sản phẩm thuốc lá của các doanh nghiệp sản xuất sản phẩm thuốc lá trong từng thời kỳ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Trình Thủ tướng Chính phủ xem xét cho phép sản xuất sản phẩm thuốc lá mang nhãn hiệu nước ngoài tiêu thụ tại Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với các Bộ, ngành liên quan hướng dẫn cơ chế quản lý thương mại nhà nước trong nhập khẩu sản phẩm thuốc lá và việc tạm nhập, tái xuất, tạm xuất, tái nhập sản phẩm thuốc lá, nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với các cơ quan chức năng có liên quan tổ chức kiểm tra, phát hiện và xử lý đối với máy móc thiết bị thuốc lá không có nguồn gốc hợp pháp hoặc không tiêu hủy theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với các cơ quan chức năng của nhà nước tổ chức kiểm tra, xử lý đối với tổ chức, cá nhân kinh doanh sản phẩm thuốc lá vi phạm Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Thanh tra, kiểm tra, giải quyết các khiếu nại, tố cáo và xử lý các hành vi vi phạm trong kinh doanh thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 46",
+                    "tieu_de": "Trách nhiệm của Bộ Tài chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức in, phát hành và cấp tem cho doanh nghiệp theo quy định tại Nghị định này và các quy định hiện hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hướng dẫn việc trích lập và sử dụng Quỹ trồng và chế biến nguyên liệu thuốc lá.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ trì, phối hợp với Bộ Công Thương và các Bộ, ngành liên quan ban hành quy định về thu phí và lệ phí cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 47",
+                    "tieu_de": "Trách nhiệm của Bộ Y tế",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hướng dẫn việc đăng ký công bố Tiêu chuẩn cơ sở, Quy chuẩn kỹ thuật quốc gia về thuốc lá điếu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phối hợp với Bộ Công Thương trong thanh tra, kiểm tra và xử lý vi phạm pháp luật về phòng, chống tác hại của thuốc lá trong hoạt động kinh doanh thuốc lá.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 48",
+                    "tieu_de": "Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ",
+                    "noi_dung_chung": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi quyền hạn của mình có trách nhiệm phối hợp với Bộ Công Thương thực hiện quản lý nhà nước đối với hoạt động kinh doanh thuốc lá, tuyên truyền, phổ biến việc thực hiện Nghị định này.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 49",
+                    "tieu_de": "Trách nhiệm của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thực hiện chức năng quản lý nhà nước đối với ngành thuốc lá và giải quyết những vấn đề thuộc thẩm quyền trên địa bàn quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tham gia phối hợp với Bộ Công Thương thực hiện chủ trương sắp xếp các doanh nghiệp thuốc lá trên địa bàn quản lý.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm tra việc sản xuất, tiêu thụ nguyên liệu thuốc lá, lưu thông sản phẩm thuốc lá trên địa bàn quản lý. Chương 11. ĐIỀU KHOẢN THI HÀNH",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 50",
+                    "tieu_de": "Điều khoản chuyển tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổ chức, cá nhân đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh nguyên liệu thuốc lá, Giấy chứng nhận đủ điều kiện chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép kinh doanh sản phẩm thuốc lá theo quy định của Nghị định 119/2007/NĐ-CP ngày 18 tháng 7 năm 2007 của Chính phủ về sản xuất và kinh doanh thuốc lá mà vẫn còn thời hạn thì không phải xin cấp lại giấy chứng nhận hoặc giấy phép. Hết thời hạn trong giấy chứng nhận hoặc giấy phép phải làm thủ tục xin cấp phép theo các quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đối với tổ chức, cá nhân chưa được cấp Giấy chứng nhận đủ điều kiện đầu tư trồng cây thuốc lá, Giấy phép mua bán nguyên liệu thuốc lá, Giấy phép chế biến nguyên liệu thuốc lá, Giấy phép sản xuất sản phẩm thuốc lá, Giấy phép mua bán sản phẩm thuốc lá phải làm thủ tục cấp phép theo các quy định tại Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 51",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 8 năm 2013.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Bãi bỏ Nghị định số 119/2007/NĐ-CP ngày 18 tháng 7 năm 2007 của Chính phủ về sản xuất và kinh doanh thuốc lá kể từ ngày Nghị định này có hiệu lực.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 52",
+                    "tieu_de": "Tổ chức thực hiện và trách nhiệm thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Công Thương phối hợp các Bộ, ngành liên quan hướng dẫn thực hiện Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP; - HĐND, UBND các tỉnh, TP trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán Nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - UBTW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTCP, Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, KTN (3b). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Điều kiện kinh doanh sản phẩm thuốc lá điện tử Bổ sung điều kiện được bán lẻ thuốc lá Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 67/2013/NĐ-CP hướng dẫn Luật phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Điều kiện kinh doanh sản phẩm thuốc lá điện tử Bổ sung điều kiện được bán lẻ thuốc lá Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Điều kiện kinh doanh sản phẩm thuốc lá điện tử Bổ sung điều kiện được bán lẻ thuốc lá Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 67/2013/NĐ-CP hướng dẫn Luật phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness -------------- No. 67/2013/ND-CP Hanoi, June 27, 2013 DECREE",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

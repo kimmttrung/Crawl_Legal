@@ -1,0 +1,729 @@
+{
+    "ten_luat": "Nghị định 95/2016/NĐ-CP xử phạt vi phạm hành chính lĩnh vực thống kê",
+    "so_hieu": "95/2016/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này quy định hành vi vi phạm hành chính; hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả đối với từng hành vi vi phạm hành chính; thẩm quyền xử phạt, mức phạt tiền cụ thể theo từng chức danh và thẩm quyền lập biên bản đối với vi phạm hành chính trong lĩnh vực thống kê nhà nước.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Vi phạm hành chính trong lĩnh vực thống kê quy định tại Nghị định này bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Vi phạm các quy định về điều tra thống kê;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Vi phạm các quy định về báo cáo thống kê;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Vi phạm các quy định về sử dụng dữ liệu hành chính cho hoạt động thống kê, sử dụng cơ sở dữ liệu thống kê;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Vi phạm các quy định về phổ biến và sử dụng thông tin thống kê;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Vi phạm các quy định về lưu trữ tài liệu thống kê."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng bị xử phạt vi phạm hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cá nhân, tổ chức thực hiện chế độ báo cáo thống kê, điều tra thống kê.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cá nhân, tổ chức phổ biến và sử dụng thông tin thống kê.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cá nhân, tổ chức được điều tra thống kê.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cá nhân, tổ chức sử dụng dữ liệu hành chính cho hoạt động thống kê, sử dụng cơ sở dữ liệu thống kê.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trường hợp cán bộ, công chức, viên chức thực hiện hành vi vi phạm thuộc công vụ, nhiệm vụ trong lĩnh vực thống kê được giao thì không bị xử phạt vi phạm hành chính mà bị xử lý theo quy định của pháp luật về cán bộ, công chức, viên chức.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Cơ quan nhà nước thực hiện hành vi vi phạm thuộc nhiệm vụ quản lý nhà nước về thống kê được giao thì không bị xử phạt vi phạm hành chính mà bị xử lý theo quy định của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Không áp dụng quy định tại Điều 13 Nghị định này để xử phạt vi phạm hành chính đối với cơ quan báo chí. Việc xử phạt vi phạm hành chính đối với cơ quan báo chí được thực hiện theo quy định tại Điều 8 Nghị định số 159/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định về xử phạt vi phạm hành chính trong hoạt động báo chí, xuất bản.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Các biện pháp khắc phục hậu quả",
+                    "noi_dung_chung": "Các biện pháp khắc phục hậu quả quy định tại Nghị định này bao gồm:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Buộc hủy bỏ báo cáo thống kê.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Buộc hủy bỏ phiếu, biểu điều tra thống kê và buộc hủy kết quả điều tra thống kê.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Buộc khôi phục lại phiếu, biểu điều tra, báo cáo thống kê còn khả năng khôi phục.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Buộc cải chính nguồn thông tin thống kê đã trích dẫn, phổ biến, đăng tải.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Buộc cải chính thông tin thống kê sai sự thật hoặc gây nhầm lẫn đã phổ biến.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Buộc đính chính những thông tin thống kê đã phổ biến, đăng tải, ghi trên các ấn phẩm sai sự thật.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Quy định về mức phạt tiền đối với cá nhân, tổ chức",
+                    "noi_dung_chung": "Mức phạt tiền quy định tại Chương II Nghị định này là mức phạt đối với cá nhân. Mức phạt đối với tổ chức bằng hai lần mức phạt tiền đối với cá nhân có cùng một hành vi vi phạm.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "HÀNH VI VI PHẠM HÀNH CHÍNH, HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Vi phạm quy định trong các hoạt động điều tra thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt cảnh cáo đối với hành vi trì hoãn việc thực hiện yêu cầu của điều tra viên thống kê theo quy định của phương án điều tra thống kê .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 300.000 đồng đến 1.000.000 đồng đối với một trong các hành vi sau đây :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Nộp chậm phiếu, biểu điều tra thống kê theo phương pháp đối tượng điều tra tự ghi thông tin vào phiếu, biểu điều tra theo hướng dẫn của điều tra viên (sau đây gọi chung là phương pháp điều tra gián tiếp) dưới 05 ngày so với thời hạn quy định của phương án điều tra thống kê ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Nộp không đủ phiếu, biểu điều tra thống kê theo phương pháp điều tra gián tiếp, so với quy định của phương án điều tra thống kê ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Ghi không đủ các thông tin có phát sinh vào phiếu, biểu điều tra theo quy định của phương án điều tra thống kê ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi nộp chậm phiếu, biểu điều tra thống kê theo phương pháp điều tra gián tiếp từ 05 ngày đến dưới 10 ngày so với thời hạn quy định của phương án điều tra thống kê .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng đối với một trong các hành vi sau :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Ghi sai lệch thông tin ban đầu do cá nhân, tổ chức được điều tra thống kê đã cung cấp vào phiếu điều tra ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tự ý ghi thông tin vào phiếu, biểu điều tra thống kê mà không tiến hành điều tra thực tế tại đơn vị được điều tra thống kê theo quy định của phương án điều tra thống kê ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Ghi không trung thực, sai sự thật các thông tin có phát sinh vào phiếu, biểu điều tra thống kê theo phương pháp điều tra gián tiếp ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nộp chậm phiếu, biểu điều tra thống kê theo phương pháp điều tra gián tiếp từ 10 ngày trở lên so với thời hạn quy định của phương án điều tra thống kê ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Không thực hiện hoặc cản trở việc thực hiện điều tra thống kê ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khai man hoặc ép buộc người khác khai man thông tin trong điều tra thống kê ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Không gửi báo cáo kết quả cuộc điều tra ngoài chương trình điều tra thống kê quốc gia cho cơ quan thống kê có thẩm quyền thuộc hệ thống tổ chức thống kê tập trung sau 15 ngày, kể từ ngày công bố kết quả điều tra ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Không cung cấp trực tuyến nội dung và số liệu điều tra thống kê tới thiết bị truy xuất theo yêu cầu của cơ quan tiến hành điều tra hoặc người thực hiện điều tra thống kê do phương án điều tra thống kê quy định ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả: Buộc hủy bỏ phiếu, biểu điều tra đối với hành vi vi phạm tại điểm a, điểm b, điểm c, khoản 4 và điểm b khoản 5 của Điều này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Vi phạm quy định về sử dụng mẫu biểu báo cáo thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi lập báo cáo thống kê không đúng với mẫu biểu do cơ quan có thẩm quyền ban hành .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả: Buộc hủy bỏ báo cáo thống kê lập không đúng quy định tại khoản 1 Điều này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Vi phạm quy định về thời hạn báo cáo thống kê, báo cáo tài chính gửi cơ quan thống kê nhà nước theo quy định của pháp luật",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt cảnh cáo đối với hành vi nộp báo cáo chậm so với chế độ quy định :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Dưới 05 ngày đối với báo cáo thống kê tháng ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dưới 10 ngày đối với báo cáo thống kê, báo cáo tài chính quý, 6 tháng, 9 tháng ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Dưới 15 ngày đối với báo cáo thống kê, báo cáo tài chính năm ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi nộp báo cáo chậm so với chế độ quy định :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Từ 05 ngày đến dưới 10 ngày đối với báo cáo thống kê tháng ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Từ 10 ngày đến dưới 15 ngày đối với báo cáo thống kê, báo cáo tài chính quý, 6 tháng, 9 tháng ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Từ 15 ngày đến dưới 20 ngày đối với báo cáo thống kê, báo cáo tài chính năm ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi nộp báo cáo chậm so với chế độ quy định :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Từ 10 ngày đến 15 ngày đối với báo cáo thống kê tháng ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Từ 15 ngày đến dưới 20 ngày đối với báo cáo thống kê, báo cáo tài chính quý, 6 tháng, 9 tháng ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Từ 20 ngày đến dưới 30 ngày đối với báo cáo thống kê, báo cáo tài chính năm ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi nộp báo cáo chậm so với chế độ quy định :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Từ 20 ngày đến 30 ngày đối với báo cáo thống kê, báo cáo tài chính quý, 6 tháng, 9 tháng ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Từ 30 ngày đến 45 ngày đối với báo cáo thống kê, báo cáo tài chính năm ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi không báo cáo thống kê, báo cáo tài chính . Hành vi không báo cáo thống kê, báo cáo tài chính được quy định là sau 15 ngày đối với chế độ quy định đối với báo cáo thống kê tháng, sau 30 ngày đối với báo cáo thống kê, báo cáo tài chính quý, 6 tháng, sau 45 ngày đối với báo cáo thống kê, báo cáo tài chính năm mà chưa gửi báo cáo thống kê, báo cáo tài chính cho cơ quan thống kê có thẩm quyền.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Vi phạm quy định về yêu cầu đầy đủ của báo cáo thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi báo cáo không đầy đủ số lượng biểu hoặc chỉ tiêu thống kê của chế độ báo cáo thống kê tháng .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi báo cáo không đầy đủ số lượng biểu hoặc chỉ tiêu thống kê của chế độ báo cáo thống kê quý, 6 tháng, 9 tháng .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi báo cáo không đầy đủ số lượng biểu hoặc chỉ tiêu thống kê của chế độ báo cáo thống kê năm .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Vi phạm quy định về phương pháp thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với một trong các hành vi sau :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Lập báo cáo thống kê không đúng quy định về phương pháp tính chỉ tiêu trong báo cáo thống kê ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Lập báo cáo thống kê không đúng quy định về phạm vi thu thập số liệu thống kê ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả: Buộc hủy bỏ báo cáo thống kê lập không đúng quy định tại khoản 1 Điều này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Vi phạm quy định về yêu cầu chính xác của báo cáo thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với hành vi lập báo cáo thống kê không đầy đủ nguồn số liệu trong chế độ báo cáo thống kê do cơ quan có thẩm quyền ban hành .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với một trong các hành vi sau :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khai man số liệu trong báo cáo thống kê ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thỏa thuận hoặc ép buộc người khác khai man số liệu trong báo cáo thống kê ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả: Buộc hủy bỏ báo cáo thống kê đối với hành vi vi phạm tại Điều này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Vi phạm quy định về sử dụng cơ sở dữ liệu thống kê, cơ sở dữ liệu hành chính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với hành vi khai thác, sử dụng cơ sở dữ liệu thống kê của các chỉ tiêu thống kê, thông tin thống kê chưa được công bố .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi sử dụng cơ sở dữ liệu hành chính không vì mục đích thống kê, cung cấp dữ liệu hành chính cho bên thứ ba khi không được sự đồng ý bằng văn bản của tổ chức, cá nhân có thẩm quyền quản lý cơ sở dữ liệu .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Vi phạm quy định về phổ biến thông tin thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi phổ biến dữ liệu, thông tin trong cơ sở dữ liệu thống kê của thông tin thống kê nhà nước không thuộc danh mục bí mật nhà nước chưa được công bố theo quy định .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi phổ biến thông tin thống kê sai sự thật .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả: Buộc cải chính thông tin thống kê sai sự thật đã phổ biến đối với hành vi quy định tại khoản 2 Điều này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Vi phạm quy định về sử dụng thông tin thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt cảnh cáo hoặc phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi sau đây :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trích dẫn không ghi rõ nguồn thông tin thống kê khi phổ biến, đăng tải trên các phương tiện thông tin đại chúng hoặc các ấn phẩm ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trích dẫn không đúng nguồn thông tin thống kê khi phổ biến, đăng tải trên các phương tiện thông tin đại chúng hoặc các ấn phẩm ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi làm sai lệch các thông tin thống kê thuộc hệ thống chỉ tiêu thống kê cấp tỉnh, cấp huyện, cấp xã đã được cơ quan có thẩm quyền công bố để đăng tải trên các phương tiện thông tin đại chúng hoặc các ấn phẩm .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi làm sai lệch các thông tin thống kê thuộc Hệ thống chỉ tiêu thống kê bộ, ngành đã được cơ quan có thẩm quyền công bố để đăng tải trên các phương tiện thông tin đại chúng hoặc các ấn phẩm .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi làm sai lệch các thông tin thống kê thuộc Hệ thống chỉ tiêu thống kê quốc gia đã được cơ quan có thẩm quyền công bố để đăng tải trên các phương tiện thông tin đại chúng hoặc các ấn phẩm .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Buộc cải chính nguồn thông tin thống kê đã trích dẫn, phổ biến, đăng tải đối với hành vi vi phạm tại khoản 1 Điều này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Buộc đính chính những thông tin thống kê đã đăng tải, ghi trên các ấn phẩm sai sự thật đối với hành vi vi phạm tại các khoản 2, 3 và 4 Điều này ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Vi phạm quy định về bảo quản, lưu trữ tài liệu thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Phạt cảnh cáo hoặc phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi để hư hỏng phiếu, biểu điều tra, báo cáo thống kê có chứa thông tin thống kê trong thời hạn lưu trữ theo quy định, nhưng còn khả năng khôi phục .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Để hư hỏng phiếu, biểu điều tra, báo cáo thống kê có chứa thông tin thống kê trong thời hạn lưu trữ theo quy định, nhưng không còn khả năng khôi phục ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Để thất lạc phiếu, biểu điều tra, báo cáo thống kê có chứa thông tin thống kê ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hủy bỏ phiếu, biểu điều tra, báo cáo thống kê có chứa thông tin thống kê khi chưa hết thời hạn lưu trữ theo quy định ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Áp dụng biện pháp khắc phục hậu quả: Buộc khôi phục lại phiếu, biểu điều tra, báo cáo thống kê còn khả năng khôi phục đối với hành vi vi phạm tại khoản 1 Điều này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Vi phạm quy định về bảo mật thông tin của từng cá nhân, tổ chức cung cấp thông tin thống kê",
+                    "noi_dung_chung": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi tiết lộ thông tin thống kê trong phiếu, biểu điều tra thống kê, báo cáo thống kê và dữ liệu hành chính, dữ liệu thống kê gắn với tên, địa chỉ cụ thể của từng cá nhân, tổ chức khi chưa được sự đồng ý của cá nhân, tổ chức đó.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Thẩm quyền xử phạt của Chủ tịch Ủy ban nhân dân",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Chủ tịch Ủy ban nhân dân cấp xã có quyền :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạt cảnh cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạt tiền đến 3.000.000 đồng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chủ tịch Ủy ban nhân dân cấp huyện có quyền :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạt cảnh cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạt tiền đến 15.000.000 đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Áp dụng các biện pháp khắc phục hậu quả quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạt cảnh cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạt tiền đến 30.000.000 đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Áp dụng các biện pháp khắc phục hậu quả quy định tại Nghị định này."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Thẩm quyền xử phạt của Thanh tra và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành thống kê",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thanh tra viên Bộ Kế hoạch và Đầu tư, người được giao thực hiện nhiệm vụ thanh tra chuyên ngành thống kê đang thi hành công vụ có quyền: Phạt cảnh cáo .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Cục trưởng Cục Thống kê tỉnh, thành phố trực thuộc trung ương; Trưởng đoàn thanh tra chuyên ngành Bộ Kế hoạch và Đầu tư; Trưởng đoàn thanh tra chuyên ngành Tổng cục Thống kê có quyền :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạt cảnh cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạt tiền đến 21.000.000 đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Áp dụng các biện pháp khắc phục hậu quả quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chánh Thanh tra Bộ Kế hoạch và Đầu tư, Tổng cục trưởng Tổng cục Thống kê có quyền :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạt cảnh cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạt tiền đến 30.000.000 đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Áp dụng các biện pháp khắc phục hậu quả quy định tại Nghị định này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trưởng đoàn thanh tra Cục Thống kê tỉnh, thành phố trực thuộc trung ương có quyền :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phạt cảnh cáo;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạt tiền đến 15.000.000 đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Áp dụng các biện pháp khắc phục hậu quả quy định tại Nghị định này."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Thẩm quyền xử phạt của Thanh tra chuyên ngành khác",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Trong phạm vi thẩm quyền quản lý nhà nước của các bộ được Chính phủ phân công thực hiện các chỉ tiêu thống kê quốc gia gồm: Bộ Tài nguyên và Môi trường; Bộ Nội vụ; Bộ Tài chính; Bộ Tư pháp; Bộ Thông tin và Truyền thông; Bộ Xây dựng; Bộ Nông nghiệp và Phát triển nông thôn; Bộ Công Thương; Bộ Giao thông vận tải; Bộ Khoa học và Công nghệ; Bộ Giáo dục và Đào tạo; Bộ Y tế; Bộ Văn hóa, Thể thao và Du lịch; Bộ Công an; Bộ Quốc phòng; Ngân hàng Nhà nước Việt Nam, Thanh tra viên, Chánh Thanh tra thuộc bộ, cơ quan ngang bộ, Chánh Thanh tra sở có thẩm quyền xử phạt đối với hành vi vi phạm hành chính trong lĩnh vực thống kê .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thanh tra viên các bộ, sở chuyên ngành quy định tại khoản 1 Điều này có quyền phạt cảnh cáo đối với các hành vi vi phạm hành chính về thống kê quy định tại các khoản, điều của Nghị định này như sau :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Khoản 1 Điều 5;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Khoản 1 Điều 7;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khoản 1 Điều 13;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khoản 1 Điều 14."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chánh thanh tra các bộ, cơ quan ngang bộ, sở chuyên ngành quy định tại khoản 1 Điều này có quyền phạt cảnh cáo hoặc phạt tiền nhưng không quá 30.000.000 đồng và áp dụng biện pháp khắc phục hậu quả quy định từ Điều 5 đến Điều 15 của Nghị định này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Xác định thẩm quyền xử phạt",
+                    "noi_dung_chung": "Thẩm quyền xử phạt vi phạm hành chính của các chức danh quy định tại các Điều 16, 17 và 18 Nghị định này là thẩm quyền áp dụng đối với một hành vi vi phạm hành chính của cá nhân. Trường hợp phạt tiền, thẩm quyền xử phạt đối với tổ chức bằng hai lần thẩm quyền xử phạt đối với cá nhân.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Thẩm quyền lập biên bản vi phạm hành chính trong lĩnh vực thống kê",
+                    "noi_dung_chung": "Khi phát hiện vi phạm hành chính trong lĩnh vực thống kê, người có thẩm quyền phải kịp thời lập biên bản vi phạm hành chính. Người có thẩm quyền lập biên bản vi phạm hành chính trong lĩnh vực thống kê là công chức ngành Thống kê đang thực hiện nhiệm vụ thanh tra, kiểm tra, giám sát hoạt động thống kê và người có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực thống kê đang thi hành công vụ.",
+                    "khoan": []
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "ĐIỀU KHOẢN THI HÀNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016 và thay thế Nghị định số 79/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực thống kê.",
+                    "khoan": []
+                },
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (3). TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Xuân Phúc Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Chủ tịch UBND xã có quyền phạt VPHC trong lĩnh vực thống kê Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 95/2016/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực thống kê Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Chủ tịch UBND xã có quyền phạt VPHC trong lĩnh vực thống kê Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Chủ tịch UBND xã có quyền phạt VPHC trong lĩnh vực thống kê Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 95/2016/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực thống kê MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT ------- SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness --------------- No. 95/2016/ND-CP Hanoi, July 01, 2016 DECREE PENALTIES FOR ADMINISTRATIVE VIOLATIONS AGAINST REGULATIONS ON STATISTICS",
+                    "khoan": []
+                }
+            ]
+        }
+    ]
+}

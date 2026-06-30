@@ -1,0 +1,1985 @@
+{
+    "ten_luat": "",
+    "so_hieu": "67/2026/NĐ-CP",
+    "danh_sach_chuong": [
+        {
+            "id_chuong": "Chương I",
+            "tieu_de_chuong": "QUY ĐỊNH CHUNG",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 1",
+                    "tieu_de": "Phạm vi điều chỉnh",
+                    "noi_dung_chung": "Nghị định này quy định về các nội dung sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quy định chi tiết Điều 27 Luật Đường sắt số 95/2025/QH15 được sửa đổi, bổ sung bởi khoản 3 Điều 50 Luật Đầu tư số 143/2025/QH15 và khoản 1 Điều 55 Luật Quy hoạch số 112/2025/QH15 (sau đây gọi là Luật Đường sắt số 95/2025/QH15 ) về thiết kế kỹ thuật tổng thể.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các biện pháp thi hành để thực hiện thiết kế kỹ thuật tổng thể và quản lý chi phí thực hiện dự án đường sắt, gồm: Quy định về khảo sát xây dựng, thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng sử dụng thiết kế FEED; thiết kế xây dựng triển khai sau thiết kế FEED; lập tổng mức đầu tư, dự toán gói thầu, dự toán chi phí.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung một số điều của Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 của Chính phủ hướng dẫn về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng; Nghị định số 175/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý hoạt động xây dựng; Nghị định số 123/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định chi tiết về thiết kế kỹ thuật tổng thể và cơ chế đặc thù cho một số dự án đường sắt.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 2",
+                    "tieu_de": "Đối tượng áp dụng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này áp dụng với các cơ quan, tổ chức, cá nhân trong nước; tổ chức, cá nhân nước ngoài có liên quan đến hoạt động đầu tư xây dựng dự án đầu tư xây dựng tuyến đường sắt quốc gia, tuyến đường sắt địa phương trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các quy định về quản lý chi phí đầu tư xây dựng tại Mục 1 Chương IV Nghị định này áp dụng đối với dự án đầu tư xây dựng tuyến đường sắt quốc gia, tuyến đường sắt địa phương sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công, dự án thực hiện theo phương thức đối tác công tư (sau đây gọi là dự án PPP).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các quy định tại Điều 30, Điều 31, Điều 32 của Nghị định này áp dụng đối với đối tượng áp dụng tương ứng quy định tại Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021, Nghị định số 175/2024/NĐ-CP ngày 30 tháng 12 năm 2024 và Nghị định số 123/2025/NĐ-CP ngày 11 tháng 6 năm 2025.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 3",
+                    "tieu_de": "Giải thích từ ngữ",
+                    "noi_dung_chung": "Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thiết kế kỹ thuật tổng thể (Front - End Engineering Design), sau đây gọi là thiết kế FEED là bước thiết kế được lập theo thông lệ quốc tế đối với dự án có thiết kế công nghệ để cụ thể hóa các yêu cầu về phương án công nghệ, thông số kỹ thuật của các thiết bị, vật liệu sử dụng chủ yếu, giải pháp xây dựng để triển khai bước thiết kế tiếp theo.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo giữa kỳ là báo cáo được thực hiện trong quá trình lập Báo cáo nghiên cứu khả thi đầu tư xây dựng để phân tích, đánh giá các yếu tố đầu vào của dự án, đưa ra các phương án nhằm lựa chọn phương án tối ưu về công nghệ, hướng tuyến và vị trí các điểm khống chế, vị trí công trình chính trên tuyến, tiêu chuẩn chủ yếu áp dụng cho dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Phương án công nghệ là tập hợp các giải pháp, quy trình, nguyên lý vận hành của máy móc, phương tiện, thiết bị của hệ thống đường sắt làm cơ sở xác định tiêu chuẩn áp dụng và tổ chức thực hiện, bảo đảm đồng bộ trong vận hành, khai thác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Cơ quan chuẩn bị dự án là chủ đầu tư hoặc tổ chức được giao nhiệm vụ thực hiện các công việc chuẩn bị dự án đường sắt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Dự án thành phần được quản lý theo các quy định tại Nghị định này gồm: dự án thành phần, dự án thành phần độc lập, tiểu dự án theo quy định tại Điều 23 Luật Đường sắt số 95/2025/QH15 .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 4",
+                    "tieu_de": "Nguyên tắc lập, thẩm định, phê duyệt dự án, thiết kế xây dựng triển khai sau thiết kế FEED",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc lập, thẩm định, phê duyệt dự án, thiết kế xây dựng triển khai sau thiết kế FEED phải đảm bảo tính công khai, minh bạch, tuân thủ các quy định về phòng chống tham nhũng, lãng phí và tiêu cực.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc lập, thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, phê duyệt dự án được thực hiện với toàn bộ dự án, từng dự án thành phần hoặc theo giai đoạn thực hiện đối với một hoặc một số công trình của dự án (theo phân kỳ đầu tư) bảo đảm các yêu cầu nêu tại quyết định hoặc văn bản chấp thuận chủ trương đầu tư hoặc quy định của pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc lập, thẩm định, phê duyệt thiết kế xây dựng triển khai sau thiết kế FEED được thực hiện đối với toàn bộ các công trình hoặc từng công trình của dự án hoặc từng phần của công trình theo giai đoạn thi công công trình theo yêu cầu của chủ đầu tư nhưng phải bảo đảm sự thống nhất, đồng bộ về nội dung và các cơ sở tính toán giữa các giai đoạn và thiết kế FEED được thẩm định, phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trường hợp điều chỉnh dự án đầu tư xây dựng, thiết kế xây dựng triển khai sau thiết kế FEED, việc lập, thẩm định, phê duyệt được thực hiện đối với các nội dung điều chỉnh hoặc cho toàn bộ nội dung của dự án, thiết kế xây dựng triển khai sau thiết kế FEED.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Dự án đường sắt được thực hiện song song, đồng thời, kết hợp các nội dung công việc quy định tại khoản 1 Điều 30 Luật Đường sắt số 95/2025/QH15 , song cần đảm bảo thứ tự hoàn thành và đảm bảo tính thống nhất của toàn dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Việc khảo sát, lập, thẩm định, phê duyệt dự án, thiết kế xây dựng triển khai sau thiết kế FEED; quản lý chi phí đầu tư xây dựng thực hiện theo các quy định cụ thể tại Nghị định này. Những nội dung không được quy định trong Nghị định này thực hiện theo quy định của Chính phủ về quản lý hoạt động xây dựng, quản lý chi phí đầu tư xây dựng, quản lý hợp đồng xây dựng và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đối với dự án sử dụng vốn hỗ trợ phát triển chính thức (ODA), vốn vay ưu đãi nước ngoài thực hiện theo điều ước quốc tế đã được ký kết; pháp luật về quản lý sử dụng vốn ODA và vốn vay ưu đãi của nhà tài trợ nước ngoài và quy định của Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Khuyến khích áp dụng các công nghệ mới trong khảo sát, thiết kế; khuyến khích thiết kế FEED áp dụng các giải pháp công nghệ mới trong quản lý, xây dựng, vận hành và quản lý tài sản cho các dự án đường sắt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Áp dụng mô hình thông tin công trình (BIM) đối với công trình thuộc đối tượng theo quy định của pháp luật về xây dựng; khuyến khích tích hợp dữ liệu từ hệ thống thông tin địa lý (GIS), hệ thống quản lý tài sản (AIM) và bản sao kỹ thuật số song sinh (Digital Twin), mô phỏng và đánh giá lựa chọn phương án, quản lý vận hành dự án, các công nghệ hiện đại, công nghệ số trong khảo sát, thiết kế, xây dựng.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương II",
+            "tieu_de_chuong": "KHẢO SÁT XÂY DỰNG, LẬP, THẨM ĐỊNH, PHÊ DUYỆT DỰ ÁN",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 5",
+                    "tieu_de": "Nhiệm vụ khảo sát, phương án kỹ thuật khảo sát",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với dự án thực hiện lập thiết kế FEED thay cho thiết kế cơ sở tại Báo cáo nghiên cứu khả thi đầu tư xây dựng, nhiệm vụ khảo sát xây dựng do nhà thầu tư vấn thiết kế hoặc nhà thầu khảo sát xây dựng lập. Trường hợp chưa lựa chọn được nhà thầu thiết kế, nhà thầu khảo sát xây dựng hoặc trong trường hợp khảo sát khác, cơ quan chuẩn bị dự án được thuê tổ chức, cá nhân hoặc giao tổ chức, cá nhân trực thuộc có đủ điều kiện năng lực lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhiệm vụ khảo sát xây dựng phải đáp ứng yêu cầu, mức độ chi tiết để lập thiết kế FEED tại Báo cáo nghiên cứu khả thi đầu tư xây dựng và không vượt quá nội dung khảo sát lập cho bước thiết kế kỹ thuật.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhiệm vụ khảo sát xây dựng bao gồm những nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Mục đích khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phạm vi khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Yêu cầu về việc áp dụng quy chuẩn kỹ thuật, tiêu chuẩn về khảo sát xây dựng; việc áp dụng tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài (nếu có);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Sơ bộ khối lượng các loại công tác khảo sát xây dựng, dự toán khảo sát xây dựng (nếu có);"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Thời gian thực hiện khảo sát xây dựng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nhiệm vụ khảo sát xây dựng điều chỉnh được cơ quan chuẩn bị dự án xem xét, phê duyệt trong các trường hợp sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Trong quá trình thực hiện khảo sát xây dựng, nhà thầu khảo sát phát hiện các yếu tố khác thường có thể ảnh hưởng trực tiếp đến giải pháp thiết kế hoặc khi có thay đổi nhiệm vụ thiết kế cần phải bổ sung nhiệm vụ khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Trong quá trình thiết kế, tư vấn lập dự án phát hiện nhiệm vụ khảo sát xây dựng, báo cáo khảo sát xây dựng không đáp ứng yêu cầu thiết kế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhà thầu khảo sát xây dựng lập phương án kỹ thuật khảo sát xây dựng phù hợp với nhiệm vụ khảo sát xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Cơ quan chuẩn bị dự án có trách nhiệm tổ chức kiểm tra và phê duyệt nhiệm vụ, phương án kỹ thuật khảo sát xây dựng bằng văn bản hoặc phê duyệt trực tiếp tại nhiệm vụ, phương án kỹ thuật khảo sát xây dựng. Cơ quan chuẩn bị dự án được thuê đơn vị tư vấn có đủ điều kiện năng lực để kiểm tra phương án kỹ thuật khảo sát xây dựng làm cơ sở phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Phương án kỹ thuật khảo sát bao gồm những nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Cơ sở lập phương án kỹ thuật khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thành phần, khối lượng công tác khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phương pháp, thiết bị khảo sát và phòng thí nghiệm được sử dụng;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Quy chuẩn kỹ thuật, tiêu chuẩn áp dụng về khảo sát xây dựng áp dụng;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Tổ chức thực hiện và biện pháp kiểm soát chất lượng của nhà thầu khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Tiến độ thực hiện;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Biện pháp bảo đảm an toàn cho người, thiết bị, các công trình hạ tầng kỹ thuật và các công trình xây dựng khác trong khu vực khảo sát; biện pháp bảo vệ môi trường, giữ gìn cảnh quan trong khu vực khảo sát và phục hồi hiện trạng sau khi kết thúc khảo sát."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 6",
+                    "tieu_de": "Nội dung, yêu cầu kết quả khảo sát xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nội dung Báo cáo kết quả khảo sát xây dựng cần tuân thủ theo quy định của pháp luật về xây dựng, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng, đảm bảo đầy đủ thông tin để lập thiết kế FEED tại Báo cáo nghiên cứu khả thi đầu tư xây dựng, bao gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Căn cứ thực hiện khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Quy trình và phương pháp khảo sát xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Khái quát về vị trí và điều kiện tự nhiên của khu vực khảo sát xây dựng, đặc điểm, quy mô, tính chất của công trình;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khối lượng khảo sát xây dựng đã thực hiện;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Kết quả, số liệu khảo sát xây dựng sau khi thí nghiệm, phân tích;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các ý kiến đánh giá, lưu ý, đề xuất (nếu có);"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Kết luận và kiến nghị;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Các Phụ lục kèm theo."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo kết quả khảo sát xây dựng phải có đủ thông tin làm cơ sở phân tích, đánh giá tác động đến cộng đồng dân cư và ảnh hưởng của việc giải phóng mặt bằng nơi tuyến đường sắt dự kiến đi qua; đánh giá về các biến đổi liên quan đến địa tầng khu vực, đưa ra dự báo và khuyến nghị biện pháp kiểm soát các rủi ro về địa chất trong quá trình thi công, vận hành; xác định khu vực bãi đổ chất thải rắn xây dựng phục vụ cho dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Dữ liệu khảo sát phải đảm bảo tính chính xác, đầy đủ, phục vụ cho quá trình thiết kế FEED. Nội dung của kết quả khảo sát tích hợp được vào mô hình thông tin công trình (BIM) của dự án theo các thỏa thuận được nêu tại hợp đồng khảo sát xây dựng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 7",
+                    "tieu_de": "Phê duyệt Báo cáo kết quả khảo sát xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan chuẩn bị dự án có trách nhiệm phê duyệt Báo cáo kết quả khảo sát xây dựng bằng văn bản hoặc phê duyệt trực tiếp tại Báo cáo kết quả khảo sát xây dựng. Cơ quan chuẩn bị dự án được quyền yêu cầu nhà thầu tư vấn thiết kế kiểm tra Báo cáo kết quả khảo sát xây dựng đối với trường hợp nhà thầu tư vấn thiết kế độc lập với nhà thầu khảo sát xây dựng hoặc thuê đơn vị tư vấn có đủ điều kiện năng lực để kiểm tra Báo cáo kết quả khảo sát xây dựng làm cơ sở phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhà thầu khảo sát chịu trách nhiệm toàn diện trước pháp luật về chất lượng khảo sát xây dựng do mình thực hiện. Việc phê duyệt Báo cáo kết quả khảo sát xây dựng của cơ quan chuẩn bị dự án không thay thế và không làm giảm trách nhiệm về chất lượng khảo sát xây dựng do nhà thầu khảo sát thực hiện.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Báo cáo kết quả khảo sát xây dựng là thành phần của hồ sơ hoàn thành công trình và được lưu trữ theo quy định. Mục 2. THIẾT KẾ FEED, BÁO CÁO NGHIÊN CỨU KHẢ THI ĐẦU TƯ XÂY DỰNG",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 8",
+                    "tieu_de": "Nhiệm vụ lập thiết kế FEED",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nhiệm vụ thiết kế FEED do cơ quan chuẩn bị dự án lập hoặc thuê tổ chức tư vấn có đủ điều kiện năng lực lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nhiệm vụ thiết kế phải phù hợp với chủ trương đầu tư xây dựng (nếu có), là căn cứ để lập thiết kế FEED.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nhiệm vụ thiết kế gồm các nội dung chủ yếu sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Căn cứ để lập nhiệm vụ thiết kế xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Mục tiêu và địa điểm xây dựng công trình;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Các yêu cầu về quy mô, công năng sử dụng, tiêu chí đề xuất tiêu chuẩn áp dụng, quy hoạch, cảnh quan và kiến trúc của công trình;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các yêu cầu về kỹ thuật đối với phương án công nghệ của hệ thống thiết bị, phương tiện, công trình xây dựng và các yêu cầu kỹ thuật khác;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Yêu cầu về chi phí, định hướng biện pháp, kế hoạch thi công tổng thể và quản lý rủi ro của dự án;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các yêu cầu về phương án kết nối, giao diện giữa các hạng mục công trình và hệ thống thiết bị của dự án (sau đây gọi là giao diện hệ thống); phương án kết nối giữa hệ thống đường sắt với các khu vực lân cận; đánh giá ảnh hưởng đối với các công trình hiện hữu;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Yêu cầu về an toàn hệ thống đường sắt;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Yêu cầu về phương án tổ chức, quy trình vận hành, khai thác, bảo trì, bảo dưỡng công trình;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Yêu cầu, chỉ dẫn về lập thiết kế xây dựng triển khai sau thiết kế FEED và các định hướng, chỉ dẫn về thi công, giám sát và nghiệm thu (sau đây gọi chung là chỉ dẫn kỹ thuật thiết kế FEED);"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Các yêu cầu về mức độ nhu cầu thông tin trong mô hình BIM của dự án;"
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Các yêu cầu cần thiết khác của dự án."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nhiệm vụ thiết kế được sửa đổi, bổ sung nhằm đáp ứng điều kiện thực tế để đảm bảo hiệu quả và yêu cầu sử dụng dự án đầu tư xây dựng. Cơ quan chuẩn bị dự án hoặc chủ đầu tư quyết định việc sửa đổi, bổ sung nhiệm vụ thiết kế bằng văn bản.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 9",
+                    "tieu_de": "Yêu cầu, quy cách của thiết kế FEED",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thiết kế FEED phải đáp ứng các yêu cầu tại nhiệm vụ thiết kế được chấp thuận; phù hợp với nội dung tại chủ trương đầu tư được phê duyệt (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thiết kế FEED phải tuân thủ quy chuẩn kỹ thuật, tiêu chuẩn được lựa chọn áp dụng, quy định về sử dụng vật liệu xây dựng; bảo đảm an toàn trong xây dựng, lắp đặt, sử dụng; bảo đảm các yêu cầu về bảo vệ môi trường, an toàn lao động, ứng phó với biến đổi khí hậu, phòng cháy, chữa cháy và điều kiện an toàn khác.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Giải pháp thiết kế phải có so sánh và đánh giá một số phương án được nghiên cứu, đề xuất để đảm bảo tính khả thi, hiệu quả.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nội dung thiết kế FEED phải thể hiện được cấu trúc tổng thể của hệ thống đường sắt và giao diện hệ thống; xác định các thông tin, thông số, kích thước, vật liệu chủ yếu của các công trình, hạng mục công trình chính, hệ thống phương tiện, thiết bị của dự án; đủ cơ sở để xác định tổng mức đầu tư, dự toán gói thầu và lập bước thiết kế xây dựng triển khai sau thiết kế FEED.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Mô hình BIM kèm theo thiết kế FEED phải đáp ứng các yêu cầu về mức độ nhu cầu thông tin phù hợp theo quy định tại hợp đồng tư vấn lập Báo cáo nghiên cứu khả thi đầu tư xây dựng, sử dụng định dạng gốc kèm theo định dạng mở.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Quy cách hồ sơ thiết kế FEED được quy định cụ thể như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hồ sơ thiết kế FEED được lập cho từng công trình bao gồm thuyết minh thiết kế, các bản vẽ thiết kế, chỉ dẫn kỹ thuật thiết kế FEED và các tài liệu có liên quan;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bản vẽ thiết kế FEED phải có kích cỡ, khung tên; khung tên từng bản vẽ phải có tên, chữ ký của người trực tiếp thiết kế, người kiểm tra thiết kế, chủ trì thiết kế, chủ nhiệm thiết kế; được tư vấn lập dự án, lập thiết kế FEED ký tên và đóng dấu xác nhận;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Hình thức của hồ sơ thiết kế FEED được thực hiện theo quy định của hợp đồng ký kết giữa tư vấn lập dự án với chủ đầu tư; phải bảo đảm tra cứu và bảo quản lâu dài."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 10",
+                    "tieu_de": "Nội dung Báo cáo nghiên cứu khả thi đầu tư xây dựng",
+                    "noi_dung_chung": "Đối với dự án lập thiết kế FEED thay cho thiết kế cơ sở, nội dung Báo cáo nghiên cứu khả thi đầu tư xây dựng được quy định cụ thể như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Thuyết minh của Báo cáo nghiên cứu khả thi đầu tư xây dựng gồm các nội dung chủ yếu sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sự cần thiết và chủ trương đầu tư, mục tiêu đầu tư xây dựng, địa điểm xây dựng và diện tích sử dụng đất, quy mô công suất và hình thức đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Các yếu tố đảm bảo thực hiện dự án về sử dụng tài nguyên, sử dụng lao động, thời gian thực hiện;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phương án phân chia dự án thành phần, tiểu dự án, phân kỳ đầu tư (nếu có);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đề xuất kế hoạch tổng thể lựa chọn nhà thầu, phương án phân chia các gói thầu EPC, EC, EP (nếu có);"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Giải pháp tổ chức quản lý thực hiện dự án;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Phương án tổng thể bồi thường, hỗ trợ và tái định cư (nếu có);"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Tổng mức đầu tư xây dựng của dự án theo quy định tại Điều 24 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Khả năng huy động vốn, nguồn và phương thức huy động vốn; phân tích tài chính, rủi ro; chi phí khai thác, sử dụng công trình;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Đánh giá hiệu quả kinh tế - xã hội của dự án;"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Phương án đào tạo, chuyển giao công nghệ (nếu có);"
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Kiến nghị các cơ chế phối hợp, chính sách ưu đãi, hỗ trợ thực hiện dự án;"
+                                },
+                                {
+                                    "id_diem": "m",
+                                    "noi_dung": "Các nội dung cần thiết khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ thiết kế FEED gồm các nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin chung về dự án, vị trí xây dựng, hướng tuyến công trình;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Danh mục, quy mô, loại, cấp công trình; thời hạn sử dụng công trình;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Danh mục quy chuẩn kỹ thuật và tiêu chuẩn chủ yếu áp dụng cho dự án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Các yêu cầu về tính sẵn sàng, độ tin cậy, khả năng bảo trì và an toàn (RAMS);"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Xác định chỉ số đánh giá hiệu suất, năng lực vận tải của dự án; phương án tổ chức khai thác chạy tàu;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Thông tin, thông số kỹ thuật chủ yếu và các yêu cầu cho hệ thống thiết bị, phương tiện chính bao gồm: hệ thống phương tiện; hệ thống thông tin, tín hiệu; hệ thống giám sát; hệ thống cấp điện, điện sức kéo; hệ thống thẻ vé; trung tâm điều khiển chạy tàu; hệ thống kiểm soát môi trường; hệ thống thiết bị phục vụ duy tu, bảo dưỡng tại đề-pô;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Thông tin, thông số kỹ thuật, vật liệu, kích thước chủ yếu và các yêu cầu về công trình tuyến, các công trình trên tuyến: bình đồ, trắc dọc, trắc ngang; giải pháp thiết kế kiến trúc, kết cấu, cơ - điện công trình;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Các bản vẽ cần thiết khác (nếu có);"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Chỉ dẫn kỹ thuật thiết kế FEED;"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Phương án kết nối, giao diện hạ tầng kỹ thuật trong và ngoài công trình; giữa các hạng mục công trình và thiết bị hoặc hệ thống thiết bị của dự án;"
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Phương án kết nối giữa hệ thống đường sắt với hệ thống giao thông; các khu vực đô thị, khu chức năng (nếu có);"
+                                },
+                                {
+                                    "id_diem": "m",
+                                    "noi_dung": "Giải pháp về phòng cháy và chữa cháy, bảo vệ môi trường, ứng phó với biến đổi khí hậu; giải pháp phòng chống thiên tai, phương án cứu hộ và sơ tán;"
+                                },
+                                {
+                                    "id_diem": "n",
+                                    "noi_dung": "Báo cáo đánh giá ảnh hưởng đối với các công trình hiện hữu (nếu có);"
+                                },
+                                {
+                                    "id_diem": "o",
+                                    "noi_dung": "Các yêu cầu về vận hành, bảo trì;"
+                                },
+                                {
+                                    "id_diem": "p",
+                                    "noi_dung": "Mô hình thông tin công trình (BIM) (nếu có yêu cầu);"
+                                },
+                                {
+                                    "id_diem": "q",
+                                    "noi_dung": "Các nội dung cần thiết khác."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Các hồ sơ có liên quan đến phương án phân chia gói thầu, kế hoạch tổng thể lựa chọn nhà thầu, dự toán gói thầu EPC, EC, EP (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Thủ tục về bảo vệ môi trường được thực hiện theo nguyên tắc đồng thời, không yêu cầu bắt buộc xuất trình các văn bản này tại thời điểm trình hồ sơ thẩm định, nhưng phải có kết quả gửi cơ quan chuyên môn về xây dựng trước thời hạn thông báo kết quả thẩm định 05 ngày. Quá thời hạn nêu trên, cơ quan chuyên môn về xây dựng dừng thẩm định để người đề nghị thẩm định bổ sung, hoàn thiện hồ sơ đảm bảo yêu cầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Các tài liệu khác có liên quan.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 11",
+                    "tieu_de": "Báo cáo giữa kỳ của Báo cáo nghiên cứu khả thi đầu tư xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với các dự án quan trọng quốc gia, dự án PPP đáp ứng tiêu chí phân loại là dự án quan trọng quốc gia theo quy định của pháp luật về đầu tư công, trong quá trình lập Báo cáo nghiên cứu khả thi đầu tư xây dựng, tư vấn thiết kế thực hiện lập Báo cáo giữa kỳ, trình cơ quan chuyên môn về xây dựng hoặc Hội đồng thẩm định có ý kiến, báo cáo người quyết định đầu tư xem xét, chấp thuận. Báo cáo giữa kỳ gồm thuyết minh chung và hồ sơ thiết kế FEED.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thuyết minh chung của Báo cáo giữa kỳ gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Thông tin chung về dự án, vị trí xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phân tích, đánh giá các phương án công nghệ, phương án tuyến, vị trí công trình chính trên tuyến;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tổng mức đầu tư xây dựng ước tính quy định tại Điều 23 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đánh giá ban đầu về hiệu quả kinh tế - xã hội; tiến độ thực hiện dự án, đánh giá các yếu tố rủi ro;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đề xuất lựa chọn phương án tối ưu: phương án công nghệ, hướng tuyến và vị trí các điểm khống chế, vị trí công trình chính trên tuyến, tiêu chuẩn chủ yếu áp dụng cho dự án;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Đề xuất về việc phân chia dự án thành phần, tiểu dự án, tiến độ triển khai dự án thành phần, xác định dự án thành phần được ưu tiên triển khai trước khi phê duyệt dự án tổng thể (nếu có). Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án thành phần được ưu tiên triển khai trước được trình thẩm định, phê duyệt trước khi phê duyệt dự án tổng thể."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Hồ sơ thiết kế FEED tại Báo cáo giữa kỳ gồm: Mục 3. THẨM TRA, THẨM ĐỊNH, PHÊ DUYỆT, ĐIỀU CHỈNH DỰ ÁN",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phân tích, đánh giá về tính hiệu quả kinh tế xã hội trong đầu tư, khai thác, vận hành và rủi ro đối với một số phương án công nghệ, thiết bị và đề xuất phương án công nghệ áp dụng cho dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Thuyết minh tính hiệu quả và khả thi đối với việc lựa chọn hướng tuyến và vị trí các điểm khống chế, vị trí công trình chính trên tuyến;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Phương án kết nối với các đầu mối, tuyến giao thông quan trọng, khu chức năng và khu đô thị;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Đề xuất sơ bộ về phân chia dự án thành phần (nếu có);"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Bản vẽ, thuyết minh kèm theo gồm: mô tả cấu trúc tổng thể của hệ thống đường sắt; phương án công nghệ được lựa chọn; các bản vẽ thể hiện hướng tuyến và vị trí các điểm khống chế, vị trí công trình chính trên tuyến;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Mô hình thông tin công trình (nếu có yêu cầu)."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 12",
+                    "tieu_de": "Thẩm tra Báo cáo nghiên cứu khả thi đầu tư xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan chuẩn bị dự án lựa chọn tổ chức tư vấn thẩm tra có đủ điều kiện năng lực để thực hiện thẩm tra Báo cáo nghiên cứu khả thi đầu tư xây dựng song song, đồng thời với việc lập Báo cáo nghiên cứu khả thi đầu tư xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo kết quả thẩm tra được lập theo giai đoạn cho Báo cáo giữa kỳ đối với trường hợp có yêu cầu lập Báo cáo giữa kỳ và cho toàn bộ Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Nội dung thẩm tra đáp ứng yêu cầu của nội dung thẩm định theo quy định tại Điều 16 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 13",
+                    "tieu_de": "Thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng",
+                    "noi_dung_chung": "Đối với dự án sử dụng thiết kế FEED thay thế thiết kế cơ sở, việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng được quy định cụ thể như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án bao gồm việc thẩm định của người quyết định đầu tư, thẩm định của cơ quan chuyên môn về xây dựng theo pháp luật về xây dựng và quy định tại Nghị định này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thẩm quyền thẩm định của cơ quan chuyên môn về xây dựng được quy định cụ thể như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với dự án đường sắt quốc gia, Bộ Xây dựng giao cơ quan chuyên môn về xây dựng trực thuộc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD, Ủy ban nhân dân cấp tỉnh giao cơ quan chuyên môn về xây dựng trực thuộc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Đối với dự án đường sắt quan trọng quốc gia; dự án đường sắt do Quốc hội quyết định, chấp thuận chủ trương đầu tư; dự án đáp ứng tiêu chí phân loại dự án quan trọng quốc gia theo quy định của pháp luật về đầu tư công, Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh được thành lập Hội đồng thẩm định để thực hiện thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với các dự án do Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh quyết định đầu tư, Hội đồng thẩm định thực hiện đồng thời việc thẩm định của cơ quan chuyên môn về xây dựng và cơ quan chuyên môn của người quyết định đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nội dung thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng theo quy định tại Điều 16 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan thực hiện thẩm định được thuê tổ chức, cá nhân có chuyên môn phù hợp tham gia thẩm định. Chi phí thuê tổ chức, cá nhân tham gia thẩm định được tính trong chi phí chuẩn bị đầu tư và do cơ quan chuẩn bị dự án hoặc chủ đầu tư chi trả.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đối với các dự án đầu tư xây dựng sử dụng công nghệ hạn chế chuyển giao hoặc dự án đầu tư xây dựng có nguy cơ tác động xấu đến môi trường theo quy định của pháp luật về bảo vệ môi trường có sử dụng công nghệ, việc thẩm định hoặc có ý kiến về công nghệ thực hiện theo quy định của pháp luật về chuyển giao công nghệ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Việc chấp thuận danh mục tiêu chuẩn cho dự án theo quy định tại điểm đ khoản 3 Điều 24 Luật Đường sắt số 95/2025/QH15 phải hoàn thành trước khi trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 14",
+                    "tieu_de": "Hội đồng thẩm định",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng thẩm định quy định tại điểm c khoản 2 Điều 13 Nghị định này do Bộ trưởng Bộ Xây dựng, Chủ tịch Ủy ban nhân dân cấp tỉnh thành lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng thẩm định gồm Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng và các thành viên khác của Hội đồng, cụ thể như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với Hội đồng thẩm định do Bộ trưởng Bộ Xây dựng thành lập, Hội đồng thẩm định gồm: đại diện lãnh đạo các bộ: Bộ Xây dựng, Bộ Tài chính, Bộ Nông nghiệp và Môi trường, Bộ Khoa học và Công nghệ, Bộ Công Thương, Bộ Công an, Bộ Quốc phòng; các cơ quan chuyên môn trực thuộc Bộ Xây dựng, đại diện Thanh tra Chính phủ, Kiểm toán nhà nước, các Bộ, ngành, địa phương, các cơ quan liên quan, tổ chức tư vấn, chuyên gia. Cơ quan chuyên môn về xây dựng trực thuộc Bộ Xây dựng là Cơ quan thường trực Hội đồng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với Hội đồng thẩm định do Chủ tịch Ủy ban nhân dân cấp tỉnh thành lập, Hội đồng thẩm định gồm: các cơ quan chuyên môn trực thuộc Ủy ban nhân dân cấp tỉnh, tổ chức tư vấn, chuyên gia. Theo yêu cầu của dự án, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định mời đại diện của các Bộ, ngành khác có liên quan làm thành viên Hội đồng. Cơ quan chuyên môn về xây dựng trực thuộc Ủy ban nhân dân cấp tỉnh là Cơ quan thường trực Hội đồng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan thường trực Hội đồng có các nhiệm vụ sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giúp Chủ tịch Hội đồng thẩm định tổ chức công việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng và các hoạt động chung của Hội đồng; phối hợp với các cơ quan liên quan, tư vấn thẩm tra để thực hiện các công việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiếp nhận và kiểm tra hồ sơ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, gửi hồ sơ đến các thành viên Hội đồng, các cơ quan, đơn vị có liên quan;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng kế hoạch thẩm định trình Hội đồng thẩm định;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng thẩm định có các quyền hạn sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xem xét, quyết định các vấn đề về nội dung, chương trình và kế hoạch công tác của Hội đồng, thường trực Hội đồng và các vấn đề khác có liên quan trong quá trình cho ý kiến, thẩm định dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Yêu cầu cơ quan chuẩn bị dự án, tổ chức tư vấn, các cơ quan có liên quan cung cấp các tài liệu liên quan trong quá trình cho ý kiến, thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hội đồng thẩm định tổ chức cho ý kiến đối với Báo cáo giữa kỳ, thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng theo hình thức họp Hội đồng thẩm định hoặc cuộc họp thẩm định hoặc lấy ý kiến thẩm định bằng văn bản. Thời gian cho ý kiến đối với Báo cáo giữa kỳ không quá 30 ngày kể từ ngày nhận đủ hồ sơ; Thời gian thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng không quá 60 ngày kể từ ngày nhận đủ hồ sơ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Hội đồng thẩm định chịu trách nhiệm trước Bộ trưởng Bộ Xây dựng, Chủ tịch Ủy ban nhân dân cấp tỉnh về tổ chức cho ý kiến, thẩm định theo nhiệm vụ được giao; về nội dung ý kiến, kết quả thẩm định, kết luận và kiến nghị của Hội đồng thẩm định theo quy chế hoạt động của Hội đồng thẩm định.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 15",
+                    "tieu_de": "Nội dung, trình tự cho ý kiến Báo cáo giữa kỳ",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan chuẩn bị dự án gửi hồ sơ theo quy định tại khoản 2 Điều này đến cơ quan chuyên môn về xây dựng hoặc Hội đồng thẩm định (sau đây gọi là cơ quan thẩm định) để cho ý kiến đối với các đề xuất tại Báo cáo giữa kỳ về: hướng tuyến và vị trí các điểm khống chế; vị trí công trình chính trên tuyến; phương án công nghệ; tiêu chuẩn chủ yếu áp dụng cho dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ xin ý kiến cơ quan thẩm định gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Báo cáo giữa kỳ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo kết quả thẩm tra của tổ chức tư vấn thẩm tra;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Văn bản quyết định hoặc chấp thuận chủ trương đầu tư dự án (nếu có);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tài liệu khác có liên quan (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trên cơ sở ý kiến của cơ quan thẩm định, người quyết định đầu tư hoặc cơ quan có thẩm quyền đối với dự án PPP xem xét, chấp thuận các nội dung đề xuất quy định tại khoản 1 Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 16",
+                    "tieu_de": "Nội dung thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng",
+                    "noi_dung_chung": "Đối với dự án lập thiết kế FEED thay cho thiết kế cơ sở, nội dung thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng được quy định như sau:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với dự án sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công, dự án PPP, nội dung thẩm định của cơ quan chuyên môn về xây dựng gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sự tuân thủ quy định của pháp luật về lập dự án đầu tư xây dựng; điều kiện năng lực hoạt động xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đánh giá sự phù hợp của thiết kế FEED với quy hoạch mạng lưới đường sắt, quy hoạch khác có liên quan (nếu có) đối với dự án đường sắt quốc gia; với phương án tuyến công trình, vị trí công trình, tổng mặt bằng tuyến được phê duyệt, quy hoạch khu vực TOD được phê duyệt đối với dự án đường sắt địa phương, dự án đường sắt địa phương theo mô hình TOD;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sự phù hợp với chủ trương đầu tư dự án được phê duyệt (nếu có);"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Khả năng kết nối giao thông, hạ tầng kỹ thuật khu vực;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Kiểm tra kết quả thẩm tra của tổ chức tư vấn về đáp ứng yêu cầu về an toàn công trình; yêu cầu về phòng cháy và chữa cháy; việc thực hiện quy định về bảo vệ môi trường;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Kiểm tra kết quả thẩm tra về sự tuân thủ quy chuẩn kỹ thuật và áp dụng tiêu chuẩn theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Sự tuân thủ quy định của pháp luật về xác định tổng mức đầu tư xây dựng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Nội dung đánh giá về tổng mức đầu tư xây dựng tại điểm g khoản 1 Điều này được quy định cụ thể như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng; các căn cứ pháp lý để xác định tổng mức đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Sự phù hợp của phương pháp xác định tổng mức đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sự phù hợp của nội dung các thành phần chi phí của tổng mức đầu tư xây dựng với quy định và các nội dung, yêu cầu của dự án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Sự tuân thủ hoặc phù hợp với các quy định của pháp luật về áp dụng, tham khảo hệ thống định mức xây dựng, giá xây dựng công trình, các công cụ cần thiết khác do cơ quan nhà nước có thẩm quyền ban hành, công bố và việc vận dụng, tham khảo dữ liệu về chi phí của các dự án, công trình tương tự và các công cụ cần thiết khác để xác định tổng mức đầu tư xây dựng."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Đối với dự án sử dụng vốn khác, nội dung thẩm định của cơ quan chuyên môn về xây dựng thực hiện theo quy định tại các điểm a, b, c, d, đ và e khoản 1 Điều này.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Nội dung thẩm định của cơ quan chuyên môn trực thuộc người quyết định đầu tư gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sự phù hợp về quy hoạch, mục tiêu, quy mô đầu tư;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Việc đáp ứng các nội dung của hồ sơ thiết kế FEED với nhiệm vụ thiết kế; danh mục tiêu chuẩn áp dụng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Giải pháp tổ chức thực hiện dự án, kinh nghiệm và năng lực quản lý dự án của chủ đầu tư, phương án giải phóng mặt bằng, hình thức thực hiện dự án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Yếu tố bảo đảm tính hiệu quả của dự án bao gồm xác định tổng mức đầu tư xây dựng; nguồn vốn, khả năng huy động vốn theo tiến độ; phân tích rủi ro, hiệu quả tài chính, hiệu quả kinh tế - xã hội;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Đánh giá các nội dung về thiết kế công nghệ, chuyển giao công nghệ;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Các nội dung khác theo quy định của pháp luật có liên quan và yêu cầu của người quyết định đầu tư."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nội dung thẩm định xác định tổng mức đầu tư xây dựng tại điểm d khoản 4 Điều này được quy định cụ thể như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng; kiểm tra kết quả thẩm tra tổng mức đầu tư xây dựng của tổ chức tư vấn;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Kết quả hoàn thiện, bổ sung hồ sơ trình thẩm định tổng mức đầu tư xây dựng theo các kiến nghị của cơ quan chuyên môn về xây dựng quy định tại khoản 2 Điều này và các ý kiến giải trình;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Sự phù hợp, đầy đủ của việc xác định khối lượng hoặc quy mô công trình, hạng mục công trình, chủng loại và số lượng thiết bị theo dây chuyền công nghệ được lựa chọn để tính toán trong tổng mức đầu tư xây dựng so với thiết kế FEED và Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Xác định giá trị tổng mức đầu tư xây dựng đảm bảo tuân thủ theo quy định, phù hợp với yêu cầu thiết kế, điều kiện xây dựng, mặt bằng giá thị trường và kế hoạch thực hiện dự án;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Phân tích nguyên nhân tăng, giảm và đánh giá việc đảm bảo hiệu quả đầu tư của dự án theo giá trị tổng mức đầu tư xây dựng xác định sau thẩm định."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đối với dự án PPP, nội dung thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng của cơ quan nhà nước có thẩm quyền thực hiện theo pháp luật về đầu tư theo phương thức đối tác công tư, riêng nội dung thẩm định đối với thiết kế FEED thực hiện theo quy định tại Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 17",
+                    "tieu_de": "Phê duyệt dự án đầu tư xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan chuyên môn trực thuộc người quyết định đầu tư có trách nhiệm tổng hợp kết quả thẩm định, trình người quyết định đầu tư phê duyệt dự án, quyết định đầu tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc quyết định đầu tư xây dựng được thể hiện tại quyết định phê duyệt dự án đầu tư xây dựng, gồm các nội dung chủ yếu sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tên dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Địa điểm xây dựng; hướng tuyến công trình (với công trình xây dựng theo tuyến);"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Người quyết định đầu tư; chủ đầu tư;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tư vấn lập dự án, thiết kế FEED; tổ chức tư vấn thẩm tra;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Loại, nhóm dự án; danh mục; loại, cấp công trình chính; thời hạn sử dụng theo thiết kế của công trình chính;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Mục tiêu dự án;"
+                                },
+                                {
+                                    "id_diem": "g",
+                                    "noi_dung": "Diện tích đất sử dụng;"
+                                },
+                                {
+                                    "id_diem": "h",
+                                    "noi_dung": "Quy mô đầu tư xây dựng: quy mô công suất, khả năng phục vụ; một số chỉ tiêu, thông số chính;"
+                                },
+                                {
+                                    "id_diem": "i",
+                                    "noi_dung": "Danh mục tiêu chuẩn chủ yếu được lựa chọn (danh mục tiêu chuẩn chủ yếu có thể được chấp thuận theo văn bản riêng);"
+                                },
+                                {
+                                    "id_diem": "k",
+                                    "noi_dung": "Tổng mức đầu tư; giá trị các khoản mục chi phí trong tổng mức đầu tư;"
+                                },
+                                {
+                                    "id_diem": "l",
+                                    "noi_dung": "Việc phân chia dự án thành phần;"
+                                },
+                                {
+                                    "id_diem": "m",
+                                    "noi_dung": "Kế hoạch tổng thể lựa chọn nhà thầu (nếu có);"
+                                },
+                                {
+                                    "id_diem": "n",
+                                    "noi_dung": "Phương án phân chia gói thầu; dự toán gói thầu EPC, EC, EP (trường hợp có đề xuất phân chia gói thầu);"
+                                },
+                                {
+                                    "id_diem": "o",
+                                    "noi_dung": "Kế hoạch thực hiện, tiến độ thực hiện từng giai đoạn, hạng mục chính của dự án, phân kỳ đầu tư (nếu có), thời hạn của dự án (nếu có);"
+                                },
+                                {
+                                    "id_diem": "p",
+                                    "noi_dung": "Nguồn vốn đầu tư và dự kiến bố trí kế hoạch vốn theo kế hoạch, tiến độ thực hiện dự án;"
+                                },
+                                {
+                                    "id_diem": "q",
+                                    "noi_dung": "Hình thức tổ chức quản lý dự án được áp dụng;"
+                                },
+                                {
+                                    "id_diem": "r",
+                                    "noi_dung": "Yêu cầu về nguồn lực, khai thác sử dụng tài nguyên;"
+                                },
+                                {
+                                    "id_diem": "s",
+                                    "noi_dung": "Phương án đào tạo, chuyển giao công nghệ;"
+                                },
+                                {
+                                    "id_diem": "t",
+                                    "noi_dung": "Các cơ chế phối hợp, chính sách ưu đãi, hỗ trợ thực hiện dự án."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc phê duyệt dự án của cấp có thẩm quyền đối với dự án PPP được thực hiện theo quy định pháp luật về đầu tư theo phương thức đối tác công tư.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trường hợp thực hiện phân chia dự án thành phần, nội dung phê duyệt dự án thành phần là các nội dung tương ứng đối với dự án thành phần.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 18",
+                    "tieu_de": "Điều chỉnh dự án",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc điều chỉnh dự án được thực hiện theo pháp luật về xây dựng và pháp luật có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh cần bổ sung Các nội dung sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Lý do, mục tiêu điều chỉnh dự án, việc đáp ứng điều kiện điều chỉnh dự án theo pháp luật đầu tư công;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo của chủ đầu tư về quá trình thực hiện dự án, tình hình thực tế thi công các công trình xây dựng của dự án đến thời điểm đề xuất điều chỉnh."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Việc thẩm định dự án đầu tư xây dựng điều chỉnh thực hiện theo quy định tại Điều 16 Nghị định này đối với các nội dung điều chỉnh.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương III",
+            "tieu_de_chuong": "LẬP, THẨM ĐỊNH, PHÊ DUYỆT THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU THIẾT KẾ FEED",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 19",
+                    "tieu_de": "Thiết kế xây dựng triển khai sau thiết kế FEED",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Đối với dự án thực hiện lập thiết kế FEED thay cho thiết kế cơ sở tại Báo cáo nghiên cứu khả thi đầu tư xây dựng, thiết kế xây dựng triển khai sau thiết kế FEED là bước thiết kế bản vẽ thi công hoặc thiết kế chi tiết theo thông lệ quốc tế, bảo đảm đủ điều kiện để triển khai thi công xây dựng công trình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Thiết kế xây dựng triển khai sau thiết kế FEED được lập cho từng phần công trình, gói thầu hoặc toàn bộ công trình và đáp ứng yêu cầu sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Phù hợp với nội dung dự án đầu tư xây dựng được duyệt;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Phù hợp với thiết kế FEED được phê duyệt;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Tuân thủ quy chuẩn kỹ thuật, tiêu chuẩn áp dụng, quy định của pháp luật về sử dụng vật liệu xây dựng, đáp ứng yêu cầu về công năng sử dụng, công nghệ áp dụng (nếu có); bảo đảm an toàn chịu lực, an toàn trong sử dụng, mỹ quan, bảo vệ môi trường, ứng phó với biến đổi khí hậu, phòng cháy, chữa cháy và điều kiện an toàn khác;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Có giải pháp thiết kế phù hợp và chi phí xây dựng hợp lý; bảo đảm đồng bộ trong từng công trình và với các công trình liên quan; bảo đảm điều kiện về tiện nghi, vệ sinh, sức khỏe cho người sử dụng; tạo điều kiện cho người khuyết tật, người cao tuổi, trẻ em sử dụng công trình. Khai thác lợi thế và hạn chế tác động bất lợi của điều kiện tự nhiên; ưu tiên sử dụng vật liệu tại chỗ, vật liệu thân thiện với môi trường."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trong quá trình lập thiết kế xây dựng triển khai sau thiết kế FEED, chủ đầu tư được quyết định việc thay đổi một số nội dung nhằm đáp ứng hiệu quả và yêu cầu sử dụng trong trường hợp không dẫn đến việc phải điều chỉnh dự án theo quy định tại Điều 18 Nghị định này , bảo đảm các yêu cầu về quản lý chất lượng, an toàn xây dựng, lắp đặt được quy định tại thiết kế FEED.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chủ đầu tư quyết định việc kiểm soát thiết kế xây dựng triển khai sau thiết kế FEED, cụ thể:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chủ đầu tư tổ chức lập, thẩm định và phê duyệt thiết kế xây dựng triển khai sau thiết kế FEED với gói thầu không thuộc trường hợp quy định tại điểm b khoản này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với các công trình, hạng mục công trình thuộc gói thầu được thực hiện theo hình thức hợp đồng EPC, EC, EP: nhà thầu EPC, EC, EP tổ chức lập, thẩm định, phê duyệt thiết kế xây dựng triển khai sau thiết kế FEED theo đúng thỏa thuận hợp đồng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nhà thầu EPC, EC, EP theo quy định tại điểm b khoản này gửi hồ sơ thiết kế xây dựng triển khai sau thiết kế FEED đã được thẩm tra kèm theo Báo cáo kết quả thẩm tra đến chủ đầu tư để có ý kiến chấp thuận về sự phù hợp với thiết kế FEED, đáp ứng yêu cầu nêu tại hợp đồng đã ký kết trước khi phê duyệt thiết kế xây dựng triển khai sau thiết kế FEED."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Trong quá trình triển khai dự án, trường hợp hệ thống quy chuẩn kỹ thuật, tiêu chuẩn áp dụng đã được phê duyệt có sửa đổi, bổ sung, thay thế hoặc bãi bỏ, thì chủ đầu tư có trách nhiệm rà soát, báo cáo cơ quan thẩm quyền xem xét, quyết định để bảo đảm dự án phù hợp với yêu cầu kỹ thuật mới, thực tiễn triển khai dự án.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 20",
+                    "tieu_de": "Nội dung thẩm định thiết kế xây dựng triển khai sau thiết kế FEED",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc đáp ứng các yêu cầu của nhiệm vụ thiết kế.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đánh giá sự phù hợp của thiết kế xây dựng so với thiết kế FEED tại Báo cáo nghiên cứu khả thi được phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Kiểm tra kết quả thẩm tra của tổ chức tư vấn đánh giá về sự tuân thủ quy chuẩn kỹ thuật, tiêu chuẩn áp dụng và quy định của pháp luật về sử dụng vật liệu xây dựng cho công trình; về đáp ứng yêu cầu an toàn công trình, công trình lân cận và an toàn phòng cháy, chữa cháy.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Sự phù hợp giữa khối lượng chủ yếu của dự toán với khối lượng thiết kế; sự phù hợp của giá trị dự toán xây dựng công trình với giá trị tổng mức đầu tư xây dựng; việc xác định giá trị dự toán công trình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Đánh giá về điều kiện năng lực của tổ chức, cá nhân thực hiện khảo sát, thiết kế và dự toán xây dựng đáp ứng yêu cầu theo quy định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Đối với dự án sử dụng vốn khác hoặc thiết kế xây dựng triển khai sau thiết kế FEED do nhà thầu lập theo quy định tại điểm b khoản 4 Điều 19 Nghị định này , nội dung thẩm định theo quy định tại khoản 1, khoản 2, khoản 3 và khoản 5 Điều này và các nội dung khác theo yêu cầu của chủ đầu tư.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 21",
+                    "tieu_de": "Nội dung phê duyệt thiết kế xây dựng triển khai sau thiết kế FEED",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tên công trình, gói thầu hoặc từng phần công trình, gói thầu.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tên dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Loại, cấp công trình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Địa điểm xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Nhà thầu lập báo cáo khảo sát xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Nhà thầu lập thiết kế xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Đơn vị thẩm tra thiết kế xây dựng (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Quy mô, chỉ tiêu kỹ thuật; các giải pháp thiết kế nhằm sử dụng hiệu quả năng lượng, tiết kiệm tài nguyên (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Thời hạn sử dụng theo thiết kế của công trình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Giá trị dự toán xây dựng theo từng khoản mục chi phí (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Các nội dung khác.",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương IV",
+            "tieu_de_chuong": "QUẢN LÝ CHI PHÍ",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 22",
+                    "tieu_de": "Chi phí cho các hoạt động thực hiện trước khi quyết định đầu tư dự án đường sắt quy định tại khoản 1 Điều 29 Luật Đường sắt số 95/2025/QH15",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Cơ quan chuẩn bị dự án hoặc cơ quan, tổ chức được giao lập dự toán chi phí các hoạt động thực hiện trước quy định tại khoản 1 Điều 29 Luật Đường sắt số 95/2025/QH15 , các công việc được thực hiện đồng thời quy định tại khoản 1 Điều 30 Luật Đường sắt số 95/2025/QH15 lập dự toán trình cấp có thẩm quyền thẩm định, phê duyệt. Đối với các chi phí được người có thẩm quyền cho phép bố trí từ nguồn vốn của dự án thì cấp có thẩm quyền thẩm định, phê duyệt là cơ quan chuẩn bị dự án; các chi phí này được cập nhật vào tổng mức đầu tư sau khi được phê duyệt.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chi phí thực hiện bồi thường, hỗ trợ tái định cư thực hiện theo quy định của pháp luật về bồi thường, hỗ trợ tái định cư.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 23",
+                    "tieu_de": "Tổng mức đầu tư xây dựng ước tính",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng mức đầu tư xây dựng ước tính của Báo cáo giữa kỳ nêu tại Điều 11 Nghị định này gồm chi phí bồi thường, hỗ trợ và tái định cư (nếu có); chi phí xây dựng; chi phí thiết bị; chi phí quản lý dự án; chi phí tư vấn đầu tư xây dựng; chi phí khác và chi phí dự phòng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Tổng mức đầu tư xây dựng ước tính được xác định trên cơ sở quy mô, công suất hoặc năng lực phục vụ theo thiết kế FEED của Báo cáo giữa kỳ và suất vốn đầu tư hoặc suất chi phí xây dựng, suất chi phí thiết bị từ dữ liệu chi phí của dự án đường sắt tương tự về tính chất dự án; công nghệ áp dụng; có phân tích, đánh giá để điều chỉnh quy đổi về thời điểm tính toán, địa điểm xây dựng và bổ sung những chi phí cần thiết khác cho phù hợp với điều kiện cụ thể của dự án, trong đó:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tổng giá trị các chi phí quản lý dự án, chi phí tư vấn, chi phí khác được ước tính không quá 15% tổng chi phí xây dựng và chi phí thiết bị của dự án và chưa bao gồm chi phí lãi vay trong thời gian xây dựng, vốn lưu động ban đầu, một số chi phí cần thiết khác theo quy định của điều ước quốc tế, thỏa thuận vay nước ngoài (nếu có);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi phí dự phòng trong tổng mức đầu tư xây dựng ước tính được tính toán theo quy định, bao gồm cả dự phòng cho yếu tố trượt giá đối với phần chi phí nước ngoài."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 24",
+                    "tieu_de": "Tổng mức đầu tư xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Tổng mức đầu tư xây dựng là toàn bộ chi phí đầu tư xây dựng của dự án được xác định phù hợp với thiết kế FEED và các nội dung khác của Báo cáo nghiên cứu khả thi đầu tư xây dựng. Nội dung các khoản mục chi phí gồm chi phí bồi thường, hỗ trợ và tái định cư (nếu có); chi phí xây dựng; chi phí thiết bị; chi phí quản lý dự án; chi phí tư vấn đầu tư xây dựng; chi phí khác và chi phí dự phòng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Chi phí bồi thường, hỗ trợ và tái định cư được xác định trên cơ sở phương án bồi thường, hỗ trợ và tái định cư của dự án và các chế độ, chính sách của Nhà nước có liên quan.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chi phí xây dựng được xác định theo quy định tại Điều 25 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chi phí thiết bị được xác định theo quy định tại Điều 26 Nghị định này .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Chi phí quản lý dự án được xác định theo định mức tỷ lệ (%) theo quy định hoặc sử dụng dữ liệu chi phí quản lý dự án của các công trình tương tự; dự án đường sắt tương tự trên thế giới đã và đang thực hiện hoặc bằng cách lập dự toán phù hợp với nhiệm vụ được giao, phạm vi, nội dung công việc phải thực hiện, hình thức tổ chức quản lý dự án, thời gian thực hiện dự án, quy mô và đặc điểm công việc quản lý dự án theo đặc thù của dự án. Trường hợp thuê tư vấn quản lý dự án thì chi phí quản lý dự án chỉ bao gồm chi phí quản lý dự án của chủ đầu tư; chi phí thuê tư vấn quản lý dự án được tính trong chi phí tư vấn đầu tư xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Chi phí tư vấn đầu tư xây dựng:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các chi phí tư vấn đầu tư xây dựng theo quy định; chi phí tư vấn hỗ trợ chuẩn bị dự án; chi phí thuê tư vấn quản lý dự án (trong trường hợp thuê tư vấn); chi phí tư vấn pháp lý (nếu có); chi phí tư vấn đánh giá an toàn hệ thống; các chi phí tư vấn khác theo thông lệ quốc tế và điều kiện của dự án (nếu có) thuộc chi phí tư vấn đầu tư xây dựng trong tổng mức đầu tư xây dựng của dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Được sử dụng dữ liệu chi phí của các công trình tương tự, dự án đường sắt tương tự trên thế giới đã và đang thực hiện để xác định các chi phí tư vấn đầu tư xây dựng chưa có quy định về định mức tỷ lệ hoặc đã có nhưng chưa phù hợp, đảm bảo phù hợp với thông lệ quốc tế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Chi phí khác:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Các chi phí khác theo quy định; chi phí vận hành thử, chi phí đào tạo, chi phí tiếp nhận chuyển giao công nghệ; các chi phí khác theo thông lệ quốc tế và điều kiện của dự án (nếu có) thuộc chi phí khác trong tổng mức đầu tư xây dựng của dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chi phí vận hành thử quy định tại Điều 27 Nghị định này ;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Được sử dụng dữ liệu chi phí của các công trình, dự án đường sắt tương tự đã, đang triển khai trên thế giới để xác định các chi phí khác chưa có quy định về định mức tỷ lệ hoặc đã có nhưng chưa phù hợp, đảm bảo phù hợp với thông lệ quốc tế."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Chi phí dự phòng: Chi phí dự phòng trong tổng mức đầu tư được tính toán theo quy định. Trong đó, chi phí dự phòng cho yếu tố trượt giá đối với phần chi phí nước ngoài được tính toán phù hợp với mức độ biến động giá tương ứng theo thông lệ quốc tế (bao gồm cả dự phòng biến động tỷ giá).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án tổ chức lập, thực hiện thẩm định và phê duyệt dự toán chi phí chuẩn bị dự án, chi phí các công việc được triển khai thực hiện đồng thời quy định tại Điều 30 Luật Đường sắt số 95/2025/QH15 . Các chi phí này sau khi được phê duyệt được cập nhật vào tổng mức đầu tư xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Việc sử dụng dữ liệu về chi phí của hạng mục công việc, công trình, hạng mục công trình, dự án tương tự nêu tại các khoản 5, điểm b khoản 6, điểm c khoản 7 Điều này, khoản 4 Điều 25 và khoản 3 Điều 26 , cần tính toán, quy đổi cho phù hợp với nội dung, phạm vi, tính chất chi phí, thời điểm tính toán, địa điểm xây dựng và điều kiện cụ thể của dự án và phải được phân tích, đánh giá, thuyết minh rõ trong Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Được tính toán, xác định trong tổng mức đầu tư xây dựng các khoản mục chi phí của các dự án đường sắt có tính chất, điều kiện triển khai tương tự trên thế giới đối với các khoản mục chi phí chưa được quy định trong pháp luật Việt Nam hoặc đã có quy định nhưng chưa phù hợp với tính chất, điều kiện triển khai dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Khi xác định các khoản mục chi phí trong tổng mức đầu tư theo quy định tại khoản 10, khoản 11 Điều này phải đảm bảo nguyên tắc tính đúng, tính đủ, đảm bảo đồng bộ, không trùng lặp, chồng chéo về phạm vi, nội dung, khối lượng công việc, hạng mục công việc.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Tổng mức đầu tư xây dựng được điều chỉnh khi dự án được điều chỉnh quy định tại Điều 18 Nghị định này . Việc thẩm tra, thẩm định tổng mức đầu tư xây dựng thực hiện theo quy định Điều 12, Điều 16 Nghị định này và quy định của pháp luật về xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "14",
+                            "noi_dung_khoan": "Chi phí cho hoạt động tham vấn tổ chức trong nước và nước ngoài quy định tại khoản 2 Điều 27 Luật Đường sắt số 95/2025/QH15 do các bên tự cân đối, thu xếp.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 25",
+                    "tieu_de": "Chi phí xây dựng trong tổng mức đầu tư xây dựng",
+                    "noi_dung_chung": "Chi phí xây dựng (gồm cả chi phí liên quan đến giải pháp công nghệ, biện pháp thi công nếu có) được xác định trên cơ sở khối lượng công tác xây dựng; nhóm, loại công tác xây dựng, đơn vị kết cấu hoặc bộ phận công trình; hoặc hạng mục công trình, công trình và giá xây dựng (gồm: đơn giá xây dựng chi tiết đầy đủ (đơn giá xây dựng tổng hợp), giá xây dựng tổng hợp, dữ liệu chi phí xây dựng, suất chi phí xây dựng) tương ứng và một số chi phí có liên quan khác, cụ thể:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khối lượng công tác xây dựng; nhóm, loại công tác xây dựng, đơn vị kết cấu, bộ phận công trình; quy mô công trình, hạng mục công trình được xác định trên cơ sở thiết kế FEED và các tài liệu của Báo cáo nghiên cứu khả thi đầu tư xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Đơn giá xây dựng tổng hợp, giá xây dựng tổng hợp được lập tương ứng với danh mục và nội dung của khối lượng công tác xây dựng; nhóm, loại công tác xây dựng, đơn vị kết cấu, bộ phận công trình. Đơn giá xây dựng tổng hợp, giá xây dựng tổng hợp được xác định theo giá công bố của cơ quan nhà nước có thẩm quyền hoặc được xác định trên cơ sở giá thị trường hoặc theo giá tương tự ở các công trình đã thực hiện hoặc tổng hợp từ các đơn giá xây dựng chi tiết cho một đơn vị tính của nhóm, loại công tác xây dựng, đơn vị kết cấu, bộ phận công trình.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Trường hợp không thể xác định chi phí xây dựng theo đơn giá xây dựng tổng hợp, giá xây dựng tổng hợp tại khoản 2 Điều này, thì sử dụng suất chi phí xây dựng, dữ liệu chi phí xây dựng để xác định. Suất chi phí xây dựng được xác định trên cơ sở suất chi phí xây dựng (trong suất vốn đầu tư xây dựng) do cơ quan có thẩm quyền công bố phù hợp với loại công trình; dữ liệu chi phí xây dựng được xác định theo dữ liệu chi phí của công tác xây dựng; nhóm, loại công tác xây dựng, đơn vị kết cấu, bộ phận công trình; công trình, hạng mục công trình tương tự, có sự đánh giá, quy đổi, tính toán về thời điểm xác định chi phí xây dựng, địa điểm thực hiện dự án; bổ sung các chi phí cần thiết khác chưa được tính trong suất chi phí xây dựng, dữ liệu chi phí xây dựng phù hợp với điều kiện cụ thể của công trình, dự án.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Được sử dụng hệ thống định mức, giá xây dựng do các tổ chức trong nước, nước ngoài công bố của các hạng mục công việc tương tự của công trình, hạng mục công trình tương tự hoặc của các hạng mục công việc tương tự thuộc dự án đường sắt tương tự đã và đang triển khai trên thế giới để xác định chi phí xây dựng trong tổng mức đầu tư xây dựng đối với các hạng mục công việc có nhưng chưa phù hợp hoặc chưa có trong hệ thống định mức xây dựng, giá xây dựng được cấp có thẩm quyền ban hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 26",
+                    "tieu_de": "Chi phí thiết bị trong tổng mức đầu tư xây dựng",
+                    "noi_dung_chung": "Chi phí thiết bị (bao gồm chi phí thiết bị công trình, chi phí thiết bị công nghệ) được xác định trên cơ sở khối lượng, số lượng, chủng loại thiết bị; hệ thống thiết bị và giá mua thiết bị, hệ thống thiết bị, các chi phí có liên quan (gồm cả chi phí bản quyền công nghệ nếu có), cụ thể:",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Khối lượng, số lượng, chủng loại thiết bị; hệ thống thiết bị được xác định trên cơ sở phương án công nghệ, kỹ thuật của thiết bị được lựa chọn theo thiết kế FEED và các tài liệu của Báo cáo nghiên cứu khả thi đầu tư xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Căn cứ vào điều kiện cụ thể của dự án và nguồn thông tin, số liệu, dữ liệu có được để xác định chi phí thiết bị của dự án như sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với các loại thiết bị có đủ nguồn thông tin, số liệu chi tiết về khối lượng, số lượng, chủng loại thiết bị và giá tương ứng, thì chi phí thiết bị được xác định trên cơ sở thông tin về giá thiết bị trong hệ thống cơ sở dữ liệu của cơ quan nhà nước có thẩm quyền hoặc lựa chọn mức giá phù hợp, đảm bảo tính cạnh tranh giữa các báo giá của nhà sản xuất hoặc nhà cung ứng thiết bị (trừ những loại thiết bị lần đầu xuất hiện trên thị trường và chỉ có duy nhất trên thị trường hoặc chỉ có duy nhất một nhà sản xuất, một nhà cung ứng hệ thống thiết bị trên thị trường); hoặc lựa chọn giá thiết bị tương tự về công suất, công nghệ và xuất xứ trên thị trường và của công trình đã và đang thực hiện được quy đổi phù hợp với thời điểm tính toán; đảm bảo đáp ứng yêu cầu cung cấp thiết bị cho công trình, dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Đối với các loại thiết bị đồng bộ theo hệ thống, có thông tin báo giá, giá chào hàng đồng bộ theo hệ thống, thì chi phí thiết bị xác định trên cơ sở lựa chọn mức giá phù hợp, đảm bảo tính cạnh tranh giữa các báo giá hoặc giá chào hàng thiết bị đồng bộ của nhà sản xuất hoặc đơn vị cung ứng thiết bị; hoặc giá hệ thống thiết bị tương tự cùng quy mô, công suất, công nghệ và xuất xứ trên thị trường và của công trình, dự án tương tự đã và đang thực hiện được quy đổi phù hợp với thời điểm tính toán; đảm bảo đáp ứng yêu cầu cung cấp thiết bị cho công trình, dự án."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Được sử dụng giá mua thiết bị, hệ thống thiết bị (và các chi phí có liên quan khác), dữ liệu chi phí thiết bị do các tổ chức trong nước, nước ngoài công bố của các hạng mục công việc tương tự của công trình, hạng mục công trình tương tự; hoặc của các hạng mục công việc tương tự, của công trình, hạng mục công trình thuộc dự án đường sắt tương tự đã và đang triển khai trên thế giới để xác định chi phí thiết bị trong tổng mức đầu tư xây dựng đối với các hạng mục công việc có nhưng chưa phù hợp hoặc chưa có trong hệ thống định mức xây dựng, giá được cấp có thẩm quyền ban hành.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 27",
+                    "tieu_de": "Chi phí vận hành thử",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Việc tính toán, xác định chi phí vận hành thử trong tổng mức đầu tư xây dựng phải phù hợp với phương án vận hành thử nêu trong Báo cáo nghiên cứu khả thi đầu tư xây dựng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Khi xác định chi phí vận hành thử, được:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sử dụng hệ thống định mức, đơn giá vận hành do các tổ chức trong nước, nước ngoài công bố; hoặc của dự án đường sắt tương tự triển khai trên thế giới và được quy đổi phù hợp với nội dung, phạm vi, tính chất chi phí, thời điểm tính toán, địa điểm xây dựng và điều kiện cụ thể của dự án trong trường hợp hệ thống định mức, đơn giá vận hành do cấp có thẩm quyền ban hành không có hoặc có nhưng chưa phù hợp với công trình, dự án."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Áp dụng các khoản mục chi phí như các dự án đường sắt có tính chất, điều kiện triển khai tương tự trên thế giới khi pháp luật Việt Nam chưa quy định hoặc đã có quy định nhưng chưa phù hợp với công trình, dự án."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 28",
+                    "tieu_de": "Dự toán xây dựng, dự toán gói thầu",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Dự toán gói thầu EPC, EC, EP:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Dự toán gói thầu EPC, EC, EP được xác định trên cơ sở thiết kế FEED, các khoản mục chi phí trong tổng mức đầu tư xây dựng và các nội dung khác trong Báo cáo nghiên cứu khả thi đầu tư xây dựng, phù hợp với nội dung, phạm vi, thời gian thực hiện của gói thầu; và được phê duyệt tại Quyết định phê duyệt dự án (trường hợp có đề xuất phân chia gói thầu);"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Căn cứ tổng mức đầu tư xây dựng, kế hoạch tổng thể lựa chọn nhà thầu, dự toán gói thầu được duyệt theo quy định tại điểm a khoản này, chủ đầu tư cập nhật giá gói thầu EPC, EC, EP theo quy định của pháp luật về đấu thầu (nếu cần thiết); tổ chức lập, phê duyệt kế hoạch lựa chọn nhà thầu đối với các gói thầu khác theo quy định của pháp luật về đấu thầu."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Việc sử dụng định mức xây dựng, giá xây dựng công trình, mức chi phí, dữ liệu về chi phí; áp dụng các khoản mục chi phí quy định tại khoản 1, khoản 5 Điều 32 Luật Đường sắt số 95/2025/QH15 để xác định dự toán xây dựng, dự toán gói thầu thuộc dự án cần phù hợp với nội dung, phạm vi, tính chất chi phí, thời điểm tính toán, địa điểm xây dựng và điều kiện cụ thể của công trình, gói thầu và phải được phân tích, đánh giá, thuyết minh rõ trong dự toán xây dựng, dự toán gói thầu. Thực hiện quy đổi chi phí về thời điểm tính toán, địa điểm xây dựng như quy định tại khoản 10 Điều 24 Nghị định này .",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id_chuong": "Chương V",
+            "tieu_de_chuong": "ĐIỀU KHOẢN THI HÀNH",
+            "danh_sach_dieu": [
+                {
+                    "id_dieu": "Điều 29",
+                    "tieu_de": "Trách nhiệm thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Bộ Xây dựng có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước về những nội dung thuộc phạm vi điều chỉnh của Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Hướng dẫn, kiểm tra các Bộ, ngành, cơ quan, tổ chức có liên quan thực hiện các quy định của Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chỉ đạo tổ chức thu thập thông tin, dữ liệu chi phí phục vụ việc công bố suất vốn đầu tư, giá xây dựng tổng hợp theo thẩm quyền;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chỉ đạo tổ chức thu thập thông tin, dữ liệu hệ thống định mức kinh tế - kỹ thuật của các nước trên thế giới để chuyển đổi, hoàn thiện phục vụ việc xây dựng và ban hành định mức xây dựng, định mức bảo dưỡng, vận hành, bảo trì các công trình;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Bố trí ngân sách để thực hiện trách nhiệm nêu tại điểm c, điểm d khoản này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Ủy ban nhân dân cấp tỉnh có trách nhiệm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Chịu trách nhiệm quản lý nhà nước về những nội dung thuộc phạm vi điều chỉnh của Nghị định này trên địa bàn hành chính của mình;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Chỉ đạo, kiểm tra các cơ quan chuyên môn về xây dựng trong việc tổ chức thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng theo quy định của Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Chỉ đạo tổ chức thu thập thông tin, dữ liệu chi phí (nếu cần thiết) để công bố suất vốn đầu tư, giá xây dựng tổng hợp phục vụ việc quản lý trên địa bàn;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Chỉ đạo tổ chức thu thập thông tin, dữ liệu và xây dựng hệ thống định mức kinh tế - kỹ thuật để phục vụ việc ban hành định mức xây dựng và định mức bảo dưỡng, vận hành, bảo trì các công trình;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Bố trí ngân sách để thực hiện trách nhiệm nêu tại điểm c, điểm d khoản này."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Chủ đầu tư, các đơn vị tư vấn, các nhà thầu và các tổ chức, cá nhân có liên quan có trách nhiệm cung cấp thông tin, dữ liệu phục vụ việc xây dựng hệ thống định mức, phục vụ công tác quản lý nhà nước quy định tại điểm c khoản 1 và điểm a, b khoản 3 Điều này.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 30",
+                    "tieu_de": "Sửa đổi, bổ sung, bãi bỏ một số Điều của Nghị định số 175/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý hoạt động xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung khoản 2 Điều 3 như sau: “2. Công trình ảnh hưởng lớn đến an toàn, lợi ích cộng đồng là công trình thuộc danh mục quy định tại Phụ lục III Nghị định số 144/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sửa đổi điểm a khoản 3 Điều 16 như sau: “a) Cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành thẩm định đối với dự án do Thủ tướng Chính phủ giao; dự án nhà máy điện hạt nhân; dự án có công trình cấp đặc biệt; dự án thuộc lĩnh vực hàng không, hàng hải; dự án đường sắt quốc gia; dự án có công trình theo tuyến được xây dựng trên địa bàn từ hai tỉnh trở lên không phải do Ủy ban nhân dân cấp tỉnh là cơ quan chủ quản theo pháp luật về đầu tư công hoặc cơ quan có thẩm quyền theo pháp luật về đầu tư theo phương thức đối tác công tư.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sửa đổi điểm a khoản 2 Điều 44 Nghị định số 175/2024/NĐ-CP : “a) Cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở đối với công trình thuộc: dự án do Thủ tướng Chính phủ giao; dự án nhà máy điện hạt nhân; dự án có công trình cấp đặc biệt; dự án thuộc lĩnh vực hàng không, hàng hải; dự án đường sắt quốc gia; dự án có công trình theo tuyến được xây dựng trên địa bàn từ hai tỉnh trở lên không phải do Ủy ban nhân dân cấp tỉnh là cơ quan chủ quản theo pháp luật về đầu tư công hoặc cơ quan có thẩm quyền theo pháp luật về đầu tư theo phương thức đối tác công tư.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Bãi bỏ Phụ lục XI.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 31",
+                    "tieu_de": "Sửa đổi, bổ sung, bãi bỏ một số điều của Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 của Chính phủ quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung Điều 24 như sau: “2. Thẩm quyền kiểm tra:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Sửa đổi, bổ sung khoản 2 Điều 24 (đã được sửa đổi, bổ sung tại khoản 6 Điều 11 Nghị định số 35/2023/NĐ-CP , khoản 1 Điều 123 Nghị định số 175/2024/NĐ-CP và khoản 1 Điều 13 Nghị định số 144/2025/NĐ-CP ) như sau:"
+                                },
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Hội đồng theo quy định tại Điều 25 Nghị định này kiểm tra đối với công trình quy định tại điểm a khoản 1 Điều này ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành kiểm tra đối với công trình do Thủ tướng Chính phủ giao, công trình cấp đặc biệt thuộc trách nhiệm quản lý của bộ theo quy định tại khoản 3 Điều 52 Nghị định này; công trình do bộ quản lý công trình xây dựng chuyên ngành quyết định đầu tư thuộc chuyên ngành quản lý; công trình thuộc dự án nhà máy điện hạt nhân, dự án thuộc lĩnh vực hàng không, hàng hải, dự án đường sắt quốc gia; công trình được xây dựng trên địa bàn hành chính từ hai tỉnh trở lên thuộc dự án không phải do Ủy ban nhân dân cấp tỉnh là cơ quan chủ quản theo pháp luật về đầu tư công hoặc cơ quan có thẩm quyền theo pháp luật về đầu tư theo phương thức đối tác công tư;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Cơ quan chuyên môn về xây dựng thuộc Ủy ban nhân dân cấp tỉnh kiểm tra các loại công trình xây dựng trên địa bàn thuộc trách nhiệm quản lý theo quy định tại khoản 4 Điều 52 Nghị định này, trừ các công trình quy định tại các điểm a và b khoản này. Ủy ban nhân dân cấp tỉnh quyết định việc phân cấp thẩm quyền kiểm tra công tác nghiệm thu của cơ quan chuyên môn về xây dựng thuộc Ủy ban nhân dân cấp tỉnh cho cơ quan được giao quản lý xây dựng thuộc Ủy ban nhân dân cấp xã thực hiện;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định về thẩm quyền thực hiện kiểm tra đối với các công trình phục vụ quốc phòng, an ninh.”."
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Bãi bỏ khoản 2a, khoản 2d Điều 24 ."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung điểm b khoản 4 Điều 35 như sau: “Đối với trường hợp sửa chữa công trình, thiết bị công trình có chi phí thực hiện từ 500 triệu đồng trở lên sử dụng nguồn vốn nhà nước ngoài đầu tư công và vốn ngân sách nhà nước chi thường xuyên thì chủ sở hữu hoặc người quản lý sử dụng công trình tổ chức thực hiện theo quy định của pháp luật về đầu tư xây dựng công trình.”.",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 32",
+                    "tieu_de": "Sửa đổi, bổ sung một số điều của Nghị định số 123/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định chi tiết về thiết kế kỹ thuật tổng thể và cơ chế đặc thù cho một số dự án đường sắt",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung khoản 1 Điều 4 như sau: “1. Việc khảo sát, lập, thẩm định, phê duyệt dự án, thiết kế xây dựng; quản lý năng lực; quản lý chi phí đầu tư xây dựng; lựa chọn nhà thầu, quản lý hợp đồng xây dựng; kiện toàn Ban quản lý dự án chuyên ngành thực hiện theo các cơ chế, chính sách đặc thù, đặc biệt quy định cụ thể tại Nghị định này. Những nội dung không được quy định trong Nghị định này thực hiện theo quy định của Chính phủ về quản lý hoạt động xây dựng, quản lý hợp đồng xây dựng và pháp luật có liên quan. Việc quản lý chi phí đầu tư xây dựng thực hiện theo quy định tại Nghị định này và các quy định có liên quan về quản lý chi phí đầu tư xây dựng. Trong quá trình triển khai thực hiện các dự án tại Chương II , Chương III của Nghị định này, trường hợp cần thiết, Bộ Xây dựng được quy định, hướng dẫn riêng về quản lý chi phí đầu tư xây dựng, định mức xây dựng, giá xây dựng theo đặc thù cho dự án.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung khoản 2 Điều 8 và khoản 2 Điều 36 như sau: “2. Nhà thầu khảo sát chịu trách nhiệm toàn diện trước pháp luật về chất lượng khảo sát xây dựng do mình thực hiện. Việc phê duyệt Báo cáo kết quả khảo sát xây dựng của cơ quan chuẩn bị dự án không thay thế và không làm giảm trách nhiệm về chất lượng khảo sát xây dựng do nhà thầu khảo sát thực hiện.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung khoản 2 Điều 11 như sau: “2. Báo cáo giữa kỳ được Hội đồng thẩm định cho ý kiến, báo cáo người quyết định đầu tư xem xét, chấp thuận theo trình tự quy định tại Điều 16 của Nghị định này .”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung Điều 14 như sau: “Điều 14. Hội đồng thẩm định",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Hội đồng thẩm định do Bộ trưởng Bộ Xây dựng thành lập.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hội đồng thẩm định gồm Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng và các thành viên khác của Hội đồng. Các thành viên Hội đồng gồm các cơ quan chuyên môn trực thuộc Bộ Xây dựng, đại diện lãnh đạo các bộ: Bộ Xây dựng, Bộ Tài chính, Bộ Nông nghiệp và Môi trường, Bộ Khoa học và Công nghệ, Bộ Công Thương, Bộ Giáo dục và Đào tạo, Bộ Công an, Bộ Quốc phòng; đại diện lãnh đạo Thanh tra Chính phủ; đại diện lãnh đạo Kiểm toán nhà nước; đại diện lãnh đạo các bộ, ngành, địa phương, các cơ quan liên quan, tổ chức tư vấn, chuyên gia. Cơ quan chuyên môn về xây dựng trực thuộc Bộ Xây dựng là Cơ quan thường trực Hội đồng.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Cơ quan thường trực hội đồng có các nhiệm vụ sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Giúp Chủ tịch Hội đồng thẩm định tổ chức công việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng và các hoạt động chung của Hội đồng; phân công nhiệm vụ thẩm định của các thành viên Hội đồng; phối hợp với các cơ quan liên quan, tư vấn thẩm tra để thực hiện các công việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Tiếp nhận và kiểm tra hồ sơ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, gửi hồ sơ đến các thành viên Hội đồng, các cơ quan, đơn vị có liên quan;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Xây dựng kế hoạch thẩm định trình Hội đồng thẩm định;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Thực hiện các nhiệm vụ khác do Chủ tịch Hội đồng giao."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Hội đồng thẩm định có các quyền hạn sau:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Xem xét, quyết định các vấn đề về nội dung, chương trình và kế hoạch công tác của Hội đồng, thường trực Hội đồng và các vấn đề khác có liên quan trong quá trình cho ý kiến, thẩm định dự án;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Yêu cầu cơ quan chuẩn bị dự án, tổ chức tư vấn, các cơ quan có liên quan cung cấp các tài liệu liên quan trong quá trình cho ý kiến, thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Được mời tổ chức, cá nhân có chuyên môn phù hợp tham gia thẩm định hoặc thuê tổ chức thẩm tra phục vụ thẩm định. Chi phí mời tổ chức, cá nhân tham gia thẩm định hoặc chi phí thẩm tra phục vụ thẩm định được tính trong chi phí chuẩn bị đầu tư và do cơ quan chuẩn bị dự án hoặc chủ đầu tư chi trả."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Hội đồng, Cơ quan thường trực Hội đồng thẩm định chịu trách nhiệm trước Bộ trưởng Bộ Xây dựng về tổ chức cho ý kiến, thẩm định theo nhiệm vụ được giao; về nội dung ý kiến, kết quả thẩm định, kết luận và kiến nghị của Hội đồng thẩm định theo quy chế hoạt động của Hội đồng thẩm định.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung Điều 16 như sau: “1. Chủ đầu tư gửi hồ sơ theo quy định tại khoản 2 Điều này đến Cơ quan thường trực Hội đồng thẩm định để cho ý kiến đối với các đề xuất tại Báo cáo giữa kỳ về: hướng tuyến và vị trí các điểm khống chế; vị trí công trình chính trên tuyến; phương án công nghệ; tiêu chuẩn chủ yếu áp dụng cho dự án; dự án thành phần, tiểu dự án được ưu tiên triển khai trước (nếu có).",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ xin ý kiến Hội đồng thẩm định gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Báo cáo giữa kỳ;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo kết quả thẩm tra của tổ chức tư vấn thẩm tra;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Nghị quyết của Quốc hội về chủ trương đầu tư dự án;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Tài liệu khác có liên quan (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thời gian cho ý kiến của Hội đồng thẩm định không quá 30 ngày kể từ ngày nhận đủ hồ sơ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Trên cơ sở ý kiến của Hội đồng thẩm định, người quyết định đầu tư xem xét, chấp thuận các nội dung đề xuất quy định tại khoản 1 Điều này.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "6",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung Điều 17 như sau: “1. Chủ đầu tư gửi hồ sơ quy định tại khoản 2 Điều này đến Cơ quan thường trực Hội đồng thẩm định để tổ chức thẩm định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ trình thẩm định gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tờ trình;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo kết quả thẩm tra Báo cáo nghiên cứu khả thi đầu tư xây dựng của tổ chức tư vấn thẩm tra;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Văn bản chấp thuận của người quyết định đầu tư về Báo cáo giữa kỳ;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Nghị quyết của Quốc hội về chủ trương đầu tư dự án;"
+                                },
+                                {
+                                    "id_diem": "e",
+                                    "noi_dung": "Tài liệu khác có liên quan (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thời gian thẩm định của Hội đồng thẩm định không quá 60 ngày kể từ ngày nhận đủ hồ sơ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chủ đầu tư hoàn thiện hồ sơ dự án theo yêu cầu của Hội đồng thẩm định; gửi hồ sơ tổng mức đầu tư xây dựng đến Kiểm toán nhà nước để thực hiện kiểm toán làm cơ sở phê duyệt dự án. Kiểm toán nhà nước có kết quả kiểm toán trong thời hạn tối đa không quá 30 ngày kể từ ngày nhận được đầy đủ hồ sơ đề nghị kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan thường trực Hội đồng thẩm định tổng hợp, trình người quyết định đầu tư xem xét, quyết định đầu tư.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "7",
+                            "noi_dung_khoan": "Bãi bỏ điểm c, điểm d khoản 6 Điều 23 .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "8",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung khoản 4 Điều 25 như sau: “4. Hội đồng thẩm định được thành lập theo quy định tại Điều 14 Nghị định này . Hội đồng thẩm định thực hiện việc lựa chọn tổ chức tư vấn thẩm tra để thẩm tra Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án song song, đồng thời với việc lập Báo cáo nghiên cứu khả thi đầu tư xây dựng”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "9",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung Điều 26 như sau: “1. Chủ đầu tư gửi hồ sơ quy định tại khoản 2 Điều này đến Cơ quan thường trực Hội đồng thẩm định để tổ chức thẩm định.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Hồ sơ trình thẩm định gồm:",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Tờ trình;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Báo cáo nghiên cứu khả thi đầu tư xây dựng;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Báo cáo thẩm tra Báo cáo nghiên cứu khả thi đầu tư xây dựng của tổ chức tư vấn thẩm tra;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Nghị quyết của Quốc hội về chủ trương đầu tư dự án;"
+                                },
+                                {
+                                    "id_diem": "đ",
+                                    "noi_dung": "Tài liệu khác có liên quan (nếu có)."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "3",
+                            "noi_dung_khoan": "Thời gian thẩm định của Hội đồng thẩm định không quá 60 ngày kể từ ngày nhận đủ hồ sơ.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "4",
+                            "noi_dung_khoan": "Chủ đầu tư hoàn thiện hồ sơ dự án theo yêu cầu của Hội đồng thẩm định; gửi hồ sơ tổng mức đầu tư xây dựng đến Kiểm toán nhà nước để thực hiện kiểm toán làm cơ sở phê duyệt dự án. Kiểm toán nhà nước có kết quả kiểm toán trong thời hạn tối đa không quá 30 ngày kể từ ngày nhận được đầy đủ hồ sơ đề nghị kiểm toán.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "5",
+                            "noi_dung_khoan": "Cơ quan thường trực Hội đồng thẩm định tổng hợp, trình người quyết định đầu tư xem xét, quyết định đầu tư.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "10",
+                            "noi_dung_khoan": "Bãi bỏ điểm a, điểm b khoản 5 Điều 31 .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "11",
+                            "noi_dung_khoan": "Sửa đổi, bổ sung khoản 3 Điều 43 như sau: “3. Trong quá trình thẩm định, cơ quan chủ trì thẩm định và cơ quan chuyên môn về xây dựng được lấy ý kiến phối hợp của các cơ quan, tổ chức có liên quan về các nội dung thẩm định; được mời tổ chức, cá nhân có chuyên môn phù hợp tham gia thẩm định hoặc thuê tổ chức thẩm tra phục vụ thẩm định. Chi phí mời tổ chức, cá nhân tham gia thẩm định hoặc chi phí thẩm tra phục vụ thẩm định được tính trong chi phí chuẩn bị đầu tư và do cơ quan chuẩn bị dự án hoặc chủ đầu tư chi trả.”.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "12",
+                            "noi_dung_khoan": "Thay thế cụm từ “Hội đồng thẩm định nhà nước” bằng cụm từ “Hội đồng thẩm định” tại điểm a khoản 3 Điều 1; khoản 6 Điều 11; khoản 1, 2 Điều 15 ; khoản 1 Điều 18; khoản 3 và khoản 5 Điều 25; khoản 1 Điều 27; khoản 4 Điều 59 .",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "13",
+                            "noi_dung_khoan": "Bãi bỏ điểm a khoản 2 Điều 62 .",
+                            "diem": []
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 33",
+                    "tieu_de": "Quy định chuyển tiếp",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Quy định chuyển tiếp đối với nội dung tại Nghị định số 06/2021/NĐ-CP :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Công trình xây dựng khởi công trước ngày Nghị định này có hiệu lực thi hành thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định số 06/2021/NĐ-CP nhưng không thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định này thì không tiếp tục thực hiện việc kiểm tra công tác nghiệm thu. Chủ đầu tư có trách nhiệm tổ chức quản lý chất lượng, quản lý thi công xây dựng, nghiệm thu hoàn thành công trình, bàn giao đưa vào khai thác, sử dụng theo quy định và chịu trách nhiệm về kết quả nghiệm thu của mình;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Công trình xây dựng khởi công trước ngày Nghị định này có hiệu lực thi hành thuộc đối tượng kiểm tra công tác nghiệm thu theo quy định của Nghị định số 06/2021/NĐ-CP và Nghị định này, đã được cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành kiểm tra công tác nghiệm thu thì cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành tiếp tục thực hiện kiểm tra công tác nghiệm thu hoàn thành đối với công trình này và các công trình thuộc đối tượng kiểm tra còn lại của dự án có công trình được quy định chuyển tiếp tại điểm này, trừ trường hợp công trình đã được cơ quan chuyên môn về xây dựng thuộc Ủy ban nhân dân cấp tỉnh tổ chức kiểm tra."
+                                }
+                            ]
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Quy định chuyển tiếp đối với nội dung tại Nghị định số 175/2024/NĐ-CP :",
+                            "diem": [
+                                {
+                                    "id_diem": "a",
+                                    "noi_dung": "Đối với các dự án đã được thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng theo quy định của Nghị định số 175/2024/NĐ-CP nhưng không thuộc đối tượng thẩm định của cơ quan chuyên môn về xây dựng theo quy định của Nghị định này, khi thực hiện điều chỉnh thì không yêu cầu phải thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh tại cơ quan chuyên môn về xây dựng;"
+                                },
+                                {
+                                    "id_diem": "b",
+                                    "noi_dung": "Dự án, công trình xây dựng đã trình cơ quan chuyên môn về xây dựng thẩm định hoặc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng của dự án điều chỉnh, thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh trước ngày Nghị định này có hiệu lực thi hành và đủ điều kiện thẩm định nhưng chưa có thông báo kết quả thẩm định thì việc thực hiện thẩm định của cơ quan chuyên môn về xây dựng được tiếp tục thực hiện theo quy định của Nghị định số 175/2024/NĐ-CP ; Nghị định số 144/2025/NĐ-CP , trường hợp không đủ điều kiện thẩm định hoặc kết quả thẩm định kết luận không đủ điều kiện trình phê duyệt, chủ đầu tư phải hoàn thiện các yêu cầu và trình thẩm định lại theo quy định tại Nghị định này;"
+                                },
+                                {
+                                    "id_diem": "c",
+                                    "noi_dung": "Dự án đã được cơ quan chuyên môn về xây dựng thuộc Bộ quản lý công trình xây dựng chuyên ngành thẩm định thiết kế cơ sở, Báo cáo nghiên cứu khả thi đầu tư xây dựng toàn bộ hoặc một phần theo giai đoạn thực hiện trước ngày Nghị định này có hiệu lực thi hành, thẩm quyền thẩm định Báo cáo nghiên cứu khả thi các giai đoạn còn lại của dự án hoặc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh thực hiện theo quy định tại Nghị định số 175/2024/NĐ- CP, trừ trường hợp đã được cơ quan chuyên môn xây dựng thuộc Ủy ban nhân dân cấp tỉnh thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh theo quy định của Nghị định số 144/2025/NĐ-CP ;"
+                                },
+                                {
+                                    "id_diem": "d",
+                                    "noi_dung": "Công trình xây dựng đã được cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở cho toàn bộ công trình hoặc từng phần của công trình theo giai đoạn thi công trước ngày Nghị định này có hiệu lực thi hành, thẩm quyền thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở các phần còn lại của công trình hoặc thiết kế điều chỉnh công trình thực hiện theo quy định tại Nghị định số 175/2024/NĐ-CP , trừ trường hợp đã được cơ quan chuyên môn xây dựng thuộc Ủy ban nhân dân cấp tỉnh thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh hoặc các phần còn lại của công trình theo quy định của Nghị định số 144/2025/NĐ-CP ."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id_dieu": "Điều 34",
+                    "tieu_de": "Hiệu lực thi hành",
+                    "noi_dung_chung": "",
+                    "khoan": [
+                        {
+                            "id_khoan": "1",
+                            "noi_dung_khoan": "Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+                            "diem": []
+                        },
+                        {
+                            "id_khoan": "2",
+                            "noi_dung_khoan": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các tổ chức chính trị - xã hội; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, CN (2b). TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Trần Hồng Hà Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Yêu cầu, quy cách của thiết kế FEED từ ngày 04/3/2026 Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 67/2026/NĐ-CP hướng dẫn về thiết kế kỹ thuật tổng thể của dự án đầu tư xây dựng tuyến đường sắt quốc gia, tuyến đường sắt địa phương Lưu trữ Ghi chú Ý kiến Facebook Email In Bài liên quan: Yêu cầu, quy cách của thiết kế FEED từ ngày 04/3/2026 Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Bài liên quan: Yêu cầu, quy cách của thiết kế FEED từ ngày 04/3/2026 Hỏi đáp pháp luật Pháp Luật Thuế Bản án liên quan PHÁP LUẬT DOANH NGHIỆP Nghị định 67/2026/NĐ-CP hướng dẫn về thiết kế kỹ thuật tổng thể của dự án đầu tư xây dựng tuyến đường sắt quốc gia, tuyến đường sắt địa phương MỤC LỤC VĂN BẢN In mục lục In mục lục THE GOVERNMENT OF VIETNAM ------- SOCIALIST REPUBLIC OF VIETNAM Independence – Freedom – Happiness ---------------- No. 67/2026/ND-CP Hanoi, March 04, 2026 DECREE ELABORATING FRONT - END ENGINEERING DESIGN OF INVESTMENT PROJECTS FOR CONSTRUCTION OF NATIONAL RAILWAY, LOCAL RAILWAY",
+                            "diem": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
